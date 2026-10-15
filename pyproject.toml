@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=64"]   # ab 64 editierbare Installation nach PEP 660 (pip install -e .)
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bundestag"
+version = "1.0.0"
+description = "KOM82: Plenarprotokolle der 20. Wahlperiode (Sitzungen 146–212) von PDF bis Auswertung"
+requires-python = ">=3.12"     # getestet mit 3.12.9; für 3.11 fehlt das Wheel von numpy 2.5.4 (requirements.txt, pip-Test 15.10.2026)
+authors = [{ name = "Leopold Weber" }]
+# Getestete Versionen stehen gepinnt in requirements.txt
+dependencies = [
+    "huggingface_hub",
+    "lxml",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "pyarrow",
+    "pydantic",
+    "pymupdf",
+    "requests",
+    "scipy",
+    "torch",
+    "transformers",
+    "urllib3",
+]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[project.scripts]
+bundestag-pipeline = "bundestag.run_all:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["rohdaten: liest data/xml, data/txt oder data/lines (gitignoriert); ohne sie übersprungen (tests/conftest.py)"]

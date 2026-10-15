@@ -1,0 +1,19 @@
+# Direkt importierte Pakete (grep auf import in src/, tools/, tests/, run_all.py), Versionen aus
+# .venv/bin/pip freeze vom 15.10.2026 (Python 3.12.9, macOS arm64). Transitive Pakete löst pip auf.
+# Installation: pip install -r requirements.txt && pip install -e .
+huggingface_hub==2.2.0
+lxml==6.1.3
+matplotlib==3.11.2
+numpy==2.5.4
+pandas==3.0.6
+pdfminer.six==20260107  # nur tools/bench_extract.py (Vergleich der Spaltentrennung), Version vom 22.10.2026
+pdfplumber==0.11.10  # nur tools/bench_extract.py
+pyarrow==26.0.0
+pydantic==2.14.1
+pymupdf==1.28.2
+pytest==9.1.1
+requests==2.34.2
+scipy==1.18.1
+torch==2.14.1
+transformers==5.19.0
+urllib3==2.8.0
