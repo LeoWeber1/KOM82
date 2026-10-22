@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Betriebsverfassungsgesetzes\", \"kurztitel\": \"Betriebsverfassungsgesetz\", \"drucksachen\": [\"20/9469\", \"20/9875\", \"20/11997\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und Soziales (11. Ausschuss) zu dem Antrag der Abgeordneten Susanne Ferschl, Gökay Akbulut, Matthias W. Birkwald, weiterer Abgeordneter und der Gruppe Die Linke Demokratie stärken – Betriebsräte vor mitbestimmungsfeindlichen Arbeitgebern schützen\", \"kurztitel\": null, \"drucksachen\": [\"20/11151\", \"20/11842\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 303,
+ "prompt_eval_count": 1269,
+ "total_duration": 13535200250,
+ "load_duration": 952666,
+ "wand_s": 13.53782904194668,
+ "prompt_zeichen": 3538
+}

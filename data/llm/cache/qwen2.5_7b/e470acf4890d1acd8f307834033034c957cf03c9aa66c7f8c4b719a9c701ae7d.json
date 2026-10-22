@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Neustrukturierung des Bundespolizeigesetzes\", \"kurztitel\": \"Bundespolizeigesetz\", \"drucksachen\": [\"20/10406\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Abgeordneten Steffen Janich, Dr. Gottfried Curio, Martin Hess, weiterer Abgeordneter und der Fraktion der AfD Bundespolizei in Grenzregionen wirksam entlasten\", \"kurztitel\": null, \"drucksachen\": [\"20/10616\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 202,
+ "prompt_eval_count": 1156,
+ "total_duration": 9094781083,
+ "load_duration": 971208,
+ "wand_s": 9.097421374637634,
+ "prompt_zeichen": 3269
+}

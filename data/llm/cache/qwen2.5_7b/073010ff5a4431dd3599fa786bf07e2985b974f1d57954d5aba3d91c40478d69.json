@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Bekämpfung missbräuchlicher Ersteigerungen von Schrottimmobilien (Schrottimmobilien-Missbrauchsbekämpfungsgesetz)\", \"kurztitel\": \"Schrottimmobilien-Missbrauchsbekämpfungsgesetz\", \"drucksachen\": [\"20/11308\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 132,
+ "prompt_eval_count": 1073,
+ "total_duration": 5845605375,
+ "load_duration": 686500,
+ "wand_s": 5.847593334037811,
+ "prompt_zeichen": 3009
+}

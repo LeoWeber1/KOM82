@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Die Energiewende bezahlbar gestalten – Kosten sparen beim Netzausbau\",\n      \"kurztitel\": \"Energiewende\",\n      \"drucksachen\": [\n        \"20/11967\"\n      ],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Klimaschutz und Energie (25. Ausschuss) zu dem Antrag der Fraktion der CDU/CSU Energiespeicher jetzt ausbauen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\n        \"20/8525\",\n        \"20/12006\"\n      ],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 245,
+ "prompt_eval_count": 1101,
+ "total_duration": 5111409708,
+ "load_duration": 708833,
+ "wand_s": 5.113299416843802,
+ "prompt_zeichen": 3043
+}

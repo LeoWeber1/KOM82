@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Menschenunwürdige Zustände in der Prostitution beenden – Sexkauf bestrafen Drucksache 20/10384\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10384\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Überweisungsvorschlag: Ausschuss für Familie, Senioren, Frauen und Jugend (f) Ausschuss für Inneres und Heimat Rechtsausschuss Wirtschaftsausschuss Ausschuss für Arbeit und Soziales Ausschuss für Gesundheit Ausschuss für Menschenrechte und humanitäre Hilfe Ausschuss für Bildung, Forschung und Technikfolgenabschätzung Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\n        \"20/10384\"\n      ],\n      \"typ\": \"sonstiges\",\n      \"beratungsstufe\": \"unbekannt\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 287,
+ "prompt_eval_count": 1128,
+ "total_duration": 5851284708,
+ "load_duration": 752792,
+ "wand_s": 5.853288666345179,
+ "prompt_zeichen": 3214
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"hier: Einzelplan 15 Bundesministerium für Gesundheit\", \"kurztitel\": null, \"drucksachen\": [\"20/8661\", \"20/8662\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 80,
+ "prompt_eval_count": 1062,
+ "total_duration": 3745739125,
+ "load_duration": 597417,
+ "wand_s": 3.7477151663042605,
+ "prompt_zeichen": 2946
+}

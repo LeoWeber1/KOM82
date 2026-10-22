@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Vierten Gesetzes zur Entlastung der Bürgerinnen und Bürger, der Wirtschaft sowie der Verwaltung von Bürokratie (Viertes Bürokratieentlastungsgesetz)\", \"kurztitel\": \"Viertes Bürokratieentlastungsgesetz\", \"drucksachen\": [\"20/11306\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 129,
+ "prompt_eval_count": 1097,
+ "total_duration": 5913612417,
+ "load_duration": 617375,
+ "wand_s": 5.916064292192459,
+ "prompt_zeichen": 3095
+}

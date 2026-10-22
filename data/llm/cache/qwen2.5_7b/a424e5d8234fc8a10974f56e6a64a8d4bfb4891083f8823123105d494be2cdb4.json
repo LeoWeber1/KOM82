@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Berichterstattung haben die Abgeordneten Dennis Rohde, Dr. Thorsten Rudolph, Christian Haase, Andreas Mattfeldt, Markus Uhl, Sven-Christian Kindler, Markus Kurth, Otto Fricke, Karsten Klein, Torsten Herbst, Peter Boehringer, Wolfgang Wiehle, Dr. Gesine Lötzsch und Victor Perli.\", \"kurztitel\": null, \"drucksachen\": [\"20/8660\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 135,
+ "prompt_eval_count": 1093,
+ "total_duration": 6074934042,
+ "load_duration": 654334,
+ "wand_s": 6.077001791913062,
+ "prompt_zeichen": 3089
+}

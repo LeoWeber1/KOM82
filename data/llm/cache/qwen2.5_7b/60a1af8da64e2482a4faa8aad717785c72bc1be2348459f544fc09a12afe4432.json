@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Einzelplan 12 Bundesministerium für Digitales und Verkehr\", \"kurztitel\": null, \"drucksachen\": [\"20/8612\", \"20/8661\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 81,
+ "prompt_eval_count": 1107,
+ "total_duration": 3932663041,
+ "load_duration": 752458,
+ "wand_s": 3.9349089157767594,
+ "prompt_zeichen": 3121
+}

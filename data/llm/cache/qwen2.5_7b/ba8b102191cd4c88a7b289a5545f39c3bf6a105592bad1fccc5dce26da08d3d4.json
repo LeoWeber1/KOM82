@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von den Abgeordneten Thomas Seitz, Dr. Michael Espendiller, Tobias Matthias Peterka, Corinna Miazga und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Auflösung der „Stiftung Forum Recht“ (Forum-Recht-Abwicklungsgesetz)\", \"kurztitel\": \"Forum-Recht-Abwicklungsgesetz\", \"drucksachen\": [\"20/3939\", \"20/5633\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 160,
+ "prompt_eval_count": 1294,
+ "total_duration": 7977502250,
+ "load_duration": 866709,
+ "wand_s": 7.980519291944802,
+ "prompt_zeichen": 3671
+}

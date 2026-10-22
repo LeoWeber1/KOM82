@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Neunten Gesetzes zur Änderung des Gemeindefinanzreformgesetzes\", \"kurztitel\": \"Gemeindefinanzreformgesetz\", \"drucksachen\": [\"20/9872\", \"20/10630\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 125,
+ "prompt_eval_count": 1063,
+ "total_duration": 5539833375,
+ "load_duration": 809167,
+ "wand_s": 5.542013833299279,
+ "prompt_zeichen": 2947
+}

@@ -1,0 +1,1281 @@
+sitzung,seite,zeile,art,parser_wert,gold_wert
+146,88.0,4409.0,rede_fehlt,,Karsten Klein (FDP) Tagesordnungspunkt 5 ID2014614700
+146,104.0,5361.0,rede_fehlt,,Stefan Keuter (AfD) Zusatzpunkt 3 ID2014616400
+146,104.0,5361.0,rede_fehlt,,Maximilian Mordhorst (FDP) Zusatzpunkt 3 ID2014616500
+147,25.0,813.0,rede_zuviel,Lisa Badum (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 7,
+147,26.0,827.0,rede_zuviel,Alexander Dobrindt (CSU) plenarrede Tagesordnungspunkt 7,
+147,32.0,1135.0,rede_zuviel,Dr. Gero Clemens Hocker (FDP) plenarrede Tagesordnungspunkt 7,
+147,32.0,1145.0,rede_zuviel,Steffen Bilger (CDU) plenarrede Tagesordnungspunkt 7,
+147,35.0,1281.0,rede_zuviel,Max Straubinger (CSU) plenarrede Tagesordnungspunkt 7,
+147,35.0,1293.0,rede_zuviel,Ingo Bodtke (FDP) plenarrede Tagesordnungspunkt 7,
+147,173.0,9249.0,rede_zuviel,Michael Kruse (FDP) plenarrede Tagesordnungspunkt 23,
+147,174.0,9285.0,rede_zuviel,Ralph Lenkert (Die Linke) plenarrede Tagesordnungspunkt 23,
+147,174.0,9339.0,rede_zuviel,Alexander Engelhard (CSU) plenarrede Tagesordnungspunkt 33,
+147,175.0,9365.0,rede_zuviel,Sebastian Roloff (SPD) plenarrede Tagesordnungspunkt 33,
+147,176.0,9393.0,rede_zuviel,Dr. Rainer Kraft (AfD) plenarrede Tagesordnungspunkt 33,
+147,176.0,9419.0,rede_zuviel,Dr. Armin Grau (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 33,
+147,178.0,9491.0,rede_zuviel,Dr. Klaus Wiener (CDU) plenarrede Tagesordnungspunkt 33,
+147,178.0,9529.0,rede_zuviel,Judith Skudelny (FDP) plenarrede Tagesordnungspunkt 33,
+147,179.0,9593.0,rede_zuviel,Dr. Jens Brandenburg (FDP) plenarrede Tagesordnungspunkt 21,
+147,180.0,9621.0,rede_zuviel,Gitta Connemann (CDU) plenarrede Tagesordnungspunkt 21,
+147,181.0,9651.0,rede_zuviel,Dr. Lina Seitzl (SPD) plenarrede Tagesordnungspunkt 21,
+147,182.0,9701.0,rede_zuviel,Dr. Götz Frömming (AfD) plenarrede Tagesordnungspunkt 21,
+147,183.0,9749.0,rede_zuviel,Laura Kraft (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 21,
+147,184.0,9803.0,rede_zuviel,Albert Rupprecht (CSU) plenarrede Tagesordnungspunkt 21,
+147,185.0,9853.0,rede_zuviel,Ria Schröder (FDP) plenarrede Tagesordnungspunkt 21,
+147,185.0,9877.0,rede_zuviel,Oliver Kaczmarek (SPD) plenarrede Tagesordnungspunkt 21,
+147,186.0,9939.0,rede_zuviel,Thomas Jarzombek (CDU) plenarrede Zusatzpunkt 11,
+147,187.0,9983.0,rede_zuviel,Dr. Carolin Wagner (SPD) plenarrede Zusatzpunkt 11,
+147,188.0,10033.0,rede_zuviel,Dr. Götz Frömming (AfD) plenarrede Zusatzpunkt 11,
+147,189.0,10079.0,rede_zuviel,Nadine Schön (CDU) plenarrede Zusatzpunkt 11,
+147,190.0,10143.0,rede_zuviel,Marc Bernhard (AfD) plenarrede Tagesordnungspunkt 19,
+147,190.0,10185.0,rede_zuviel,Michael Kruse (FDP) plenarrede Tagesordnungspunkt 19,
+147,191.0,10223.0,rede_zuviel,Ralph Lenkert (Die Linke) plenarrede Tagesordnungspunkt 19,
+147,192.0,10265.0,rede_zuviel,Dr. Malte Kaufmann (AfD) plenarrede Tagesordnungspunkt 24,
+147,193.0,10319.0,rede_zuviel,Manuel Gava (SPD) plenarrede Tagesordnungspunkt 24,
+147,193.0,10369.0,rede_zuviel,Tilman Kuban (CDU) plenarrede Tagesordnungspunkt 24,
+147,194.0,10425.0,rede_zuviel,Kathrin Henneberger (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 24,
+147,195.0,10485.0,rede_zuviel,Reinhard Houben (FDP) plenarrede Tagesordnungspunkt 24,
+147,196.0,10539.0,rede_zuviel,Sven Lehmann (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 25,
+147,196.0,10561.0,rede_zuviel,Ingrid Pahlmann (CDU) plenarrede Tagesordnungspunkt 25,
+147,197.0,10597.0,rede_zuviel,Martin Reichardt (AfD) plenarrede Tagesordnungspunkt 25,
+147,198.0,10659.0,rede_zuviel,Ana-Maria Trăsnea (SPD) plenarrede Tagesordnungspunkt 25,
+147,200.0,10727.0,rede_zuviel,Jürgen Lenders (FDP) plenarrede Tagesordnungspunkt 26,
+147,200.0,10765.0,rede_zuviel,Dr. Marco Buschmann (FDP) plenarrede Tagesordnungspunkt 27,
+147,201.0,10801.0,rede_zuviel,Dr. Jan-Marco Luczak (CDU) plenarrede Tagesordnungspunkt 27,
+147,202.0,10863.0,rede_zuviel,Fabian Jacobi (AfD) plenarrede Tagesordnungspunkt 27,
+147,203.0,10919.0,rede_zuviel,Chantal Kopf (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 28,
+147,204.0,10951.0,rede_zuviel,Uwe Schulz (AfD) plenarrede Tagesordnungspunkt 28,
+147,205.0,11011.0,rede_zuviel,Katja Hessel (FDP) plenarrede Tagesordnungspunkt 29,
+147,173.0,9249.0,beitrag_zuviel,Michael Kruse plenarrede,
+147,174.0,9285.0,beitrag_zuviel,Ralph Lenkert plenarrede,
+147,174.0,9339.0,beitrag_zuviel,Alexander Engelhard plenarrede,
+147,175.0,9365.0,beitrag_zuviel,Sebastian Roloff plenarrede,
+147,176.0,9393.0,beitrag_zuviel,Dr. Rainer Kraft plenarrede,
+147,176.0,9419.0,beitrag_zuviel,Dr. Armin Grau plenarrede,
+147,177.0,9451.0,beitrag_zuviel,Dr. Armin Grau plenarrede,
+147,177.0,9459.0,beitrag_zuviel,Dr. Armin Grau plenarrede,
+147,177.0,9467.0,beitrag_zuviel,Dr. Armin Grau plenarrede,
+147,178.0,9491.0,beitrag_zuviel,Dr. Klaus Wiener plenarrede,
+147,178.0,9529.0,beitrag_zuviel,Judith Skudelny plenarrede,
+147,179.0,9593.0,beitrag_zuviel,Dr. Jens Brandenburg plenarrede,
+147,180.0,9621.0,beitrag_zuviel,Gitta Connemann plenarrede,
+147,181.0,9651.0,beitrag_zuviel,Dr. Lina Seitzl plenarrede,
+147,182.0,9701.0,beitrag_zuviel,Dr. Götz Frömming plenarrede,
+147,182.0,9729.0,beitrag_zuviel,Dr. Götz Frömming plenarrede,
+147,183.0,9737.0,beitrag_zuviel,Dr. Götz Frömming plenarrede,
+147,183.0,9749.0,beitrag_zuviel,Laura Kraft plenarrede,
+147,184.0,9803.0,beitrag_zuviel,Albert Rupprecht plenarrede,
+147,184.0,9819.0,beitrag_zuviel,Albert Rupprecht plenarrede,
+147,184.0,9827.0,beitrag_zuviel,Laura Kraft zwischenfrage,
+147,184.0,9831.0,beitrag_zuviel,Albert Rupprecht plenarrede,
+147,185.0,9853.0,beitrag_zuviel,Ria Schröder plenarrede,
+147,185.0,9877.0,beitrag_zuviel,Oliver Kaczmarek plenarrede,
+147,186.0,9913.0,beitrag_zuviel,Oliver Kaczmarek plenarrede,
+147,186.0,9939.0,beitrag_zuviel,Thomas Jarzombek plenarrede,
+147,187.0,9971.0,beitrag_zuviel,Thomas Jarzombek plenarrede,
+147,187.0,9983.0,beitrag_zuviel,Dr. Carolin Wagner plenarrede,
+147,188.0,10033.0,beitrag_zuviel,Dr. Götz Frömming plenarrede,
+147,188.0,10043.0,beitrag_zuviel,Dr. Götz Frömming plenarrede,
+147,189.0,10065.0,beitrag_zuviel,Dr. Götz Frömming plenarrede,
+147,189.0,10079.0,beitrag_zuviel,Nadine Schön plenarrede,
+147,189.0,10095.0,beitrag_zuviel,Nadine Schön plenarrede,
+147,190.0,10143.0,beitrag_zuviel,Marc Bernhard plenarrede,
+147,190.0,10173.0,beitrag_zuviel,Marc Bernhard plenarrede,
+147,190.0,10185.0,beitrag_zuviel,Michael Kruse plenarrede,
+147,191.0,10223.0,beitrag_zuviel,Ralph Lenkert plenarrede,
+147,191.0,10239.0,beitrag_zuviel,Ralph Lenkert plenarrede,
+147,192.0,10265.0,beitrag_zuviel,Dr. Malte Kaufmann plenarrede,
+147,192.0,10297.0,beitrag_zuviel,Dr. Malte Kaufmann plenarrede,
+147,193.0,10307.0,beitrag_zuviel,Dr. Malte Kaufmann plenarrede,
+147,193.0,10319.0,beitrag_zuviel,Manuel Gava plenarrede,
+147,193.0,10369.0,beitrag_zuviel,Tilman Kuban plenarrede,
+147,194.0,10425.0,beitrag_zuviel,Kathrin Henneberger plenarrede,
+147,195.0,10485.0,beitrag_zuviel,Reinhard Houben plenarrede,
+147,196.0,10539.0,beitrag_zuviel,Sven Lehmann plenarrede,
+147,196.0,10561.0,beitrag_zuviel,Ingrid Pahlmann plenarrede,
+147,197.0,10575.0,beitrag_zuviel,Ingrid Pahlmann plenarrede,
+147,197.0,10583.0,beitrag_zuviel,Ingrid Pahlmann plenarrede,
+147,197.0,10597.0,beitrag_zuviel,Martin Reichardt plenarrede,
+147,198.0,10619.0,beitrag_zuviel,Martin Reichardt plenarrede,
+147,198.0,10629.0,beitrag_zuviel,Martin Reichardt plenarrede,
+147,198.0,10639.0,beitrag_zuviel,Martin Reichardt plenarrede,
+147,198.0,10659.0,beitrag_zuviel,Ana-Maria Trăsnea plenarrede,
+147,200.0,10727.0,beitrag_zuviel,Jürgen Lenders plenarrede,
+147,200.0,10765.0,beitrag_zuviel,Dr. Marco Buschmann plenarrede,
+147,201.0,10801.0,beitrag_zuviel,Dr. Jan-Marco Luczak plenarrede,
+147,202.0,10819.0,beitrag_zuviel,Dr. Jan-Marco Luczak plenarrede,
+147,202.0,10829.0,beitrag_zuviel,Dr. Jan-Marco Luczak plenarrede,
+147,202.0,10837.0,beitrag_zuviel,Dr. Jan-Marco Luczak plenarrede,
+147,202.0,10863.0,beitrag_zuviel,Fabian Jacobi plenarrede,
+147,202.0,10877.0,beitrag_zuviel,Fabian Jacobi plenarrede,
+147,203.0,10919.0,beitrag_zuviel,Chantal Kopf plenarrede,
+147,204.0,10951.0,beitrag_zuviel,Uwe Schulz plenarrede,
+147,205.0,11011.0,beitrag_zuviel,Katja Hessel plenarrede,
+147,85.0,4169.0,drucksache_fehlt,,20/9773 (Tagesordnungspunkt 36)
+147,87.0,4267.0,titel_abweichung,Wahl eines Stellvertreters der Präsidentin,Wahlvorschlag der Fraktion der AfD Wahl eines Stellvertreters der Präsidentin
+147,87.0,4267.0,titel_abweichung,Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes,Wahlvorschlag der Fraktion der AfD Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes
+148,23.0,923.0,rede_fehlt,,Frank Bsirske (BÜNDNIS 90/DIE GRÜNEN) Tagesordnungspunkt 31 ID2014802300
+148,23.0,923.0,rede_fehlt,,Norbert Kleinwächter (AfD) Tagesordnungspunkt 31 ID2014802400
+148,58.0,3217.0,rede_fehlt,,Bettina Hagedorn (SPD) Zusatzpunkt 12 ID2014805300
+148,58.0,3217.0,rede_fehlt,,Henning Otte (CDU/CSU) Zusatzpunkt 12 ID2014805400
+148,74.0,4365.0,rede_fehlt,,Peter Boehringer (AfD) Tagesordnungspunkt 34 ID2014806700
+148,74.0,4365.0,rede_fehlt,,Christoph Ploß (CDU/CSU) Tagesordnungspunkt 34 ID2014806800
+149,41.0,1961.0,rede_zuviel,Dr. Till Steffen (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt I,
+149,46.0,2233.0,rede_zuviel,Bruno Hönel (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt I,
+149,46.0,2249.0,rede_zuviel,Dr. Hermann-Josef Tebroke (CDU) plenarrede Tagesordnungspunkt I,
+150,58.0,2777.0,rede_fehlt,,Wiebke Papenbrock (SPD) Einzelplan 05 ID2015003500
+150,71.0,3579.0,rede_fehlt,,Boris Mijatović (BÜNDNIS 90/DIE GRÜNEN) Einzelplan 05 ID2015004300
+150,121.0,6205.0,rede_fehlt,,Stefan Keuter (AfD) Einzelplan 23 ID2015009000
+150,121.0,6205.0,rede_fehlt,,Sanae Abdi (SPD) Einzelplan 23 ID2015009100
+150,70.0,3525.0,rede_zuviel,Jürgen Hardt (CDU) plenarrede Tagesordnungspunkt I,
+150,70.0,3529.0,rede_zuviel,Dr. Nils Schmid (SPD) plenarrede Tagesordnungspunkt I,
+150,83.0,4213.0,drucksache_fehlt,,20/7800 (Tagesordnungspunkt I)
+150,83.0,4213.0,drucksache_fehlt,,20/7802 (Tagesordnungspunkt I)
+150,83.0,4213.0,drucksache_fehlt,,20/7801 (Tagesordnungspunkt I)
+150,83.0,4213.0,drucksache_fehlt,,20/8664 (Tagesordnungspunkt I)
+151,66.0,3167.0,rede_fehlt,,René Bochmann (AfD) Einzelplan 07 ID2015105500
+151,66.0,3167.0,rede_fehlt,,Marco Buschmann (nan) Einzelplan 07 ID2015105600
+151,70.0,3407.0,rede_fehlt,,Harald Weyel (AfD) Einzelplan 07 ID2015106000
+151,70.0,3407.0,rede_fehlt,,Awet Tesfaiesus (BÜNDNIS 90/DIE GRÜNEN) Einzelplan 07 ID2015106100
+151,24.0,947.0,rede_zuviel,Thomas Heilmann (CDU) plenarrede Tagesordnungspunkt I,
+151,24.0,957.0,rede_zuviel,Dr. Nina Scheer (SPD) plenarrede Tagesordnungspunkt I,
+151,28.0,1187.0,rede_zuviel,Felix Banaszak (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt I,
+151,28.0,1201.0,rede_zuviel,Christian Leye (BSW) plenarrede Tagesordnungspunkt I,
+151,79.0,3907.0,drucksache_fehlt,,20/10104 (Tagesordnungspunkt VI)
+151,79.0,3907.0,drucksache_fehlt,,20/10105 (Tagesordnungspunkt VI)
+151,79.0,3907.0,drucksache_fehlt,,20/10106 (Tagesordnungspunkt VI)
+151,79.0,3907.0,drucksache_fehlt,,20/10107 (Tagesordnungspunkt VI)
+151,79.0,3907.0,drucksache_fehlt,,20/10108 (Tagesordnungspunkt VI)
+151,79.0,3907.0,drucksache_fehlt,,20/10109 (Tagesordnungspunkt VI)
+151,79.0,3907.0,drucksache_fehlt,,20/10110 (Tagesordnungspunkt VI)
+152,37.0,1945.0,rede_fehlt,,Gregor Gysi (fraktionslos) Zusatzpunkt 2 bis 4 ID2015203100
+152,37.0,1945.0,rede_fehlt,,Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN) Zusatzpunkt 2 bis 4 ID2015203200
+152,5.0,31.0,drucksache_fehlt,,20/7801 (Tagesordnungspunkt I)
+152,5.0,31.0,drucksache_fehlt,,20/8664 (Tagesordnungspunkt I)
+154,57.0,2305.0,rede_fehlt,,Thomas Erndl (CDU/CSU) Tagesordnungspunkt 8 ID2015403800
+154,57.0,2305.0,rede_fehlt,,Agnieszka Brugger (BÜNDNIS 90/DIE GRÜNEN) Tagesordnungspunkt 8 ID2015403900
+154,89.0,4703.0,rede_fehlt,,Stephan Protschka (AfD) Tagesordnungspunkt 5 und 6 ID2015406300
+154,89.0,4703.0,rede_fehlt,,Hans-Jürgen Thies (CDU/CSU) Tagesordnungspunkt 5 und 6 ID2015406400
+154,16.0,209.0,rede_zuviel,Lisa Badum (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 2,
+154,16.0,229.0,rede_zuviel,Alexander Dobrindt (CSU) plenarrede Zusatzpunkt 2,
+154,23.0,577.0,rede_zuviel,Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 2,
+154,23.0,597.0,rede_zuviel,Jens Spahn (CDU) plenarrede Zusatzpunkt 2,
+154,24.0,637.0,rede_zuviel,Dr. Gesine Lötzsch (Die Linke) plenarrede Zusatzpunkt 2,
+154,25.0,653.0,rede_zuviel,Jens Spahn (CDU) plenarrede Zusatzpunkt 2,
+154,26.0,709.0,rede_zuviel,Christian Dürr (FDP) plenarrede Zusatzpunkt 2,
+154,26.0,729.0,rede_zuviel,Jens Spahn (CDU) plenarrede Zusatzpunkt 2,
+154,33.0,1105.0,rede_zuviel,Julia Klöckner (CDU) plenarrede Zusatzpunkt 2,
+154,33.0,1115.0,rede_zuviel,Sebastian Roloff (SPD) plenarrede Zusatzpunkt 2,
+154,,,zeit_abweichung,schluss 23:48,schluss 23:49
+154,100.0,5309.0,drucksache_fehlt,,20/10225 (Tagesordnungspunkt 34)
+154,100.0,5309.0,drucksache_fehlt,,20/10226 (Tagesordnungspunkt 34)
+154,77.0,3729.0,titel_abweichung,"Beratung des Antrags der Abgeordneten Bernd Schattner, Stephan Protschka, Peter Felser, weiterer Abgeordneter und der Fraktion der AfD 1) Anlage 4 bis 6 2) Erge","Beratung des Antrags der Abgeordneten Bernd Schattner, Stephan Protschka, Peter Felser, weiterer Abgeordneter und der Fraktion der AfD Stilllegungsflächen für d"
+154,101.0,5419.0,titel_abweichung,Wahl eines Mitglieds des Kuratoriums der „Bundesstiftung Magnus Hirschfeld“,Wahlvorschlag der Fraktion der CDU/CSU Wahl eines Mitglieds des Kuratoriums der „Bundesstiftung Magnus Hirschfeld“
+154,101.0,5419.0,titel_abweichung,Wahl findet mittels Handzeichen statt. Der Wahlvorschlag der Fraktion der CDU/CSU liegt auf,Wahlvorschlag der Fraktion der CDU/CSU Wahl eines Mitglieds des Kuratoriums der „Bundesstiftung Magnus Hirschfeld“
+154,101.0,5429.0,titel_abweichung,Wahl eines Stellvertreters der Präsidentin,Wahlvorschlag der Fraktion der AfD Wahl eines Stellvertreters der Präsidentin
+154,101.0,5429.0,titel_abweichung,Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes,Wahlvorschlag der Fraktion der AfD Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes
+154,101.0,5429.0,titel_abweichung,Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes,Wahlvorschlag der Fraktion der CDU/CSU Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes
+154,155.0,8291.0,titel_abweichung,Beratung des Antrags der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA,Beratung des Antrags der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA
+154,183.0,9779.0,titel_abweichung,Beratung des Antrags der Fraktion der CDU/CSU 1) Anlage 12 Für transparente Verhandlungen über das WHO-Pandemieabkommen – Gegen Fehlinformationen und Verschwöru,Beratung des Antrags der Fraktion der CDU/CSU Für transparente Verhandlungen über das WHO-Pandemieabkommen – Gegen Fehlinformationen und Verschwörungstheorien
+155,70.0,3425.0,rede_fehlt,,Christina Baum (AfD) Zusatzpunkt 20 ID2015505900
+155,11.0,333.0,drucksache_fehlt,,20/10400 (Tagesordnungspunkt 6)
+155,11.0,333.0,titel_abweichung,"Beratung des Antrags der Fraktionen SPD, CDU/CSU, BÜNDNIS 90/DIE GRÜNEN und FDP 1) Ergebnis Seite 19857 A Verlängerung der Arbeit der Enquete-Kommission „Lehren","Beratung des Antrags der Fraktionen SPD, CDU/CSU, BÜNDNIS 90/DIE GRÜNEN und FDP Verlängerung der Arbeit der Enquete-Kommission „Lehren aus Afghanistan für das k"
+157,88.0,4597.0,rede_fehlt,,Steffen Kotré (AfD) Zusatzpunkt 9 ID2015707400
+157,81.0,4107.0,drucksache_fehlt,,20/10439 (Tagesordnungspunkt 27)
+157,81.0,4107.0,drucksache_fehlt,,20/10446 (Tagesordnungspunkt 27)
+157,86.0,4489.0,titel_abweichung,Wahl eines Polizeibeauftragten des Bundes,"Wahlvorschlag der Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP Wahl eines Polizeibeauftragten des Bundes"
+157,86.0,4489.0,titel_abweichung,Wahl von Mitgliedern des Vertrauensgremiums gemäß § 10a Absatz 2 der Bundeshaushaltsordnung,) Wahlvorschlag der Fraktion der CDU/CSU Wahl von Mitgliedern des Vertrauensgremiums gemäß § 10a Absatz 2 der Bundeshaushaltsordnung
+157,86.0,4489.0,titel_abweichung,Wahl eines Mitglieds des Gremiums gemäß § 3 des Bundesschuldenwesengesetzes,Wahlvorschlag der Fraktion der CDU/CSU Wahl eines Mitglieds des Gremiums gemäß § 3 des Bundesschuldenwesengesetzes
+157,86.0,4489.0,titel_abweichung,Wahl eines Mitglieds des Gremiums gemäß § 5 Absatz 4 des Bundeswehrfinanzierungs- und sondervermögensgesetzes,Wahlvorschlag der Fraktion der CDU/CSU Wahl eines Mitglieds des Gremiums gemäß § 5 Absatz 4 des Bundeswehrfinanzierungs- und sondervermögensgesetzes
+158,21.0,969.0,rede_zuviel,Dorothee Bär (CSU) plenarrede Tagesordnungspunkt 22,
+158,21.0,977.0,rede_zuviel,Carmen Wegge (SPD) plenarrede Tagesordnungspunkt 22,
+159,13.0,159.0,rede_fehlt,,Uli Grötsch (nan) Tagesordnungspunkt 1 ID2015900100
+159,13.0,159.0,beitrag_fehlt,,Uli Grötsch Rede Tagesordnungspunkt 1
+159,13.0,159.0,beitrag_fehlt,,Uli Grötsch Rede Tagesordnungspunkt 1
+160,36.0,1567.0,rede_zuviel,Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 4,
+160,36.0,1575.0,rede_zuviel,Andrea Lindholz (CSU) plenarrede Zusatzpunkt 4,
+160,66.0,3109.0,drucksache_fehlt,,20/7141 (Tagesordnungspunkt 9)
+160,66.0,3109.0,drucksache_fehlt,,20/9192 (Tagesordnungspunkt 9)
+160,85.0,4139.0,drucksache_fehlt,,20/10633 (Tagesordnungspunkt 31)
+160,89.0,4451.0,drucksache_fehlt,,20/10464 (Tagesordnungspunkt 10)
+160,89.0,4451.0,titel_abweichung,Wahl von Mitgliedern des Gremiums gemäß § 28a des Geldwäschegesetzes,Wahlvorschlag der Fraktion der SPD Wahl von Mitgliedern des Gremiums gemäß § 28a des Geldwäschegesetzes
+161,58.0,2727.0,rede_fehlt,,Ulrike Schielke-Ziesing (AfD) Zusatzpunkt 10 ID2016105700
+161,58.0,2727.0,rede_fehlt,,Max Straubinger (CDU/CSU) Zusatzpunkt 10 ID2016105800
+161,5.0,123.0,rede_zuviel,Dr. Martin Rosemann (SPD) plenarrede Zusatzpunkt 9,
+161,5.0,133.0,rede_zuviel,Axel Knoerig (CDU) plenarrede Zusatzpunkt 9,
+163,24.0,829.0,rede_zuviel,Dr. Marie-Agnes Strack-Zimmermann (FDP) plenarrede Tagesordnungspunkt 8,
+163,24.0,841.0,rede_zuviel,Thomas Jarzombek (CDU) plenarrede Tagesordnungspunkt 8,
+163,30.0,1165.0,rede_zuviel,Julia Klöckner (CDU) plenarrede Zusatzpunkt 21,
+163,30.0,1179.0,rede_zuviel,Reinhard Houben (FDP) plenarrede Zusatzpunkt 21,
+163,143.0,7235.0,partei_abweichung,Dirk-Ulrich Mende: SPD,CDU (CDU/CSU) id=11005304
+163,80.0,3921.0,drucksache_fehlt,,20/10761 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10762 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10763 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10764 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10765 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10766 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10767 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10768 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10769 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10770 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10771 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10772 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10773 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10774 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10775 (Tagesordnungspunkt 24)
+163,80.0,3921.0,drucksache_fehlt,,20/10776 (Tagesordnungspunkt 24)
+163,60.0,2729.0,titel_abweichung,"Beratung des Antrags der Abgeordneten Norbert Kleinwächter, Albrecht Glaser, Kay Gottschalk, weiterer Abgeordneter und der Fraktion der AfD 22 Jahre Euro-Bargel",Jahre Euro-Bargeld in Deutschland – Jetzt eine ehrliche Bilanz der Versprechen ziehen
+164,67.0,3115.0,rede_fehlt,,Sven Lehmann (nan) Zusatzpunkt 14 ID2016405700
+164,73.0,3465.0,rede_fehlt,,Beatrix von Storch (AfD) Zusatzpunkt 14 ID2016406300
+164,73.0,3465.0,rede_fehlt,,Hakan Demir (SPD) Zusatzpunkt 14 ID2016406400
+164,24.0,881.0,rede_zuviel,Dr. Martin Rosemann (SPD) plenarrede Zusatzpunkt 6,
+164,24.0,897.0,rede_zuviel,Kai Whittaker (CDU) plenarrede Zusatzpunkt 6,
+164,67.0,3115.0,beitrag_fehlt,,Sven Lehmann Rede Zusatzpunkt 14
+164,,,drucksache_fehlt,,20/10975 (Zusatzpunkt 16)
+165,98.0,4665.0,rede_fehlt,,Herbert Wollmann (SPD) Zusatzpunkt 2 ID2016515100
+165,89.0,4103.0,partei_abweichung,Dirk-Ulrich Mende: SPD,CDU (CDU/CSU) id=11005304
+166,69.0,2937.0,drucksache_fehlt,,20/11014 (Tagesordnungspunkt 27)
+166,69.0,2937.0,drucksache_fehlt,,20/11015 (Tagesordnungspunkt 27)
+166,69.0,2937.0,drucksache_fehlt,,20/11016 (Tagesordnungspunkt 27)
+166,,,drucksache_fehlt,,20/10989 (Tagesordnungspunkt 12)
+166,71.0,3051.0,titel_abweichung,Wahl eines Stellvertreters der Präsidentin,Wahlvorschlag der Fraktion der AfD Wahl eines Stellvertreters der Präsidentin
+166,71.0,3051.0,titel_abweichung,Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes,Wahlvorschlag der Fraktion der AfD Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes
+167,,3097.0,rede_fehlt,,Karsten Hilse (AfD) Zusatzpunkt 12 ID2016704100
+167,,3097.0,rede_fehlt,,Katrin Zschau (SPD) Zusatzpunkt 12 ID2016704200
+167,,4569.0,rede_fehlt,,René Bochmann (AfD) Tagesordnungspunkt 23 ID2016706100
+167,,4569.0,rede_fehlt,,Erik von Malottki (SPD) Tagesordnungspunkt 23 ID2016706200
+167,,5175.0,rede_fehlt,,Marc Bernhard (AfD) Tagesordnungspunkt 25 ID2016707500
+167,,5175.0,rede_fehlt,,Konrad Stockmeier (FDP) Tagesordnungspunkt 25 ID2016707600
+167,8.0,153.0,rede_zuviel,Michael Donth (CDU) plenarrede Tagesordnungspunkt 21,
+167,8.0,159.0,rede_zuviel,Dr. Nina Scheer (SPD) plenarrede Tagesordnungspunkt 21,
+167,9.0,227.0,rede_zuviel,Dr. Andreas Lenz (CSU) plenarrede Tagesordnungspunkt 21,
+167,9.0,265.0,rede_zuviel,Dr. Nina Scheer (SPD) plenarrede Tagesordnungspunkt 21,
+167,,2407.0,rede_zuviel,Wolfgang Kubicki (FDP) plenarrede Zusatzpunkt 12,
+167,,2413.0,rede_zuviel,Andreas Jung (CDU) plenarrede Zusatzpunkt 12,
+167,,2417.0,rede_zuviel,Wolfgang Kubicki (FDP) plenarrede Zusatzpunkt 12,
+167,,2431.0,rede_zuviel,Andreas Jung (CDU) plenarrede Zusatzpunkt 12,
+169,141.0,7035.0,rede_fehlt,,Christoph Ploß (CDU/CSU) Tagesordnungspunkt 26 ID2016911700
+169,,,drucksache_fehlt,,20/11390 (Tagesordnungspunkt 31)
+169,,,drucksache_fehlt,,20/11391 (Tagesordnungspunkt 31)
+169,,,drucksache_fehlt,,20/11392 (Tagesordnungspunkt 31)
+169,,,drucksache_fehlt,,20/11394 (Tagesordnungspunkt 31)
+169,,,drucksache_fehlt,,20/11374 (Tagesordnungspunkt 31)
+169,,,drucksache_fehlt,,20/11395 (Tagesordnungspunkt 31)
+169,85.0,3861.0,drucksache_fehlt,,20/11168 (Tagesordnungspunkt 32)
+169,85.0,3861.0,drucksache_fehlt,,20/11169 (Tagesordnungspunkt 32)
+169,85.0,3861.0,drucksache_fehlt,,20/11170 (Tagesordnungspunkt 32)
+169,85.0,3861.0,drucksache_fehlt,,20/11171 (Tagesordnungspunkt 32)
+169,85.0,3861.0,drucksache_fehlt,,20/11172 (Tagesordnungspunkt 32)
+169,85.0,3861.0,drucksache_fehlt,,20/11173 (Tagesordnungspunkt 32)
+169,85.0,3861.0,drucksache_fehlt,,20/11174 (Tagesordnungspunkt 32)
+169,85.0,3861.0,drucksache_fehlt,,20/11423 (Tagesordnungspunkt 32)
+169,27.0,811.0,titel_abweichung,Beratung des Antrags der Fraktion der CDU/CSU 75 Jahre Grundgesetz – Unsere parlamentarische Demokratie bewahren und sicher für die Zukunft aufstellen,Jahre Grundgesetz – Unsere parlamentarische Demokratie bewahren und sicher für die Zukunft aufstellen
+169,83.0,3729.0,titel_abweichung,Wahl des Bundeskanzlers in § 4 Satz 2 und zum Misstrauensantrag gegen den Bundeskanzler in § 97 Absatz 1 Satz 2,"Beratung des Antrags der Abgeordneten Stephan Brandner, Carolin Bachmann, Marc Bernhard, weiterer Abgeordneter und der Fraktion der AfD Änderung der Geschäftsor"
+169,108.0,5473.0,titel_abweichung,Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Menschenrechte und humanitäre Hilfe (17. Ausschuss) zu der Unterrichtung durch die Bundesr,. Bericht der Bundesregierung über ihre Menschenrechtspolitik
+169,133.0,6649.0,titel_abweichung,"Beratung der Beschlussempfehlung des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung auf","Beratung der Beschlussempfehlungen des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung (1. Ausschuss) – Antrag auf Genehmigung zur Durchführung eine"
+172,94.0,5029.0,rede_fehlt,,Carolin Bachmann (AfD) Zusatzpunkt 3 und 4 ID2017206800
+172,94.0,5029.0,rede_fehlt,,Stefan Schmidt (BÜNDNIS 90/DIE GRÜNEN) Zusatzpunkt 3 und 4 ID2017206900
+172,180.0,10081.0,rede_fehlt,,Dietrich Monstadt (CDU/CSU) Tagesordnungspunkt 19 ID2017215200
+172,89.0,4689.0,partei_abweichung,Dirk-Ulrich Mende: SPD,CDU (CDU/CSU) id=11005304
+172,102.0,5973.0,drucksache_fehlt,,20/11437 (Tagesordnungspunkt 29)
+172,,,drucksache_fehlt,,"20/11641 (Tagesordnungspunkt 10, 11, ZP 10)"
+172,,,drucksache_fehlt,,"20/11642 (Tagesordnungspunkt 10, 11, ZP 10)"
+172,,,drucksache_fehlt,,"20/11206 (Tagesordnungspunkt 10, 11, ZP 10)"
+172,,,drucksache_fehlt,,"20/11207 (Tagesordnungspunkt 10, 11, ZP 10)"
+172,104.0,6119.0,titel_abweichung,Wahl der vom Deutschen Bundestag zu benennenden Mitglieder des Deutschen Ethikrats gemäß den §§ 4 und 5 des Ethikratgesetzes,"Wahlvorschläge der Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP Wahl der vom Deutschen Bundestag zu benennenden Mitglieder des Deutschen Ethikrats gemäß den §§"
+173,29.0,1233.0,rede_fehlt,,Sandra Detzer (BÜNDNIS 90/DIE GRÜNEN) Zusatzpunkt 7 ID2017302500
+174,,2687.0,rede_fehlt,,Sven Lehmann (nan) Tagesordnungspunkt 3 ID2017413300
+174,,3249.0,rede_fehlt,,Thomas Seitz (fraktionslos) Tagesordnungspunkt 3 ID2017414400
+174,,2757.0,beitrag_fehlt,,Sven Lehmann Rede Tagesordnungspunkt 3
+175,17.0,499.0,rede_zuviel,Katrin Staffler (CSU) plenarrede Tagesordnungspunkt 7,
+175,18.0,531.0,rede_zuviel,Dr. Lina Seitzl (SPD) plenarrede Tagesordnungspunkt 7,
+175,172.0,9537.0,rede_zuviel,Alexander Müller (FDP) plenarrede Tagesordnungspunkt 16,
+175,173.0,9581.0,rede_zuviel,Thomas Erndl (CSU) plenarrede Tagesordnungspunkt 16,
+175,174.0,9607.0,rede_zuviel,Nicole Gohlke (Die Linke) plenarrede Tagesordnungspunkt 16,
+175,175.0,9651.0,rede_zuviel,Hansjörg Durz (CSU) plenarrede Tagesordnungspunkt 15,
+175,176.0,9691.0,rede_zuviel,Dr. Carolin Wagner (SPD) plenarrede Tagesordnungspunkt 15,
+175,176.0,9719.0,rede_zuviel,Eugen Schmidt (AfD) plenarrede Tagesordnungspunkt 15,
+175,177.0,9745.0,rede_zuviel,Tabea Rößner (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 15,
+175,178.0,9795.0,rede_zuviel,Maximilian Funke-Kaiser (FDP) plenarrede Tagesordnungspunkt 15,
+175,178.0,9835.0,rede_zuviel,Anke Domscheit-Berg (Die Linke) plenarrede Tagesordnungspunkt 15,
+175,179.0,9859.0,rede_zuviel,Johannes Schätzl (SPD) plenarrede Tagesordnungspunkt 15,
+175,180.0,9909.0,rede_zuviel,Jens Lehmann (CDU) plenarrede Tagesordnungspunkt 17,
+175,181.0,9945.0,rede_zuviel,Dr. Joe Weingarten (SPD) plenarrede Tagesordnungspunkt 17,
+175,182.0,10021.0,rede_zuviel,Rüdiger Lucassen (AfD) plenarrede Tagesordnungspunkt 17,
+175,183.0,10039.0,rede_zuviel,Niklas Wagener (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 17,
+175,183.0,10065.0,rede_zuviel,Alexander Müller (FDP) plenarrede Tagesordnungspunkt 17,
+175,184.0,10129.0,rede_zuviel,Kerstin Vieregge (CDU) plenarrede Tagesordnungspunkt 17,
+175,172.0,9537.0,beitrag_zuviel,Alexander Müller plenarrede,
+175,173.0,9581.0,beitrag_zuviel,Thomas Erndl plenarrede,
+175,174.0,9607.0,beitrag_zuviel,Nicole Gohlke plenarrede,
+175,175.0,9651.0,beitrag_zuviel,Hansjörg Durz plenarrede,
+175,176.0,9691.0,beitrag_zuviel,Dr. Carolin Wagner plenarrede,
+175,176.0,9719.0,beitrag_zuviel,Eugen Schmidt plenarrede,
+175,177.0,9745.0,beitrag_zuviel,Tabea Rößner plenarrede,
+175,178.0,9781.0,beitrag_zuviel,Tabea Rößner plenarrede,
+175,178.0,9795.0,beitrag_zuviel,Maximilian Funke-Kaiser plenarrede,
+175,178.0,9835.0,beitrag_zuviel,Anke Domscheit-Berg plenarrede,
+175,179.0,9859.0,beitrag_zuviel,Johannes Schätzl plenarrede,
+175,180.0,9909.0,beitrag_zuviel,Jens Lehmann plenarrede,
+175,181.0,9945.0,beitrag_zuviel,Dr. Joe Weingarten plenarrede,
+175,182.0,10021.0,beitrag_zuviel,Rüdiger Lucassen plenarrede,
+175,183.0,10039.0,beitrag_zuviel,Niklas Wagener plenarrede,
+175,183.0,10065.0,beitrag_zuviel,Alexander Müller plenarrede,
+175,184.0,10129.0,beitrag_zuviel,Kerstin Vieregge plenarrede,
+175,185.0,10163.0,beitrag_zuviel,Kerstin Vieregge plenarrede,
+175,82.0,4195.0,drucksache_fehlt,,20/11300 (Tagesordnungspunkt 26)
+175,82.0,4195.0,drucksache_fehlt,,20/11688 (Tagesordnungspunkt 26)
+175,82.0,4195.0,drucksache_fehlt,,20/11695 (Tagesordnungspunkt 26)
+175,82.0,4195.0,drucksache_fehlt,,20/11702 (Tagesordnungspunkt 26)
+176,41.0,1823.0,rede_fehlt,,Rainer Kraft (AfD) Tagesordnungspunkt 8 ID2017603600
+176,41.0,1823.0,rede_fehlt,,Markus Hümpfer (SPD) Tagesordnungspunkt 8 ID2017603700
+177,110.0,5129.0,rede_fehlt,,Beate Müller-Gemmeke (BÜNDNIS 90/DIE GRÜNEN) Tagesordnungspunkt 6 ID2017718400
+177,88.0,4077.0,titel_abweichung,Beratung der Unterrichtung durch den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit 32. Tätigkeitsbericht für den Datenschutz und die Infor,. Tätigkeitsbericht für den Datenschutz und die Informationsfreiheit (Tätigkeitsbericht für das Jahr 2023)
+178,76.0,3539.0,rede_fehlt,,René Bochmann (AfD) Tagesordnungspunkt 10 ID2017805300
+178,76.0,3539.0,rede_fehlt,,Schahina Gambir (BÜNDNIS 90/DIE GRÜNEN) Tagesordnungspunkt 10 ID2017805400
+178,176.0,9719.0,rede_zuviel,Thomas Hacker (FDP) plenarrede Tagesordnungspunkt 17,
+178,177.0,9779.0,rede_zuviel,Dr. Christiane Schenderlein (CDU) plenarrede Tagesordnungspunkt 17,
+178,178.0,9803.0,rede_zuviel,Takis Mehmet Ali (SPD) plenarrede Tagesordnungspunkt 17,
+178,179.0,9859.0,rede_zuviel,Heidi Reichinnek (Die Linke) plenarrede Tagesordnungspunkt 18,
+178,180.0,9899.0,rede_zuviel,Kathrin Michel (SPD) plenarrede Tagesordnungspunkt 18,
+178,180.0,9939.0,rede_zuviel,Max Straubinger (CSU) plenarrede Tagesordnungspunkt 18,
+178,181.0,9999.0,rede_zuviel,Markus Kurth (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 18,
+178,182.0,10027.0,rede_zuviel,Ulrike Schielke-Ziesing (AfD) plenarrede Tagesordnungspunkt 18,
+178,183.0,10059.0,rede_zuviel,Anja Schulz (FDP) plenarrede Tagesordnungspunkt 18,
+178,184.0,10127.0,rede_zuviel,Mario Brandenburg (FDP) plenarrede Tagesordnungspunkt 21,
+178,185.0,10169.0,rede_zuviel,Dr. Ingeborg Gräßle (CDU) plenarrede Tagesordnungspunkt 21,
+178,185.0,10195.0,rede_zuviel,Holger Mann (SPD) plenarrede Tagesordnungspunkt 21,
+178,186.0,10237.0,rede_zuviel,Dr. Michael Kaufmann (AfD) plenarrede Tagesordnungspunkt 21,
+178,187.0,10265.0,rede_zuviel,Dr. Anna Christmann (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 21,
+178,188.0,10319.0,rede_zuviel,Dr. Petra Sitte (Die Linke) plenarrede Tagesordnungspunkt 21,
+178,189.0,10381.0,rede_zuviel,Dr. Reinhard Brandl (CSU) plenarrede Zusatzpunkt 4,
+178,189.0,10411.0,rede_zuviel,Dr. Jens Zimmermann (SPD) plenarrede Zusatzpunkt 4,
+178,190.0,10451.0,rede_zuviel,Eugen Schmidt (AfD) plenarrede Zusatzpunkt 4,
+178,191.0,10489.0,rede_zuviel,Maximilian Funke-Kaiser (FDP) plenarrede Zusatzpunkt 4,
+178,192.0,10537.0,rede_zuviel,Ronja Kemmer (CDU) plenarrede Zusatzpunkt 4,
+178,193.0,10597.0,rede_zuviel,Sebastian Fiedler (SPD) plenarrede Zusatzpunkt 5,
+178,194.0,10629.0,rede_zuviel,Tobias Matthias Peterka (AfD) plenarrede Zusatzpunkt 5,
+178,195.0,10679.0,rede_zuviel,Bernhard Herrmann (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 22,
+178,195.0,10713.0,rede_zuviel,Astrid Damerow (CDU) plenarrede Tagesordnungspunkt 22,
+178,196.0,10745.0,rede_zuviel,Andreas Bleck (AfD) plenarrede Tagesordnungspunkt 22,
+178,197.0,10767.0,rede_zuviel,Jürgen Kretz (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 22,
+178,197.0,10815.0,rede_zuviel,Christian Schreider (SPD) plenarrede Tagesordnungspunkt 23,
+178,198.0,10851.0,rede_zuviel,Wolfgang Wiehle (AfD) plenarrede Tagesordnungspunkt 23,
+178,199.0,10911.0,rede_zuviel,Dr. Marco Buschmann (FDP) plenarrede Tagesordnungspunkt 24,
+178,200.0,10947.0,rede_zuviel,Fabian Jacobi (AfD) plenarrede Tagesordnungspunkt 24,
+178,201.0,10999.0,rede_zuviel,Dr. Marco Buschmann (FDP) plenarrede Tagesordnungspunkt 25,
+178,202.0,11039.0,rede_zuviel,Fabian Jacobi (AfD) plenarrede Tagesordnungspunkt 25,
+178,202.0,11059.0,rede_zuviel,Susanne Hierl (CSU) plenarrede Tagesordnungspunkt 25,
+178,176.0,9719.0,beitrag_zuviel,Thomas Hacker plenarrede,
+178,177.0,9755.0,beitrag_zuviel,Thomas Hacker plenarrede,
+178,177.0,9763.0,beitrag_zuviel,Thomas Hacker plenarrede,
+178,177.0,9779.0,beitrag_zuviel,Dr. Christiane Schenderlein plenarrede,
+178,178.0,9803.0,beitrag_zuviel,Takis Mehmet Ali plenarrede,
+178,179.0,9859.0,beitrag_zuviel,Heidi Reichinnek plenarrede,
+178,179.0,9885.0,beitrag_zuviel,Heidi Reichinnek plenarrede,
+178,180.0,9899.0,beitrag_zuviel,Kathrin Michel plenarrede,
+178,180.0,9939.0,beitrag_zuviel,Max Straubinger plenarrede,
+178,181.0,9959.0,beitrag_zuviel,Max Straubinger plenarrede,
+178,181.0,9965.0,beitrag_zuviel,Matthias W. Birkwald zwischenfrage,
+178,181.0,9979.0,beitrag_zuviel,Max Straubinger plenarrede,
+178,181.0,9999.0,beitrag_zuviel,Markus Kurth plenarrede,
+178,182.0,10027.0,beitrag_zuviel,Ulrike Schielke-Ziesing plenarrede,
+178,183.0,10059.0,beitrag_zuviel,Anja Schulz plenarrede,
+178,184.0,10127.0,beitrag_zuviel,Mario Brandenburg plenarrede,
+178,185.0,10169.0,beitrag_zuviel,Dr. Ingeborg Gräßle plenarrede,
+178,185.0,10195.0,beitrag_zuviel,Holger Mann plenarrede,
+178,186.0,10237.0,beitrag_zuviel,Dr. Michael Kaufmann plenarrede,
+178,187.0,10251.0,beitrag_zuviel,Dr. Michael Kaufmann plenarrede,
+178,187.0,10265.0,beitrag_zuviel,Dr. Anna Christmann plenarrede,
+178,188.0,10305.0,beitrag_zuviel,Dr. Anna Christmann plenarrede,
+178,188.0,10319.0,beitrag_zuviel,Dr. Petra Sitte plenarrede,
+178,188.0,10341.0,beitrag_zuviel,Dr. Petra Sitte plenarrede,
+178,189.0,10381.0,beitrag_zuviel,Dr. Reinhard Brandl plenarrede,
+178,189.0,10397.0,beitrag_zuviel,Dr. Reinhard Brandl plenarrede,
+178,189.0,10411.0,beitrag_zuviel,Dr. Jens Zimmermann plenarrede,
+178,190.0,10451.0,beitrag_zuviel,Eugen Schmidt plenarrede,
+178,191.0,10489.0,beitrag_zuviel,Maximilian Funke-Kaiser plenarrede,
+178,192.0,10537.0,beitrag_zuviel,Ronja Kemmer plenarrede,
+178,193.0,10597.0,beitrag_zuviel,Sebastian Fiedler plenarrede,
+178,194.0,10629.0,beitrag_zuviel,Tobias Matthias Peterka plenarrede,
+178,195.0,10679.0,beitrag_zuviel,Bernhard Herrmann plenarrede,
+178,195.0,10713.0,beitrag_zuviel,Astrid Damerow plenarrede,
+178,196.0,10731.0,beitrag_zuviel,Astrid Damerow plenarrede,
+178,196.0,10745.0,beitrag_zuviel,Andreas Bleck plenarrede,
+178,197.0,10767.0,beitrag_zuviel,Jürgen Kretz plenarrede,
+178,197.0,10815.0,beitrag_zuviel,Christian Schreider plenarrede,
+178,198.0,10851.0,beitrag_zuviel,Wolfgang Wiehle plenarrede,
+178,199.0,10911.0,beitrag_zuviel,Dr. Marco Buschmann plenarrede,
+178,200.0,10947.0,beitrag_zuviel,Fabian Jacobi plenarrede,
+178,200.0,10959.0,beitrag_zuviel,Fabian Jacobi plenarrede,
+178,201.0,10999.0,beitrag_zuviel,Dr. Marco Buschmann plenarrede,
+178,202.0,11039.0,beitrag_zuviel,Fabian Jacobi plenarrede,
+178,202.0,11059.0,beitrag_zuviel,Susanne Hierl plenarrede,
+178,,,zeit_abweichung,schluss 23:12,schluss 23:11
+178,85.0,4089.0,drucksache_fehlt,,20/11806 (Tagesordnungspunkt 33)
+178,85.0,4089.0,drucksache_fehlt,,20/11807 (Tagesordnungspunkt 33)
+178,85.0,4089.0,drucksache_fehlt,,20/11808 (Tagesordnungspunkt 33)
+178,85.0,4089.0,drucksache_fehlt,,20/11809 (Tagesordnungspunkt 33)
+178,85.0,4089.0,drucksache_fehlt,,20/11810 (Tagesordnungspunkt 33)
+178,85.0,4089.0,drucksache_fehlt,,20/11811 (Tagesordnungspunkt 33)
+178,85.0,4089.0,drucksache_fehlt,,20/11812 (Tagesordnungspunkt 33)
+178,85.0,4089.0,drucksache_fehlt,,20/11813 (Tagesordnungspunkt 33)
+178,85.0,4089.0,drucksache_fehlt,,20/11814 (Tagesordnungspunkt 33)
+179,84.0,4159.0,rede_zuviel,Marc Bernhard (AfD) plenarrede Tagesordnungspunkt 31,
+179,85.0,4175.0,rede_zuviel,Michael Kruse (FDP) plenarrede Tagesordnungspunkt 31,
+179,65.0,3067.0,partei_abweichung,Dirk-Ulrich Mende: SPD,CDU (CDU/CSU) id=11005304
+180,70.0,3487.0,rede_fehlt,,Martin Reichardt (AfD) Tagesordnungspunkt 4 ID2018010600
+180,70.0,3487.0,rede_fehlt,,Jens Teutrine (FDP) Tagesordnungspunkt 4 ID2018010700
+180,85.0,4311.0,rede_fehlt,,Dirk Brandes (AfD) Zusatzpunkt 2 ID2018011900
+180,85.0,4311.0,rede_fehlt,,Axel Echeverria (SPD) Zusatzpunkt 2 ID2018012000
+181,29.0,853.0,rede_zuviel,Dr. Günter Krings (CDU) plenarrede Tagesordnungspunkt 14,
+181,29.0,859.0,rede_zuviel,Carmen Wegge (SPD) plenarrede Tagesordnungspunkt 14,
+181,,,drucksache_fehlt,,20/12090 (Tagesordnungspunkt 9)
+181,,,drucksache_fehlt,,20/12091 (Tagesordnungspunkt 9)
+181,,,drucksache_fehlt,,20/12092 (Tagesordnungspunkt 9)
+181,77.0,3213.0,drucksache_fehlt,,20/12094 (Tagesordnungspunkt 30)
+181,77.0,3213.0,drucksache_fehlt,,20/12095 (Tagesordnungspunkt 30)
+181,77.0,3213.0,drucksache_fehlt,,20/12096 (Tagesordnungspunkt 30)
+181,77.0,3213.0,drucksache_fehlt,,20/12097 (Tagesordnungspunkt 30)
+181,77.0,3213.0,drucksache_fehlt,,20/12099 (Tagesordnungspunkt 30)
+181,77.0,3213.0,drucksache_fehlt,,20/7667 (Tagesordnungspunkt 30)
+181,78.0,3289.0,drucksache_fehlt,,20/12015 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12016 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12017 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12018 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12019 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12020 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12021 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12022 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12023 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12024 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12133 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12134 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12135 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12136 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12137 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12138 (Tagesordnungspunkt 31)
+181,78.0,3289.0,drucksache_fehlt,,20/12139 (Tagesordnungspunkt 31)
+181,82.0,3589.0,titel_abweichung,"Wahl der Mitglieder des Kuratoriums der Stiftung „Erinnerung, Verantwortung und Zukunft“","Wahlvorschlag der Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP Wahl der Mitglieder des Kuratoriums der Stiftung „Erinnerung, Verantwortung und Zukunft“"
+181,82.0,3589.0,titel_abweichung,"Wahl der Mitglieder des Kuratoriums der Stiftung „Erinnerung, Verantwortung und Zukunft“","Wahlvorschlag der Fraktion der CDU/CSU Wahl der Mitglieder des Kuratoriums der Stiftung „Erinnerung, Verantwortung und Zukunft“"
+181,82.0,3589.0,titel_abweichung,"Wahl der Mitglieder des Kuratoriums der Stiftung „Erinnerung, Verantwortung und Zukunft“","Wahlvorschlag der Fraktion der AfD Wahl der Mitglieder des Kuratoriums der Stiftung „Erinnerung, Verantwortung und Zukunft“"
+181,82.0,3589.0,titel_abweichung,Wahl der Mitglieder des Beirates bei der Koordinierungsstelle für Digitale Dienste gemäß § 21 des Digitale-Dienste-Gesetzes (DDG),"Wahlvorschlag der Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP Wahl der Mitglieder des Beirates bei der Koordinierungsstelle für Digitale Dienste gemäß § 21 de"
+181,82.0,3589.0,titel_abweichung,Wahl der Mitglieder des Beirates bei der Koordinierungsstelle für Digitale Dienste gemäß § 21 des Digitale-Dienste-Gesetzes (DDG),Wahlvorschlag der Fraktion der CDU/CSU Wahl der Mitglieder des Beirates bei der Koordinierungsstelle für Digitale Dienste gemäß § 21 des Digitale-Dienste-Gesetz
+181,82.0,3647.0,titel_abweichung,Wahl der Mitglieder des Beirates bei der Koordinierungsstelle für Digitale Dienste gemäß § 21 des Digitale-Dienste-Gesetzes (DDG),Wahlvorschlag der Fraktion der AfD Wahl der Mitglieder des Beirates bei der Koordinierungsstelle für Digitale Dienste gemäß § 21 des Digitale-Dienste-Gesetzes (
+181,83.0,3671.0,titel_abweichung,Wahl eines Stellvertreters der Präsidentin,Wahlvorschlag der Fraktion der AfD Wahl eines Stellvertreters der Präsidentin
+181,83.0,3671.0,titel_abweichung,Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes,Wahlvorschlag der Fraktion der AfD Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes
+181,83.0,3671.0,titel_abweichung,Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes,Wahlvorschlag der Fraktion der CDU/CSU Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes
+182,,3583.0,rede_fehlt,,Elisabeth Winkelmeier-Becker (CDU/CSU) Tagesordnungspunkt 28 ID2018206200
+182,,3583.0,rede_fehlt,,Josephine Ortleb (SPD) Tagesordnungspunkt 28 ID2018206300
+182,7.0,113.0,rede_zuviel,Dr. Ingrid Nestle (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 24,
+182,7.0,117.0,rede_zuviel,Andreas Jung (CDU) plenarrede Tagesordnungspunkt 24,
+182,7.0,121.0,rede_zuviel,Dr. Ingrid Nestle (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 24,
+182,7.0,125.0,rede_zuviel,Andreas Jung (CDU) plenarrede Tagesordnungspunkt 24,
+182,8.0,131.0,rede_zuviel,Dr. Ingrid Nestle (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 24,
+182,8.0,145.0,rede_zuviel,Andreas Jung (CDU) plenarrede Tagesordnungspunkt 24,
+182,32.0,1323.0,rede_zuviel,Maja Wallstein (SPD) plenarrede Tagesordnungspunkt 25,
+182,32.0,1329.0,rede_zuviel,Lars Rohwer (CDU) plenarrede Tagesordnungspunkt 25,
+183,95.0,4589.0,rede_fehlt,,Roger Beckamp (AfD) Einzelplan 25 ID2018307000
+183,101.0,4947.0,rede_fehlt,,Ulrich Lange (CDU/CSU) Einzelplan 25 ID2018307600
+183,23.0,909.0,rede_zuviel,Otto Fricke (FDP) plenarrede Tagesordnungspunkt 1,
+183,23.0,919.0,rede_zuviel,Sebastian Brehm (CSU) plenarrede Tagesordnungspunkt 1,
+183,66.0,3137.0,rede_zuviel,Max Straubinger (CSU) plenarrede Einzelplan 10,
+183,66.0,3143.0,rede_zuviel,Dr. Gero Clemens Hocker (FDP) plenarrede Einzelplan 10,
+185,61.0,2849.0,rede_zuviel,Tino Sorge (CDU) plenarrede Tagesordnungspunkt 1,
+185,61.0,2855.0,rede_zuviel,Dr. Paula Piechotta (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 1,
+185,166.0,8277.0,rede_zuviel,Edgar Naujok (AfD) plenarrede Einzelplan 23,
+185,166.0,8307.0,rede_zuviel,Karoline Otte (BÜNDNIS 90/DIE GRÜNEN) plenarrede Einzelplan 23,
+185,167.0,8339.0,rede_zuviel,Janine Wissler (Die Linke) plenarrede Einzelplan 23,
+185,168.0,8379.0,rede_zuviel,Dr. Christoph Hoffmann (FDP) plenarrede Einzelplan 23,
+185,169.0,8457.0,rede_zuviel,Carsten Körber (CDU) plenarrede Einzelplan 23,
+185,170.0,8507.0,rede_zuviel,Kevin Leiser (SPD) plenarrede Einzelplan 23,
+185,166.0,8277.0,beitrag_zuviel,Edgar Naujok plenarrede,
+185,166.0,8307.0,beitrag_zuviel,Karoline Otte plenarrede,
+185,167.0,8339.0,beitrag_zuviel,Janine Wissler plenarrede,
+185,168.0,8357.0,beitrag_zuviel,Janine Wissler plenarrede,
+185,168.0,8365.0,beitrag_zuviel,Janine Wissler plenarrede,
+185,168.0,8379.0,beitrag_zuviel,Dr. Christoph Hoffmann plenarrede,
+185,169.0,8429.0,beitrag_zuviel,Dr. Christoph Hoffmann plenarrede,
+185,169.0,8437.0,beitrag_zuviel,Dr. Christoph Hoffmann plenarrede,
+185,169.0,8445.0,beitrag_zuviel,Dr. Christoph Hoffmann plenarrede,
+185,169.0,8457.0,beitrag_zuviel,Carsten Körber plenarrede,
+185,170.0,8507.0,beitrag_zuviel,Kevin Leiser plenarrede,
+185,84.0,4147.0,titel_abweichung,Wahl eines Stellvertreters der Präsidentin,Wahlvorschlag der Fraktion der AfD Wahl eines Stellvertreters der Präsidentin
+185,84.0,4147.0,titel_abweichung,Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes,Wahlvorschlag der Fraktion der AfD Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes
+186,17.0,795.0,rede_zuviel,Carsten Müller (CDU) plenarrede Tagesordnungspunkt 1,
+186,17.0,807.0,rede_zuviel,Carmen Wegge (SPD) plenarrede Tagesordnungspunkt 1,
+188,85.0,3945.0,drucksache_fehlt,,20/12788 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/12782 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/12282 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/12781 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/12349 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/12966 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/6073 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/1640 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/1641 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/5201 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/1321 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/7780 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/12395 (Tagesordnungspunkt 39)
+188,85.0,3945.0,drucksache_fehlt,,20/12106 (Tagesordnungspunkt 39)
+188,86.0,3979.0,drucksache_fehlt,,20/3535 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/5568 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12997 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12794 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12840 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12841 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12842 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12843 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12844 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12845 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12846 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12847 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12848 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12849 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12850 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12851 (Tagesordnungspunkt 40)
+188,86.0,3979.0,drucksache_fehlt,,20/12852 (Tagesordnungspunkt 40)
+188,,,drucksache_fehlt,,20/12779 (Tagesordnungspunkt 19)
+188,,,drucksache_fehlt,,20/12970 (Tagesordnungspunkt 19)
+189,21.0,815.0,rede_zuviel,Klaus Ernst (BSW) plenarrede Tagesordnungspunkt 32,
+189,21.0,825.0,rede_zuviel,Kai Whittaker (CDU) plenarrede Tagesordnungspunkt 32,
+189,27.0,1137.0,rede_zuviel,Julia Klöckner (CDU) plenarrede Zusatzpunkt 9,
+189,27.0,1153.0,rede_zuviel,Michael Kellner (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 9,
+189,27.0,1157.0,rede_zuviel,Julia Klöckner (CDU) plenarrede Zusatzpunkt 9,
+189,27.0,1169.0,rede_zuviel,Michael Kellner (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 9,
+190,83.0,3993.0,rede_zuviel,Dr. Andrew Ullmann (FDP) plenarrede Tagesordnungspunkt 5,
+190,83.0,3999.0,rede_zuviel,Tino Sorge (CDU) plenarrede Tagesordnungspunkt 5,
+190,72.0,3463.0,partei_abweichung,Dirk-Ulrich Mende: SPD,CDU (CDU/CSU) id=11005304
+191,43.0,1613.0,rede_fehlt,,Matthias Hauer (CDU/CSU) Tagesordnungspunkt 8 ID2019103600
+191,43.0,1613.0,rede_fehlt,,Frauke Heiligenstadt (SPD) Tagesordnungspunkt 8 ID2019103700
+191,75.0,3241.0,rede_fehlt,,Michael Kruse (FDP) Tagesordnungspunkt 10 ID2019106700
+191,,6929.0,rede_fehlt,,Tino Sorge (CDU/CSU) Tagesordnungspunkt 16 ID2019113000
+191,,6929.0,rede_fehlt,,Heike Engelhardt (SPD) Tagesordnungspunkt 16 ID2019113100
+191,22.0,587.0,rede_zuviel,Dr. Rolf Mützenich (SPD) erwiderung Tagesordnungspunkt 7,
+191,,7915.0,rede_zuviel,Dr. Johannes Fechner (SPD) plenarrede Tagesordnungspunkt 19,
+191,,7943.0,rede_zuviel,Tobias Matthias Peterka (AfD) plenarrede Tagesordnungspunkt 19,
+191,,7965.0,rede_zuviel,Leon Eckert (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 19,
+191,,7999.0,rede_zuviel,Dr. Volker Ullrich (CSU) plenarrede Tagesordnungspunkt 19,
+191,,8017.0,rede_zuviel,Ingo Schäfer (SPD) plenarrede Tagesordnungspunkt 19,
+191,,8099.0,rede_zuviel,Dr. Dietmar Bartsch (Die Linke) plenarrede Tagesordnungspunkt 20,
+191,,8139.0,rede_zuviel,Falko Droßmann (SPD) plenarrede Tagesordnungspunkt 20,
+191,,8215.0,rede_zuviel,Florian Hahn (CSU) plenarrede Tagesordnungspunkt 20,
+191,,8243.0,rede_zuviel,Merle Spellerberg (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 20,
+191,,8295.0,rede_zuviel,Jan Ralf Nolte (AfD) plenarrede Tagesordnungspunkt 20,
+191,,8329.0,rede_zuviel,Alexander Müller (FDP) plenarrede Tagesordnungspunkt 20,
+191,,8359.0,rede_zuviel,Zaklin Nastic (BSW) plenarrede Tagesordnungspunkt 20,
+191,,8383.0,rede_zuviel,Robert Farle (AfD) plenarrede Tagesordnungspunkt 20,
+191,,8437.0,rede_zuviel,Dr. Marcus Faber (FDP) plenarrede Tagesordnungspunkt 20,
+191,,8477.0,rede_zuviel,Sevim Dağdelen (BSW) plenarrede Tagesordnungspunkt 20,
+191,,8537.0,rede_zuviel,Dr. Marco Buschmann (FDP) plenarrede Tagesordnungspunkt 21,
+191,,8567.0,rede_zuviel,Dr. Martin Plum (CDU) plenarrede Tagesordnungspunkt 21,
+191,,8599.0,rede_zuviel,Fabian Jacobi (AfD) plenarrede Tagesordnungspunkt 21,
+191,,8627.0,rede_zuviel,Susanne Hierl (CSU) plenarrede Tagesordnungspunkt 21,
+191,,8669.0,rede_zuviel,Dr. Anja Weisgerber (CSU) plenarrede Tagesordnungspunkt 22,
+191,,8703.0,rede_zuviel,Daniel Rinkert (SPD) plenarrede Tagesordnungspunkt 22,
+191,,8785.0,rede_zuviel,Jürgen Braun (AfD) plenarrede Tagesordnungspunkt 22,
+191,,8837.0,rede_zuviel,Linda Heitmann (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 22,
+191,,8939.0,rede_zuviel,Dr. Florian Toncar (FDP) plenarrede Tagesordnungspunkt 25,
+191,,8965.0,rede_zuviel,Ralph Edelhäußer (CSU) plenarrede Tagesordnungspunkt 25,
+191,,8993.0,rede_zuviel,Erik von Malottki (SPD) plenarrede Tagesordnungspunkt 25,
+191,,9025.0,rede_zuviel,Peter Boehringer (AfD) plenarrede Tagesordnungspunkt 25,
+191,,9049.0,rede_zuviel,Dr. Franziska Krumwiede-Steiner (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 25,
+191,,9135.0,rede_zuviel,Stephan Albani (CDU) plenarrede Tagesordnungspunkt 24,
+191,,9165.0,rede_zuviel,Dr. Michael Kaufmann (AfD) plenarrede Tagesordnungspunkt 24,
+191,,9215.0,rede_zuviel,Dr. Stephan Seiter (FDP) plenarrede Tagesordnungspunkt 24,
+191,,9249.0,rede_zuviel,Thomas Jarzombek (CDU) plenarrede Tagesordnungspunkt 24,
+191,,9287.0,rede_zuviel,Claudia Müller (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 23,
+191,,9311.0,rede_zuviel,Stephan Protschka (AfD) plenarrede Tagesordnungspunkt 23,
+191,,9327.0,rede_zuviel,Karl Bär (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 23,
+191,,7915.0,beitrag_zuviel,Dr. Johannes Fechner plenarrede,
+191,,7943.0,beitrag_zuviel,Tobias Matthias Peterka plenarrede,
+191,,7965.0,beitrag_zuviel,Leon Eckert plenarrede,
+191,,7999.0,beitrag_zuviel,Dr. Volker Ullrich plenarrede,
+191,,8017.0,beitrag_zuviel,Ingo Schäfer plenarrede,
+191,,8099.0,beitrag_zuviel,Dr. Dietmar Bartsch plenarrede,
+191,,8125.0,beitrag_zuviel,Dr. Dietmar Bartsch plenarrede,
+191,,8139.0,beitrag_zuviel,Falko Droßmann plenarrede,
+191,,8215.0,beitrag_zuviel,Florian Hahn plenarrede,
+191,,8243.0,beitrag_zuviel,Merle Spellerberg plenarrede,
+191,,8295.0,beitrag_zuviel,Jan Ralf Nolte plenarrede,
+191,,8329.0,beitrag_zuviel,Alexander Müller plenarrede,
+191,,8359.0,beitrag_zuviel,Zaklin Nastic plenarrede,
+191,,8383.0,beitrag_zuviel,Robert Farle plenarrede,
+191,,8409.0,beitrag_zuviel,Robert Farle plenarrede,
+191,,8417.0,beitrag_zuviel,Robert Farle plenarrede,
+191,,8437.0,beitrag_zuviel,Dr. Marcus Faber plenarrede,
+191,,8477.0,beitrag_zuviel,Sevim Dağdelen plenarrede,
+191,,8537.0,beitrag_zuviel,Dr. Marco Buschmann plenarrede,
+191,,8567.0,beitrag_zuviel,Dr. Martin Plum plenarrede,
+191,,8599.0,beitrag_zuviel,Fabian Jacobi plenarrede,
+191,,8627.0,beitrag_zuviel,Susanne Hierl plenarrede,
+191,,8669.0,beitrag_zuviel,Dr. Anja Weisgerber plenarrede,
+191,,8703.0,beitrag_zuviel,Daniel Rinkert plenarrede,
+191,,8785.0,beitrag_zuviel,Jürgen Braun plenarrede,
+191,,8825.0,beitrag_zuviel,Jürgen Braun plenarrede,
+191,,8837.0,beitrag_zuviel,Linda Heitmann plenarrede,
+191,,8875.0,beitrag_zuviel,Linda Heitmann plenarrede,
+191,,8939.0,beitrag_zuviel,Dr. Florian Toncar plenarrede,
+191,,8965.0,beitrag_zuviel,Ralph Edelhäußer plenarrede,
+191,,8993.0,beitrag_zuviel,Erik von Malottki plenarrede,
+191,,9025.0,beitrag_zuviel,Peter Boehringer plenarrede,
+191,,9049.0,beitrag_zuviel,Dr. Franziska Krumwiede-Steiner plenarrede,
+191,,9135.0,beitrag_zuviel,Stephan Albani plenarrede,
+191,,9165.0,beitrag_zuviel,Dr. Michael Kaufmann plenarrede,
+191,,9189.0,beitrag_zuviel,Dr. Michael Kaufmann plenarrede,
+191,,9197.0,beitrag_zuviel,Dr. Michael Kaufmann plenarrede,
+191,,9215.0,beitrag_zuviel,Dr. Stephan Seiter plenarrede,
+191,,9249.0,beitrag_zuviel,Thomas Jarzombek plenarrede,
+191,,9287.0,beitrag_zuviel,Claudia Müller plenarrede,
+191,,9311.0,beitrag_zuviel,Stephan Protschka plenarrede,
+191,,9327.0,beitrag_zuviel,Karl Bär plenarrede,
+191,85.0,3875.0,drucksache_fehlt,,20/13005 (Tagesordnungspunkt 32)
+191,85.0,3875.0,drucksache_fehlt,,20/13012 (Tagesordnungspunkt 32)
+191,87.0,4033.0,titel_abweichung,Wahl eines Stellvertreters der Präsidentin,Wahlvorschlag der Fraktion der AfD Wahl eines Stellvertreters der Präsidentin
+191,87.0,4033.0,titel_abweichung,Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes,Wahlvorschlag der Fraktion der AfD Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes
+192,50.0,2095.0,rede_zuviel,Kay Gottschalk (AfD) plenarrede Zusatzpunkt 5,
+192,50.0,2107.0,rede_zuviel,Tina Rudolph (SPD) plenarrede Zusatzpunkt 5,
+194,69.0,3363.0,rede_fehlt,,"Andrew Ullmann (FDP) Zusatzpunkt 3, 4 ID2019405700"
+194,178.0,9053.0,rede_zuviel,Friedhelm Boginski (FDP) plenarrede Tagesordnungspunkt 16,
+194,179.0,9101.0,rede_zuviel,Stephan Albani (CDU) plenarrede Tagesordnungspunkt 16,
+194,179.0,9141.0,rede_zuviel,Jessica Rosenthal (SPD) plenarrede Tagesordnungspunkt 16,
+194,181.0,9223.0,rede_zuviel,Dr. Götz Frömming (AfD) plenarrede Tagesordnungspunkt 16,
+194,181.0,9251.0,rede_zuviel,Dr. Anja Reinalter (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 16,
+194,182.0,9311.0,rede_zuviel,Gitta Connemann (CDU) plenarrede Tagesordnungspunkt 16,
+194,183.0,9395.0,rede_zuviel,Nicole Gohlke (Die Linke) plenarrede Tagesordnungspunkt 16,
+194,184.0,9477.0,rede_zuviel,Stephan Mayer (CSU) plenarrede Tagesordnungspunkt 19,
+194,185.0,9527.0,rede_zuviel,Nadine Heselhaus (SPD) plenarrede Tagesordnungspunkt 19,
+194,186.0,9559.0,rede_zuviel,Tobias Matthias Peterka (AfD) plenarrede Tagesordnungspunkt 19,
+194,187.0,9599.0,rede_zuviel,Benjamin Strasser (FDP) plenarrede Tagesordnungspunkt 18,
+194,188.0,9639.0,rede_zuviel,Dr. Martin Plum (CDU) plenarrede Tagesordnungspunkt 18,
+194,188.0,9667.0,rede_zuviel,Fabian Jacobi (AfD) plenarrede Tagesordnungspunkt 18,
+194,189.0,9693.0,rede_zuviel,Susanne Hierl (CSU) plenarrede Tagesordnungspunkt 18,
+194,189.0,9727.0,rede_zuviel,Dr. Tanja Machalet (SPD) plenarrede Tagesordnungspunkt 21,
+194,190.0,9769.0,rede_zuviel,Dr. Stefan Nacke (CDU) plenarrede Tagesordnungspunkt 21,
+194,192.0,9811.0,rede_zuviel,Ulrike Schielke-Ziesing (AfD) plenarrede Tagesordnungspunkt 21,
+194,193.0,9869.0,rede_zuviel,Benjamin Strasser (FDP) plenarrede Tagesordnungspunkt 20,
+194,193.0,9899.0,rede_zuviel,Ansgar Heveling (CDU) plenarrede Tagesordnungspunkt 20,
+194,194.0,9937.0,rede_zuviel,Sonja Eichwede (SPD) plenarrede Tagesordnungspunkt 20,
+194,195.0,9967.0,rede_zuviel,Tobias Matthias Peterka (AfD) plenarrede Tagesordnungspunkt 20,
+194,195.0,9987.0,rede_zuviel,Awet Tesfaiesus (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 20,
+194,196.0,10013.0,rede_zuviel,Dr. Volker Ullrich (CSU) plenarrede Tagesordnungspunkt 20,
+194,197.0,10053.0,rede_zuviel,Helge Lindh (SPD) plenarrede Tagesordnungspunkt 20,
+194,197.0,10103.0,rede_zuviel,Benjamin Strasser (FDP) plenarrede Tagesordnungspunkt 22,
+194,198.0,10143.0,rede_zuviel,Dr. Martin Plum (CDU) plenarrede Tagesordnungspunkt 22,
+194,199.0,10179.0,rede_zuviel,Gereon Bollmann (AfD) plenarrede Tagesordnungspunkt 22,
+194,200.0,10229.0,rede_zuviel,Misbah Khan (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 23,
+194,201.0,10263.0,rede_zuviel,Franziska Hoppermann (CDU) plenarrede Tagesordnungspunkt 23,
+194,202.0,10299.0,rede_zuviel,Barbara Benkstein (AfD) plenarrede Tagesordnungspunkt 23,
+194,202.0,10339.0,rede_zuviel,Bettina Stark-Watzinger (FDP) plenarrede Tagesordnungspunkt 24,
+194,203.0,10375.0,rede_zuviel,Dr. Götz Frömming (AfD) plenarrede Tagesordnungspunkt 24,
+194,204.0,10419.0,rede_zuviel,Albert Rupprecht (CSU) plenarrede Tagesordnungspunkt 24,
+194,205.0,10461.0,rede_zuviel,Maximilian Mordhorst (FDP) plenarrede Tagesordnungspunkt 25,
+194,206.0,10497.0,rede_zuviel,Dr. Markus Reichel (CDU) plenarrede Tagesordnungspunkt 25,
+194,207.0,10537.0,rede_zuviel,Eugen Schmidt (AfD) plenarrede Tagesordnungspunkt 25,
+194,208.0,10617.0,rede_zuviel,Katharina Beck (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 6,
+194,209.0,10641.0,rede_zuviel,Dr. Hermann-Josef Tebroke (CDU) plenarrede Zusatzpunkt 6,
+194,178.0,9053.0,beitrag_zuviel,Friedhelm Boginski plenarrede,
+194,179.0,9101.0,beitrag_zuviel,Stephan Albani plenarrede,
+194,179.0,9141.0,beitrag_zuviel,Jessica Rosenthal plenarrede,
+194,181.0,9223.0,beitrag_zuviel,Dr. Götz Frömming plenarrede,
+194,181.0,9251.0,beitrag_zuviel,Dr. Anja Reinalter plenarrede,
+194,182.0,9311.0,beitrag_zuviel,Gitta Connemann plenarrede,
+194,183.0,9329.0,beitrag_zuviel,Gitta Connemann plenarrede,
+194,183.0,9337.0,beitrag_zuviel,Gitta Connemann plenarrede,
+194,183.0,9341.0,beitrag_zuviel,Jessica Rosenthal zwischenfrage,
+194,183.0,9353.0,beitrag_zuviel,Gitta Connemann plenarrede,
+194,183.0,9375.0,beitrag_zuviel,Gitta Connemann plenarrede,
+194,183.0,9395.0,beitrag_zuviel,Nicole Gohlke plenarrede,
+194,184.0,9441.0,beitrag_zuviel,Nicole Gohlke plenarrede,
+194,184.0,9477.0,beitrag_zuviel,Stephan Mayer plenarrede,
+194,185.0,9505.0,beitrag_zuviel,Stephan Mayer plenarrede,
+194,185.0,9515.0,beitrag_zuviel,Stephan Mayer plenarrede,
+194,185.0,9527.0,beitrag_zuviel,Nadine Heselhaus plenarrede,
+194,186.0,9559.0,beitrag_zuviel,Tobias Matthias Peterka plenarrede,
+194,187.0,9599.0,beitrag_zuviel,Benjamin Strasser plenarrede,
+194,188.0,9639.0,beitrag_zuviel,Dr. Martin Plum plenarrede,
+194,188.0,9667.0,beitrag_zuviel,Fabian Jacobi plenarrede,
+194,189.0,9693.0,beitrag_zuviel,Susanne Hierl plenarrede,
+194,189.0,9727.0,beitrag_zuviel,Dr. Tanja Machalet plenarrede,
+194,190.0,9769.0,beitrag_zuviel,Dr. Stefan Nacke plenarrede,
+194,192.0,9811.0,beitrag_zuviel,Ulrike Schielke-Ziesing plenarrede,
+194,193.0,9869.0,beitrag_zuviel,Benjamin Strasser plenarrede,
+194,193.0,9899.0,beitrag_zuviel,Ansgar Heveling plenarrede,
+194,194.0,9923.0,beitrag_zuviel,Ansgar Heveling plenarrede,
+194,194.0,9937.0,beitrag_zuviel,Sonja Eichwede plenarrede,
+194,195.0,9967.0,beitrag_zuviel,Tobias Matthias Peterka plenarrede,
+194,195.0,9987.0,beitrag_zuviel,Awet Tesfaiesus plenarrede,
+194,196.0,10013.0,beitrag_zuviel,Dr. Volker Ullrich plenarrede,
+194,197.0,10053.0,beitrag_zuviel,Helge Lindh plenarrede,
+194,197.0,10103.0,beitrag_zuviel,Benjamin Strasser plenarrede,
+194,198.0,10143.0,beitrag_zuviel,Dr. Martin Plum plenarrede,
+194,199.0,10179.0,beitrag_zuviel,Gereon Bollmann plenarrede,
+194,200.0,10229.0,beitrag_zuviel,Misbah Khan plenarrede,
+194,201.0,10263.0,beitrag_zuviel,Franziska Hoppermann plenarrede,
+194,202.0,10299.0,beitrag_zuviel,Barbara Benkstein plenarrede,
+194,202.0,10339.0,beitrag_zuviel,Bettina Stark-Watzinger plenarrede,
+194,203.0,10375.0,beitrag_zuviel,Dr. Götz Frömming plenarrede,
+194,204.0,10407.0,beitrag_zuviel,Dr. Götz Frömming plenarrede,
+194,204.0,10419.0,beitrag_zuviel,Albert Rupprecht plenarrede,
+194,205.0,10461.0,beitrag_zuviel,Maximilian Mordhorst plenarrede,
+194,206.0,10497.0,beitrag_zuviel,Dr. Markus Reichel plenarrede,
+194,207.0,10537.0,beitrag_zuviel,Eugen Schmidt plenarrede,
+194,208.0,10617.0,beitrag_zuviel,Katharina Beck plenarrede,
+194,209.0,10641.0,beitrag_zuviel,Dr. Hermann-Josef Tebroke plenarrede,
+194,49.0,2047.0,titel_abweichung,"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss) – zu dem Antrag der Abgeordneten Martin Sichert, Jörg Schneider","Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss) – zu dem Antrag der Abgeordneten Martin Sichert, Jörg Schneider"
+194,97.0,5029.0,titel_abweichung,Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr,) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Ja
+194,169.0,8579.0,titel_abweichung,Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Dritten Gesetzes zur Neuordnung des Wehrdisziplinarrechts und zur Änderung w,Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Dritten Gesetzes zur Neuordnung des Wehrdisziplinarrechts und zur Änderung w
+198,3.0,23.0,titel_abweichung,Beratung des Antrags der Fraktion der CDU/CSU 35 Jahre Mauerfall – 35 Jahre Freiheit in ganz Deutschland – Verantwortung und Auftrag,Jahre Mauerfall – 35 Jahre Freiheit in ganz Deutschland – Verantwortung und Auftrag
+199,103.0,5383.0,titel_abweichung,Beratung des Antrags des Bundesministeriums der Finanzen Griechenland: Vorzeitige Teilrückzahlung bilateraler europäischer Kredite des ersten Hilfsprogramms 1. ,. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages gemäß § 5 Absatz 2 Nummer 1 des ESM-Finanzierungsgesetzes
+200,17.0,661.0,drucksache_fehlt,,20/13321 (Zusatzpunkt 6)
+200,17.0,661.0,drucksache_fehlt,,20/13322 (Zusatzpunkt 6)
+200,17.0,661.0,titel_abweichung,Wahl der Mitglieder des Kuratoriums der Stiftung „Deutsches Historisches Museum“,"Wahlvorschläge der Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP Wahl der Mitglieder des Kuratoriums der Stiftung „Deutsches Historisches Museum“"
+200,17.0,661.0,titel_abweichung,Wahl der Mitglieder des Kuratoriums der Stiftung „Deutsches Historisches Museum“,Wahlvorschlag der Fraktion der AfD Wahl der Mitglieder des Kuratoriums der Stiftung „Deutsches Historisches Museum“
+200,17.0,661.0,titel_abweichung,Wahl der Mitglieder des Kuratoriums der Stiftung „Deutsches Historisches Museum“,Wahlvorschlag der Fraktion der CDU/CSU Wahl der Mitglieder des Kuratoriums der Stiftung „Deutsches Historisches Museum“
+202,106.0,5851.0,rede_fehlt,,Robin Mesarosch (SPD) Zusatzpunkt 5 ID2020211400
+203,,9307.0,rede_zuviel,Reinhard Houben (FDP) plenarrede Zusatzpunkt 15,
+203,,9387.0,rede_zuviel,Dr. Malte Kaufmann (AfD) plenarrede Zusatzpunkt 15,
+203,,9453.0,rede_zuviel,Helge Lindh (SPD) plenarrede Zusatzpunkt 16,
+203,,9491.0,rede_zuviel,Dr. Volker Ullrich (CSU) plenarrede Zusatzpunkt 16,
+203,,9523.0,rede_zuviel,Misbah Khan (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 16,
+203,,9567.0,rede_zuviel,Benjamin Strasser (FDP) plenarrede Zusatzpunkt 16,
+203,,9601.0,rede_zuviel,Dr. Götz Frömming (AfD) plenarrede Zusatzpunkt 16,
+203,,9633.0,rede_zuviel,Gülistan Yüksel (SPD) plenarrede Zusatzpunkt 16,
+203,,9689.0,rede_zuviel,Thomas Heilmann (CDU) plenarrede Zusatzpunkt 17,
+203,,9711.0,rede_zuviel,Sebastian Fiedler (SPD) plenarrede Zusatzpunkt 17,
+203,,9743.0,rede_zuviel,Katharina Willkomm (FDP) plenarrede Zusatzpunkt 17,
+203,,9797.0,rede_zuviel,Dr. Christian Wirth (AfD) plenarrede Zusatzpunkt 17,
+203,,9839.0,rede_zuviel,Carsten Müller (CDU) plenarrede Zusatzpunkt 17,
+203,,9883.0,rede_zuviel,Dr. Volker Ullrich (CSU) plenarrede Zusatzpunkt 17,
+203,,9935.0,rede_zuviel,Caren Lay (Die Linke) plenarrede Zusatzpunkt 18,
+203,,9983.0,rede_zuviel,Dr. Zanda Martens (SPD) plenarrede Zusatzpunkt 18,
+203,,10069.0,rede_zuviel,Dr. Jan-Marco Luczak (CDU) plenarrede Zusatzpunkt 18,
+203,,10117.0,rede_zuviel,Canan Bayram (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 18,
+203,,10165.0,rede_zuviel,Dr. Thorsten Lieb (FDP) plenarrede Zusatzpunkt 18,
+203,,10207.0,rede_zuviel,Dr. Christian Wirth (AfD) plenarrede Zusatzpunkt 18,
+203,,10267.0,rede_zuviel,Linda Heitmann (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 19,
+203,,10323.0,rede_zuviel,Dr. Christoph Ploß (CDU) plenarrede Zusatzpunkt 19,
+203,,10359.0,rede_zuviel,Isabel Cademartori Dujisin (SPD) plenarrede Zusatzpunkt 19,
+203,,10443.0,rede_zuviel,Carina Konrad (FDP) plenarrede Zusatzpunkt 19,
+203,,10477.0,rede_zuviel,Thomas Ehrhorn (AfD) plenarrede Zusatzpunkt 19,
+203,,10519.0,rede_zuviel,Christian Hirte (CDU) plenarrede Zusatzpunkt 19,
+203,,10567.0,rede_zuviel,Julian Grünke (FDP) plenarrede Zusatzpunkt 19,
+203,,10603.0,rede_zuviel,Amira Mohamed Ali (BSW) plenarrede Zusatzpunkt 19,
+203,,10689.0,rede_zuviel,Mathias Stein (SPD) plenarrede Zusatzpunkt 20,
+203,,10711.0,rede_zuviel,Henning Rehbaum (CDU) plenarrede Zusatzpunkt 20,
+203,,10783.0,rede_zuviel,Fabian Griewel (FDP) plenarrede Zusatzpunkt 20,
+203,,10815.0,rede_zuviel,Wolfgang Wiehle (AfD) plenarrede Zusatzpunkt 20,
+203,,10843.0,rede_zuviel,Martina Englhardt-Kopf (CSU) plenarrede Zusatzpunkt 20,
+203,,10879.0,rede_zuviel,Björn Simon (CDU) plenarrede Zusatzpunkt 21,
+203,,10919.0,rede_zuviel,Susanne Menge (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 21,
+203,,10969.0,rede_zuviel,Dirk Brandes (AfD) plenarrede Zusatzpunkt 21,
+203,,11025.0,rede_zuviel,Bernhard Daldrup (SPD) plenarrede Zusatzpunkt 22,
+203,,11055.0,rede_zuviel,Till Mansmann (FDP) plenarrede Zusatzpunkt 22,
+203,,11095.0,rede_zuviel,Albrecht Glaser (AfD) plenarrede Zusatzpunkt 22,
+203,,11135.0,rede_zuviel,Konrad Stockmeier (FDP) plenarrede Zusatzpunkt 23,
+203,,11179.0,rede_zuviel,Bernhard Herrmann (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 23,
+203,,11227.0,rede_zuviel,Karsten Hilse (AfD) plenarrede Zusatzpunkt 23,
+203,,11269.0,rede_zuviel,Ralph Lenkert (Die Linke) plenarrede Zusatzpunkt 23,
+203,,9307.0,beitrag_zuviel,Reinhard Houben plenarrede,
+203,,9345.0,beitrag_zuviel,Dr. Sandra Detzer zwischenfrage,
+203,,9373.0,beitrag_zuviel,Dr. Sandra Detzer zwischenfrage,
+203,,9387.0,beitrag_zuviel,Dr. Malte Kaufmann plenarrede,
+203,,9453.0,beitrag_zuviel,Helge Lindh plenarrede,
+203,,9475.0,beitrag_zuviel,Helge Lindh plenarrede,
+203,,9491.0,beitrag_zuviel,Dr. Volker Ullrich plenarrede,
+203,,9523.0,beitrag_zuviel,Misbah Khan plenarrede,
+203,,9567.0,beitrag_zuviel,Benjamin Strasser plenarrede,
+203,,9601.0,beitrag_zuviel,Dr. Götz Frömming plenarrede,
+203,,9633.0,beitrag_zuviel,Gülistan Yüksel plenarrede,
+203,,9689.0,beitrag_zuviel,Thomas Heilmann plenarrede,
+203,,9711.0,beitrag_zuviel,Sebastian Fiedler plenarrede,
+203,,9743.0,beitrag_zuviel,Katharina Willkomm plenarrede,
+203,,9797.0,beitrag_zuviel,Dr. Christian Wirth plenarrede,
+203,,9839.0,beitrag_zuviel,Carsten Müller plenarrede,
+203,,9883.0,beitrag_zuviel,Dr. Volker Ullrich plenarrede,
+203,,9935.0,beitrag_zuviel,Caren Lay plenarrede,
+203,,9983.0,beitrag_zuviel,Dr. Zanda Martens plenarrede,
+203,,10069.0,beitrag_zuviel,Dr. Jan-Marco Luczak plenarrede,
+203,,10117.0,beitrag_zuviel,Canan Bayram plenarrede,
+203,,10165.0,beitrag_zuviel,Dr. Thorsten Lieb plenarrede,
+203,,10207.0,beitrag_zuviel,Dr. Christian Wirth plenarrede,
+203,,10267.0,beitrag_zuviel,Linda Heitmann plenarrede,
+203,,10307.0,beitrag_zuviel,Linda Heitmann plenarrede,
+203,,10323.0,beitrag_zuviel,Dr. Christoph Ploß plenarrede,
+203,,10359.0,beitrag_zuviel,Isabel Cademartori Dujisin plenarrede,
+203,,10443.0,beitrag_zuviel,Carina Konrad plenarrede,
+203,,10477.0,beitrag_zuviel,Thomas Ehrhorn plenarrede,
+203,,10519.0,beitrag_zuviel,Christian Hirte plenarrede,
+203,,10567.0,beitrag_zuviel,Julian Grünke plenarrede,
+203,,10603.0,beitrag_zuviel,Amira Mohamed Ali plenarrede,
+203,,10689.0,beitrag_zuviel,Mathias Stein plenarrede,
+203,,10711.0,beitrag_zuviel,Henning Rehbaum plenarrede,
+203,,10751.0,beitrag_zuviel,Henning Rehbaum plenarrede,
+203,,10759.0,beitrag_zuviel,Henning Rehbaum plenarrede,
+203,,10767.0,beitrag_zuviel,Henning Rehbaum plenarrede,
+203,,10783.0,beitrag_zuviel,Fabian Griewel plenarrede,
+203,,10815.0,beitrag_zuviel,Wolfgang Wiehle plenarrede,
+203,,10843.0,beitrag_zuviel,Martina Englhardt-Kopf plenarrede,
+203,,10879.0,beitrag_zuviel,Björn Simon plenarrede,
+203,,10897.0,beitrag_zuviel,Björn Simon plenarrede,
+203,,10919.0,beitrag_zuviel,Susanne Menge plenarrede,
+203,,10969.0,beitrag_zuviel,Dirk Brandes plenarrede,
+203,,11025.0,beitrag_zuviel,Bernhard Daldrup plenarrede,
+203,,11055.0,beitrag_zuviel,Till Mansmann plenarrede,
+203,,11095.0,beitrag_zuviel,Albrecht Glaser plenarrede,
+203,,11135.0,beitrag_zuviel,Konrad Stockmeier plenarrede,
+203,,11179.0,beitrag_zuviel,Bernhard Herrmann plenarrede,
+203,,11227.0,beitrag_zuviel,Karsten Hilse plenarrede,
+203,,11269.0,beitrag_zuviel,Ralph Lenkert plenarrede,
+203,,4019.0,drucksache_fehlt,,20/7579 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/8577 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/10977 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/11231 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/6074 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13845 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/6073 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13437 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/4064 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/6204 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/6776 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/11599 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/6702 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/9201 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/11395 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/14049 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/10063 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/11705 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/7665 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/10128 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/4051 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/11257 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/4319 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/11488 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/12972 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13314 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/12099 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13370 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/8355 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/10684 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/11625 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/12161 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13359 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13659 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/12969 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13656 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13378 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13379 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13380 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13381 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13382 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13383 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13384 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13385 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13386 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13387 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13388 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13389 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13390 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13661 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13662 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13663 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13664 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13665 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13666 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13667 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13668 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13669 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13670 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13671 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13672 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13673 (Zusatzpunkt 32)
+203,,4019.0,drucksache_fehlt,,20/13674 (Zusatzpunkt 32)
+204,92.0,4501.0,rede_fehlt,,Dunja Kreiser (SPD) Zusatzpunkt 35 ID2020408600
+204,31.0,1227.0,rede_zuviel,Tilman Kuban (CDU) plenarrede Zusatzpunkt 25,
+204,31.0,1233.0,rede_zuviel,Maik Außendorf (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 25,
+206,90.0,4771.0,rede_fehlt,,Anja Schulz (FDP) Tagesordnungspunkt 3 ID2020615700
+206,105.0,5609.0,rede_zuviel,Katja Hessel (FDP) plenarrede Tagesordnungspunkt 4,
+206,105.0,5615.0,rede_zuviel,Max Straubinger (CSU) plenarrede Tagesordnungspunkt 4,
+207,31.0,889.0,rede_zuviel,René Bochmann (AfD) plenarrede Tagesordnungspunkt 6,
+207,31.0,899.0,rede_zuviel,Clara Bünger (Die Linke) plenarrede Tagesordnungspunkt 6,
+207,104.0,5427.0,rede_zuviel,Maik Außendorf (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 5,
+207,104.0,5431.0,rede_zuviel,Dr. Klaus Wiener (CDU) plenarrede Tagesordnungspunkt 5,
+207,194.0,10585.0,rede_zuviel,Petra Nicolaisen (CDU) plenarrede Tagesordnungspunkt 14,
+207,195.0,10635.0,rede_zuviel,Johann Saathoff (SPD) plenarrede Tagesordnungspunkt 14,
+207,196.0,10709.0,rede_zuviel,Sandra Bubendorfer-Licht (FDP) plenarrede Tagesordnungspunkt 14,
+207,197.0,10745.0,rede_zuviel,Leon Eckert (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 14,
+207,198.0,10777.0,rede_zuviel,Steffen Janich (AfD) plenarrede Tagesordnungspunkt 14,
+207,199.0,10815.0,rede_zuviel,Anna Kassautzki (SPD) plenarrede Tagesordnungspunkt 14,
+207,200.0,10863.0,rede_zuviel,Detlef Seif (CDU) plenarrede Tagesordnungspunkt 14,
+207,200.0,10903.0,rede_zuviel,Linda Heitmann (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 14,
+207,201.0,10925.0,rede_zuviel,Stefan Seidler (SSW) plenarrede Tagesordnungspunkt 14,
+207,201.0,10959.0,rede_zuviel,Ina Latendorf (Die Linke) plenarrede Tagesordnungspunkt 14,
+207,202.0,10997.0,rede_zuviel,Claudia Roth (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 15,
+207,203.0,11037.0,rede_zuviel,Dr. Christiane Schenderlein (CDU) plenarrede Tagesordnungspunkt 15,
+207,204.0,11123.0,rede_zuviel,Michelle Müntefering (SPD) plenarrede Tagesordnungspunkt 15,
+207,206.0,11213.0,rede_zuviel,Thomas Hacker (FDP) plenarrede Tagesordnungspunkt 15,
+207,207.0,11253.0,rede_zuviel,Martin Erwin Renner (AfD) plenarrede Tagesordnungspunkt 15,
+207,207.0,11297.0,rede_zuviel,Michael Sacher (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 15,
+207,208.0,11327.0,rede_zuviel,Dr. Petra Sitte (Die Linke) plenarrede Tagesordnungspunkt 15,
+207,209.0,11353.0,rede_zuviel,Stefan Seidler (SSW) plenarrede Tagesordnungspunkt 15,
+207,210.0,11431.0,rede_zuviel,Susanne Ferschl (Die Linke) plenarrede Tagesordnungspunkt 18,
+207,210.0,11459.0,rede_zuviel,Jan Dieren (SPD) plenarrede Tagesordnungspunkt 18,
+207,212.0,11533.0,rede_zuviel,Wilfried Oellers (CDU) plenarrede Tagesordnungspunkt 18,
+207,213.0,11593.0,rede_zuviel,Carl-Julius Cronenberg (FDP) plenarrede Tagesordnungspunkt 18,
+207,214.0,11645.0,rede_zuviel,Jürgen Pohl (AfD) plenarrede Tagesordnungspunkt 18,
+207,216.0,11787.0,rede_zuviel,Dr. Zanda Martens (SPD) plenarrede Zusatzpunkt 15,
+207,217.0,11817.0,rede_zuviel,Dr. Jan-Marco Luczak (CDU) plenarrede Zusatzpunkt 15,
+207,218.0,11847.0,rede_zuviel,Canan Bayram (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 15,
+207,218.0,11885.0,rede_zuviel,Dr. Thorsten Lieb (FDP) plenarrede Zusatzpunkt 15,
+207,219.0,11903.0,rede_zuviel,Gereon Bollmann (AfD) plenarrede Zusatzpunkt 15,
+207,219.0,11933.0,rede_zuviel,Bernhard Daldrup (SPD) plenarrede Zusatzpunkt 15,
+207,220.0,11997.0,rede_zuviel,Stephan Mayer (CSU) plenarrede Zusatzpunkt 15,
+207,221.0,12047.0,rede_zuviel,Daniel Föst (FDP) plenarrede Zusatzpunkt 15,
+207,222.0,12091.0,rede_zuviel,Ates Gürpinar (Die Linke) plenarrede Zusatzpunkt 15,
+207,223.0,12151.0,rede_zuviel,Jürgen Hardt (CDU) plenarrede Tagesordnungspunkt 16,
+207,223.0,12173.0,rede_zuviel,Christoph Schmid (SPD) plenarrede Tagesordnungspunkt 16,
+207,224.0,12217.0,rede_zuviel,Dr. Christoph Hoffmann (FDP) plenarrede Tagesordnungspunkt 16,
+207,225.0,12253.0,rede_zuviel,Robin Wagener (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 16,
+207,226.0,12285.0,rede_zuviel,Stefan Keuter (AfD) plenarrede Tagesordnungspunkt 16,
+207,227.0,12337.0,rede_zuviel,Kathrin Henneberger (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 16,
+207,228.0,12389.0,rede_zuviel,Dr. Franziska Krumwiede-Steiner (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 17,
+207,228.0,12431.0,rede_zuviel,Silvia Breher (CDU) plenarrede Zusatzpunkt 17,
+207,229.0,12473.0,rede_zuviel,Sarah Lahrkamp (SPD) plenarrede Zusatzpunkt 17,
+207,230.0,12507.0,rede_zuviel,Nicole Bauer (FDP) plenarrede Zusatzpunkt 17,
+207,231.0,12549.0,rede_zuviel,Nicole Höchst (AfD) plenarrede Zusatzpunkt 17,
+207,231.0,12575.0,rede_zuviel,Erik von Malottki (SPD) plenarrede Zusatzpunkt 17,
+207,232.0,12599.0,rede_zuviel,Melanie Bernstein (CDU) plenarrede Zusatzpunkt 17,
+207,233.0,12635.0,rede_zuviel,Thomas Rachel (CDU) plenarrede Tagesordnungspunkt 19,
+207,234.0,12665.0,rede_zuviel,Jens Beeck (FDP) plenarrede Tagesordnungspunkt 19,
+207,234.0,12693.0,rede_zuviel,Max Lucks (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 19,
+207,235.0,12717.0,rede_zuviel,Stefan Keuter (AfD) plenarrede Tagesordnungspunkt 19,
+207,194.0,10585.0,beitrag_zuviel,Petra Nicolaisen plenarrede,
+207,195.0,10635.0,beitrag_zuviel,Johann Saathoff plenarrede,
+207,196.0,10709.0,beitrag_zuviel,Sandra Bubendorfer-Licht plenarrede,
+207,197.0,10745.0,beitrag_zuviel,Leon Eckert plenarrede,
+207,198.0,10777.0,beitrag_zuviel,Steffen Janich plenarrede,
+207,199.0,10815.0,beitrag_zuviel,Anna Kassautzki plenarrede,
+207,200.0,10863.0,beitrag_zuviel,Detlef Seif plenarrede,
+207,200.0,10903.0,beitrag_zuviel,Linda Heitmann plenarrede,
+207,201.0,10925.0,beitrag_zuviel,Stefan Seidler plenarrede,
+207,201.0,10959.0,beitrag_zuviel,Ina Latendorf plenarrede,
+207,202.0,10997.0,beitrag_zuviel,Claudia Roth plenarrede,
+207,203.0,11037.0,beitrag_zuviel,Dr. Christiane Schenderlein plenarrede,
+207,204.0,11123.0,beitrag_zuviel,Michelle Müntefering plenarrede,
+207,206.0,11213.0,beitrag_zuviel,Thomas Hacker plenarrede,
+207,207.0,11241.0,beitrag_zuviel,Thomas Hacker plenarrede,
+207,207.0,11253.0,beitrag_zuviel,Martin Erwin Renner plenarrede,
+207,207.0,11297.0,beitrag_zuviel,Michael Sacher plenarrede,
+207,208.0,11327.0,beitrag_zuviel,Dr. Petra Sitte plenarrede,
+207,209.0,11353.0,beitrag_zuviel,Stefan Seidler plenarrede,
+207,210.0,11431.0,beitrag_zuviel,Susanne Ferschl plenarrede,
+207,210.0,11459.0,beitrag_zuviel,Jan Dieren plenarrede,
+207,212.0,11519.0,beitrag_zuviel,Jan Dieren plenarrede,
+207,212.0,11533.0,beitrag_zuviel,Wilfried Oellers plenarrede,
+207,213.0,11593.0,beitrag_zuviel,Carl-Julius Cronenberg plenarrede,
+207,214.0,11645.0,beitrag_zuviel,Jürgen Pohl plenarrede,
+207,215.0,11697.0,beitrag_zuviel,Jürgen Pohl plenarrede,
+207,215.0,11719.0,beitrag_zuviel,Jürgen Pohl plenarrede,
+207,216.0,11787.0,beitrag_zuviel,Dr. Zanda Martens plenarrede,
+207,217.0,11817.0,beitrag_zuviel,Dr. Jan-Marco Luczak plenarrede,
+207,218.0,11847.0,beitrag_zuviel,Canan Bayram plenarrede,
+207,218.0,11885.0,beitrag_zuviel,Dr. Thorsten Lieb plenarrede,
+207,219.0,11903.0,beitrag_zuviel,Gereon Bollmann plenarrede,
+207,219.0,11933.0,beitrag_zuviel,Bernhard Daldrup plenarrede,
+207,220.0,11971.0,beitrag_zuviel,Bernhard Daldrup plenarrede,
+207,220.0,11979.0,beitrag_zuviel,Bernhard Daldrup plenarrede,
+207,220.0,11997.0,beitrag_zuviel,Stephan Mayer plenarrede,
+207,221.0,12047.0,beitrag_zuviel,Daniel Föst plenarrede,
+207,222.0,12079.0,beitrag_zuviel,Daniel Föst plenarrede,
+207,222.0,12091.0,beitrag_zuviel,Ates Gürpinar plenarrede,
+207,223.0,12151.0,beitrag_zuviel,Jürgen Hardt plenarrede,
+207,223.0,12173.0,beitrag_zuviel,Christoph Schmid plenarrede,
+207,224.0,12205.0,beitrag_zuviel,Christoph Schmid plenarrede,
+207,224.0,12217.0,beitrag_zuviel,Dr. Christoph Hoffmann plenarrede,
+207,225.0,12253.0,beitrag_zuviel,Robin Wagener plenarrede,
+207,226.0,12271.0,beitrag_zuviel,Robin Wagener plenarrede,
+207,226.0,12285.0,beitrag_zuviel,Stefan Keuter plenarrede,
+207,227.0,12337.0,beitrag_zuviel,Kathrin Henneberger plenarrede,
+207,228.0,12389.0,beitrag_zuviel,Dr. Franziska Krumwiede-Steiner plenarrede,
+207,228.0,12431.0,beitrag_zuviel,Silvia Breher plenarrede,
+207,229.0,12459.0,beitrag_zuviel,Silvia Breher plenarrede,
+207,229.0,12473.0,beitrag_zuviel,Sarah Lahrkamp plenarrede,
+207,230.0,12507.0,beitrag_zuviel,Nicole Bauer plenarrede,
+207,231.0,12535.0,beitrag_zuviel,Nicole Bauer plenarrede,
+207,231.0,12549.0,beitrag_zuviel,Nicole Höchst plenarrede,
+207,231.0,12575.0,beitrag_zuviel,Erik von Malottki plenarrede,
+207,232.0,12599.0,beitrag_zuviel,Melanie Bernstein plenarrede,
+207,233.0,12635.0,beitrag_zuviel,Thomas Rachel plenarrede,
+207,234.0,12665.0,beitrag_zuviel,Jens Beeck plenarrede,
+207,234.0,12693.0,beitrag_zuviel,Max Lucks plenarrede,
+207,235.0,12717.0,beitrag_zuviel,Stefan Keuter plenarrede,
+207,236.0,12739.0,beitrag_zuviel,Stefan Keuter plenarrede,
+207,236.0,12749.0,beitrag_zuviel,Stefan Keuter plenarrede,
+207,119.0,6389.0,drucksache_fehlt,,20/14287 (Tagesordnungspunkt 26)
+207,119.0,6389.0,drucksache_fehlt,,20/14288 (Tagesordnungspunkt 26)
+207,119.0,6389.0,drucksache_fehlt,,20/14289 (Tagesordnungspunkt 26)
+207,119.0,6389.0,drucksache_fehlt,,20/14290 (Tagesordnungspunkt 26)
+207,119.0,6389.0,drucksache_fehlt,,20/14291 (Tagesordnungspunkt 26)
+207,119.0,6389.0,drucksache_fehlt,,20/14292 (Tagesordnungspunkt 26)
+207,119.0,6389.0,drucksache_fehlt,,20/14293 (Tagesordnungspunkt 26)
+207,119.0,6389.0,drucksache_fehlt,,20/14294 (Tagesordnungspunkt 26)
+207,130.0,7215.0,titel_abweichung,Wahl eines Stellvertreters der Präsidentin,Wahlvorschlag der Fraktion der AfD Wahl eines Stellvertreters der Präsidentin
+207,130.0,7215.0,titel_abweichung,Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes,Wahlvorschlag der Fraktion der AfD Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes
+208,79.0,3909.0,rede_fehlt,,Beatrix von Storch (AfD) Tagesordnungspunkt 24 ID2020806500
+208,79.0,3909.0,rede_fehlt,,Stefan Heck (CDU/CSU) Tagesordnungspunkt 24 ID2020806600
+209,50.0,2517.0,rede_fehlt,,Rolf Mützenich (SPD) Zur Geschäftsordnung ID2020906800
+209,50.0,2517.0,rede_fehlt,,Friedrich Merz (CDU/CSU) Zur Geschäftsordnung ID2020906900
+209,50.0,2517.0,rede_fehlt,,Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN) Zur Geschäftsordnung ID2020907000
+209,50.0,2517.0,rede_fehlt,,Judith Skudelny (FDP) Zur Geschäftsordnung ID2020907100
+209,50.0,2517.0,rede_fehlt,,Bernd Baumann (AfD) Zur Geschäftsordnung ID2020907200
+209,50.0,2517.0,rede_fehlt,,Heidi Reichinnek (Die Linke) Zur Geschäftsordnung ID2020907300
+209,102.0,5907.0,rede_zuviel,Maik Außendorf (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 2,
+209,103.0,5975.0,rede_zuviel,Jörg Cezanne (Die Linke) plenarrede Zusatzpunkt 2,
+209,104.0,6005.0,rede_zuviel,Tilman Kuban (CDU) plenarrede Zusatzpunkt 2,
+209,105.0,6075.0,rede_zuviel,Christian Leye (BSW) plenarrede Zusatzpunkt 2,
+209,105.0,6115.0,rede_zuviel,Dr. Martin Rosemann (SPD) plenarrede Zusatzpunkt 2,
+209,107.0,6211.0,rede_zuviel,Kai Gehring (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 15,
+209,108.0,6289.0,rede_zuviel,Daniela Ludwig (CSU) plenarrede Tagesordnungspunkt 15,
+209,109.0,6319.0,rede_zuviel,Maja Wallstein (SPD) plenarrede Tagesordnungspunkt 15,
+209,110.0,6345.0,rede_zuviel,Ria Schröder (FDP) plenarrede Tagesordnungspunkt 15,
+209,111.0,6401.0,rede_zuviel,Dr. Michael Kaufmann (AfD) plenarrede Tagesordnungspunkt 15,
+209,112.0,6433.0,rede_zuviel,Oliver Kaczmarek (SPD) plenarrede Tagesordnungspunkt 15,
+209,113.0,6465.0,rede_zuviel,Monika Grütters (CDU) plenarrede Tagesordnungspunkt 15,
+209,114.0,6545.0,rede_zuviel,Nicole Gohlke (Die Linke) plenarrede Tagesordnungspunkt 15,
+209,115.0,6573.0,rede_zuviel,Mathias Stein (SPD) plenarrede Tagesordnungspunkt 15,
+209,116.0,6609.0,rede_zuviel,Andrej Hunko (BSW) plenarrede Tagesordnungspunkt 15,
+209,116.0,6655.0,rede_zuviel,Thomas Jarzombek (CDU) plenarrede Tagesordnungspunkt 15,
+209,117.0,6713.0,rede_zuviel,Erhard Grundl (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 14,
+209,118.0,6761.0,rede_zuviel,Dorothee Bär (CSU) plenarrede Tagesordnungspunkt 14,
+209,119.0,6799.0,rede_zuviel,Marianne Schieder (SPD) plenarrede Tagesordnungspunkt 14,
+209,121.0,6859.0,rede_zuviel,Thomas Hacker (FDP) plenarrede Tagesordnungspunkt 14,
+209,122.0,6901.0,rede_zuviel,Volker Münz (AfD) plenarrede Tagesordnungspunkt 14,
+209,122.0,6929.0,rede_zuviel,Dr. Kirsten Kappert-Gonther (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 14,
+209,123.0,6967.0,rede_zuviel,Annette Widmann-Mauz (CDU) plenarrede Tagesordnungspunkt 14,
+209,125.0,7071.0,rede_zuviel,Henning Otte (CDU) plenarrede Tagesordnungspunkt 17,
+209,126.0,7113.0,rede_zuviel,Tim Wagner (FDP) plenarrede Tagesordnungspunkt 17,
+209,127.0,7137.0,rede_zuviel,Michael Kellner (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 17,
+209,128.0,7167.0,rede_zuviel,Carolin Bachmann (AfD) plenarrede Tagesordnungspunkt 17,
+209,128.0,7213.0,rede_zuviel,Dr. Silke Launert (CSU) plenarrede Tagesordnungspunkt 17,
+209,129.0,7241.0,rede_zuviel,Dr. André Hahn (Die Linke) plenarrede Tagesordnungspunkt 17,
+209,130.0,7285.0,rede_zuviel,Johann Saathoff (SPD) plenarrede Tagesordnungspunkt 17,
+209,131.0,7327.0,rede_zuviel,Dr. Marcus Faber (FDP) plenarrede Zusatzpunkt 3,
+209,131.0,7353.0,rede_zuviel,Dr. Nils Schmid (SPD) plenarrede Zusatzpunkt 3,
+209,132.0,7369.0,rede_zuviel,Ingo Gädechens (CDU) plenarrede Zusatzpunkt 3,
+209,133.0,7417.0,rede_zuviel,Sven-Christian Kindler (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 3,
+209,135.0,7513.0,rede_zuviel,Matthias Moosdorf (AfD) plenarrede Zusatzpunkt 3,
+209,136.0,7575.0,rede_zuviel,Otto Fricke (FDP) plenarrede Zusatzpunkt 3,
+209,137.0,7629.0,rede_zuviel,Thomas Erndl (CSU) plenarrede Zusatzpunkt 3,
+209,138.0,7673.0,rede_zuviel,Peter Boehringer (AfD) plenarrede Zusatzpunkt 3,
+209,139.0,7765.0,rede_zuviel,Stephan Brandner (AfD) plenarrede Zusatzpunkt 3,
+209,139.0,7775.0,rede_zuviel,Stephan Thomae (FDP) plenarrede Zusatzpunkt 3,
+209,102.0,5907.0,beitrag_zuviel,Maik Außendorf plenarrede,
+209,103.0,5975.0,beitrag_zuviel,Jörg Cezanne plenarrede,
+209,104.0,6005.0,beitrag_zuviel,Tilman Kuban plenarrede,
+209,105.0,6075.0,beitrag_zuviel,Christian Leye plenarrede,
+209,105.0,6091.0,beitrag_zuviel,Christian Leye plenarrede,
+209,105.0,6101.0,beitrag_zuviel,Christian Leye plenarrede,
+209,105.0,6115.0,beitrag_zuviel,Dr. Martin Rosemann plenarrede,
+209,106.0,6163.0,beitrag_zuviel,Dr. Martin Rosemann plenarrede,
+209,106.0,6175.0,beitrag_zuviel,Dr. Martin Rosemann plenarrede,
+209,107.0,6185.0,beitrag_zuviel,Dr. Martin Rosemann plenarrede,
+209,107.0,6211.0,beitrag_zuviel,Kai Gehring plenarrede,
+209,108.0,6289.0,beitrag_zuviel,Daniela Ludwig plenarrede,
+209,109.0,6319.0,beitrag_zuviel,Maja Wallstein plenarrede,
+209,110.0,6345.0,beitrag_zuviel,Ria Schröder plenarrede,
+209,111.0,6387.0,beitrag_zuviel,Ria Schröder plenarrede,
+209,111.0,6401.0,beitrag_zuviel,Dr. Michael Kaufmann plenarrede,
+209,112.0,6433.0,beitrag_zuviel,Oliver Kaczmarek plenarrede,
+209,113.0,6465.0,beitrag_zuviel,Monika Grütters plenarrede,
+209,114.0,6509.0,beitrag_zuviel,Monika Grütters plenarrede,
+209,114.0,6531.0,beitrag_zuviel,Monika Grütters plenarrede,
+209,114.0,6545.0,beitrag_zuviel,Nicole Gohlke plenarrede,
+209,115.0,6573.0,beitrag_zuviel,Mathias Stein plenarrede,
+209,116.0,6609.0,beitrag_zuviel,Andrej Hunko plenarrede,
+209,116.0,6655.0,beitrag_zuviel,Thomas Jarzombek plenarrede,
+209,117.0,6713.0,beitrag_zuviel,Erhard Grundl plenarrede,
+209,118.0,6761.0,beitrag_zuviel,Dorothee Bär plenarrede,
+209,119.0,6799.0,beitrag_zuviel,Marianne Schieder plenarrede,
+209,120.0,6845.0,beitrag_zuviel,Marianne Schieder plenarrede,
+209,121.0,6859.0,beitrag_zuviel,Thomas Hacker plenarrede,
+209,122.0,6901.0,beitrag_zuviel,Volker Münz plenarrede,
+209,122.0,6929.0,beitrag_zuviel,Dr. Kirsten Kappert-Gonther plenarrede,
+209,123.0,6953.0,beitrag_zuviel,Dr. Kirsten Kappert-Gonther plenarrede,
+209,123.0,6967.0,beitrag_zuviel,Annette Widmann-Mauz plenarrede,
+209,125.0,7071.0,beitrag_zuviel,Henning Otte plenarrede,
+209,126.0,7113.0,beitrag_zuviel,Tim Wagner plenarrede,
+209,127.0,7137.0,beitrag_zuviel,Michael Kellner plenarrede,
+209,128.0,7167.0,beitrag_zuviel,Carolin Bachmann plenarrede,
+209,128.0,7213.0,beitrag_zuviel,Dr. Silke Launert plenarrede,
+209,129.0,7241.0,beitrag_zuviel,Dr. André Hahn plenarrede,
+209,130.0,7285.0,beitrag_zuviel,Johann Saathoff plenarrede,
+209,131.0,7327.0,beitrag_zuviel,Dr. Marcus Faber plenarrede,
+209,131.0,7353.0,beitrag_zuviel,Dr. Nils Schmid plenarrede,
+209,132.0,7369.0,beitrag_zuviel,Ingo Gädechens plenarrede,
+209,133.0,7417.0,beitrag_zuviel,Sven-Christian Kindler plenarrede,
+209,135.0,7513.0,beitrag_zuviel,Matthias Moosdorf plenarrede,
+209,136.0,7575.0,beitrag_zuviel,Otto Fricke plenarrede,
+209,137.0,7629.0,beitrag_zuviel,Thomas Erndl plenarrede,
+209,138.0,7673.0,beitrag_zuviel,Peter Boehringer plenarrede,
+209,138.0,7691.0,beitrag_zuviel,Peter Boehringer plenarrede,
+209,138.0,7701.0,beitrag_zuviel,Peter Boehringer plenarrede,
+209,138.0,7719.0,beitrag_zuviel,Peter Boehringer plenarrede,
+209,138.0,7727.0,beitrag_zuviel,Peter Boehringer plenarrede,
+209,138.0,7737.0,beitrag_zuviel,Peter Boehringer plenarrede,
+209,139.0,7747.0,beitrag_zuviel,Peter Boehringer plenarrede,
+209,139.0,7765.0,beitrag_zuviel,Stephan Brandner plenarrede,
+209,139.0,7775.0,beitrag_zuviel,Stephan Thomae plenarrede,
+209,139.0,7785.0,beitrag_zuviel,Stephan Thomae plenarrede,
+210,68.0,3095.0,rede_zuviel,Maximilian Mordhorst (FDP) plenarrede Zusatzpunkt 7,
+210,68.0,3107.0,rede_zuviel,Janine Wissler (Die Linke) plenarrede Zusatzpunkt 7,
+210,174.0,8947.0,rede_zuviel,Dr. Paula Piechotta (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 14,
+210,174.0,8983.0,rede_zuviel,Jan Plobner (SPD) plenarrede Zusatzpunkt 14,
+210,175.0,9019.0,rede_zuviel,Stephan Mayer (CSU) plenarrede Zusatzpunkt 14,
+210,177.0,9137.0,rede_zuviel,Lamya Kaddor (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 12,
+210,178.0,9163.0,rede_zuviel,Dr. Johann David Wadephul (CDU) plenarrede Tagesordnungspunkt 12,
+210,179.0,9227.0,rede_zuviel,Jürgen Coße (SPD) plenarrede Tagesordnungspunkt 12,
+210,180.0,9267.0,rede_zuviel,Sandra Weeser (FDP) plenarrede Tagesordnungspunkt 12,
+210,181.0,9307.0,rede_zuviel,Hannes Gnauck (AfD) plenarrede Tagesordnungspunkt 12,
+210,182.0,9329.0,rede_zuviel,Boris Mijatović (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 12,
+210,183.0,9359.0,rede_zuviel,Annette Widmann-Mauz (CDU) plenarrede Tagesordnungspunkt 12,
+210,184.0,9401.0,rede_zuviel,Wolfgang Hellmich (SPD) plenarrede Tagesordnungspunkt 12,
+210,185.0,9439.0,rede_zuviel,Kathrin Vogler (Die Linke) plenarrede Tagesordnungspunkt 12,
+210,186.0,9463.0,rede_zuviel,Josip Juratovic (SPD) plenarrede Tagesordnungspunkt 12,
+210,187.0,9535.0,rede_zuviel,Dr. Franziska Krumwiede-Steiner (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 19,
+210,188.0,9603.0,rede_zuviel,Silvia Breher (CDU) plenarrede Zusatzpunkt 19,
+210,189.0,9639.0,rede_zuviel,Sarah Lahrkamp (SPD) plenarrede Zusatzpunkt 19,
+210,190.0,9679.0,rede_zuviel,Nicole Bauer (FDP) plenarrede Zusatzpunkt 19,
+210,191.0,9735.0,rede_zuviel,Nicole Höchst (AfD) plenarrede Zusatzpunkt 19,
+210,191.0,9761.0,rede_zuviel,Dr. Kirsten Kappert-Gonther (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 19,
+210,192.0,9801.0,rede_zuviel,Dorothee Bär (CSU) plenarrede Zusatzpunkt 19,
+210,193.0,9827.0,rede_zuviel,Josephine Ortleb (SPD) plenarrede Zusatzpunkt 19,
+210,193.0,9865.0,rede_zuviel,Melanie Bernstein (CDU) plenarrede Zusatzpunkt 19,
+210,194.0,9905.0,rede_zuviel,Leni Breymaier (SPD) plenarrede Zusatzpunkt 19,
+210,195.0,9949.0,rede_zuviel,Ina Latendorf (Die Linke) plenarrede Zusatzpunkt 19,
+210,199.0,10187.0,rede_zuviel,Tobias B. Bacherle (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 13,
+210,200.0,10215.0,rede_zuviel,Markus Grübel (CDU) plenarrede Tagesordnungspunkt 13,
+210,201.0,10263.0,rede_zuviel,Michael Roth (SPD) plenarrede Tagesordnungspunkt 13,
+210,203.0,10325.0,rede_zuviel,Rainer Semet (FDP) plenarrede Tagesordnungspunkt 13,
+210,204.0,10373.0,rede_zuviel,Jan Ralf Nolte (AfD) plenarrede Tagesordnungspunkt 13,
+210,204.0,10403.0,rede_zuviel,Dr. Joe Weingarten (SPD) plenarrede Tagesordnungspunkt 13,
+210,205.0,10441.0,rede_zuviel,Jan Ralf Nolte (AfD) plenarrede Tagesordnungspunkt 13,
+210,206.0,10465.0,rede_zuviel,Kathrin Vogler (Die Linke) plenarrede Tagesordnungspunkt 13,
+210,206.0,10487.0,rede_zuviel,Thomas Silberhorn (CSU) plenarrede Tagesordnungspunkt 13,
+210,210.0,10855.0,rede_zuviel,Hermann Färber (CDU) plenarrede Tagesordnungspunkt 7,
+210,211.0,10911.0,rede_zuviel,Susanne Mittag (SPD) plenarrede Tagesordnungspunkt 7,
+210,213.0,11003.0,rede_zuviel,Ulrike Harzer (FDP) plenarrede Tagesordnungspunkt 7,
+210,214.0,11063.0,rede_zuviel,Christina-Johanne Schröder (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 7,
+210,214.0,11105.0,rede_zuviel,Bernd Schattner (AfD) plenarrede Tagesordnungspunkt 7,
+210,215.0,11143.0,rede_zuviel,Johannes F. Kretschmann (BÜNDNIS 90/DIE GRÜNEN) plenarrede Tagesordnungspunkt 7,
+210,216.0,11177.0,rede_zuviel,Astrid Damerow (CDU) plenarrede Tagesordnungspunkt 7,
+210,217.0,11229.0,rede_zuviel,Ina Latendorf (Die Linke) plenarrede Tagesordnungspunkt 7,
+210,218.0,11289.0,rede_zuviel,Artur Auernhammer (CSU) plenarrede Tagesordnungspunkt 7,
+210,222.0,11779.0,rede_zuviel,Heike Baehrens (SPD) plenarrede Zusatzpunkt 21,
+210,223.0,11857.0,rede_zuviel,Saskia Weishaupt (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 21,
+210,225.0,11911.0,rede_zuviel,Christine Aschenberg-Dugnus (FDP) plenarrede Zusatzpunkt 21,
+210,226.0,11967.0,rede_zuviel,Dr. Christina Baum (AfD) plenarrede Zusatzpunkt 21,
+210,227.0,11989.0,rede_zuviel,Dirk-Ulrich Mende (SPD) plenarrede Zusatzpunkt 21,
+210,228.0,12093.0,rede_zuviel,Kathrin Vogler (Die Linke) plenarrede Zusatzpunkt 21,
+210,229.0,12129.0,rede_zuviel,Dr. Karl Lauterbach (SPD) plenarrede Zusatzpunkt 21,
+210,229.0,12163.0,rede_zuviel,Dr. Stephan Pilsinger (CSU) plenarrede Zusatzpunkt 21,
+210,233.0,12745.0,rede_zuviel,Alexander Föhr (CDU) plenarrede Zusatzpunkt 23,
+210,234.0,12763.0,rede_zuviel,Tina Rudolph (SPD) plenarrede Zusatzpunkt 23,
+210,235.0,12827.0,rede_zuviel,Carl-Julius Cronenberg (FDP) plenarrede Zusatzpunkt 23,
+210,237.0,12881.0,rede_zuviel,Gerrit Huy (AfD) plenarrede Zusatzpunkt 23,
+210,238.0,12975.0,rede_zuviel,Erhard Grundl (BÜNDNIS 90/DIE GRÜNEN) plenarrede Zusatzpunkt 24,
+210,239.0,13021.0,rede_zuviel,Anikó Glogowski-Merten (FDP) plenarrede Zusatzpunkt 24,
+210,240.0,13063.0,rede_zuviel,Dr. Götz Frömming (AfD) plenarrede Zusatzpunkt 24,
+210,241.0,13109.0,rede_zuviel,Otto Fricke (FDP) plenarrede Zusatzpunkt 24,
+210,242.0,13181.0,rede_zuviel,Sevim Dağdelen (BSW) plenarrede Tagesordnungspunkt 16,
+210,242.0,13221.0,rede_zuviel,Ulrich Lechte (FDP) plenarrede Tagesordnungspunkt 16,
+210,244.0,13283.0,rede_zuviel,Markus Frohnmaier (AfD) plenarrede Tagesordnungspunkt 16,
+210,245.0,13341.0,rede_zuviel,Lennard Oehl (SPD) plenarrede Zusatzpunkt 25,
+210,246.0,13385.0,rede_zuviel,Jörn König (AfD) plenarrede Zusatzpunkt 25,
+210,174.0,8947.0,beitrag_zuviel,Dr. Paula Piechotta plenarrede,
+210,174.0,8969.0,beitrag_zuviel,Dr. Paula Piechotta plenarrede,
+210,174.0,8983.0,beitrag_zuviel,Jan Plobner plenarrede,
+210,175.0,9019.0,beitrag_zuviel,Stephan Mayer plenarrede,
+210,176.0,9039.0,beitrag_zuviel,Stephan Mayer plenarrede,
+210,177.0,9137.0,beitrag_zuviel,Lamya Kaddor plenarrede,
+210,178.0,9163.0,beitrag_zuviel,Dr. Johann David Wadephul plenarrede,
+210,179.0,9195.0,beitrag_zuviel,Dr. Johann David Wadephul plenarrede,
+210,179.0,9203.0,beitrag_zuviel,Dr. Johann David Wadephul plenarrede,
+210,179.0,9211.0,beitrag_zuviel,Dr. Johann David Wadephul plenarrede,
+210,179.0,9227.0,beitrag_zuviel,Jürgen Coße plenarrede,
+210,180.0,9267.0,beitrag_zuviel,Sandra Weeser plenarrede,
+210,181.0,9307.0,beitrag_zuviel,Hannes Gnauck plenarrede,
+210,182.0,9329.0,beitrag_zuviel,Boris Mijatović plenarrede,
+210,183.0,9359.0,beitrag_zuviel,Annette Widmann-Mauz plenarrede,
+210,184.0,9401.0,beitrag_zuviel,Wolfgang Hellmich plenarrede,
+210,185.0,9439.0,beitrag_zuviel,Kathrin Vogler plenarrede,
+210,186.0,9463.0,beitrag_zuviel,Josip Juratovic plenarrede,
+210,187.0,9535.0,beitrag_zuviel,Dr. Franziska Krumwiede-Steiner plenarrede,
+210,188.0,9577.0,beitrag_zuviel,Dr. Franziska Krumwiede-Steiner plenarrede,
+210,188.0,9603.0,beitrag_zuviel,Silvia Breher plenarrede,
+210,189.0,9639.0,beitrag_zuviel,Sarah Lahrkamp plenarrede,
+210,190.0,9679.0,beitrag_zuviel,Nicole Bauer plenarrede,
+210,191.0,9735.0,beitrag_zuviel,Nicole Höchst plenarrede,
+210,191.0,9761.0,beitrag_zuviel,Dr. Kirsten Kappert-Gonther plenarrede,
+210,192.0,9801.0,beitrag_zuviel,Dorothee Bär plenarrede,
+210,193.0,9827.0,beitrag_zuviel,Josephine Ortleb plenarrede,
+210,193.0,9865.0,beitrag_zuviel,Melanie Bernstein plenarrede,
+210,194.0,9905.0,beitrag_zuviel,Leni Breymaier plenarrede,
+210,195.0,9949.0,beitrag_zuviel,Ina Latendorf plenarrede,
+210,199.0,10187.0,beitrag_zuviel,Tobias B. Bacherle plenarrede,
+210,200.0,10215.0,beitrag_zuviel,Markus Grübel plenarrede,
+210,201.0,10263.0,beitrag_zuviel,Michael Roth plenarrede,
+210,203.0,10325.0,beitrag_zuviel,Rainer Semet plenarrede,
+210,203.0,10339.0,beitrag_zuviel,Rainer Semet plenarrede,
+210,204.0,10373.0,beitrag_zuviel,Jan Ralf Nolte plenarrede,
+210,204.0,10403.0,beitrag_zuviel,Dr. Joe Weingarten plenarrede,
+210,205.0,10441.0,beitrag_zuviel,Jan Ralf Nolte plenarrede,
+210,205.0,10449.0,beitrag_zuviel,Jan Ralf Nolte plenarrede,
+210,206.0,10465.0,beitrag_zuviel,Kathrin Vogler plenarrede,
+210,206.0,10487.0,beitrag_zuviel,Thomas Silberhorn plenarrede,
+210,210.0,10855.0,beitrag_zuviel,Hermann Färber plenarrede,
+210,211.0,10911.0,beitrag_zuviel,Susanne Mittag plenarrede,
+210,213.0,11003.0,beitrag_zuviel,Ulrike Harzer plenarrede,
+210,214.0,11063.0,beitrag_zuviel,Christina-Johanne Schröder plenarrede,
+210,214.0,11105.0,beitrag_zuviel,Bernd Schattner plenarrede,
+210,215.0,11143.0,beitrag_zuviel,Johannes F. Kretschmann plenarrede,
+210,216.0,11177.0,beitrag_zuviel,Astrid Damerow plenarrede,
+210,217.0,11229.0,beitrag_zuviel,Ina Latendorf plenarrede,
+210,218.0,11261.0,beitrag_zuviel,Ina Latendorf plenarrede,
+210,218.0,11289.0,beitrag_zuviel,Artur Auernhammer plenarrede,
+210,222.0,11779.0,beitrag_zuviel,Heike Baehrens plenarrede,
+210,223.0,11857.0,beitrag_zuviel,Saskia Weishaupt plenarrede,
+210,225.0,11911.0,beitrag_zuviel,Christine Aschenberg-Dugnus plenarrede,
+210,226.0,11967.0,beitrag_zuviel,Dr. Christina Baum plenarrede,
+210,227.0,11989.0,beitrag_zuviel,Dirk-Ulrich Mende plenarrede,
+210,228.0,12039.0,beitrag_zuviel,Dirk-Ulrich Mende plenarrede,
+210,228.0,12051.0,beitrag_zuviel,Dirk-Ulrich Mende plenarrede,
+210,228.0,12061.0,beitrag_zuviel,Dirk-Ulrich Mende plenarrede,
+210,228.0,12093.0,beitrag_zuviel,Kathrin Vogler plenarrede,
+210,229.0,12117.0,beitrag_zuviel,Kathrin Vogler plenarrede,
+210,229.0,12129.0,beitrag_zuviel,Dr. Karl Lauterbach plenarrede,
+210,229.0,12163.0,beitrag_zuviel,Dr. Stephan Pilsinger plenarrede,
+210,233.0,12745.0,beitrag_zuviel,Alexander Föhr plenarrede,
+210,234.0,12763.0,beitrag_zuviel,Tina Rudolph plenarrede,
+210,235.0,12827.0,beitrag_zuviel,Carl-Julius Cronenberg plenarrede,
+210,237.0,12881.0,beitrag_zuviel,Gerrit Huy plenarrede,
+210,238.0,12975.0,beitrag_zuviel,Erhard Grundl plenarrede,
+210,239.0,13021.0,beitrag_zuviel,Anikó Glogowski-Merten plenarrede,
+210,240.0,13063.0,beitrag_zuviel,Dr. Götz Frömming plenarrede,
+210,241.0,13109.0,beitrag_zuviel,Otto Fricke plenarrede,
+210,241.0,13141.0,beitrag_zuviel,Otto Fricke plenarrede,
+210,242.0,13181.0,beitrag_zuviel,Sevim Dağdelen plenarrede,
+210,242.0,13221.0,beitrag_zuviel,Ulrich Lechte plenarrede,
+210,244.0,13283.0,beitrag_zuviel,Markus Frohnmaier plenarrede,
+210,245.0,13341.0,beitrag_zuviel,Lennard Oehl plenarrede,
+210,246.0,13385.0,beitrag_zuviel,Jörn König plenarrede,
+210,148.0,7635.0,drucksache_fehlt,,"20/13950 (Tagesordnungspunkt 22, Zusatzpunkt 11 und 42)"
+210,148.0,7635.0,drucksache_fehlt,,"20/14767 (Tagesordnungspunkt 22, Zusatzpunkt 11 und 42)"
+210,148.0,7635.0,drucksache_fehlt,,"20/14754 (Tagesordnungspunkt 22, Zusatzpunkt 11 und 42)"
+210,148.0,7635.0,drucksache_fehlt,,"20/14761 (Tagesordnungspunkt 22, Zusatzpunkt 11 und 42)"
+210,152.0,7923.0,titel_abweichung,Wahl eines Stellvertreters der Präsidentin,Wahlvorschlag der Fraktion der AfD Wahl eines Stellvertreters der Präsidentin
+210,152.0,7923.0,titel_abweichung,Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes,Wahlvorschlag der Fraktion der AfD Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes
+211,39.0,1511.0,rede_fehlt,,Thorsten Frei (CDU/CSU) Zusatzpunkt 35 ID2021103000
+211,39.0,1511.0,rede_fehlt,,Annalena Baerbock (BÜNDNIS 90/DIE GRÜNEN) Zusatzpunkt 35 ID2021103100
+211,25.0,761.0,rede_zuviel,Andreas Jung (CDU) plenarrede Zusatzpunkt 29,
+211,26.0,777.0,rede_zuviel,Michael Kruse (FDP) plenarrede Zusatzpunkt 29,

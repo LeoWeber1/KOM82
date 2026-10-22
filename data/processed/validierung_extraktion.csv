@@ -1,0 +1,3 @@
+sitzung,reden_xml,reden_anlagen,absaetze_xml,absaetze_kurz,gefunden,fundquote,ordnungsquote,ordnungsquote_reden,ngramme_xml,recall_5gramm,tokens_xml,tokens_txt,recall_token
+146,168,9,1200,90,1200,1.0,1.0,1.0,41483,0.9997589373960417,46547,70172,0.9999785163383247
+196,147,1,953,101,953,1.0,1.0,1.0,36184,0.9998894539022772,40275,58399,0.9999751707014277

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Dritten Gesetzes zur Änderung des Energiewirtschaftsgesetzes\", \"kurztitel\": \"Energiewirtschaftsgesetz\", \"drucksachen\": [\"20/12784\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 101,
+ "prompt_eval_count": 1049,
+ "total_duration": 4580838042,
+ "load_duration": 1469042,
+ "wand_s": 4.5835023750551045,
+ "prompt_zeichen": 2929
+}

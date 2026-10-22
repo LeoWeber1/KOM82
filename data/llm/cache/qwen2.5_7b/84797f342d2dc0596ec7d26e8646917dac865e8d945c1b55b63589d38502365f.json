@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)\", \"kurztitel\": \"TK-Netzausbau-Beschleunigungs-Gesetz\", \"drucksachen\": [\"20/13171\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 128,
+ "prompt_eval_count": 1108,
+ "total_duration": 5859556542,
+ "load_duration": 1107167,
+ "wand_s": 5.862381458282471,
+ "prompt_zeichen": 3094
+}

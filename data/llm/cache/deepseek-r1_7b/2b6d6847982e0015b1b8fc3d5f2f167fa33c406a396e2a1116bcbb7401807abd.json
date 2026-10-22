@@ -1,0 +1,11 @@
+{
+ "modell": "deepseek-r1:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"beratungsstufe\": \"erste\",\n      \"drucksachen\": [\"20/13258\"],\n      \"kurztitel\": \"Entwurf eines Gesetzes zur erleichterten Durchsetzung der Rückgabe von NS-verfolgungsbedingt entzogenem Kulturgut\",\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur erleichterten Durchsetzung der Rückgabe von NS-verfolgungsbedingt entzogenem Kulturgut\",\n      \"typ\": \"gesetzentwurf\"\n    }\n  ]\n}",
+ "thinking": "\nOkay, I need to extract case statements from the given parliamentary protocol entry. The entry is in German, so I'll have to be careful with the terminology. The user provided an example response, so I can use that as a reference.\n\nFirst, I'll read the Aufruf Tagesordnungspunkt 20 (Sitzung 194) carefully. It says:\n\n\"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur erleichterten Durchsetzung der Rückgabe von NS-verfolgungsbedingt entzogenem Kulturgut Drucksache 20/13258 Überweisungsvorschlag: Rechtsausschuss (f) Ausschuss für Kultur und Medien\"\n\nI notice that the case statement starts with \"Erste Beratung des...\" which fits the criteria. The title is \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur erleichterten Durchsetzung der Rückgabe von NS-verfolgungsbedingt entzogenem Kulturgut\". The drucksache is \"20/13258\". The type is \"gesetzentwurf\" because it's a draft of a law. The beratungsstufe is \"erste\" as it's the first session.\n\nI'll structure this into the JSON format as shown in the example, making sure to include all the fields correctly. I'll double-check that the drucksache is correctly extracted and that the type is accurate. There's no mention of a beschluss empfehlung or other types here, so \"gesetzentwurf\" is appropriate.\n\nI should also ensure that the JSON syntax is correct, with proper commas and brackets. No additional information is present, so the response should be straightforward.\n",
+ "eval_count": 555,
+ "prompt_eval_count": 1046,
+ "total_duration": 22902147416,
+ "load_duration": 818500,
+ "wand_s": 22.90431270794943,
+ "prompt_zeichen": 2959
+}

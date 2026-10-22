@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Vierten Gesetzes zur Änderung des Bundesschienenwegeausbaugesetzes\", \"kurztitel\": \"Bundesschienenwegeausbaugesetz\", \"drucksachen\": [\"20/8288\", \"20/8651\", \"20/10414\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung\", \"kurztitel\": null, \"drucksachen\": [\"20/10416\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Verkehrsausschusses (15. Ausschuss) zu dem Antrag der Abgeordneten Wolfgang Wiehle, Dr. Dirk Spaniel, Dirk Brandes, weiterer Abgeordneter und der Fraktion der AfD Die Deutsche Bahn AG zielgerichtet und wirkungsvoll reformieren\", \"kurztitel\": null, \"drucksachen\": [\"20/7197\", \"20/10413 Buchstabe b\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 362,
+ "prompt_eval_count": 1237,
+ "total_duration": 15892253792,
+ "load_duration": 590250,
+ "wand_s": 15.894346790853888,
+ "prompt_zeichen": 3396
+}

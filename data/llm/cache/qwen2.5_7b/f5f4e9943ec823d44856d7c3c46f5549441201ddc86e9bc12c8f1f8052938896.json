@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Beschleunigung der Verfügbarkeit von Wasserstoff und zur Änderung weiterer rechtlicher Rahmenbedingungen für den Wasserstoffhochlauf sowie zur Änderung weiterer energierechtlicher Vorschriften\", \"kurztitel\": null, \"drucksachen\": [\"20/11899\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 128,
+ "prompt_eval_count": 1135,
+ "total_duration": 5912565084,
+ "load_duration": 720542,
+ "wand_s": 5.9148710407316685,
+ "prompt_zeichen": 3238
+}

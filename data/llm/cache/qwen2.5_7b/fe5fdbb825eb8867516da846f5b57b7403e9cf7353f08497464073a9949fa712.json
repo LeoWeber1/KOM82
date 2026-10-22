@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"hier: Einzelplan 25 Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen\", \"kurztitel\": null, \"drucksachen\": [\"20/8661\", \"20/8662\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 87,
+ "prompt_eval_count": 1054,
+ "total_duration": 4016570167,
+ "load_duration": 631042,
+ "wand_s": 4.018714000005275,
+ "prompt_zeichen": 2942
+}

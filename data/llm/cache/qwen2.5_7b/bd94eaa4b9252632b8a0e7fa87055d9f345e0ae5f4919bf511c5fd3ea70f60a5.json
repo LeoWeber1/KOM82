@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zum Schutz Minderjähriger bei Auslandsehen\", \"kurztitel\": null, \"drucksachen\": [\"20/11367\", \"20/11659\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Rechtsausschusses (6. Ausschuss) zu dem Antrag der Fraktion der CDU/CSU Gesetz zur Bekämpfung von Kinderehen unverzüglich nachbessern\", \"kurztitel\": null, \"drucksachen\": [\"20/10725\", \"20/11659\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 252,
+ "prompt_eval_count": 1166,
+ "total_duration": 11065669000,
+ "load_duration": 880917,
+ "wand_s": 11.068010709248483,
+ "prompt_zeichen": 3190
+}

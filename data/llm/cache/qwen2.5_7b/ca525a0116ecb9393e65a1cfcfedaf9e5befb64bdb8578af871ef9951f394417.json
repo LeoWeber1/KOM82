@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Modernisierung des Postrechts (Postrechtsmodernisierungsgesetz – PostModG)\", \"kurztitel\": \"Postrechtsmodernisierungsgesetz\", \"drucksachen\": [\"20/10283\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 111,
+ "prompt_eval_count": 1084,
+ "total_duration": 5141955208,
+ "load_duration": 933208,
+ "wand_s": 5.14448570786044,
+ "prompt_zeichen": 3038
+}

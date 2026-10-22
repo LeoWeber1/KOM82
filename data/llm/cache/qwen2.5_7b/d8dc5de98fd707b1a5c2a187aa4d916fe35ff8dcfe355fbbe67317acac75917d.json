@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zehnten Gesetzes zur Änderung des Regionalisierungsgesetzes\",\n      \"kurztitel\": \"Regionalisierungsgesetz\",\n      \"drucksachen\": [\"20/12773\", \"22/13168\", \"20/13328\", \"20/14304\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14307\"],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Änderung des § 23 des Allgemeinen Eisenbahngesetzes\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14237\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von den Abgeordneten Carina Konrad, Valentin Abel, Renata Alt, weiteren Abgeordneten und der Fraktion der FDP eingebrachten Entwurfs eines Gesetzes zur Änderung der Freistellung von Bahnbetriebszwecken des Allgemeinen Eisenbahngesetzes\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14256\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 488,
+ "prompt_eval_count": 1854,
+ "total_duration": 19978182375,
+ "load_duration": 654834,
+ "wand_s": 19.980207291897386,
+ "prompt_zeichen": 5028
+}

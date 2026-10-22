@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"hier: Einzelplan 16 Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz\", \"kurztitel\": null, \"drucksachen\": [\"20/8616\", \"20/8661\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 99,
+ "prompt_eval_count": 1070,
+ "total_duration": 4498688958,
+ "load_duration": 801958,
+ "wand_s": 4.501020999625325,
+ "prompt_zeichen": 2972
+}

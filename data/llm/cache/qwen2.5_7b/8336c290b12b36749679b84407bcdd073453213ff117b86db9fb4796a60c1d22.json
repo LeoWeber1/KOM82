@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Abkommen vom 21. Juli 2023 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die grenzüberschreitende Berufsausbildung\", \"kurztitel\": null, \"drucksachen\": [\"20/10818\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 133,
+ "prompt_eval_count": 1126,
+ "total_duration": 6094392542,
+ "load_duration": 809708,
+ "wand_s": 6.09634912526235,
+ "prompt_zeichen": 3206
+}

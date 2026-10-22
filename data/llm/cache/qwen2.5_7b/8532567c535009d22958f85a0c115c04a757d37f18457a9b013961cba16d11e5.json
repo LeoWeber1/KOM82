@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"hier: Einzelplan 30 Bundesministerium für Bildung und Forschung\", \"kurztitel\": null, \"drucksachen\": [\"20/8630\", \"20/8661\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 83,
+ "prompt_eval_count": 1056,
+ "total_duration": 3884124083,
+ "load_duration": 701666,
+ "wand_s": 3.886353624984622,
+ "prompt_zeichen": 2931
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Soldatenentschädigungsgesetzes und des Soldatenversorgungsrechts\", \"kurztitel\": \"Soldatenentschädigungsgesetz\", \"drucksachen\": [\"20/11856\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 113,
+ "prompt_eval_count": 1163,
+ "total_duration": 5487564375,
+ "load_duration": 856416,
+ "wand_s": 5.490129665937275,
+ "prompt_zeichen": 3319
+}

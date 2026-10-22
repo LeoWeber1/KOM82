@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Abgeordneten Christian Dürr, Christian Lindner, Christoph Meyer, weiteren Abgeordneten und der Fraktion der FDP eingebrachten Entwurfs eines Gesetzes zur vollständigen Befreiung der Wirtschaft und der Bürgerinnen und Bürger vom Solidaritätszuschlag (Solidaritätszuschlagbefreiungsgesetz – SolZBFreiG)\", \"kurztitel\": \"Solidaritätszuschlagbefreiungsgesetz\", \"drucksachen\": [\"20/14254\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 165,
+ "prompt_eval_count": 1090,
+ "total_duration": 7293779083,
+ "load_duration": 867375,
+ "wand_s": 7.296037166845053,
+ "prompt_zeichen": 3078
+}

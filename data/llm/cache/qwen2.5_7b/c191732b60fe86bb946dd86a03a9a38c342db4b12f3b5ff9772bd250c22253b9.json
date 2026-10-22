@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes für dringliche Änderungen im Finanzmarkt- und Steuerbereich\", \"kurztitel\": null, \"drucksachen\": [\"20/14240\", \"20/14769\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 130,
+ "prompt_eval_count": 1083,
+ "total_duration": 5881510458,
+ "load_duration": 767333,
+ "wand_s": 5.883823083247989,
+ "prompt_zeichen": 2985
+}

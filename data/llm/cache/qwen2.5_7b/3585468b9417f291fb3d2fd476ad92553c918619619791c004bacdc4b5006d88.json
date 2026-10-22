@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des Saubere-Fahrzeuge-Beschaffungs-Gesetzes\", \"kurztitel\": \"Saubere-Fahrzeuge-Beschaffungs-Gesetz\", \"drucksachen\": [\"20/8295\", \"20/8647\", \"20/8819\", \"20/10412\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 151,
+ "prompt_eval_count": 1088,
+ "total_duration": 6722803875,
+ "load_duration": 898958,
+ "wand_s": 6.725311541929841,
+ "prompt_zeichen": 2978
+}

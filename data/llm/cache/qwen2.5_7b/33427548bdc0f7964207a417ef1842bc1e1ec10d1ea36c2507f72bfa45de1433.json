@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Entwicklung und Erprobung eines Online-Verfahrens in der Zivilgerichtsbarkeit\", \"kurztitel\": null, \"drucksachen\": [\"20/13082\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 101,
+ "prompt_eval_count": 1077,
+ "total_duration": 4604820250,
+ "load_duration": 966792,
+ "wand_s": 4.60728995827958,
+ "prompt_zeichen": 3029
+}

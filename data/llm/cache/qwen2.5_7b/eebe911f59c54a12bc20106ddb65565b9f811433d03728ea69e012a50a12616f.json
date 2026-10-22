@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Bereitstellung und Nutzung von Mobilitätsdaten und zur Änderung des Personenbeförderungsgesetzes\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13954\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Andrej Hunko, Dr. Sahra Wagenknecht, Ali Al-Dailami, weiterer Abgeordneter und der Gruppe BSW Erhöhung des Beitrages zur gesetzlichen Pflegeversicherung abwenden\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13743\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Andrej Hunko, Dr. Sahra Wagenknecht, Ali Al-Dailami, weiterer Abgeordneter und der Gruppe BSW Ablehnung der Änderungen der Internationalen Gesundheitsvorschriften\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13643\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von den Abgeordneten Stephan Brandner, René Bochmann, Dr. Gottfried Curio, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Änderung des Grundgesetzes (Erweiterung der Verwirkungsregelung des Artikels 18 um die ungestörte Religionsausübung des Artikels 4 Absatz 2)\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13796\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von den Abgeordneten Tobias Matthias Peterka, Dr. Götz Frömming, Martin Erwin Renner, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Sicherung der Pressefreiheit\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13794\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 658,
+ "prompt_eval_count": 1534,
+ "total_duration": 29397002125,
+ "load_duration": 702541,
+ "wand_s": 29.39910183334723,
+ "prompt_zeichen": 4345
+}

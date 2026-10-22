@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Fragestunde\", \"kurztitel\": null, \"drucksachen\": [\"20/13176\"], \"typ\": \"sonstiges\", \"beratungsstufe\": \"unbekannt\"}]}",
+ "thinking": null,
+ "eval_count": 60,
+ "prompt_eval_count": 1026,
+ "total_duration": 1370559417,
+ "load_duration": 741917,
+ "wand_s": 1.3724003750830889,
+ "prompt_zeichen": 2846
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Susanne Ferschl, Gökay Akbulut, Matthias W. Birkwald, weiterer Abgeordneter und der Gruppe Die Linke Demokratie stärken – Betriebsräte vor mitbestimmungsfeindlichen Arbeitgebern schützen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11151\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Voraussetzungen für eine Erstattung medikamentöser Adipositas-Therapien bei hoher Krankheitslast in der gesetzlichen Krankenversicherung schaffen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11384\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von den Abgeordneten Stephan Brandner, Marc Bernhard, René Bochmann, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Sicherstellung der Qualifikation von Bundesministern\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11371\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Stephan Brandner, Marc Bernhard, René Bochmann, weiterer Abgeordneter und der Fraktion der AfD Änderung der Geschäftsordnung des Deutschen Bundestages hier: Anzeige der Redezeit\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11385\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Stephan Brandner, Carolin Bachmann, Marc Bernhard, weiterer Abgeordneter und der Fraktion der AfD Änderung der …\",\n      \"kurztitel\": null,\n      \"drucksachen\": [],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 590,
+ "prompt_eval_count": 1503,
+ "total_duration": 26428543667,
+ "load_duration": 848959,
+ "wand_s": 26.43100045900792,
+ "prompt_zeichen": 4355
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Berichterstattung haben die Abgeordneten Bruno Hönel, Felix Döring, Paul Lehrieder, Claudia Raffelhüschen, Ulrike Schielke-Ziesing, Dr. Gesine Lötzsch.\", \"kurztitel\": null, \"drucksachen\": [\"20/8617\", \"20/8661\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 113,
+ "prompt_eval_count": 1065,
+ "total_duration": 5087537000,
+ "load_duration": 695500,
+ "wand_s": 5.089647333137691,
+ "prompt_zeichen": 2958
+}

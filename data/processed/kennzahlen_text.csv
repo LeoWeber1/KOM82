@@ -1,0 +1,400 @@
+schluessel,wert,ki_unten,ki_oben,einheit,quelle
+benchSitzungen,3,,,Sitzungen,data/reference/benchmark.csv:sitzung (Anzahl)
+benchSortTokenRecall,0.9787333333333333,,,Quote,"data/reference/benchmark.csv:token_recall (Mittel variante=sort, 3 Sitzungen)"
+benchSortFuenfGrammRecall,0.5553666666666667,,,Quote,"data/reference/benchmark.csv:fuenfgramm_recall (Mittel variante=sort, 3 Sitzungen)"
+benchSortOrdnungsquote,0.6172666666666666,,,Quote,"data/reference/benchmark.csv:ordnungsquote (Mittel variante=sort, 3 Sitzungen)"
+benchSortLaufzeit,4.130333333333333,,,Sekunden/Sitzung,"data/reference/benchmark.csv:laufzeit_s (Mittel variante=sort, 3 Sitzungen)"
+benchColumnsTokenRecall,0.9998,,,Quote,"data/reference/benchmark.csv:token_recall (Mittel variante=columns, 3 Sitzungen)"
+benchColumnsFuenfGrammRecall,0.9966333333333334,,,Quote,"data/reference/benchmark.csv:fuenfgramm_recall (Mittel variante=columns, 3 Sitzungen)"
+benchColumnsOrdnungsquote,0.976,,,Quote,"data/reference/benchmark.csv:ordnungsquote (Mittel variante=columns, 3 Sitzungen)"
+benchColumnsLaufzeit,10.615333333333332,,,Sekunden/Sitzung,"data/reference/benchmark.csv:laufzeit_s (Mittel variante=columns, 3 Sitzungen)"
+benchEigenTokenRecall,0.9999333333333333,,,Quote,"data/reference/benchmark.csv:token_recall (Mittel variante=eigen, 3 Sitzungen)"
+benchEigenFuenfGrammRecall,0.9996333333333333,,,Quote,"data/reference/benchmark.csv:fuenfgramm_recall (Mittel variante=eigen, 3 Sitzungen)"
+benchEigenOrdnungsquote,1,,,Quote,"data/reference/benchmark.csv:ordnungsquote (Mittel variante=eigen, 3 Sitzungen)"
+benchEigenLaufzeit,2.662666666666667,,,Sekunden/Sitzung,"data/reference/benchmark.csv:laufzeit_s (Mittel variante=eigen, 3 Sitzungen)"
+benchPdfminerTokenRecall,0.9944000000000001,,,Quote,"data/reference/benchmark.csv:token_recall (Mittel variante=pdfminer, 3 Sitzungen)"
+benchPdfminerFuenfGrammRecall,0.9743333333333334,,,Quote,"data/reference/benchmark.csv:fuenfgramm_recall (Mittel variante=pdfminer, 3 Sitzungen)"
+benchPdfminerOrdnungsquote,0.9243666666666667,,,Quote,"data/reference/benchmark.csv:ordnungsquote (Mittel variante=pdfminer, 3 Sitzungen)"
+benchPdfminerLaufzeit,6.824333333333333,,,Sekunden/Sitzung,"data/reference/benchmark.csv:laufzeit_s (Mittel variante=pdfminer, 3 Sitzungen)"
+benchPdfplumberTokenRecall,0.9778333333333333,,,Quote,"data/reference/benchmark.csv:token_recall (Mittel variante=pdfplumber, 3 Sitzungen)"
+benchPdfplumberFuenfGrammRecall,0.5524,,,Quote,"data/reference/benchmark.csv:fuenfgramm_recall (Mittel variante=pdfplumber, 3 Sitzungen)"
+benchPdfplumberOrdnungsquote,0.6175,,,Quote,"data/reference/benchmark.csv:ordnungsquote (Mittel variante=pdfplumber, 3 Sitzungen)"
+benchPdfplumberLaufzeit,18.157,,,Sekunden/Sitzung,"data/reference/benchmark.csv:laufzeit_s (Mittel variante=pdfplumber, 3 Sitzungen)"
+konfNegNeg,18,,,Fenster,"data/processed/konfusion_bert_mehrheit.csv:Zeile mehrheit=negativ, Spalte bert_negativ"
+konfNegNeu,8,,,Fenster,"data/processed/konfusion_bert_mehrheit.csv:Zeile mehrheit=negativ, Spalte bert_neutral"
+konfNegPos,5,,,Fenster,"data/processed/konfusion_bert_mehrheit.csv:Zeile mehrheit=negativ, Spalte bert_positiv"
+konfMehrheitNeg,31,,,Fenster,data/processed/konfusion_bert_mehrheit.csv:Zeilensumme mehrheit=negativ
+konfBertNeg,20,,,Fenster,data/processed/konfusion_bert_mehrheit.csv:Spaltensumme bert_negativ
+konfNeuNeg,2,,,Fenster,"data/processed/konfusion_bert_mehrheit.csv:Zeile mehrheit=neutral, Spalte bert_negativ"
+konfNeuNeu,7,,,Fenster,"data/processed/konfusion_bert_mehrheit.csv:Zeile mehrheit=neutral, Spalte bert_neutral"
+konfNeuPos,3,,,Fenster,"data/processed/konfusion_bert_mehrheit.csv:Zeile mehrheit=neutral, Spalte bert_positiv"
+konfMehrheitNeu,12,,,Fenster,data/processed/konfusion_bert_mehrheit.csv:Zeilensumme mehrheit=neutral
+konfBertNeu,20,,,Fenster,data/processed/konfusion_bert_mehrheit.csv:Spaltensumme bert_neutral
+konfPosNeg,0,,,Fenster,"data/processed/konfusion_bert_mehrheit.csv:Zeile mehrheit=positiv, Spalte bert_negativ"
+konfPosNeu,5,,,Fenster,"data/processed/konfusion_bert_mehrheit.csv:Zeile mehrheit=positiv, Spalte bert_neutral"
+konfPosPos,12,,,Fenster,"data/processed/konfusion_bert_mehrheit.csv:Zeile mehrheit=positiv, Spalte bert_positiv"
+konfMehrheitPos,17,,,Fenster,data/processed/konfusion_bert_mehrheit.csv:Zeilensumme mehrheit=positiv
+konfBertPos,20,,,Fenster,data/processed/konfusion_bert_mehrheit.csv:Spaltensumme bert_positiv
+konfGesamt,60,,,Fenster,data/processed/konfusion_bert_mehrheit.csv:Summe aller Zellen
+llmBloeckeGesamt,601,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=bloecke_gesamt
+llmBloeckeFilter,507,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=bloecke_filter
+llmBloeckeGesetzentwurf,248,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=bloecke_gesetzentwurf
+llmBloeckeBearbeitet,248,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=bloecke_bearbeitet
+llmGesetzentwurfAbgedeckt,248,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=gesetzentwurf_abgedeckt
+llmGesetzentwurfOffen,0,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=gesetzentwurf_offen
+llmBloeckeGekuerzt,25,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=bloecke_gekuerzt
+llmGueltigNachWiederholung,2,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=gueltig_erst_nach_wiederholung
+llmSekundenSumme,2690.7,,,Sekunden,data/llm/kennzahlen_gesetze.csv:kennzahl=llm_sekunden_summe
+llmSekundenJeBlockMittel,10.8496,,,Sekunden/Block,data/llm/kennzahlen_gesetze.csv:kennzahl=sekunden_je_block_mittel
+llmSekundenJeBlockMedian,7.035,,,Sekunden/Block,data/llm/kennzahlen_gesetze.csv:kennzahl=sekunden_je_block_median
+llmTokenJeBlockMittel,239.4919,,,Token/Block,data/llm/kennzahlen_gesetze.csv:kennzahl=eval_count_mittel
+llmKlasseGleich,103,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=klasse_gleich
+llmKlasseNurTitelvariante,73,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=klasse_nur_titelvariante
+llmKlasseTypAbweichend,48,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=klasse_typ_abweichend
+llmKlasseStufeAbweichend,8,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=klasse_stufe_abweichend
+llmKlasseDrucksacheFehltRegex,6,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=klasse_drucksache_fehlt_regex
+llmKlasseUngueltig,6,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=klasse_ungueltig
+llmKlasseDrucksacheFehltLlm,4,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=klasse_drucksache_fehlt_llm
+llmTypDiffGesetzentwurfBericht,26,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=typ_diff_gesetzentwurf→bericht
+llmTypDiffGesetzentwurfBeschlussempfehlung,9,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=typ_diff_gesetzentwurf→beschlussempfehlung
+llmTypDiffBerichtSonstiges,4,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=typ_diff_bericht→sonstiges
+llmTypDiffOhneGesetzentwurf,4,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=typ_diff_–→gesetzentwurf
+llmTypDiffGesetzentwurfAntrag,4,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=typ_diff_gesetzentwurf→antrag
+llmTypDiffOhneSonstiges,3,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=typ_diff_–→sonstiges
+llmStufeDiffZweiteUndDritteBeratung,21,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=stufe_diff_zweite und dritte→beratung
+llmStufeDiffZweiteBeratung,17,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=stufe_diff_zweite→beratung
+llmStufeDiffZweiteErste,3,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=stufe_diff_zweite→erste
+llmStufeDiffBeratungErste,2,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=stufe_diff_beratung→erste
+llmStufeDiffZweiteUnbekannt,1,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=stufe_diff_zweite→unbekannt
+llmStufeDiffBeratungZweite,1,,,Blöcke,data/llm/kennzahlen_gesetze.csv:kennzahl=stufe_diff_beratung→zweite
+llmGueltig,97.58064516129032,,,Prozent,data/llm/divergenz.csv:gueltig (Formel wie llm.py kennzahlen)
+llmQuoteDrucksachen,95.86776859504133,,,Prozent,data/llm/divergenz.csv:drs_gleich bei gueltig (Formel wie llm.py kennzahlen)
+llmQuoteTitel,94.62809917355372,,,Prozent,"data/llm/divergenz.csv:titel_quote >= 0,9 bei gueltig (Formel wie llm.py kennzahlen)"
+llmQuoteKurztitel,61.98347107438017,,,Prozent,data/llm/divergenz.csv:kurztitel_gleich bei gueltig (Formel wie llm.py kennzahlen)
+llmQuoteTyp,77.68595041322314,,,Prozent,data/llm/divergenz.csv:typ_gleich bei gueltig (Formel wie llm.py kennzahlen)
+llmQuoteStufe,81.40495867768594,,,Prozent,data/llm/divergenz.csv:stufe_gleich bei gueltig (Formel wie llm.py kennzahlen)
+llmQuoteAnzahlGegenstaende,84.71074380165288,,,Prozent,data/llm/divergenz.csv:n_llm = n_regex bei gueltig (Formel wie llm.py kennzahlen)
+llmGueltigBloecke,242,,,Blöcke,data/llm/divergenz.csv:gueltig (Formel wie llm.py kennzahlen)
+vergleichBloecke,30,,,Blöcke,data/llm/modellvergleich.csv:Zeilen je modell
+vergleichDeepseekSiebenSekunden,47.30700000000001,,,Sekunden/Block,data/llm/modellvergleich.csv:sekunden (Mittel) (modell=deepseek-r1:7b)
+vergleichDeepseekSiebenToken,1105.0666666666666,,,Token/Block,data/llm/modellvergleich.csv:eval_count (Mittel) (modell=deepseek-r1:7b)
+vergleichDeepseekSiebenGleich,0,,,Blöcke,data/llm/modellvergleich.csv:klasse=gleich (modell=deepseek-r1:7b)
+vergleichDeepseekSiebenKernGleich,9,,,Blöcke,data/llm/modellvergleich.csv:klasse in gleich/nur_titelvariante (modell=deepseek-r1:7b)
+vergleichDeepseekSiebenGueltig,28,,,Blöcke,data/llm/modellvergleich.csv:gueltig (modell=deepseek-r1:7b)
+vergleichDeepseekSiebenDenkenMin,972,,,Zeichen,data/llm/modellvergleich.csv:thinking_zeichen (Min) (modell=deepseek-r1:7b)
+vergleichDeepseekSiebenDenkenMax,13919,,,Zeichen,data/llm/modellvergleich.csv:thinking_zeichen (Max) (modell=deepseek-r1:7b)
+vergleichQwenDreiSekunden,6.474333333333334,,,Sekunden/Block,data/llm/modellvergleich.csv:sekunden (Mittel) (modell=qwen2.5:3b)
+vergleichQwenDreiToken,292.46666666666664,,,Token/Block,data/llm/modellvergleich.csv:eval_count (Mittel) (modell=qwen2.5:3b)
+vergleichQwenDreiGleich,4,,,Blöcke,data/llm/modellvergleich.csv:klasse=gleich (modell=qwen2.5:3b)
+vergleichQwenDreiKernGleich,7,,,Blöcke,data/llm/modellvergleich.csv:klasse in gleich/nur_titelvariante (modell=qwen2.5:3b)
+vergleichQwenDreiGueltig,27,,,Blöcke,data/llm/modellvergleich.csv:gueltig (modell=qwen2.5:3b)
+vergleichQwenSiebenSekunden,8.109,,,Sekunden/Block,data/llm/modellvergleich.csv:sekunden (Mittel) (modell=qwen2.5:7b)
+vergleichQwenSiebenToken,173.46666666666667,,,Token/Block,data/llm/modellvergleich.csv:eval_count (Mittel) (modell=qwen2.5:7b)
+vergleichQwenSiebenGleich,22,,,Blöcke,data/llm/modellvergleich.csv:klasse=gleich (modell=qwen2.5:7b)
+vergleichQwenSiebenKernGleich,26,,,Blöcke,data/llm/modellvergleich.csv:klasse in gleich/nur_titelvariante (modell=qwen2.5:7b)
+vergleichQwenSiebenGueltig,30,,,Blöcke,data/llm/modellvergleich.csv:gueltig (modell=qwen2.5:7b)
+schiedsFaelle,40,,,Fälle,data/llm/schiedsrichter.csv:Zeilen
+schiedsGewinnerRegex,34,,,Fälle,data/llm/schiedsrichter.csv:gewinner=regex
+schiedsGewinnerLlm,3,,,Fälle,data/llm/schiedsrichter.csv:gewinner=llm
+schiedsGewinnerBeideRichtig,3,,,Fälle,data/llm/schiedsrichter.csv:gewinner=beide_richtig
+schiedsGewinnerBeideFalsch,0,,,Fälle,data/llm/schiedsrichter.csv:gewinner=beide_falsch
+schiedsLlmKurztitelErfunden,11,,,Fälle,data/llm/schiedsrichter.csv:fehlerklasse enthält „erfindet Kurztitel“
+schiedsLlmBeAbgespalten,4,,,Fälle,data/llm/schiedsrichter.csv:fehlerklasse enthält „spaltet BE“
+schiedsRegexKlammerKurztitel,3,,,Fälle,data/llm/schiedsrichter.csv:fehlerklasse enthält „Regex verpasst Klammer-Kurztitel“
+schiedsKlasseNurTitelvariante,18,,,Fälle,data/llm/schiedsrichter.csv:divergenzklasse=nur_titelvariante
+schiedsKlasseTypAbweichend,10,,,Fälle,data/llm/schiedsrichter.csv:divergenzklasse=typ_abweichend
+schiedsKlasseDrucksacheFehltLlm,3,,,Fälle,data/llm/schiedsrichter.csv:divergenzklasse=drucksache_fehlt_llm
+schiedsKlasseDrucksacheFehltRegex,3,,,Fälle,data/llm/schiedsrichter.csv:divergenzklasse=drucksache_fehlt_regex
+schiedsKlasseStufeAbweichend,3,,,Fälle,data/llm/schiedsrichter.csv:divergenzklasse=stufe_abweichend
+schiedsKlasseUngueltig,3,,,Fälle,data/llm/schiedsrichter.csv:divergenzklasse=ungueltig
+schiedsFeldKurztitel,16,,,Fälle,data/llm/schiedsrichter.csv:feld=kurztitel
+schiedsFeldDrucksachen,10,,,Fälle,data/llm/schiedsrichter.csv:feld=drucksachen
+schiedsFeldTyp,8,,,Fälle,data/llm/schiedsrichter.csv:feld=typ
+schiedsFeldBeratungsstufe,3,,,Fälle,data/llm/schiedsrichter.csv:feld=beratungsstufe
+schiedsFeldTitel,2,,,Fälle,data/llm/schiedsrichter.csv:feld=titel
+schiedsFeldGegenstaende,1,,,Fälle,data/llm/schiedsrichter.csv:feld=gegenstaende
+topZehnPositionen,71,,,Positionen,data/llm/top10_zusammenfassungen.csv:Zeilen
+topZehnGesetze,10,,,Gesetzentwürfe,data/llm/top10_zusammenfassungen.csv:drucksache (verschieden)
+topZehnPlausibelJa,28,,,Positionen,data/llm/top10_zusammenfassungen.csv:plausibel=True
+topZehnPlausibelNein,3,,,Positionen,data/llm/top10_zusammenfassungen.csv:plausibel=False
+topZehnPruefbar,31,,,Positionen,data/llm/top10_zusammenfassungen.csv:plausibel nicht leer
+topZehnOhneErwartung,40,,,Positionen,data/llm/top10_zusammenfassungen.csv:plausibel leer
+laufzeitLlmGesetze,2733.8999999999996,,,Sekunden,"data/processed/laufzeiten_teil.csv:sekunden (Summe schritt=llm_gesetze/llm_gesetze_gesetzentwurf, Läufe: 5)"
+laufzeitLlmGesetzeMinuten,45.56499999999999,,,Minuten,"data/processed/laufzeiten_teil.csv:sekunden (Summe schritt=llm_gesetze/llm_gesetze_gesetzentwurf, Läufe: 5) / 60"
+laufzeitLlmZusammenfassung,0.2,,,Sekunden,"data/processed/laufzeiten_teil.csv:sekunden (schritt=llm_zusammenfassung, letzte Zeile)"
+laufzeitLlmVergleich,1697.2,,,Sekunden,"data/processed/laufzeiten_teil.csv:sekunden (schritt=llm_vergleich, letzte Zeile)"
+laufzeitLlmCache,1.5,,,Sekunden,"data/processed/laufzeiten_teil.csv:sekunden (schritt=llm_gesetze_cache, letzte Zeile)"
+laufzeitExtractGesamt,27.9,,,Sekunden,"data/processed/laufzeiten.csv:sekunden (schritt=extract, = laufzeitExtract)"
+laufzeitExtractJeSitzung,0.41641791044776116,,,Sekunden/Sitzung,data/processed/laufzeiten.csv:sekunden / sitzungen (extract)
+laufzeitSentimentKalt,367,,,Sekunden,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Zeile Vollauf, s"
+bertFensterHundertfuenfzig,31065,,,Fenster,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Zeile Vollauf, Fenster"
+bertRedenHundertfuenfzig,10024,,,Reden,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Zeile Vollauf, Reden"
+bertRedenNeutralHundertfuenfzig,7103,,,Reden,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Zeile Vollauf, Reden neutral"
+bertRedenNegativHundertfuenfzig,2720,,,Reden,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Zeile Vollauf, Reden negativ"
+bertRedenPositivHundertfuenfzig,201,,,Reden,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Zeile Vollauf, Reden positiv"
+bertPlenarredenNeutralHundertfuenfzig,4289,,,Reden,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Zeile Vollauf, Plenarreden neutral"
+bertPlenarredenNegativHundertfuenfzig,2034,,,Reden,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Zeile Vollauf, Plenarreden negativ"
+bertPlenarredenPositivHundertfuenfzig,53,,,Reden,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Zeile Vollauf, Plenarreden positiv"
+bertFensterCacheHundertfuenfzig,9391,,,Fenster,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: im Cache"
+bertFensterGerechnetHundertfuenfzig,21674,,,Fenster,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: zu rechnen"
+bertDurchsatzHundertfuenfzig,59.2,,,Fenster/Sekunde,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: letzte Fortschrittszeile"
+bertTokMedianHundertfuenfzig,207,,,Tokens,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Tokens Median"
+bertTokPneunundneunzigHundertfuenfzig,275,,,Tokens,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Tokens P99"
+bertTokMaxHundertfuenfzig,432,,,Tokens,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Tokens max"
+bertAnteilUeberTrainingHundertfuenfzig,2.8,,,Prozent,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: über 256"
+schwachEinsSitzung,209,,,Sitzung,"data/processed/validierung.csv:sitzung (Rang 1 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachEinsFEins,0.5576923076923077,,,F1,"data/processed/validierung.csv:reden_f1 (Rang 1 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachEinsPrecision,0.4202898550724637,,,Quote,"data/processed/validierung.csv:reden_precision (Rang 1 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachEinsRecall,0.8285714285714286,,,Quote,"data/processed/validierung.csv:reden_recall (Rang 1 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachEinsRedenParser,69,,,Reden,"data/processed/validierung.csv:reden_parser (Rang 1 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachEinsRedenGold,35,,,Reden,"data/processed/validierung.csv:reden_gold (Rang 1 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachEinsXmlFehlendeTops,4,,,TOPs,"data/processed/validierung.csv:xml_fehlende_tops (Rang 1 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachZweiSitzung,210,,,Sitzung,"data/processed/validierung.csv:sitzung (Rang 2 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachZweiFEins,0.8048048048048049,,,F1,"data/processed/validierung.csv:reden_f1 (Rang 2 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachZweiPrecision,0.6733668341708543,,,Quote,"data/processed/validierung.csv:reden_precision (Rang 2 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachZweiRecall,1,,,Quote,"data/processed/validierung.csv:reden_recall (Rang 2 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachZweiRedenParser,199,,,Reden,"data/processed/validierung.csv:reden_parser (Rang 2 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachZweiRedenGold,134,,,Reden,"data/processed/validierung.csv:reden_gold (Rang 2 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachZweiXmlFehlendeTops,8,,,TOPs,"data/processed/validierung.csv:xml_fehlende_tops (Rang 2 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachDreiSitzung,207,,,Sitzung,"data/processed/validierung.csv:sitzung (Rang 3 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachDreiFEins,0.8408408408408409,,,F1,"data/processed/validierung.csv:reden_f1 (Rang 3 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachDreiPrecision,0.7253886010362695,,,Quote,"data/processed/validierung.csv:reden_precision (Rang 3 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachDreiRecall,1,,,Quote,"data/processed/validierung.csv:reden_recall (Rang 3 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachDreiRedenParser,193,,,Reden,"data/processed/validierung.csv:reden_parser (Rang 3 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachDreiRedenGold,140,,,Reden,"data/processed/validierung.csv:reden_gold (Rang 3 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachDreiXmlFehlendeTops,7,,,TOPs,"data/processed/validierung.csv:xml_fehlende_tops (Rang 3 nach reden_f1 aufsteigend, alle Sitzungen)"
+schwachVollEinsSitzung,167,,,Sitzung,"data/processed/validierung.csv:sitzung (Rang 1 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollEinsFEins,0.9146341463414634,,,F1,"data/processed/validierung.csv:reden_f1 (Rang 1 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollEinsPrecision,0.9036144578313252,,,Quote,"data/processed/validierung.csv:reden_precision (Rang 1 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollEinsRecall,0.925925925925926,,,Quote,"data/processed/validierung.csv:reden_recall (Rang 1 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollEinsRedenParser,83,,,Reden,"data/processed/validierung.csv:reden_parser (Rang 1 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollEinsRedenGold,81,,,Reden,"data/processed/validierung.csv:reden_gold (Rang 1 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollEinsXmlFehlendeTops,0,,,TOPs,"data/processed/validierung.csv:xml_fehlende_tops (Rang 1 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollZweiSitzung,182,,,Sitzung,"data/processed/validierung.csv:sitzung (Rang 2 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollZweiFEins,0.946808510638298,,,F1,"data/processed/validierung.csv:reden_f1 (Rang 2 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollZweiPrecision,0.9175257731958762,,,Quote,"data/processed/validierung.csv:reden_precision (Rang 2 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollZweiRecall,0.978021978021978,,,Quote,"data/processed/validierung.csv:reden_recall (Rang 2 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollZweiRedenParser,97,,,Reden,"data/processed/validierung.csv:reden_parser (Rang 2 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollZweiRedenGold,91,,,Reden,"data/processed/validierung.csv:reden_gold (Rang 2 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollZweiXmlFehlendeTops,0,,,TOPs,"data/processed/validierung.csv:xml_fehlende_tops (Rang 2 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollDreiSitzung,148,,,Sitzung,"data/processed/validierung.csv:sitzung (Rang 3 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollDreiFEins,0.9571428571428572,,,F1,"data/processed/validierung.csv:reden_f1 (Rang 3 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollDreiPrecision,1,,,Quote,"data/processed/validierung.csv:reden_precision (Rang 3 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollDreiRecall,0.9178082191780822,,,Quote,"data/processed/validierung.csv:reden_recall (Rang 3 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollDreiRedenParser,67,,,Reden,"data/processed/validierung.csv:reden_parser (Rang 3 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollDreiRedenGold,73,,,Reden,"data/processed/validierung.csv:reden_gold (Rang 3 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+schwachVollDreiXmlFehlendeTops,0,,,TOPs,"data/processed/validierung.csv:xml_fehlende_tops (Rang 3 nach reden_f1 aufsteigend, ohne xml_unvollstaendig)"
+beitraegeFEinsMedian,1,,,F1,data/processed/validierung.csv:beitraege_f1 (Median)
+beitraegeFEinsMin,0.8365180467091294,,,F1,data/processed/validierung.csv:beitraege_f1 (Minimum)
+parteiQuoteMedian,1,,,Quote,data/processed/validierung.csv:partei_quote (Median)
+parteiQuoteMin,0.9814814814814816,,,Quote,data/processed/validierung.csv:partei_quote (Minimum)
+befragungFEinsMedian,1,,,F1,data/processed/validierung.csv:befragung_f1 (Median)
+befragungFEinsMin,0.976878612716763,,,F1,data/processed/validierung.csv:befragung_f1 (Minimum)
+drucksachenRecallMedian,1,,,Quote,data/processed/validierung.csv:drs_recall (Median)
+drucksachenRecallMin,0.5555555555555556,,,Quote,data/processed/validierung.csv:drs_recall (Minimum)
+redenPrecisionMedian,1,,,Quote,data/processed/validierung.csv:reden_precision (Median)
+redenPrecisionMin,0.4202898550724637,,,Quote,data/processed/validierung.csv:reden_precision (Minimum)
+redenRecallMedian,1,,,Quote,data/processed/validierung.csv:reden_recall (Median)
+redenRecallMin,0.8285714285714286,,,Quote,data/processed/validierung.csv:reden_recall (Minimum)
+redenFEinsMittel,0.9663371973002025,,,F1,data/processed/validierung.csv:reden_f1 (Mittel)
+befragungFEinsMikro,0.9988613720466837,,,F1,data/processed/validierung.csv:befragung_tp/_parser/_gold (mikro)
+redenInklAnlagenFEinsMikro,0.9508459743290548,,,F1,data/processed/validierung.csv:reden_inkl_anlagen_tp/_parser/_gold (mikro)
+anlagenSitzungen,31,,,Sitzungen,data/processed/validierung.csv:recall_5gramm_anlagen (nicht leer)
+anlagenFuenfGrammRecallMin,0.9809798270893372,,,Quote,data/processed/validierung.csv:recall_5gramm_anlagen (Minimum)
+anlagenTokenRecallMin,0.9884939913065712,,,Quote,data/processed/validierung.csv:recall_token_anlagen (Minimum)
+beginnAbweichungen,0,,,Sitzungen,data/processed/validierung.csv:beginn_diff_min != 0
+schlussAbweichungen,2,,,Sitzungen,data/processed/validierung.csv:schluss_diff_min != 0
+zeitAbweichungMaxMinuten,1,,,Minuten,"data/processed/validierung.csv:beginn_diff_min/schluss_diff_min (Betrag, Maximum)"
+xmlFehlendeReden,319,,,Reden,data/processed/validierung.csv:xml_fehlende_reden (Summe)
+xmlAnlagenReden,461,,,Reden,data/processed/validierung.csv:reden_anlagen (Summe)
+xmlRedenGesamt,8558,,,Reden,data/processed/validierung.csv:reden_xml + reden_anlagen (Summe)
+xmlAnlagenAnteil,5.386772610422996,,,Prozent,data/processed/validierung.csv:reden_anlagen / (reden_xml + reden_anlagen)
+sitzungHundertsechzigRedenXml,193,,,Reden,data/processed/validierung.csv:reden_inkl_anlagen_gold (sitzung=160)
+sitzungHundertsechzigRedenParser,195,,,Reden,data/processed/validierung.csv:reden_inkl_anlagen_parser (sitzung=160)
+fehlerZeilen,1280,,,Zeilen,data/processed/fehler.csv:Zeilen
+fehlerBeitragFehlt,4,,,Fälle,data/processed/fehler.csv:art=beitrag_fehlt
+fehlerBeitragFehltParser,4,,,Fälle,"data/processed/fehler.csv:art × data/processed/validierung.csv:xml_unvollstaendig (art=beitrag_fehlt, XML vollständig)"
+fehlerBeitragFehltReferenz,0,,,Fälle,"data/processed/fehler.csv:art × data/processed/validierung.csv:xml_unvollstaendig (art=beitrag_fehlt, XML unvollständig)"
+fehlerBeitragZuviel,476,,,Fälle,data/processed/fehler.csv:art=beitrag_zuviel
+fehlerBeitragZuvielParser,11,,,Fälle,"data/processed/fehler.csv:art × data/processed/validierung.csv:xml_unvollstaendig (art=beitrag_zuviel, XML vollständig)"
+fehlerBeitragZuvielReferenz,465,,,Fälle,"data/processed/fehler.csv:art × data/processed/validierung.csv:xml_unvollstaendig (art=beitrag_zuviel, XML unvollständig)"
+fehlerDrucksacheFehlt,214,,,Fälle,data/processed/fehler.csv:art=drucksache_fehlt
+fehlerDrucksacheFehltParser,123,,,Fälle,"data/processed/fehler.csv:art × data/processed/validierung.csv:xml_unvollstaendig (art=drucksache_fehlt, XML vollständig)"
+fehlerDrucksacheFehltReferenz,91,,,Fälle,"data/processed/fehler.csv:art × data/processed/validierung.csv:xml_unvollstaendig (art=drucksache_fehlt, XML unvollständig)"
+fehlerParteiAbweichung,5,,,Fälle,data/processed/fehler.csv:art=partei_abweichung
+fehlerRedeFehlt,77,,,Fälle,data/processed/fehler.csv:art=rede_fehlt
+fehlerRedeFehltParser,63,,,Fälle,"data/processed/fehler.csv:art × data/processed/validierung.csv:xml_unvollstaendig (art=rede_fehlt, XML vollständig)"
+fehlerRedeFehltReferenz,14,,,Fälle,"data/processed/fehler.csv:art × data/processed/validierung.csv:xml_unvollstaendig (art=rede_fehlt, XML unvollständig)"
+fehlerRedeZuviel,452,,,Fälle,data/processed/fehler.csv:art=rede_zuviel
+fehlerRedeZuvielParser,81,,,Fälle,"data/processed/fehler.csv:art × data/processed/validierung.csv:xml_unvollstaendig (art=rede_zuviel, XML vollständig)"
+fehlerRedeZuvielReferenz,371,,,Fälle,"data/processed/fehler.csv:art × data/processed/validierung.csv:xml_unvollstaendig (art=rede_zuviel, XML unvollständig)"
+fehlerTitelAbweichung,50,,,Fälle,data/processed/fehler.csv:art=titel_abweichung
+fehlerTitelAbweichungParser,39,,,Fälle,"data/processed/fehler.csv:art × data/processed/validierung.csv:xml_unvollstaendig (art=titel_abweichung, XML vollständig)"
+fehlerTitelAbweichungReferenz,11,,,Fälle,"data/processed/fehler.csv:art × data/processed/validierung.csv:xml_unvollstaendig (art=titel_abweichung, XML unvollständig)"
+fehlerZeitAbweichung,2,,,Fälle,data/processed/fehler.csv:art=zeit_abweichung
+abstimmungPrecisionVEins,0.95,0.7512672372279722,0.9987349105020502,Anteil,data/reference/abstimmung_urteile_v1.csv:urteil bei abgestimmt=True (Stichprobe v1 auf früherem Parserstand; Clopper-Pearson)
+abstimmungRichtigVEins,19,,,Fälle,data/reference/abstimmung_urteile_v1.csv:urteil=richtig bei abgestimmt=True (Stichprobe v1 auf früherem Parserstand; Clopper-Pearson)
+abstimmungFaelleVEins,20,,,Fälle,data/reference/abstimmung_urteile_v1.csv:abgestimmt=True (Stichprobe v1 auf früherem Parserstand; Clopper-Pearson)
+abstimmungFehlrateFalseVEins,0.2,0.02521072632683336,0.5560954623076415,Anteil,data/reference/abstimmung_urteile_v1.csv:urteil=falsch bei abgestimmt=False (Stichprobe v1 auf früherem Parserstand; Clopper-Pearson)
+abstimmungPrecisionVZwei,0.8,0.5633859970033317,0.9426660029499672,Anteil,"data/reference/abstimmung_urteile.csv:urteil bei abgestimmt=True (Stichprobe v2, Parser vor der Korrektur; Clopper-Pearson)"
+abstimmungRichtigVZwei,16,,,Fälle,"data/reference/abstimmung_urteile.csv:urteil=richtig bei abgestimmt=True (Stichprobe v2, Parser vor der Korrektur; Clopper-Pearson)"
+abstimmungFaelleVZwei,20,,,Fälle,"data/reference/abstimmung_urteile.csv:abgestimmt=True (Stichprobe v2, Parser vor der Korrektur; Clopper-Pearson)"
+abstimmungFaelleFalseVZwei,10,,,Fälle,"data/reference/abstimmung_urteile.csv:abgestimmt=False (Stichprobe v2, Parser vor der Korrektur; Clopper-Pearson)"
+abstimmungFalschFalseVZwei,2,,,Fälle,"data/reference/abstimmung_urteile.csv:urteil=falsch bei abgestimmt=False (Stichprobe v2, Parser vor der Korrektur; Clopper-Pearson)"
+fensterCheckMedianAfDZweihundert,-0.486,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_200 (AfD)
+fensterCheckMedianAfDHundertfuenfzig,-0.523,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_150 (AfD)
+fensterCheckMedianBSWZweihundert,-0.515,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_200 (BSW)
+fensterCheckMedianBSWHundertfuenfzig,-0.604,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_150 (BSW)
+fensterCheckMedianGrueneZweihundert,-0.254,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_200 (BÜNDNIS 90/DIE GRÜNEN)
+fensterCheckMedianGrueneHundertfuenfzig,-0.273,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_150 (BÜNDNIS 90/DIE GRÜNEN)
+fensterCheckMedianUnionZweihundert,-0.294,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_200 (CDU/CSU)
+fensterCheckMedianUnionHundertfuenfzig,-0.331,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_150 (CDU/CSU)
+fensterCheckMedianLinkeZweihundert,-0.471,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_200 (Die Linke)
+fensterCheckMedianLinkeHundertfuenfzig,-0.524,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_150 (Die Linke)
+fensterCheckMedianFDPZweihundert,-0.141,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_200 (FDP)
+fensterCheckMedianFDPHundertfuenfzig,-0.165,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_150 (FDP)
+fensterCheckMedianSPDZweihundert,-0.119,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_200 (SPD)
+fensterCheckMedianSPDHundertfuenfzig,-0.181,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_150 (SPD)
+fensterCheckMedianFraktionslosZweihundert,-0.743,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_200 (fraktionslos)
+fensterCheckMedianFraktionslosHundertfuenfzig,-0.646,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: Median netto_150 (fraktionslos)
+fensterCheckAbstandFdpUnionZweihundert,0.153,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: netto FDP minus CDU/CSU (zweihundert Wörter)
+fensterCheckAbstandFdpUnionHundertfuenfzig,0.166,,,netto,Messung sentiment_fenstercheck.py an 1000 Reden: netto FDP minus CDU/CSU (hundertfuenfzig Wörter)
+fensterCheckFraktionDiffMin,-0.019000000000000017,,,netto,"Messung sentiment_fenstercheck.py an 1000 Reden: netto_150 minus netto_200, kleinster Betrag ohne fraktionslos"
+fensterCheckFraktionDiffMax,-0.08899999999999997,,,netto,"Messung sentiment_fenstercheck.py an 1000 Reden: netto_150 minus netto_200, größter Betrag ohne fraktionslos"
+fensterCheckWechselNegativNeutral,46,,,Reden,"Messung sentiment_fenstercheck.py an 1000 Reden: label_rede 200 negativ, 150 neutral"
+fensterCheckWechselNeutralNegativ,92,,,Reden,"Messung sentiment_fenstercheck.py an 1000 Reden: label_rede 200 neutral, 150 negativ"
+erstlaufSitzungenTxt,53,,,Sitzungen,"Messung Erstlauf Extraktion: Sitzungen mit txt, Lauf brach ohne Meldung ab"
+erstlaufSitzungenAbgebrochen,14,,,Sitzungen,"Messung Erstlauf Extraktion: fehlende Sitzungen 198 und 200–212, einzeln nachextrahiert"
+koepfeGesamt,12583,,,Köpfe,"Messung Stammdaten-Abgleich: Rednerköpfe aller 67 Sitzungen, 0 ohne Treffer"
+koepfeFraktionslosVorgriff,81,,,Köpfe,"Messung Stammdaten-Abgleich: Köpfe „(fraktionslos)“ in 146–149, der späteren Gruppe Die Linke/BSW zugeordnet"
+sitzungHundertsechzigKoepfe,277,,,Köpfe,"Zählung Sitzung 160: Rednerköpfe, die die Rede-Regel zu 193 Reden zusammenfasst"
+verklebtVorher,284,,,Wörter,"Messung Extraktion: Ergänzungswörter wie „Außenund“, bevor der Strich vor „und/oder“ erhalten blieb"
+verklebtNachher,1,,,Wörter,Messung Extraktion: verklebte Ergänzungswörter danach (eine URL)
+abstimmungBeschlussartNachRegeln,73,,,Fälle,"Messung 22.10.2026: Beschlussart richtig in Stichprobe v3 nach vier ergänzten Regeln (Sammelüberweisung, Überweisungsvorschlag, „auch dieser“, namentliche Schlussabstimmung), an denselben 75 Fällen; vorher 61"
+titelGesetzQuoteVorher,0.926,,,Quote,"Messung Validierung 22.10.2026: Titel gleich XML-Aufrufblock bei Gesetzentwürfen (261/282), bevor parse.py den Ergänzungsstrich vor „und“ im Titel erhielt"
+titelErgaenzungsstrich,55,,,Titel,"Messung 22.10.2026: Titel, die parse.py vor der Korrektur mit „Stromund“ statt „Strom- und“ speicherte (alle Gegenstände)"
+titelErgaenzungsstrichGesetz,17,,,Titel,Messung 22.10.2026: davon Titel von Gesetzentwürfen
+kurztitelGleichVorher,58,,,Kurztitel,Messung Validierung 22.10.2026: Kurztitel gleich XML vor der Erweiterung auf „-Gesetz“/„Gesetz zur …“ (von 70)
+versalTrennungen,7875,,,Fälle,"Messung Extraktion: verbundene Versal-Trennungen GRÜ-/NEN, BÜND-/NIS, BÜNDNIS-/SES"
+kopfFortsetzungen,1947,,,Köpfe,Messung Extraktion: Kopf-Fortsetzungen in Times-Schrift an den Rednerkopf gehängt
+grueneKoepfeWiederhergestellt,260,,,Köpfe,"Messung Extraktion: umbrochene Grünen-Köpfe, die ohne Kopf-Fortsetzung fehlten"
+goldRedenReihenfolgeVorher,104,,,Reden,"Messung Extraktion 20211: Gold-Reden in Reihenfolge zugeordnet, vor der Kopf-Fortsetzung (von 107)"
+goldRedenReihenfolgeNachher,107,,,Reden,"Messung Extraktion 20211: Gold-Reden in Reihenfolge zugeordnet, mit Kopf-Fortsetzung (von 107)"
+kurzinterventionenErstparser,94,,,Beiträge,"Messung erster Parser: Kurzinterventionen samt Erwiderungen, bevor die Erwiderung ein eigener Redetyp wurde"
+wortzaehlungAbweichung,0.05,,,Prozent MAD,"Messung Wortzählung: mittlere absolute Abweichung gegen den XML-Text, 20 Plenarreden (Seed 82)"
+wortzaehlungStichprobe,20,,,Reden,Messung Wortzählung: Plenarreden der Stichprobe (Seed 82)
+drucksachenRecallVorher,0.704,,,Quote,"Messung Validierung: Drucksachen-Recall gegen den XML-Aufrufblock (mikro), vor dem Tagesordnungs-Nachschlag"
+bertTokMaxZweihundert,581,,,Tokens,"Messung Sentiment-Erstfassung, 24 881 Fenster zu 200 Wörtern: längstes Fenster"
+bertFensterAbgeschnittenZweihundert,2,,,Fenster,"Messung Sentiment-Erstfassung, 200 Wörter: Fenster über 512 Tokens (abgeschnitten)"
+redenUnterFuenfzigWoerter,912,,,Reden,Messung Sentiment-Lauf: Reden unter 50 Wörtern ohne Sentiment
+goldPool,1500,,,Fenster,"Gold-Stichprobe: Pool aus plenarrede-Fenstern (Seed 82), wie sentiment.GOLD_POOL"
+bertFensterZweihundert,24881,,,Fenster,"Messung Sentiment-Erstfassung, Vollauf mit 200 Wörtern: Fenster"
+bertRedenZweihundert,10023,,,Reden,"Messung Sentiment-Erstfassung, Vollauf mit 200 Wörtern: Reden"
+bertVollaufSekundenZweihundert,481,,,Sekunden,"Messung Sentiment-Erstfassung, Vollauf mit 200 Wörtern ohne Cache: Laufzeit"
+bertDurchsatzZweihundert,48.6,,,Fenster/Sekunde,"Messung Sentiment-Erstfassung, Vollauf mit 200 Wörtern: Durchsatz nach 2 min"
+bertMindestDurchsatz,15,,,Fenster/Sekunde,vorab festgelegte Zeitgrenze des BERT-Vollaufs: Abbruch unter 15 Fenster/s oder nach 60 min
+bertBatch,16,,,Fenster,Messung Batchgröße auf M1 Pro: 8/16/32/64 → 43/45/44/41 Fenster/s
+qwenRaterSekunden,121,,,Sekunden,Messung tools/sentiment_qwen_rater.py: 60 Gold-Fenster der Fassung v1
+zuProtokollXml,221,,,Reden,Zählung XML: zu Protokoll gegebene Reden (Parser 365)
+zuProtokollTopFehltImXml,149,,,Reden,"Zählung: zu Protokoll gegebene Reden des Parsers, deren TOP im XML fehlt (von 365)"
+drucksachenNachschlag,198,,,Gegenstände,Zählung Parser: Gegenstände mit Drucksachen aus dem Inhaltsverzeichnis
+erstParserRedetypFehler,53,,,Beiträge,Messung erster Parser: Kurzinterventionen und Erwiderungen als plenarrede
+kurzinterventionenErstParser,60,,,Beiträge,Messung erster Parser: Kurzinterventionen ohne Erkennung der Ankündigungsformen (danach 70)
+erwiderungenErstParser,34,,,Beiträge,Messung erster Parser: Erwiderungen ohne Erkennung der Erwiderungsformeln (danach 44)
+downloadWiederholungSekunden,0.5,,,Sekunden,"Messung run_all.py: download als Wiederholungslauf, alle Dateien vorhanden"
+llmOrdinalEntwurfGegenstaende,334,,,Gegenstände,LLM-Abgleich vor der Ordinaltitel-Erkennung: Gegenstände mit Entwurfstitel
+llmOrdinalFalschTypisiert,61,,,Gegenstände,LLM-Abgleich vor der Ordinaltitel-Erkennung: Entwurfstitel als sonstiges/bericht typisiert
+llmOrdinalFehlendeGesetze,38,,,Drucksachen,"LLM-Abgleich vor der Ordinaltitel-Erkennung: Drucksachen, die in gesetze_einheit fehlten"
+llmKurztitelErfunden,57,,,Blöcke,"LLM-Abgleich: Gesetzesnamen, die das LLM ohne Klammer-Kurztitel erfindet"
+llmKurztitelRegexVerpasst,11,,,Blöcke,"LLM-Abgleich: Kurztitel, die der Regex verpasst (großes „-Gesetz“, nur Abkürzung)"
+typFixEntwurfFalschVorher,61,,,Gegenstände,"Ordinaltitel-Erkennung: Entwurfstitel als sonstiges/bericht, vorher"
+typFixEntwurfFalschNachher,0,,,Gegenstände,"Ordinaltitel-Erkennung: Entwurfstitel als sonstiges/bericht, nachher"
+typFixGesetzeEinheitVorher,221,,,Gesetzentwürfe,"Ordinaltitel-Erkennung: Zeilen in gesetze_einheit, vorher"
+typFixGesetzeEinheitNachher,259,,,Gesetzentwürfe,"Ordinaltitel-Erkennung: Zeilen in gesetze_einheit, nachher"
+typFixTypAbweichendVorher,56,,,Blöcke,"Ordinaltitel-Erkennung: LLM-Blöcke mit abweichendem Typ, vorher (von 163)"
+typFixTypAbweichendNachher,23,,,Blöcke,"Ordinaltitel-Erkennung: LLM-Blöcke mit abweichendem Typ, nachher (von 163)"
+typFixBloecke,163,,,Blöcke,Ordinaltitel-Erkennung: LLM-Blöcke im Abgleich (Cache-Stand)
+laufzeitExtractSeriell,170.6,,,Sekunden,"Messung extract auf M1 Pro: sequenziell, 67 Sitzungen"
+laufzeitExtractParallel,28.7,,,Sekunden,"Messung extract auf M1 Pro: 8 Prozesse, 67 Sitzungen, Ausgabe bytegleich"
+extractProzesse,8,,,Prozesse,Messung extract auf M1 Pro: ein Prozess je Kern
+fensterWoerterErstfassung,200,,,Wörter,Sentiment-Erstfassung: Fenster zu 200 Wörtern (heute sentiment.FENSTER_WOERTER)
+spearmanSchwelle,0.9,,,Schwelle,"vorab festgelegte Schwelle des Fenstervergleichs: 200 Wörter bleiben nur bei Spearman ≥ 0,9"
+labelGleichSchwelle,0.85,,,Schwelle,"vorab festgelegte Schwelle des Fenstervergleichs: und Label-Übereinstimmung ≥ 0,85"
+kappaSchwelle,0.3,,,Schwelle,"vorab festgelegte Schwelle: κ(BERT–Annotator-Mehrheit) < 0,3 → H3 entfällt, Sentiment nur deskriptiv"
+sortMischProzentMin,51.2,,,Prozent,"Benchmark get_text(sort=True): Zeilen mit Text beider Spalten, 20146/20185/20211 = 51,2/53,8/54,4 %"
+sortMischProzentMax,54.4,,,Prozent,"Benchmark get_text(sort=True): Zeilen mit Text beider Spalten, 20146/20185/20211 = 51,2/53,8/54,4 %"
+abstimmungHinweiszeilen,38,,,Zeilen,Fehlertyp Abstimmung zu Unrecht erkannt: Hinweiszeilen auf die laufende namentliche Abstimmung (Korpus)
+abstimmungEinzelaufrufe,346,,,Zeilen,Fehlertyp Abstimmung zu Unrecht erkannt: Einzelaufrufe „Zusatzpunkt N x:“ ohne „Ich rufe“ (Korpus)
+abstimmungEinzelplanZeilen,25,,,Zeilen,Fehlertyp Abstimmung übersehen: Zeilen „Abstimmung über (den) Einzelplan“
+abstimmungGegenFormelZeilen,28,,,Zeilen,Fehlertyp Abstimmung übersehen: Zeilen „Wer stimmt gegen die (Zurück-)Überweisung“ ohne „Wer stimmt für“
+abstimmungStrengFlagZeile,15,,,Fälle,"Abstimmungs-Stichprobe v2, strengere Lesart: Flag und Zeile korrekt (von 20)"
+abstimmungStrengSach,12,,,Fälle,"Abstimmungs-Stichprobe v2, strengere Lesart: nur Sachabstimmungen (von 20)"
+fehlertypenParser,10,,,Typen,Fehlertypenanalyse: Typen von Parserfehlern
+fehlertypenReferenz,3,,,Typen,Fehlertypenanalyse: Typen von Referenzfehlern (XML)
+guhrKorpusGesamt,5355043,,,Beispiele,"Guhr et al. 2020, S. 1629, Tab. 1"
+guhrKorpusGesamtMio,5.355043,,,Mio. Beispiele,"Guhr et al. 2020, S. 1629, Tab. 1"
+guhrJeKlasse,611267,,,Beispiele,"Guhr et al. 2020, S. 1629, Kap. 3.2"
+guhrKorpusBalanciert,1833801,,,Beispiele,"Guhr et al. 2020, S. 1629, Kap. 3.2 (3 × 611 267)"
+guhrKorpusBalanciertMio,1.833801,,,Mio. Beispiele,"Guhr et al. 2020, S. 1629, Kap. 3.2"
+guhrTrainingAnteil,70,,,Prozent,"Guhr et al. 2020, S. 1629, Kap. 3.2"
+guhrTrainingMio,1.2836606999999998,,,Mio. Beispiele,"Guhr et al. 2020, S. 1629, Kap. 3.2 (abgeleitet 0,7 × 1 833 801)"
+guhrTrainingTokens,256,,,Tokens,"Guhr et al. 2020, S. 1631, Kap. 4.2"
+guhrHotelAnteil,65.8,,,Prozent,"Guhr et al. 2020, S. 1629, Tab. 1 (abgeleitet)"
+guhrNeutralLeipzigAnteil,97.7,,,Prozent,"Guhr et al. 2020, S. 1629, Tab. 1 (abgeleitet)"
+guhrNegativBewertungAnteil,95.9,,,Prozent,"Guhr et al. 2020, S. 1629, Tab. 1 (abgeleitet)"
+guhrNegativMitFilmAnteil,98.4,,,Prozent,"Guhr et al. 2020, S. 1629, Tab. 1 (abgeleitet)"
+guhrPottsTweets,7504,,,Tweets,"Guhr et al. 2020, S. 1628, Kap. 3.1"
+guhrPottsAnteil,0.1401295937306199,,,Prozent des Korpus,"Guhr et al. 2020, S. 1628/1629 (abgeleitet 7504 / 5 355 043)"
+guhrFEinsScare,0.9409,,,F1,"Guhr et al. 2020, S. 1631, Tab. 3 (balanciert)"
+guhrFEinsGermeval,0.7727,,,F1,"Guhr et al. 2020, S. 1631, Tab. 3 (balanciert)"
+guhrFEinsHolidaycheck,0.9552,,,F1,"Guhr et al. 2020, S. 1631, Tab. 3 (balanciert)"
+guhrFEinsSbZehnK,0.693,,,F1,"Guhr et al. 2020, S. 1631, Tab. 3 (balanciert)"
+guhrFEinsFilmstarts,0.9062,,,F1,"Guhr et al. 2020, S. 1631, Tab. 3 (balanciert)"
+guhrFEinsPotts,0.6423,,,F1,"Guhr et al. 2020, S. 1631, Tab. 3 (balanciert)"
+guhrFEinsEmotions,0.9652,,,F1,"Guhr et al. 2020, S. 1631, Tab. 3 (balanciert)"
+guhrFEinsLeipzig,0.9983,,,F1,"Guhr et al. 2020, S. 1631, Tab. 3 (balanciert)"
+guhrFEinsGesamt,0.9636,,,F1,"Guhr et al. 2020, S. 1631, Tab. 3 (balanciert, combined)"
+guhrFEinsGesamtUnbalanciert,0.9744,,,F1,"Guhr et al. 2020, S. 1631, Tab. 3 (unbalanciert, combined)"
+guhrFEinsScareOhneTraining,0.8039,,,F1,"Guhr et al. 2020, S. 1631, Tab. 4"
+guhrFEinsModellkarte,0.9639,,,F1,"Modellkarte oliverguhr/german-sentiment-bert auf Hugging Face (Model and Data), nicht im Paper"
+fensterWoerterProduktion,150,,,Wörter,src/bundestag/sentiment.py:27
+fensterMindestWoerter,50,,,Wörter,src/bundestag/sentiment.py:23
+sentimentBatch,16,,,Fenster,src/bundestag/sentiment.py:36
+bootstrapResamples,1000,,,Resamples,src/bundestag/stats.py:19
+seed,82,,,Seed,src/bundestag/stats.py:18
+hEinsToleranz,3,,,Prozentpunkte Toleranz,src/bundestag/stats.py:21
+kwMindestReden,3,,,Reden je MdB,src/bundestag/stats.py:20
+llmTemperatur,0,,,Temperatur,src/bundestag/llm.py:54
+llmSeed,82,,,Seed,src/bundestag/llm.py:35
+llmMaxToken,600,,,Token je Block,src/bundestag/llm.py:49
+kiNiveau,95,,,Prozent KI,src/bundestag/stats.py:34 (Quantile .025/.975)
+zustromRednerUnion,7,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, alle Lesungen, CDU/CSU)"
+zustromRednerSPD,8,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, alle Lesungen, SPD)"
+zustromRednerGruene,5,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, alle Lesungen, BÜNDNIS 90/DIE GRÜNEN)"
+zustromRednerFDP,4,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, alle Lesungen, FDP)"
+zustromRednerAfD,3,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, alle Lesungen, AfD)"
+zustromRednerLinke,3,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, alle Lesungen, Die Linke)"
+zustromRednerBSW,2,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, alle Lesungen, BSW)"
+zustromRednerFraktionslos,3,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, alle Lesungen, fraktionslos)"
+zustromRednerSumme,35,,,Personen,"data/processed/gesetz_beteiligte.parquet:name (Summe je Fraktion, alle Lesungen)"
+zustromRednerElfUnion,3,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, 2./3. Beratung, sitzung=211, CDU/CSU)"
+zustromRednerElfSPD,4,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, 2./3. Beratung, sitzung=211, SPD)"
+zustromRednerElfGruene,2,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, 2./3. Beratung, sitzung=211, BÜNDNIS 90/DIE GRÜNEN)"
+zustromRednerElfFDP,2,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, 2./3. Beratung, sitzung=211, FDP)"
+zustromRednerElfAfD,1,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, 2./3. Beratung, sitzung=211, AfD)"
+zustromRednerElfLinke,2,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, 2./3. Beratung, sitzung=211, Die Linke)"
+zustromRednerElfBSW,1,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, 2./3. Beratung, sitzung=211, BSW)"
+zustromRednerElfFraktionslos,3,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:name (nunique, drucksache=20/12804, plenarrede, 2./3. Beratung, sitzung=211, fraktionslos)"
+zustromRednerElfSumme,18,,,Personen,"data/processed/gesetz_beteiligte.parquet:name (Summe je Fraktion, 2./3. Beratung, sitzung=211)"
+zustromRednerKurz,3,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:drucksache=20/12804, name nur kurzintervention/erwiderung, alle Lesungen"
+zustromRednerErsteKurz,1,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:drucksache=20/12804, name nur kurzintervention/erwiderung, sitzung=185"
+zustromRedenErste,23,,,Reden,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:drucksache=20/12804, Zeilen plenarrede, sitzung=185"
+zustromRednerErsteSumme,20,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:drucksache=20/12804, name (Summe je Fraktion, plenarrede, sitzung=185)"
+zustromRednerElfKurz,2,,,Personen,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:drucksache=20/12804, name nur kurzintervention/erwiderung, sitzung=211"
+zustromRedenElf,24,,,Reden,"data/processed/gesetz_beteiligte.parquet × data/processed/reden.parquet:drucksache=20/12804, Zeilen plenarrede, sitzung=211"
+zustromStimmenAbgegeben,693,,,Stimmen,data/txt/20211.txt Z. 3517–3519
+zustromStimmenJa,338,,,Stimmen,data/txt/20211.txt Z. 3517–3519
+zustromStimmenNein,350,,,Stimmen,data/txt/20211.txt Z. 3517–3519
+zustromStimmenEnthaltungen,5,,,Stimmen,data/txt/20211.txt Z. 3517–3519
+testsDateien,14,,,Dateien,tests/test_*.py (Anzahl)
+testsAnzahl,230,,,Tests,pytest --collect-only -q (Zeile „N tests collected“)

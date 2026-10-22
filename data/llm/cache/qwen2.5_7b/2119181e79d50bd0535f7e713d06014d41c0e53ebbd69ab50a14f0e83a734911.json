@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung (NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz)\", \"kurztitel\": \"NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz\", \"drucksachen\": [\"20/13184\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 160,
+ "prompt_eval_count": 1142,
+ "total_duration": 7356320625,
+ "load_duration": 904291,
+ "wand_s": 7.358880790881813,
+ "prompt_zeichen": 3232
+}

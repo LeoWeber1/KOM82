@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"höhere Mathematik heute hier\", \"kurztitel\": null, \"drucksachen\": [], \"typ\": \"sonstiges\", \"beratungsstufe\": \"unbekannt\"}]}",
+ "thinking": null,
+ "eval_count": 55,
+ "prompt_eval_count": 978,
+ "total_duration": 2369221833,
+ "load_duration": 753666,
+ "wand_s": 2.371631749905646,
+ "prompt_zeichen": 2723
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Historische Verantwortung wahrnehmen – Jüdisches Leben in Deutschland schützen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10984\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Änderung des Strafgesetzbuches zur Bekämpfung von Antisemitismus, Terror, Hass und Hetze\",\n      \"kurztitel\": \"Strafgesetzbuch\",\n      \"drucksachen\": [\"20/9310\", \"20/11003\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Beendigung des Aufenthalts und Verhinderung der Einbürgerung antisemitischer Ausländer\",\n      \"kurztitel\": \"Gesetz zur Beendigung des Aufenthalts und Verhinderung der Einbürgerung antisemitischer Ausländer\",\n      \"drucksachen\": [\"20/9311\", \"20/10996\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Nie wieder ist jetzt – Antisemitismus an Schulen, Hochschulen und Wissenschaftseinrichtungen mit aller Kraft bekämpfen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10973\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 497,
+ "prompt_eval_count": 1390,
+ "total_duration": 22078806958,
+ "load_duration": 939750,
+ "wand_s": 22.081907750107348,
+ "prompt_zeichen": 3949
+}

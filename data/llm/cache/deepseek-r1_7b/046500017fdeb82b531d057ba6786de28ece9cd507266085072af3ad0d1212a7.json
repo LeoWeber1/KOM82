@@ -1,0 +1,11 @@
+{
+ "modell": "deepseek-r1:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"beratungsstufe\": \"beratung\",\n      \"drucksachen\": [\"20/13616\"],\n      \"kurztitel\": \"Den Rohstoffmangel in Deutschland beheben und die Versorgung der Industrie mit kritischen Rohstoffen sicherstellen\",\n      \"titel\": \"Den Rohstoffmangel in Deutschland beheben und die Versorgung der Industrie mit kritischen Rohstoffen sicherstellen\",\n      \"typ\": \"antrag\"\n    }\n  ]\n}",
+ "thinking": "\nOkay, I need to extract the discussion topics from the given parliamentary session entry. The entry is in German, so I'll have to be careful with the terminology. Let me read through it again.\n\nThe entry starts with \"Beratung des Antrags der Abgeordneten Dr. Malte Kaufmann, Leif-Erik Holm, Enrico Komning, weiterer Abgeordneter und der Fraktion der AfD Den Rohstoffmangel in Deutschland beheben und die Versorgung der Industrie mit kritischen Rohstoffen sicherstellen Drucksache 20/13616 Überweisungsvorschlag: Wirtschaftsausschuss (f) Auswärtiger Ausschuss Finanzausschuss Haushaltsausschuss.\"\n\nSo, the main topic is the Beratung (consultation) of the Antrag (proposal) from the mentioned deputies and the AfD faction to address the Rohstoffmangel (raw material shortage) in Germany and ensure industrial supply of critical raw materials. The Drucksache number is 20/13616, which is the decision or decision memo.\n\nLooking at the structure, the Gegenstand ( discussion topic) starts with \"Beratung des Antrags...\". The title is \"Den Rohstoffmangel in Deutschland beheben und die Versorgung der Industrie mit kritischen Rohstoffen sicherstellen\". The Kurztitel would be the part in brackets, so \"Den Rohstoffmangel...\". The Drucksachen are the numbers, which are 20/13616. The type is an Antrag because it's a proposal. The Beratungsstufe is \"beratung\" since it's a regular discussion about an action.\n\nI don't see any other Gegenstände here, so the response will have one entry in the array.\n",
+ "eval_count": 527,
+ "prompt_eval_count": 1080,
+ "total_duration": 21883788750,
+ "load_duration": 592542,
+ "wand_s": 21.885965208988637,
+ "prompt_zeichen": 3068
+}

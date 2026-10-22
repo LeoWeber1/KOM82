@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Modernisierung des Schiedsverfahrensrechts\", \"kurztitel\": \"Schiedsverfahrensrechtsgesetz\", \"drucksachen\": [\"20/13257\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 103,
+ "prompt_eval_count": 1040,
+ "total_duration": 4541013584,
+ "load_duration": 642084,
+ "wand_s": 4.542964875232428,
+ "prompt_zeichen": 2904
+}

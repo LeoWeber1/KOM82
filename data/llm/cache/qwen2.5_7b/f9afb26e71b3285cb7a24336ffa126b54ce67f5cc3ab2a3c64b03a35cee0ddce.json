@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation European Union Naval Force ASPIDES (EUNAVFOR ASPIDES)\", \"kurztitel\": null, \"drucksachen\": [\"20/14044\", \"20/14709\", \"20/14789\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in der Republik Südsudan (UNMISS)\", \"kurztitel\": null, \"drucksachen\": [\"20/14045\", \"20/14708\", \"20/14790\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 316,
+ "prompt_eval_count": 1285,
+ "total_duration": 14143945125,
+ "load_duration": 663708,
+ "wand_s": 14.146688500419259,
+ "prompt_zeichen": 3600
+}

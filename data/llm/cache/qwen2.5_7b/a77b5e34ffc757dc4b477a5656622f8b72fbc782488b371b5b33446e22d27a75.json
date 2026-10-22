@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Dritten Gesetzes zur Änderung des Energiewirtschaftsgesetzes\",\n      \"kurztitel\": \"Energiewirtschaftsgesetz\",\n      \"drucksachen\": [\"20/12784\", \"20/13167\", \"20/13328\", \"20/14245\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Änderung des Energiewirtschaftsrechts zur Vermeidung von temporären Erzeugungsüberschüssen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14235\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Änderung des Bundesbedarfsplangesetzes\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14242\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Änderung des Erneuerbare-Energien-Gesetzes zur Flexibilisierung von Biogasanlagen und Sicherung der Anschlussförderung\",\n      \"kurztitel\": \"Erneuerbare-Energien-Gesetz\",\n      \"drucksachen\": [\"20/14246\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 526,
+ "prompt_eval_count": 1571,
+ "total_duration": 24148285875,
+ "load_duration": 787916,
+ "wand_s": 24.1521086669527,
+ "prompt_zeichen": 4362
+}

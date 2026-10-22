@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung der Sechsten Beschlussempfehlung des Wahlprüfungsausschusses zu Einsprüchen betreffend die ordnungsgemäße Zusammensetzung des 20. Deutschen Bundestages sowie zu Einsprüchen gegen die teilweise Wiederholungswahl zum 20. Deutschen Bundestag am 11. Februar 2024 Drucksache 20/11300 Der Ausschuss empfiehlt in seiner Beschlussempfehlung auf Drucksache 20/11300, die aus den Anlagen 1 bis 9 ersichtlichen Beschlussempfehlungen anzunehmen.\",\n      \"kurztitel\": \"Wahlprüfungsausschuss\",\n      \"drucksachen\": [\"20/11300\", \"20/11212\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Zweite Beratung und Schlussabstimmung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Übereinkommen vom 12. März 2019 zur Gründung des „Square Kilometre Array“-Observatoriums Drucksache 20/10248 Beschlussempfehlung und Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) Drucksache 20/11212 Der Ausschuss für Bildung, Forschung und Technikfolgenabschätzung empfiehlt in seiner Beschlussempfehlung auf Drucksache 20/11212, den Gesetzentwurf der Bundesregierung auf Drucksache 20/10248 anzunehmen. Zweite Beratung und Schlussabstimmung.\",\n      \"kurztitel\": \"Bildung, Forschung und Technikfolgenabschätzung\",\n      \"drucksachen\": [\"20/10248\", \"20/11212\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 553,
+ "prompt_eval_count": 1550,
+ "total_duration": 12560140292,
+ "load_duration": 4049917,
+ "wand_s": 12.564789917320013,
+ "prompt_zeichen": 4363
+}

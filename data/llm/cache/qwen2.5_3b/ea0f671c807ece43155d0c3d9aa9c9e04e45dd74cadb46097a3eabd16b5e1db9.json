@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des DWD-Gesetzes\", \"kurztitel\": \"DWD-Gesetzes\", \"drucksachen\": [\"20/10032\", \"20/10282\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beschlussempfehlung und Bericht des Verkehrsausschusses (15. Ausschusses) zu dem Entwurf des Zweiten Gesetzes zur Änderung des DWD-Gesetzes\", \"kurztitel\": null, \"drucksachen\": [\"20/10428\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 218,
+ "prompt_eval_count": 1092,
+ "total_duration": 4427094625,
+ "load_duration": 600541,
+ "wand_s": 4.429190292023122,
+ "prompt_zeichen": 3001
+}

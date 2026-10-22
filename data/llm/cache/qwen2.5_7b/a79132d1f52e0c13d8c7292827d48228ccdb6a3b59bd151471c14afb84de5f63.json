@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Kompetenzzentrum Leichte Sprache und Gebärdensprache jetzt richtig einrichten\", \"kurztitel\": null, \"drucksachen\": [\"20/13367\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 92,
+ "prompt_eval_count": 1081,
+ "total_duration": 4344610834,
+ "load_duration": 655875,
+ "wand_s": 4.346350041683763,
+ "prompt_zeichen": 3057
+}

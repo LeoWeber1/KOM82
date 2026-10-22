@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Stiftung Preußischer Kulturbesitz (StiftPKG)\", \"kurztitel\": \"StiftPKG\", \"drucksachen\": [\"20/13952\", \"20/14772\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung\", \"kurztitel\": null, \"drucksachen\": [\"20/14794\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 192,
+ "prompt_eval_count": 1107,
+ "total_duration": 8488803750,
+ "load_duration": 664167,
+ "wand_s": 8.49057099968195,
+ "prompt_zeichen": 3060
+}

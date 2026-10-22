@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung der Unterrichtung durch die Bundesregierung Bericht zur Risikoanalyse für den Zivilschutz 2023\",\n      \"kurztitel\": \"Zivilschutzbericht\",\n      \"drucksachen\": [\"20/10476\"],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"zweite\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 106,
+ "prompt_eval_count": 1415,
+ "total_duration": 2159644083,
+ "load_duration": 651000,
+ "wand_s": 2.1614884580485523,
+ "prompt_zeichen": 3946
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Aufhebung des Gesetzes über die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten (Lieferkettensorgfaltspflichtenaufhebungsgesetz)\",\n      \"kurztitel\": \"Lieferkettensorgfaltspflichtenaufhebungsgesetz\",\n      \"drucksachen\": [\"20/11752\", \"20/13044\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Wirtschaftsausschusses (9. Ausschuss) zu dem Antrag der Fraktion der CDU/CSU Wirtschaftswende jetzt – Sofortprogramm für die deutsche Wirtschaft\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10985\", \"20/13048 a\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Wirtschaftsausschusses (9. Ausschuss) zu dem Antrag der Fraktion der CDU/CSU Pakt für Wachstum und Wohlstand\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/8413\", \"20/13052\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Wirtschaftsausschusses (9. Ausschuss) zu dem Antrag der Fraktion der CDU/CSU Wirtschaftspolitischen Richtungsstreit der Bundesregierung beenden – Für eine echte Wirtschaftswende\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11144\", \"20/13051\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 592,
+ "prompt_eval_count": 2028,
+ "total_duration": 24389816667,
+ "load_duration": 1081209,
+ "wand_s": 24.391586708836257,
+ "prompt_zeichen": 5619
+}

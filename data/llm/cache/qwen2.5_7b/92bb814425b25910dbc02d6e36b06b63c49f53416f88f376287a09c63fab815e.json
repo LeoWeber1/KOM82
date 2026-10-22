@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"kernpunkt\": \"Gesetzentwurf zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland\",\n  \"positionen\": [\n    {\n      \"fraktion\": \"SPD\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Entschuldigung für Abstimmung mit AfD, aber Zusammenarbeit ist notwendig\"\n    },\n    {\n      \"fraktion\": \"CDU/CSU\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Entschließungsantrag zur Begrenzung des Zustroms ist in der Sache richtig\"\n    },\n    {\n      \"fraktion\": \"BÜNDNIS 90/DIE GRÜNEN\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"AfD-Mehrheit in Abstimmung, Demokratie erschüttert\"\n    },\n    {\n      \"fraktion\": \"FDP\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Mehr Demokratie wagen, AfD-Mehrheit in Abstimmung\"\n    },\n    {\n      \"fraktion\": \"AfD\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Erste Chance für AfD, ihre Politik durchzusetzen\"\n    },\n    {\n      \"fraktion\": \"Die Linke\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"AfD hat durch AfD-Mehrheit ihre Politik durchgesetzt\"\n    },\n    {\n      \"fraktion\": \"BSW\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"AfD-Mehrheit, politische Show, nicht Lösung\"\n    },\n    {\n      \"fraktion\": \"fraktionslos\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Merkels Migrationspolitik ein Fehler, AfD-Mehrheit in Abstimmung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 471,
+ "prompt_eval_count": 2180,
+ "total_duration": 28360629834,
+ "load_duration": 2251125,
+ "wand_s": 28.36632529227063,
+ "prompt_zeichen": 7499
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Neunundzwanzigsten Gesetzes zur Änderung des Bundesausbildungsförderungsgesetzes (29. BAföGÄndG)\",\n      \"kurztitel\": \"29. BAföGÄndG\",\n      \"drucksachen\": [\"20/11313\", \"20/11815\", \"20/11816\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) zu dem Antrag der Fraktion der CDU/CSU Das BAföG auf die Höhe der Zeit bringen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11375\", \"20/11376\", \"20/10744\", \"20/11815\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) zu dem Antrag der Abgeordneten Jan Wenzel Schmidt, Kay Gottschalk, Albrecht Glaser, weiterer Abgeordneter und der Fraktion der AfD Zinsen beim Studienkredit der Kreditanstalt für Wiederaufbau deckeln – Kostenfalle stoppen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/9507\", \"20/11740\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 499,
+ "prompt_eval_count": 1576,
+ "total_duration": 23058873583,
+ "load_duration": 1131083,
+ "wand_s": 23.061003500130028,
+ "prompt_zeichen": 4373
+}

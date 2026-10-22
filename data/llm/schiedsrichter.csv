@@ -1,0 +1,41 @@
+fall,sitzung,top,divergenzklasse,feld,gewinner,fehlerklasse,begruendung,quelle_zeile
+1,150,Einzelplan 14,drucksache_fehlt_llm,drucksachen,regex,LLM nimmt Abstimmungssatz statt Aufruf,Aufruf I.13: EP 23 mit Drs.; LLM nimmt Abstimmungssatz EP 14; Regex-TOP falsch,150:5479
+2,154,Zusatzpunkt 14,drucksache_fehlt_llm,gegenstaende,regex,LLM verpasst Gegenstand,ZP 15 (Drs. 20/2777) mitaufgerufen; LLM liefert nur ZP 14,154:8923
+3,172,Tagesordnungspunkt 12,drucksache_fehlt_llm,drucksachen,regex,Drucksache der Beschlussempfehlung fehlt (LLM),BE-Drucksache 20/11661 steht direkt im Aufruf; LLM lässt sie weg,172:7977
+4,157,Tagesordnungspunkt 26,drucksache_fehlt_regex,drucksachen,regex,LLM falsche Drucksache (erfunden/kopiert),20/10248 steht nirgends im Protokoll; Aufruf nennt 20/10607,157:4099
+5,163,Tagesordnungspunkt 23,drucksache_fehlt_regex,drucksachen,regex,LLM falsche Drucksache (erfunden/kopiert),"20/10979 nicht im Protokoll, fortgezählt; Antrag Sichert trägt 20/8356",163:3911
+6,178,Zusatzpunkt 5,drucksache_fehlt_regex,drucksachen,beide_richtig,Regex liest Aufruf-Drucksachen nicht (Tagesordnung als Ersatz),"Aufruf nennt 20/11474, 20/11994; Regex holt sie nur aus Tagesordnung",178:10585
+7,147,Tagesordnungspunkt 23,nur_titelvariante,kurztitel,regex,LLM erfindet Kurztitel (geändertes Gesetz),Kein Klammer-Kurztitel; LLM setzt Energiewirtschaftsgesetz als Kurztitel,147:9039
+8,155,Zusatzpunkt 20,nur_titelvariante,titel,beide_richtig,Titellänge: Regex kappt bei 400 Zeichen,Drucksachen und Typen gleich; Quote sinkt nur durch Regex-Kappung,155:3419
+9,157,Tagesordnungspunkt 13,nur_titelvariante,kurztitel,regex,LLM erfindet Kurztitel (geändertes Gesetz),Kein Kurztitel im Aufruf; LLM nennt Strafgesetzbuch,157:5479
+10,160,Tagesordnungspunkt 31,nur_titelvariante,kurztitel,regex,LLM erfindet Kurztitel (geändertes Gesetz),Beide Entwürfe ohne Klammer-Kurztitel; LLM setzt geänderte Gesetze ein,160:4143
+11,163,Tagesordnungspunkt 10,nur_titelvariante,kurztitel,regex,LLM erfindet Kurztitel (geändertes Gesetz),Kein Kurztitel; LLM übernimmt Kapitalanleger-Musterverfahrensgesetz,163:6129
+12,163,Tagesordnungspunkt 14,nur_titelvariante,kurztitel,regex,LLM erfindet Kurztitel (geändertes Gesetz),Kein Kurztitel; LLM übernimmt GAP-Konditionalitäten-Gesetz,163:7635
+13,167,Zusatzpunkt 12,nur_titelvariante,kurztitel,regex,LLM erfindet Kurztitel (geändertes Gesetz),Kein Kurztitel; LLM übernimmt Bundes-Klimaschutzgesetz,167:2099
+14,169,Tagesordnungspunkt 24,nur_titelvariante,kurztitel,regex,LLM erfindet Kurztitel (geändertes Gesetz),a) und b) ohne Kurztitel; LLM setzt Konsumcannabis- und Straßenverkehrsgesetz,169:9979
+15,176,Tagesordnungspunkt 19,nur_titelvariante,kurztitel,llm,Regex verpasst Klammer-Kurztitel,(BVaDiG) steht im Aufruf; Regex-Kurztitel leer,176:323
+16,180,Tagesordnungspunkt 3,nur_titelvariante,kurztitel,regex,LLM erfindet Kurztitel (geändertes Gesetz),Kein Kurztitel; LLM bildet Unwort Energiedienstleistungensgesetz,180:2675
+17,188,Tagesordnungspunkt 13,nur_titelvariante,kurztitel,regex,LLM erfindet Kurztitel (geändertes Gesetz),Kein Kurztitel; LLM übernimmt Tierschutzgesetz,188:5897
+18,189,Tagesordnungspunkt 32,nur_titelvariante,kurztitel,regex,LLM verpasst Kurztitel,"Klammer-Kurztitel vorhanden; LLM leer, Regex verliert nur Bindestrich",189:13
+19,192,Tagesordnungspunkt 26,nur_titelvariante,kurztitel,llm,Regex verpasst Klammer-Kurztitel,(TK-Netzausbau-Beschleunigungs-Gesetz) in Folgezeile; Regex-Kurztitel leer,192:23
+20,192,Tagesordnungspunkt 28,nur_titelvariante,kurztitel,regex,LLM kopiert Langtitel als Kurztitel,Kein Kurztitel im Text; LLM wiederholt Langtitel,192:1337
+21,194,Tagesordnungspunkt 32,nur_titelvariante,titel,regex,LLM hängt Drucksachen an Titel,Drucksachen gleich; LLM-Titel enthalten zusätzlich die Drucksachenzeilen,194:5143
+22,203,Zusatzpunkt 16,nur_titelvariante,kurztitel,llm,Regex verpasst Klammer-Kurztitel,(NSU-KomplexStiftG) steht im Aufruf; Regex-Kurztitel leer,203:9441
+23,203,Zusatzpunkt 23,nur_titelvariante,kurztitel,regex,LLM erfindet Kurztitel (geändertes Gesetz),Kein Kurztitel; LLM übernimmt Kraft-Wärme-Kopplungsgesetz,203:11117
+24,207,Zusatzpunkt 17,nur_titelvariante,kurztitel,regex,LLM erfindet Kurztitel (geändertes Gesetz),20/14241 ohne Kurztitel; LLM setzt Mutterschutzgesetz,207:12369
+25,149,Tagesordnungspunkt I,stufe_abweichend,beratungsstufe,regex,LLM rät Stufe ohne Textbeleg (Einzelplan),"Block nennt keine Stufe; Haushalt 2024 in zweiter Beratung, LLM sagt erste",149:3873
+26,151,Tagesordnungspunkt I,stufe_abweichend,beratungsstufe,regex,LLM rät Stufe ohne Textbeleg (Einzelplan),Einzelplan 11 gehört zur zweiten Beratung; LLM sagt erste,151:1477
+27,163,Tagesordnungspunkt 8,stufe_abweichend,beratungsstufe,regex,LLM überträgt Stufe auf Antrag,Antrag wird nur beraten; erste Beratung gilt nur Entwurf ZP 20,163:9
+28,149,Tagesordnungspunkt I,typ_abweichend,typ,regex,Haushalt: Bericht statt Entwurf,Einzelplan gehört zur zweiten Beratung Haushaltsgesetz; LLM klassifiziert Bericht,149:2763
+29,151,Tagesordnungspunkt II,typ_abweichend,typ,regex,LLM spaltet BE/Bericht vom Entwurf ab,BE 20/10178 betrifft denselben Entwurf; gehört zu dessen Drucksachen,151:4031
+30,151,Tagesordnungspunkt I.18,typ_abweichend,typ,regex,Haushalt: Bericht statt Entwurf,"Einzelplan 15 in zweiter Beratung; LLM klassifiziert Bericht, Stufe beratung",151:6541
+31,152,Tagesordnungspunkt I,typ_abweichend,typ,regex,Haushalt: Bericht statt Entwurf,"LLM-Titel ist Berichterstattersatz, Typ Bericht; Regex Einzelplan 60 korrekt",152:33
+32,163,Tagesordnungspunkt 15,typ_abweichend,typ,beide_richtig,§62-Bericht zu Entwurf: Typ Auslegungssache,Bericht nach § 62 Abs. 2 GO zu Gesetzentwurf; beide Typen vertretbar,163:7291
+33,172,Tagesordnungspunkt 28,typ_abweichend,drucksachen,regex,Kürzung: LLM-Gegenstand ohne Drucksache,"20/11550 jenseits Kürzung; LLM-Antrag ohne Drucksache, Kurztitel AnpVAG verpasst",172:5915
+34,207,Tagesordnungspunkt 25,typ_abweichend,drucksachen,regex,LLM falsche Drucksache (erfunden/kopiert),AfD-Antrag trägt 20/13909; LLM kopiert 20/14217 und Stufe erste,207:5499
+35,207,Zusatzpunkt 10,typ_abweichend,typ,regex,LLM spaltet BE/Bericht vom Entwurf ab,BE 20/14311 empfiehlt Annahme des Entwurfs; LLM erfindet Antragsbezug,207:6935
+36,210,Zusatzpunkt 21,typ_abweichend,typ,regex,LLM spaltet BE/Bericht vom Entwurf ab,§96-Bericht 20/14793 gehört zum GVSG-Entwurf; LLM macht eigenen Gegenstand,210:11761
+37,211,Zusatzpunkt 37,typ_abweichend,typ,regex,LLM spaltet BE/Bericht vom Entwurf ab,BE 20/14768 betrifft denselben Entwurf; LLM trennt sie ab,211:4065
+38,154,Zusatzpunkt 12,ungueltig,drucksachen,regex,LLM Schemaverstoß: Zusatz in Drucksache,"LLM schreibt „20/10413 Buchstabe b“, Antwort ungültig; Regex vollständig",154:6469
+39,172,Tagesordnungspunkt 14,ungueltig,drucksachen,regex,LLM Schemaverstoß: Zusatz in Drucksache,"LLM schreibt „20/549 Nr. 3“, Antwort ungültig; Regex vollständig",172:8879
+40,195,Zusatzpunkt 10,ungueltig,drucksachen,regex,LLM Schemaverstoß: Zusatz in Drucksache,"LLM schreibt „20/13419 Buchstabe b“, Antwort ungültig; Regex vollständig",195:5555

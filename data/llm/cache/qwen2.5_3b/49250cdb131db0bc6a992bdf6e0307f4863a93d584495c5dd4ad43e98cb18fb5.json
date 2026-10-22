@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Funkanlagengesetzes\", \"kurztitel\": \"Funkanlagengesetzes\", \"drucksachen\": [\"20/9873\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Wirtschaftsausschusses (9. Ausschusses) zu dem Antrag der Fraktion der AfD Musterantrag\", \"kurztitel\": null, \"drucksachen\": [\"20/10465\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 205,
+ "prompt_eval_count": 1102,
+ "total_duration": 4357546125,
+ "load_duration": 616583,
+ "wand_s": 4.359597040805966,
+ "prompt_zeichen": 3082
+}

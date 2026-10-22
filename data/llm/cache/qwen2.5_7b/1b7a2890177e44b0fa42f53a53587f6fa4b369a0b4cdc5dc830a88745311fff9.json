@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Produktsicherheitsgesetzes und weiterer produktsicherheitsrechtlicher Vorschriften\", \"kurztitel\": \"Produktsicherheitsgesetz\", \"drucksachen\": [\"20/12716\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 113,
+ "prompt_eval_count": 1114,
+ "total_duration": 5402899500,
+ "load_duration": 876625,
+ "wand_s": 5.405378959141672,
+ "prompt_zeichen": 3164
+}

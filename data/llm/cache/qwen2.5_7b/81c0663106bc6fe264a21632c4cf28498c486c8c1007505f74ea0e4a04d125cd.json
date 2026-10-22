@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Erweiterung der Teilzeitmöglichkeit in den Jugendfreiwilligendiensten sowie im Bundesfreiwilligendienst für Personen vor Vollendung des 27. Lebensjahres und zur Umsetzung weiterer Änderungen (Freiwilligen-Teilzeitgesetz)\", \"kurztitel\": \"Freiwilligen-Teilzeitgesetz\", \"drucksachen\": [\"20/9874\", \"20/11069\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 170,
+ "prompt_eval_count": 1211,
+ "total_duration": 7921507417,
+ "load_duration": 1141667,
+ "wand_s": 7.924435291904956,
+ "prompt_zeichen": 3453
+}

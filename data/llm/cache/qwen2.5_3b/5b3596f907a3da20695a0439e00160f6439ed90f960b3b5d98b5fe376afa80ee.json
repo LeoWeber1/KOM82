@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Fünften Gesetzes zur Änderung des Aufstiegsfortbildungsförderungsgesetzes\",\n      \"kurztitel\": \"Aufstiegsfortbildungsgesetzes\",\n      \"drucksachen\": [\n        \"20/12777\",\n        \"20/13169\"\n      ],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Überweisungsvorschlag: Ausschuss für Bildung, Forschung und Technikfolgenabschätzung (f) Wirtschaftsausschuss Ausschuss für Arbeit und Soziales Haushaltsausschuss\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\n        \"gemäß § 96 der GO\"\n      ],\n      \"typ\": \"sonstiges\",\n      \"beratungsstufe\": \"unbekannt\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 254,
+ "prompt_eval_count": 1102,
+ "total_duration": 5318370333,
+ "load_duration": 604042,
+ "wand_s": 5.3228115839883685,
+ "prompt_zeichen": 3066
+}

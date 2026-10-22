@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"hier: Einzelplan 14 Bundesministerium der Verteidigung\", \"kurztitel\": null, \"drucksachen\": [\"20/8614\", \"20/8661\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 81,
+ "prompt_eval_count": 1059,
+ "total_duration": 3768487209,
+ "load_duration": 650000,
+ "wand_s": 3.770555042196065,
+ "prompt_zeichen": 2948
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"kernpunkt\": \"Einführung einer Bezahlkarte für geflüchtete Menschen im Asylbewerberleistungsgesetz.\",\n  \"positionen\": [\n    {\n      \"fraktion\": \"SPD\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Solidarische Unterstützung der Länder und Gemeinsames Europäisches Asylsystem.\"\n    },\n    {\n      \"fraktion\": \"CDU/CSU\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Grünen stimmen gegen EU-Asylreform, was gegen Sozialleistungsbetrug vorgeht.\"\n    },\n    {\n      \"fraktion\": \"BÜNDNIS 90/DIE GRÜNEN\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Bezahlkarten sind nicht notwendig, da sie ohne Regelung eingeführt werden können.\"\n    },\n    {\n      \"fraktion\": \"AfD\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Verbesserung von Datenübermittlungen und Abfrageprozessen zur Verhinderung von Leistungsbetrug.\"\n    },\n    {\n      \"fraktion\": \"FDP\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Neuer Baustein zur Realpolitik in der Migration.\"\n    },\n    {\n      \"fraktion\": \"Die Linke\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Vorurteile gegenüber Geflüchteten und absurd, dass große Geldbeträge ins Ausland transferiert werden.\"\n    },\n    {\n      \"fraktion\": \"BSW\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Koalition hat nicht die Kraft, abgelehnte Asylbewerber zurückzuführen.\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 441,
+ "prompt_eval_count": 2023,
+ "total_duration": 55419397375,
+ "load_duration": 16387667,
+ "wand_s": 55.437738166190684,
+ "prompt_zeichen": 7136
+}

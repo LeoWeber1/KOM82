@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2557 und zur Stärkung der Resilienz kritischer Anlagen\", \"kurztitel\": null, \"drucksachen\": [\"20/13961\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 117,
+ "prompt_eval_count": 1122,
+ "total_duration": 5508832834,
+ "load_duration": 812584,
+ "wand_s": 5.511112832929939,
+ "prompt_zeichen": 3155
+}

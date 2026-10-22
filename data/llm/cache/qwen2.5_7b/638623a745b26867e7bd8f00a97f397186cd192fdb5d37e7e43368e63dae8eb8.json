@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"kernpunkt\": \"Änderung des Grundgesetzes zur Stärkung des Bundesverfassungsgerichts\",\n  \"positionen\": [\n    {\"fraktion\": \"SPD\", \"haltung\": \"zustimmend\", \"begruendung\": \"Stärkung der Demokratie durch robustere Institutionen\"},\n    {\"fraktion\": \"CDU/CSU\", \"haltung\": \"zustimmend\", \"begruendung\": \"Resilienz des Bundesverfassungsgerichtes verankern\"},\n    {\"fraktion\": \"BÜNDNIS 90/DIE GRÜNEN\", \"haltung\": \"zustimmend\", \"begruendung\": \"Notwendigkeit der Sicherheitsmaßnahmen gegen Angriffe auf Demokratie\"},\n    {\"fraktion\": \"FDP\", \"haltung\": \"zustimmend\", \"begruendung\": \"Stärkung der Verfassungskontrolle\"},\n    {\"fraktion\": \"AfD\", \"haltung\": \"ablehnend\", \"begruendung\": \"Neuigkeiten sind wenig, Änderungen sind nicht notwendig\"},\n    {\"fraktion\": \"fraktionslos\", \"haltung\": \"zustimmend\", \"begruendung\": \"Stärkung des Bundesverfassungsgerichts zur Schutz der Grundrechte\"},\n    {\"fraktion\": \"Die Linke\", \"haltung\": \"zustimmend\", \"begruendung\": \"Widerstandsfähigkeit der Demokratie gegen innen stehende Feinde verstärken\"}\n  ]\n}",
+ "thinking": null,
+ "eval_count": 372,
+ "prompt_eval_count": 2045,
+ "total_duration": 23528669000,
+ "load_duration": 1659583,
+ "wand_s": 23.531681125052273,
+ "prompt_zeichen": 6954
+}

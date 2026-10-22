@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Neunundzwanzigsten Gesetzes zur Änderung des Bundesausbildungsförderungsgesetzes (29. BAföGÄndG)\",\n      \"kurztitel\": \"29. BAföGÄndG\",\n      \"drucksachen\": [\"20/11313\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Das BAföG auf die Höhe der Zeit bringen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11375\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Dr. Götz Frömming, Nicole Höchst, Dr. Marc Jongen, weiterer Abgeordneter und der Fraktion der AfD Kernprobleme des BAföG angehen – Antragsverfahren vereinfachen, Zuschuss vom Darlehen entkoppeln, Beiträge erhöhen und Dynamisierung gesetzlich verankern\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11376\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Nicole Gohlke, Anke Domscheit-Berg, Clara Bünger, weiterer Abgeordneter und der Gruppe Die Linke BAföG unverzüglich existenzsichernd und krisenfest gestalten\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10744\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 495,
+ "prompt_eval_count": 1532,
+ "total_duration": 22715322333,
+ "load_duration": 908458,
+ "wand_s": 22.71777025004849,
+ "prompt_zeichen": 4369
+}

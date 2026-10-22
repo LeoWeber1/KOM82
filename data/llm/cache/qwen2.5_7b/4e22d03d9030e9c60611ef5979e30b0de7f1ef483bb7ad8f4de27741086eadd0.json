@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Soldatenentschädigungsgesetzes und des Soldatenversorgungsrechts\",\n      \"kurztitel\": \"Soldatenentschädigungsgesetz\",\n      \"drucksachen\": [\"20/11856\", \"20/13401\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13402\"],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 228,
+ "prompt_eval_count": 1123,
+ "total_duration": 9958987459,
+ "load_duration": 798917,
+ "wand_s": 9.96141904219985,
+ "prompt_zeichen": 3099
+}

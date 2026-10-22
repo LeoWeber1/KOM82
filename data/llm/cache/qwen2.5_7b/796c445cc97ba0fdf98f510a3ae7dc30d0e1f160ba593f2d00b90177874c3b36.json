@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Fraktionen SPD, CDU/CSU, BÜNDNIS 90/DIE GRÜNEN und FDP sowie dem Abgeordneten Stefan Seidler eingebrachten Entwurfs eines Gesetzes zur Änderung des Grundgesetzes (Artikel 93 und 94)\", \"kurztitel\": null, \"drucksachen\": [\"20/12977\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von den Fraktionen SPD, CDU/CSU, BÜNDNIS 90/DIE GRÜNEN und FDP sowie dem Abgeordneten Stefan Seidler eingebrachten Entwurfs eines Gesetzes zur Änderung des Bundesverfassungsgerichtsgesetzes und des Untersuchungsausschussgesetzes\", \"kurztitel\": null, \"drucksachen\": [\"20/12978\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 269,
+ "prompt_eval_count": 1210,
+ "total_duration": 11893818500,
+ "load_duration": 822166,
+ "wand_s": 11.89610179234296,
+ "prompt_zeichen": 3346
+}

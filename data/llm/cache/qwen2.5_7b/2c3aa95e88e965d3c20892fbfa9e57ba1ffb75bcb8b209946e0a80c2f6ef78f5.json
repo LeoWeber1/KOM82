@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Reform der Notfallversorgung\", \"kurztitel\": \"Notfallversorgungsgesetz\", \"drucksachen\": [\"20/13166\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 96,
+ "prompt_eval_count": 1045,
+ "total_duration": 4249088792,
+ "load_duration": 1678625,
+ "wand_s": 4.2515722080133855,
+ "prompt_zeichen": 2919
+}

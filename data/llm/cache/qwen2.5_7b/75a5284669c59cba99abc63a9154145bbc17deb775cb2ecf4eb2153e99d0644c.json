@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung der Sechsten Beschlussempfehlung des Wahlprüfungsausschusses zu Einsprüchen betreffend die ordnungsgemäße Zusammensetzung des 20. Deutschen Bundestages sowie zu Einsprüchen gegen die teilweise Wiederholungswahl zum 20. Deutschen Bundestag am 11. Februar 2024\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11300\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Zweite Beratung und Schlussabstimmung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Übereinkommen vom 12. März 2019 zur Gründung des „Square Kilometre Array“-Observatoriums\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10248\", \"20/11212\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 300,
+ "prompt_eval_count": 1550,
+ "total_duration": 14860799416,
+ "load_duration": 824083,
+ "wand_s": 14.864240541122854,
+ "prompt_zeichen": 4363
+}

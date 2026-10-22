@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Gesundheitsversorgung in der Kommune (Gesundheitsversorgungsstärkungsgesetz – GVSG)\", \"kurztitel\": \"GVSG\", \"drucksachen\": [\"20/11853\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Gesundheitsversorgung im ländlichen Raum stärken\", \"kurztitel\": null, \"drucksachen\": [\"20/11955\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 192,
+ "prompt_eval_count": 1300,
+ "total_duration": 9281963458,
+ "load_duration": 1200208,
+ "wand_s": 9.285115042235702,
+ "prompt_zeichen": 3724
+}

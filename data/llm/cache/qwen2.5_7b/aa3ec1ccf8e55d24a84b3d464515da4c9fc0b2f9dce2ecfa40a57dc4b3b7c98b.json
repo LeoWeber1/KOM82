@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Richtlinie (EU) 2017/541 zur Terrorismusbekämpfung\", \"kurztitel\": null, \"drucksachen\": [\"20/11848\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 106,
+ "prompt_eval_count": 1056,
+ "total_duration": 4776193167,
+ "load_duration": 1301917,
+ "wand_s": 4.77883837511763,
+ "prompt_zeichen": 2938
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Stärkung der Handels – und Außenwirtschaftsbeziehungen der Europäischen Union (Handelsoffensivegesetz)\", \"kurztitel\": \"Handelsoffensivegesetz\", \"drucksachen\": [\"20/11614\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 123,
+ "prompt_eval_count": 1091,
+ "total_duration": 5594708208,
+ "load_duration": 886875,
+ "wand_s": 5.5970740001648664,
+ "prompt_zeichen": 3101
+}

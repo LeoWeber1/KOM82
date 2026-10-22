@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals an Hochschulen des Bundes und zur Änderung weiterer dienstrechtlicher Vorschriften\", \"kurztitel\": null, \"drucksachen\": [\"20/10247\", \"20/11647\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 139,
+ "prompt_eval_count": 1300,
+ "total_duration": 7079783167,
+ "load_duration": 665667,
+ "wand_s": 7.0818565408699214,
+ "prompt_zeichen": 3700
+}

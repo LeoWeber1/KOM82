@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Aktuelle Stunde Auf Verlangen der Fraktion der AfD Paragraf 188 StGB abschaffen – Keine Einschränkung der Meinungsfreiheit durch den Straftatbestand der Politikerbeleidigung\", \"kurztitel\": null, \"drucksachen\": [], \"typ\": \"sonstiges\", \"beratungsstufe\": \"unbekannt\"}]}",
+ "thinking": null,
+ "eval_count": 101,
+ "prompt_eval_count": 1022,
+ "total_duration": 4486713583,
+ "load_duration": 753292,
+ "wand_s": 4.489006916992366,
+ "prompt_zeichen": 2859
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Beratung des Antrags der Abgeordneten Martin Hess, Dr. Bernd Baumann, Dr. Gottfried Curio, weiterer Abgeordneter und der Fraktion der AfD\", \"kurztitel\": null, \"drucksachen\": [\"20/10612\"], \"typ\": \"antrag\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Überweisungsvorschlag: Ausschuss für Inneres und Heimat (f) Ausschuss für Familie, Senioren, Frauen und Jugend\", \"kurztitel\": null, \"drucksachen\": [\"20/10612\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"zweite\"}]}",
+ "thinking": null,
+ "eval_count": 184,
+ "prompt_eval_count": 1093,
+ "total_duration": 4019039167,
+ "load_duration": 660458,
+ "wand_s": 4.021137499716133,
+ "prompt_zeichen": 3106
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des Berufskraftfahrerqualifikationsgesetzes und anderer straßenverkehrsrechtlicher Vorschriften\", \"kurztitel\": null, \"drucksachen\": [\"20/12658\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Vierten Gesetzes zur Änderung des Güterkraftverkehrsgesetzes und anderer Gesetze\", \"kurztitel\": null, \"drucksachen\": [\"20/12776\", \"20/13088\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 221,
+ "prompt_eval_count": 1169,
+ "total_duration": 9738695042,
+ "load_duration": 1022292,
+ "wand_s": 9.741519000381231,
+ "prompt_zeichen": 3256
+}

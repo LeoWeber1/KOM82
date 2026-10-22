@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Seefischereigesetzes und zur Umsetzung weiterer unionsrechtlicher Vorgaben\", \"kurztitel\": \"Seefischereigesetz\", \"drucksachen\": [\"20/13154\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 111,
+ "prompt_eval_count": 1062,
+ "total_duration": 4984395375,
+ "load_duration": 996042,
+ "wand_s": 4.9870033748447895,
+ "prompt_zeichen": 2989
+}

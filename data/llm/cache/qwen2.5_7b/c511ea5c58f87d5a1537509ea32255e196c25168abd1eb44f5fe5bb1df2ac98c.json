@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung des Justizstandortes Deutschland durch Einführung von Commercial Courts und der Gerichtssprache Englisch in der Zivilgerichtsbarkeit (Justizstandort-Stärkungsgesetz)\",\n      \"kurztitel\": \"Justizstandort-Stärkungsgesetz\",\n      \"drucksachen\": [\"20/8649\", \"20/11466\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Rechtsausschusses (6. Ausschuss) zu dem Antrag der Fraktion der CDU/CSU Stärkung der Ziviljustiz in internationalen Wirtschaftsstreitigkeiten durch Einrichtung von Commercial Courts\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/4334\", \"20/6609 Buchstabe b\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 314,
+ "prompt_eval_count": 1544,
+ "total_duration": 12892999792,
+ "load_duration": 707083,
+ "wand_s": 12.894819917157292,
+ "prompt_zeichen": 4350
+}

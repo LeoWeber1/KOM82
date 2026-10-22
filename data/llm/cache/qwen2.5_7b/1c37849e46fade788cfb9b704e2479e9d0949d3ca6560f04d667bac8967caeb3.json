@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Medizinforschungsgesetzes\", \"kurztitel\": \"Medizinforschungsgesetz\", \"drucksachen\": [\"20/11561\", \"20/12149\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Ein Entschließungsantrag der Unionsfraktion\", \"kurztitel\": null, \"drucksachen\": [\"20/11561\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 171,
+ "prompt_eval_count": 1068,
+ "total_duration": 7306991416,
+ "load_duration": 621958,
+ "wand_s": 7.308887332677841,
+ "prompt_zeichen": 2975
+}

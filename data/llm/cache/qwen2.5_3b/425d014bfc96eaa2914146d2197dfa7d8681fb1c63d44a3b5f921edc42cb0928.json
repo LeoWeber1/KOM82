@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) – zu dem Antrag der Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP Eine interessen- und wertegeleitete Internationalisierung von Wissenschaft und Hochschulbildung – zu dem Antrag der Fraktion der CDU/CSU Rückzug der Bundesregierung aus der internationalen Zusammenarbeit in Wissenschaft und Forschung stoppen – Deutsche Vermittlerorganisationen stärken\",\n      \"kurztitel\": \"Bildung, Forschung und Technikfolgenabschätzung\",\n      \"drucksachen\": [\n        \"20/9312\",\n        \"20/9308\",\n        \"20/6991\",\n        \"20/10752\"\n      ],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Beratung der Unterrichtung durch die Bundesregierung Bericht der Bundesregierung zur internationalen Kooperation in Bildung, Wissenschaft und Forschung 2021 bis 2022\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\n        \"20/9880\"\n      ],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"zweite\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 368,
+ "prompt_eval_count": 1333,
+ "total_duration": 8363611917,
+ "load_duration": 600750,
+ "wand_s": 8.365648792125285,
+ "prompt_zeichen": 3814
+}

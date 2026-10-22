@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur weiteren Stärkung der personellen Einsatzbereitschaft und zur Änderung von Vorschriften für die Bundeswehr\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13488\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zu dem Abkommen vom 13. September 2024 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Litauen über die Zusammenarbeit im Verteidigungsbereich\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14020\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Strafbarkeit der Ausübung von Tätigkeiten für fremde Mächte sowie zur Änderung soldatenrechtlicher und soldatenbeteiligungsrechtlicher Vorschriften\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13957\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 391,
+ "prompt_eval_count": 1333,
+ "total_duration": 17758252958,
+ "load_duration": 980583,
+ "wand_s": 17.76401016721502,
+ "prompt_zeichen": 3829
+}

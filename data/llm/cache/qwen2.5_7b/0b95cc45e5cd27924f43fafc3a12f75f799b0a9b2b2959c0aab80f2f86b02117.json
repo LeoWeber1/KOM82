@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines … Gesetzes zur Änderung des Bundeswahlgesetzes\", \"kurztitel\": null, \"drucksachen\": [\"20/8867\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss) zu dem Entwurf eines Gesetzes zur Änderung des Bundeswahlgesetzes\", \"kurztitel\": null, \"drucksachen\": [\"20/10178\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 222,
+ "prompt_eval_count": 1076,
+ "total_duration": 9352360667,
+ "load_duration": 2864458,
+ "wand_s": 9.354310208931565,
+ "prompt_zeichen": 2978
+}

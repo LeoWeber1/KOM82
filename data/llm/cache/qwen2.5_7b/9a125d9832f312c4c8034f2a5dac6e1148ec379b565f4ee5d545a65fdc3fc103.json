@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"kernpunkt\": \"Verbesserung der inneren Sicherheit und des Asylsystems im Hinblick auf islamistischen Terrorismus, Rechts- und Linksextremismus sowie Gewaltkriminalität.\",\n  \"positionen\": [\n    {\n      \"fraktion\": \"SPD\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Sicherheitspaket als wichtiger Fortschritt zur Bekämpfung von Terrorismus und Gewaltkriminalität.\"\n    },\n    {\n      \"fraktion\": \"CDU/CSU\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Versprechen des Bundeskanzlers nicht gehalten, da Sicherheitsmaßnahmen nicht durchgesetzt wurden.\"\n    },\n    {\n      \"fraktion\": \"BÜNDNIS 90/DIE GRÜNEN\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Verbesserungen im Waffenrecht und Migration, stärkere Sicherheitskräfte.\"\n    },\n    {\n      \"fraktion\": \"AfD\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Zustimmung trotz Kritik an der Koalition und der Migrationspolitik.\"\n    },\n    {\n      \"fraktion\": \"FDP\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Notwendigkeit zusätzlicher politischer Maßnahmen zur geordneten Migration.\"\n    },\n    {\n      \"fraktion\": \"Die Linke\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Scheinlösungen und pauschale Einstufung von Geflüchteten als Terrorismusverdächtige.\"\n    },\n    {\n      \"fraktion\": \"BSW\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Vernünftige Sicherheitspolitik durch die Grünen verhindert, nach Meinung des BSW.\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 459,
+ "prompt_eval_count": 1944,
+ "total_duration": 42276321708,
+ "load_duration": 2080333,
+ "wand_s": 42.29053204227239,
+ "prompt_zeichen": 6987
+}

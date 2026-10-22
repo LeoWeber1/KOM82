@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Berichterstattung haben die Abgeordneten Dr. Dietmar Bartsch, Dennis Rohde, Kerstin Radomski, Sven-Christian Kindler, Otto Fricke und Peter Boehringer.\", \"kurztitel\": null, \"drucksachen\": [\"20/8601\", \"20/8661\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 108,
+ "prompt_eval_count": 1056,
+ "total_duration": 4848957791,
+ "load_duration": 836791,
+ "wand_s": 4.851409541908652,
+ "prompt_zeichen": 2934
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Einführung eines Leitentscheidungsverfahrens beim Bundesgerichtshof\", \"kurztitel\": null, \"drucksachen\": [\"20/8762\", \"20/13025\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 116,
+ "prompt_eval_count": 1064,
+ "total_duration": 5232820583,
+ "load_duration": 1300958,
+ "wand_s": 5.2351118749938905,
+ "prompt_zeichen": 2965
+}

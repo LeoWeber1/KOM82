@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des DWD-Gesetzes\", \"kurztitel\": \"DWD-Gesetz\", \"drucksachen\": [\"20/10032\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 98,
+ "prompt_eval_count": 1139,
+ "total_duration": 4793540875,
+ "load_duration": 744208,
+ "wand_s": 4.79575658403337,
+ "prompt_zeichen": 3218
+}

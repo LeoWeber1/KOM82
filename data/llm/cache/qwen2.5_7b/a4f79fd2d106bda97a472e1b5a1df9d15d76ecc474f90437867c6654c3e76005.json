@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Abgeordneten Stephan Brandner, Dr. Bernd Baumann, Marc Bernhard, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Reform der missbräuchlichen Anerkennung von Vaterschaften\", \"kurztitel\": null, \"drucksachen\": [\"20/10792\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 129,
+ "prompt_eval_count": 1108,
+ "total_duration": 5894045125,
+ "load_duration": 861875,
+ "wand_s": 5.896675291936845,
+ "prompt_zeichen": 3137
+}

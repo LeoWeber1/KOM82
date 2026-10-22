@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zum Schienenlärmschutz (SchlärmschG)\", \"kurztitel\": \"Schienenlärmschutzgesetz\", \"drucksachen\": [\"20/11314\", \"20/11995\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 122,
+ "prompt_eval_count": 1064,
+ "total_duration": 5460600375,
+ "load_duration": 744500,
+ "wand_s": 5.462732624728233,
+ "prompt_zeichen": 2934
+}

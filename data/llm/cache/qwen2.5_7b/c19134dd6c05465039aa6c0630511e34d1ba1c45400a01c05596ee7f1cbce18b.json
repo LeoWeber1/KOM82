@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 – HG 2025)\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12400\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung der Unterrichtung durch die Bundesregierung Finanzplan des Bundes 2024 bis 2028\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12401\"],\n      \"typ\": \"sonstiges\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Haushaltsbegleitgesetzes 2025\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12772\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung eines Nachtrags zum Bundeshaushaltsplan für das Haushaltsjahr 2024 (Nachtragshaushaltsgesetz 2024)\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12770\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 439,
+ "prompt_eval_count": 1422,
+ "total_duration": 19743155583,
+ "load_duration": 809458,
+ "wand_s": 19.74624158255756,
+ "prompt_zeichen": 4021
+}

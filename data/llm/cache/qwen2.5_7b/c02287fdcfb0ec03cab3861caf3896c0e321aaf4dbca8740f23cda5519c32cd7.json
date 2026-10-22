@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Abgeordneten Sabine Dittmar, Gitta Connemann, Dr. Armin Grau und weiteren Abgeordneten eingebrachten Entwurfs eines Vierten Gesetzes zur Änderung des Transplantationsgesetzes – Einführung einer Widerspruchsregelung im Transplantationsgesetz\", \"kurztitel\": \"Transplantationsgesetz\", \"drucksachen\": [\"20/13804\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 143,
+ "prompt_eval_count": 1090,
+ "total_duration": 6479632375,
+ "load_duration": 675709,
+ "wand_s": 6.481998750008643,
+ "prompt_zeichen": 3060
+}

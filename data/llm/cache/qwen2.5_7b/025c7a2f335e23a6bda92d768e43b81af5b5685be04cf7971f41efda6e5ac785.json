@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung der Höfeordnung und zur Änderung der Verfahrensordnung für Höfesachen\", \"kurztitel\": null, \"drucksachen\": [\"20/12788\", \"20/13093\", \"20/13328\", \"20/13647\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 143,
+ "prompt_eval_count": 1126,
+ "total_duration": 6542682459,
+ "load_duration": 780084,
+ "wand_s": 6.54508254211396,
+ "prompt_zeichen": 3109
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"hier: Einzelplan 10 Bundesministerium für Ernährung und Landwirtschaft\", \"kurztitel\": null, \"drucksachen\": [\"20/8610\", \"20/8661\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 85,
+ "prompt_eval_count": 1065,
+ "total_duration": 3937492250,
+ "load_duration": 784417,
+ "wand_s": 3.9398425831459463,
+ "prompt_zeichen": 2955
+}

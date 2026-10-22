@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Anpassung von Datenübermittlungsvorschriften im Ausländer- und Sozialrecht (DÜV-AnpassG)\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/9470\", \"20/10016\", \"20/10131\", \"20/11006\", \"20/11019\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und Soziales (11. Ausschuss) zu dem Antrag der Fraktion der CDU/CSU Bezahlkarte einführen – Sachleistungsprinzip konsequent umsetzen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/8729\", \"20/11005\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 310,
+ "prompt_eval_count": 1425,
+ "total_duration": 14616390292,
+ "load_duration": 1215459,
+ "wand_s": 14.620642750058323,
+ "prompt_zeichen": 3918
+}

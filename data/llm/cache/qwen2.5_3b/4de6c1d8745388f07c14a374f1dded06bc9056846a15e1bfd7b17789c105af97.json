@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zum Schienenlärmschutz (SchlärmschG)\", \"kurztitel\": \"SchlärmschG\", \"drucksachen\": [\"20/11314\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung des Verkehrsausschusses (15. Ausschuss) Drucksache 20/11995\", \"kurztitel\": null, \"drucksachen\": [\"20/11995\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 192,
+ "prompt_eval_count": 1064,
+ "total_duration": 4056874292,
+ "load_duration": 599583,
+ "wand_s": 4.05878408299759,
+ "prompt_zeichen": 2934
+}

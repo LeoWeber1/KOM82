@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Erteilung der Zustimmung nach § 7 Absatz 2 in Verbindung mit Absatz 1 des Integrationsverantwortungsgesetzes zu dem Antrag der Europäischen Investitionsbank zur Änderung von Artikel 16 Absatz 5 ihrer Satzung\", \"kurztitel\": null, \"drucksachen\": [\"20/13949\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Finanzausschusses (7. Ausschuss) zu dem Antrag der Fraktion der CDU/CSU, FDP, Bündnis 90/Die Grünen, SPD\", \"kurztitel\": null, \"drucksachen\": [\"20/14311\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 261,
+ "prompt_eval_count": 1285,
+ "total_duration": 12033621584,
+ "load_duration": 855500,
+ "wand_s": 12.035963291767985,
+ "prompt_zeichen": 3601
+}

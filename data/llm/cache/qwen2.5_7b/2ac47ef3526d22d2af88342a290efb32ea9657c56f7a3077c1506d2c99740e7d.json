@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Landwirtschaft tatsächlich entlasten – Versprechen der Bundesregierung umgehend umsetzen\", \"kurztitel\": null, \"drucksachen\": [\"20/11951\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}, {\"titel\": \"Beratung des Antrags der Abgeordneten Bernd Schattner, Stephan Protschka, Peter Felser, weiterer Abgeordneter und der Fraktion der AfD Die deutsche Landwirtschaft wirklich entlasten\", \"kurztitel\": null, \"drucksachen\": [\"20/11958\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 191,
+ "prompt_eval_count": 1088,
+ "total_duration": 16175357792,
+ "load_duration": 3594679625,
+ "wand_s": 16.177345290780067,
+ "prompt_zeichen": 3055
+}

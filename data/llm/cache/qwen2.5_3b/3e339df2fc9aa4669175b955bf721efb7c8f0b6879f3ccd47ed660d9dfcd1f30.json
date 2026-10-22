@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Regelung hybrider und virtueller Versammlungen in der Bundesnotarordnung, der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung und dem Steuerberatungsgesetz sowie zur Änderung weiterer Vorschriften des Rechts der rechtsberatenden Berufe\",\n      \"kurztitel\": \"hybrider und virtueller Versammlungen\",\n      \"drucksachen\": [\n        \"20/8674\",\n        \"20/12144\"\n      ],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Beschlussempfehlung und Bericht des Rechtsausschusses (6. Ausschuss) zur Änderung weiterer Vorschriften des Rechts der rechtsberatenden Berufe\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\n        \"20/12144\"\n      ],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 311,
+ "prompt_eval_count": 1124,
+ "total_duration": 6786000208,
+ "load_duration": 1064583,
+ "wand_s": 6.788359583821148,
+ "prompt_zeichen": 3150
+}

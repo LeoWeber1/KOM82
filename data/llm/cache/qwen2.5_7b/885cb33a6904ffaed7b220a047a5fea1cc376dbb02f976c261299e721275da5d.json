@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Abgeordneten Caren Lay, Dr. Gesine Lötzsch, Gökay Akbulut, weiteren Abgeordneten und der Gruppe Die Linke eingebrachten Entwurfs eines Gesetzes zur effektiven Verfolgung von Mietwucher (Mietwuchergesetz)\", \"kurztitel\": \"Mietwuchergesetz\", \"drucksachen\": [\"20/13294\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Abgeordneten Caren Lay, Dr. Gesine Lötzsch, Christian Görke, weiterer Abgeordneter und der Gruppe Die Linke Zeit zu handeln – Für ein starkes, soziales Mietrecht\", \"kurztitel\": null, \"drucksachen\": [\"20/12105\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 249,
+ "prompt_eval_count": 1219,
+ "total_duration": 11251468500,
+ "load_duration": 773125,
+ "wand_s": 11.253627709113061,
+ "prompt_zeichen": 3427
+}

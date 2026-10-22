@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Wortmeldung zur Geschäftsordnung der Abgeordneten Bachmann von der AfD-Fraktion\", \"kurztitel\": null, \"drucksachen\": [], \"typ\": \"sonstiges\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 69,
+ "prompt_eval_count": 1064,
+ "total_duration": 3332174125,
+ "load_duration": 562875,
+ "wand_s": 3.3340180409140885,
+ "prompt_zeichen": 3026
+}

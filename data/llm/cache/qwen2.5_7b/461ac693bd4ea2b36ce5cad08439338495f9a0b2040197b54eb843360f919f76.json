@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Zulassung virtueller Wohnungseigentümerversammlungen, zur Erleichterung des Einsatzes von Steckersolargeräten und zur Übertragbarkeit beschränkter persönlicher Dienstbarkeiten für Erneuerbare-Energien-Anlagen\", \"kurztitel\": null, \"drucksachen\": [\"20/9890\", \"20/12146\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Zweite und dritte Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zum beschleunigten Ausbau von Balkonkraftwerken (BalKraftBeschG)\", \"kurztitel\": null, \"drucksachen\": [\"20/6905\", \"20/12146\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 275,
+ "prompt_eval_count": 1219,
+ "total_duration": 12267028917,
+ "load_duration": 899750,
+ "wand_s": 12.26981908408925,
+ "prompt_zeichen": 3392
+}

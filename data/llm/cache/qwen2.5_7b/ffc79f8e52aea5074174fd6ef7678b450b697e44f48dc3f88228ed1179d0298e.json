@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Finanzausgleichsgesetzes 2024 und zur Änderung des Stabilisierungsfondsgesetzes (FAG-Änderungsgesetz 2024)\", \"kurztitel\": \"Finanzausgleichsgesetz 2024\", \"drucksachen\": [\"20/11522\", \"20/11872\", \"20/12036\", \"20/12150\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 181,
+ "prompt_eval_count": 1123,
+ "total_duration": 8065079042,
+ "load_duration": 866375,
+ "wand_s": 8.068039457779378,
+ "prompt_zeichen": 3048
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"kernpunkt\": \"Änderung des Abgeordnetengesetzes zur Stärkung des Bundesverfassungsgerichts\",\n  \"positionen\": [\n    {\"fraktion\": \"SPD\", \"haltung\": \"zustimmend\", \"begruendung\": \"Stärkung der Demokratie durch robustere Institutionen\"},\n    {\"fraktion\": \"CDU/CSU\", \"haltung\": \"zustimmend\", \"begruendung\": \"Resilienz des Bundesverfassungsgerichtes verankern\"},\n    {\"fraktion\": \"BÜNDNIS 90/DIE GRÜNEN\", \"haltung\": \"zustimmend\", \"begruendung\": \"Demokratien unter Druck, Stärkung des Bundesverfassungsgerichts notwendig\"},\n    {\"fraktion\": \"FDP\", \"haltung\": \"zustimmend\", \"begruendung\": \"Stärkung des Bundesverfassungsgerichts als notwendig\"},\n    {\"fraktion\": \"AfD\", \"haltung\": \"ablehnend\", \"begruendung\": \"Gesetzentwürfe unverändert, keine neuen Erkenntnisse\"},\n    {\"fraktion\": \"Die Linke\", \"haltung\": \"zustimmend\", \"begruendung\": \"Widerstandsfähigkeit der Demokratie durch Stärkung des Bundesverfassungsgerichts\"},\n    {\"fraktion\": \"fraktionslos\", \"haltung\": \"zustimmend\", \"begruendung\": \"Stärkung des Bundesverfassungsgerichts als Säule der politischen Ordnung\"}\n  ]\n}",
+ "thinking": null,
+ "eval_count": 395,
+ "prompt_eval_count": 2044,
+ "total_duration": 43204885458,
+ "load_duration": 1618333,
+ "wand_s": 43.21389108337462,
+ "prompt_zeichen": 6965
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Abgeordneten Stephan Brandner, Tobias Matthias Peterka, Fabian Jacobi, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Rehabilitierung von Personen, die aufgrund von Verstößen gegen Verhaltenspflichten zur Verhinderung der Verbreitung der COVID-19-Krankheit wegen einer Straftat verurteilt oder nach dem Ordnungswidrigkeitengesetz mit einer Geldbuße belegt wurden (COVID-19-Rehabilitierungsgesetz)\", \"kurztitel\": null, \"drucksachen\": [\"20/12034\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Abgeordneten Martin Sichert, Dr. Christina Baum, Jörg Schneider, weiterer Abgeordneter und der Fraktion der AfD Rehabilitierung von Soldaten und Reservisten wegen Verstößen gegen die Duldungspflicht betreffend die COVID-19-Schutzimpfung\", \"kurztitel\": null, \"drucksachen\": [\"20/12093\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 315,
+ "prompt_eval_count": 1281,
+ "total_duration": 14184350125,
+ "load_duration": 1009959,
+ "wand_s": 14.187442583031952,
+ "prompt_zeichen": 3693
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der EU-Erneuerbaren-Richtlinie in den Bereichen Windenergie auf See und Stromnetze und zur Änderung des Bundesbedarfsplangesetzes\", \"kurztitel\": null, \"drucksachen\": [\"20/11226\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 122,
+ "prompt_eval_count": 1123,
+ "total_duration": 5693192167,
+ "load_duration": 802125,
+ "wand_s": 5.695437957998365,
+ "prompt_zeichen": 3172
+}

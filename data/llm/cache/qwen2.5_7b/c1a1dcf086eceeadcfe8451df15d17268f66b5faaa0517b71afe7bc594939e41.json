@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Herzgesundheit (Gesundes-Herz-Gesetz – GHG)\", \"kurztitel\": \"Gesundes-Herz-Gesetz\", \"drucksachen\": [\"20/13094\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Primärprävention stärken – Evidenzbasierte Gesundheitsversorgung erhalten\", \"kurztitel\": null, \"drucksachen\": [\"20/13292\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 199,
+ "prompt_eval_count": 1224,
+ "total_duration": 9153941291,
+ "load_duration": 603000,
+ "wand_s": 9.15562591701746,
+ "prompt_zeichen": 3457
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"hier: Einzelplan 06 Bundesministerium des Innern und für Heimat\", \"kurztitel\": null, \"drucksachen\": [\"20/8606\", \"20/8661\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"hier: Einzelplan 21 Bundesbeauftragter für den Datenschutz und die Informationsfreiheit\", \"kurztitel\": null, \"drucksachen\": [\"20/8661\", \"20/8662\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 166,
+ "prompt_eval_count": 1215,
+ "total_duration": 7926760417,
+ "load_duration": 710875,
+ "wand_s": 7.92881445819512,
+ "prompt_zeichen": 3424
+}

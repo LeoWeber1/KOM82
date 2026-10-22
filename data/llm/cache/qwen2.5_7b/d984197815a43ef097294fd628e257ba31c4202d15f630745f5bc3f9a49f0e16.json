@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Abgeordneten Thomas Seitz, René Bochmann, Marcus Bühl, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Heraufsetzung der Altershöchstgrenze für Schöffen\", \"kurztitel\": null, \"drucksachen\": [\"20/10188\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 128,
+ "prompt_eval_count": 1100,
+ "total_duration": 5825292875,
+ "load_duration": 801042,
+ "wand_s": 5.827767624985427,
+ "prompt_zeichen": 3103
+}

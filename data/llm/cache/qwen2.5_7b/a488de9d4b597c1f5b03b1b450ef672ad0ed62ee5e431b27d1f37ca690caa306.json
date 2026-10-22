@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Fortentwicklung des Völkerstrafrechts\", \"kurztitel\": null, \"drucksachen\": [\"20/9471\", \"20/10015\", \"20/10131\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 119,
+ "prompt_eval_count": 1084,
+ "total_duration": 5441875542,
+ "load_duration": 832458,
+ "wand_s": 5.444309625308961,
+ "prompt_zeichen": 2965
+}

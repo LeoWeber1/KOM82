@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Gruppe Die Linke eingebrachten Entwurfs eines Gesetzes zur Aussetzung des Anpassungsverfahrens gemäß § 11 Absatz 4 des Abgeordnetengesetzes für das Jahr 2024 (Anpassungsverfahrensaussetzungsgesetz 2024)\", \"kurztitel\": null, \"drucksachen\": [\"20/11422\", \"20/12063\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 156,
+ "prompt_eval_count": 1296,
+ "total_duration": 7798840250,
+ "load_duration": 887625,
+ "wand_s": 7.801250041928142,
+ "prompt_zeichen": 3624
+}

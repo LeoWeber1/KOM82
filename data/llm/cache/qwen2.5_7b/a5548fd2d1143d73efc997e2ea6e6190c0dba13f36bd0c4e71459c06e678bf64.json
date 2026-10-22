@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes über die Auszahlung der Erwerbsminderungsrenten-Bestandsverbesserung (EM-Bestandsrentenverbesserungsauszahlungsgesetz)\", \"kurztitel\": \"EM-Bestandsrentenverbesserungsauszahlungsgesetz\", \"drucksachen\": [\"20/10607\", \"20/11179\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 169,
+ "prompt_eval_count": 1156,
+ "total_duration": 7727102166,
+ "load_duration": 1310708,
+ "wand_s": 7.730703874956816,
+ "prompt_zeichen": 3231
+}

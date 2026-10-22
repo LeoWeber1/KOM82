@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"kernpunkt\": \"Gesetzentwurf zur Aufhebung des Lieferkettensorgfaltspflichtengesetzes umfasst wirtschaftspolitische Debatten.\",\n  \"positionen\": [\n    {\n      \"fraktion\": \"SPD\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Die SPD kämpft für Industriearbeitsplätze.\"\n    },\n    {\n      \"fraktion\": \"CDU/CSU\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Die CDU/CSU sieht eine strukturelle Wirtschaftskrise.\"\n    },\n    {\n      \"fraktion\": \"BÜNDNIS 90/DIE GRÜNEN\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Die Grünen sehen die Notwendigkeit der Abholung von Versäumnissen.\"\n    },\n    {\n      \"fraktion\": \"AfD\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Die AfD nennt die CDU die Choreografin des deutschen Untergangs.\"\n    },\n    {\n      \"fraktion\": \"FDP\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Die FDP will den Antrag eindeutig ablehnen.\"\n    },\n    {\n      \"fraktion\": \"Die Linke\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Die Linke sieht das Gesetz als Notwendigkeit, um Menschenrechte zu schützen.\"\n    },\n    {\n      \"fraktion\": \"BSW\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Der BSW sieht das Gesetz als Fortschritt für die soziale Marktwirtschaft.\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 419,
+ "prompt_eval_count": 2100,
+ "total_duration": 26115472083,
+ "load_duration": 2486792,
+ "wand_s": 26.124006541911513,
+ "prompt_zeichen": 7311
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Berichterstattung haben die Abgeordneten Dennis Rohde, Christian Haase, Sven-Christian Kindler, Torsten Herbst, Peter Boehringer und Dr. Gesine Lötzsch.\", \"kurztitel\": null, \"drucksachen\": [\"20/8602\", \"20/8661\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 106,
+ "prompt_eval_count": 1049,
+ "total_duration": 4773609208,
+ "load_duration": 707792,
+ "wand_s": 4.775855167303234,
+ "prompt_zeichen": 2916
+}

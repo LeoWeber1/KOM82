@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Änderung der Regelungen über die zulässige Miethöhe bei Mietbeginn\", \"kurztitel\": null, \"drucksachen\": [\"20/14238\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von den Abgeordneten Carina Konrad, Daniel Föst, Renata Alt, weiteren Abgeordneten und der Fraktion der FDP eingebrachten Entwurfs eines Gesetzes zur Einführung einer befristeten Sonderregelung für den Wohnungsbau in das Baugesetzbuch (Bau-Turbo-Gesetz)\", \"kurztitel\": \"Bau-Turbo-Gesetz\", \"drucksachen\": [\"20/14261\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 262,
+ "prompt_eval_count": 1253,
+ "total_duration": 11900950292,
+ "load_duration": 885084,
+ "wand_s": 11.903308665845543,
+ "prompt_zeichen": 3510
+}

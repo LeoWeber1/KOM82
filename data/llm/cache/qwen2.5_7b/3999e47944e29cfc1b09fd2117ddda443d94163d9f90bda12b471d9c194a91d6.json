@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Sechsten Gesetzes zur Verbesserung rehabilitierungsrechtlicher Vorschriften für Opfer der politischen Verfolgung in der ehemaligen DDR\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12789\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Dr. Götz Frömming, Martin Reichardt, Martin Renner, weiterer Abgeordneter und der Fraktion der AfD Gerechtigkeit für die Opfer politischer Verfolgung in der ehemaligen SBZ und DDR – Beweislastumkehr bei Anerkennung von Gesundheitsschäden gesetzlich verankern, Zuwendungen für Haftopfer anheben und Bedürftigkeitsprüfung abschaffen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12971\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Jürgen Braun, Dr. Rainer Rothfuß, Martin Sichert, weiterer Abgeordneter und der Fraktion der AfD Die Geschichte der Speziallager in der Sowjetischen Besatzungszone weiterhin aufarbeiten, die Opfer angemessen würdigen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12972\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 437,
+ "prompt_eval_count": 1495,
+ "total_duration": 20018608834,
+ "load_duration": 512334,
+ "wand_s": 20.020292083732784,
+ "prompt_zeichen": 4349
+}

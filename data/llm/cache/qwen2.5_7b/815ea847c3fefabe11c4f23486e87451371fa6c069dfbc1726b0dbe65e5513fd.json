@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"kernpunkt\": \"Feststellung eines Nachtrags zum Bundeshaushaltsplan für 2024\",\n  \"positionen\": [\n    {\"fraktion\": \"SPD\", \"haltung\": \"zustimmend\", \"begruendung\": \"Bundespolitik im Übergang, Zusammenarbeit\"},\n    {\"fraktion\": \"CDU/CSU\", \"haltung\": \"ablehnend\", \"begruendung\": \"Nicht notwendig, Kompromiss\"},\n    {\"fraktion\": \"BÜNDNIS 90/DIE GRÜNEN\", \"haltung\": \"zustimmend\", \"begruendung\": \"Parlamentarische Rechte sichern\"},\n    {\"fraktion\": \"FDP\", \"haltung\": \"zustimmend\", \"begruendung\": \"Demokratische Gründe\"},\n    {\"fraktion\": \"AfD\", \"haltung\": \"ablehnend\", \"begruendung\": \"Verfassungswidrig, nicht notwendig\"},\n    {\"fraktion\": \"Die Linke\", \"haltung\": \"ablehnend\", \"begruendung\": \"Schuldenbremse reformiert oder abgeschafft\"},\n    {\"fraktion\": \"BSW\", \"haltung\": \"ablehnend\", \"begruendung\": \"Schuldenpaket, Sanktionspolitik\"}\n  ]\n}",
+ "thinking": null,
+ "eval_count": 319,
+ "prompt_eval_count": 1953,
+ "total_duration": 21058153917,
+ "load_duration": 759667,
+ "wand_s": 21.06058849999681,
+ "prompt_zeichen": 6993
+}

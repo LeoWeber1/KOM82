@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Anpassung der Mindeststrafen des § 184b Absatz 1 Satz 1 und Absatz 3 des Strafgesetzbuches – Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte\", \"kurztitel\": null, \"drucksachen\": [\"20/10540\", \"20/10817\", \"20/11044\", \"20/11419\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 173,
+ "prompt_eval_count": 1123,
+ "total_duration": 7747850542,
+ "load_duration": 689542,
+ "wand_s": 7.749872583895922,
+ "prompt_zeichen": 3074
+}

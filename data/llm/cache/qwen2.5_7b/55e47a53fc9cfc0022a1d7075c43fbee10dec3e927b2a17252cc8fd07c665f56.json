@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zur Änderung des Konsumcannabisgesetzes und des Medizinal-Cannabisgesetzes\", \"kurztitel\": \"Konsumcannabisgesetz\", \"drucksachen\": [\"20/11366\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Sechsten Gesetzes zur Änderung des Straßenverkehrsgesetzes und weiterer straßenverkehrsrechtlicher Vorschriften\", \"kurztitel\": \"Straßenverkehrsgesetz\", \"drucksachen\": [\"20/11370\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 257,
+ "prompt_eval_count": 1292,
+ "total_duration": 11826674375,
+ "load_duration": 764083,
+ "wand_s": 11.82892420841381,
+ "prompt_zeichen": 3669
+}

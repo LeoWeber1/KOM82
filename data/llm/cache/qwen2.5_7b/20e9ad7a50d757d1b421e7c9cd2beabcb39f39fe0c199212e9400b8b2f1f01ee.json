@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über Maßnahmen zur Förderung des deutschen Films (Filmförderungsgesetz – FFG)\", \"kurztitel\": \"Filmförderungsgesetz\", \"drucksachen\": [\"20/12660\", \"20/14312\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 125,
+ "prompt_eval_count": 1073,
+ "total_duration": 5611096375,
+ "load_duration": 932083,
+ "wand_s": 5.61355354078114,
+ "prompt_zeichen": 2989
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zur Verbesserung der inneren Sicherheit und des Asylsystems\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12805\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Terrorismusbekämpfung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12806\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)\",\n      \"kurztitel\": \"Zustrombegrenzungsgesetz\",\n      \"drucksachen\": [\"20/12804\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Dr. Gottfried Curio, Dr. Christian Wirth, Martin Hess, weiterer Abgeordneter und der Fraktion der AfD Kehrtwende in der Migrationspolitik jetzt einleiten – Maßnahmen zur sofortigen Beendigung der illegalen Einwanderungsströme treffen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12802\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Für eine echte Wende in der Asyl- und Migrationspolitik – Zurückweisungen an den deutschen Grenzen vornehmen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12835\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 596,
+ "prompt_eval_count": 1482,
+ "total_duration": 26564323000,
+ "load_duration": 775584,
+ "wand_s": 26.566569874994457,
+ "prompt_zeichen": 4242
+}

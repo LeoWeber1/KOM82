@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Abgeordneten Dr. Lukas Köhler, Renata Alt, Christine Aschenberg-Dugnus, weiteren Abgeordneten und der Fraktion der FDP eingebrachten Entwurfs eines Gesetzes zur Freiheit von Lieferkettenbürokratie und zur Aufhebung des Lieferkettensorgfaltspflichtengesetzes (Lieferkettenbürokratiefreiheitsgesetz – LkBFreiG)\", \"kurztitel\": \"Lieferkettenbürokratiefreiheitsgesetz – LkBFreiG\", \"drucksachen\": [\"20/14021\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Aufhebung des Gesetzes über die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten (Lieferkettensorgfaltspflichtenaufhebungsgesetz)\", \"kurztitel\": \"Lieferkettensorgfaltspflichtenaufhebungsgesetz\", \"drucksachen\": [\"20/14015\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 343,
+ "prompt_eval_count": 1312,
+ "total_duration": 15461387125,
+ "load_duration": 781375,
+ "wand_s": 15.463673249818385,
+ "prompt_zeichen": 3751
+}

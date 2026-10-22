@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Beratung des Antrags der Abgeordneten Peter Boehringer, Albrecht Glaser, Norbert Kleinwächter, weiterer Abgeordneter und der Fraktion der AfD Euro-Währungsunion kritisch bewerten – Integrationsverantwortung wahrnehmen\", \"kurztitel\": null, \"drucksachen\": [\"20/11140\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 119,
+ "prompt_eval_count": 1109,
+ "total_duration": 5496073709,
+ "load_duration": 797459,
+ "wand_s": 5.499597833957523,
+ "prompt_zeichen": 3133
+}

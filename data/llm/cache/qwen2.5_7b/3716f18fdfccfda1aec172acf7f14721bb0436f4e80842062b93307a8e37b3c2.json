@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Einführung einer bundeseinheitlichen Pflegefachassistenzausbildung (Pflegefachassistenzeinführungsgesetz)\", \"kurztitel\": \"Pflegefachassistenzeinführungsgesetz\", \"drucksachen\": [\"20/13634\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 127,
+ "prompt_eval_count": 1097,
+ "total_duration": 5718431417,
+ "load_duration": 605917,
+ "wand_s": 5.7201782912015915,
+ "prompt_zeichen": 3091
+}

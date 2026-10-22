@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Bekämpfung missbräuchlicher Ersteigerungen von Schrottimmobilien (Schrottimmobilien-Missbrauchsbekämpfungsgesetz)\", \"kurztitel\": \"Schrottimmobilien-Missbrauchsbekämpfungsgesetz\", \"drucksachen\": [\"20/11308\", \"20/13026\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 150,
+ "prompt_eval_count": 1122,
+ "total_duration": 6811073167,
+ "load_duration": 863750,
+ "wand_s": 6.813421166967601,
+ "prompt_zeichen": 3139
+}

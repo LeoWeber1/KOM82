@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes über die Polizeibeauftragte oder den Polizeibeauftragten des Bundes beim Deutschen Bundestag (Polizeibeauftragtengesetz – PolBeauftrG)\", \"kurztitel\": \"PolBeauftrG\", \"drucksachen\": [\"20/9148\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss) zu dem Entwurf eines Gesetzes über die Polizeibeauftragte oder den Polizeibeauftragten des Bundes beim Deutschen Bundestag (Polizeibeauftragtengesetz – PolBeauftrG)\", \"kurztitel\": null, \"drucksachen\": [\"20/10092\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 292,
+ "prompt_eval_count": 1115,
+ "total_duration": 12536351291,
+ "load_duration": 849416,
+ "wand_s": 12.539025750011206,
+ "prompt_zeichen": 3081
+}

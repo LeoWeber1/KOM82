@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen\", \"kurztitel\": null, \"drucksachen\": [\"20/13251\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 129,
+ "prompt_eval_count": 1090,
+ "total_duration": 5850376833,
+ "load_duration": 679375,
+ "wand_s": 5.85239874990657,
+ "prompt_zeichen": 3086
+}

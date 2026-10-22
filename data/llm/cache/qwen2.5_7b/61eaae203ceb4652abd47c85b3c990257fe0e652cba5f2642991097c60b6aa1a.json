@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Betriebsverfassungsgesetzes\", \"kurztitel\": \"Betriebsverfassungsgesetz\", \"drucksachen\": [\"20/9469\", \"20/9875\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 116,
+ "prompt_eval_count": 1053,
+ "total_duration": 5185561125,
+ "load_duration": 818958,
+ "wand_s": 5.1880983747541904,
+ "prompt_zeichen": 2929
+}

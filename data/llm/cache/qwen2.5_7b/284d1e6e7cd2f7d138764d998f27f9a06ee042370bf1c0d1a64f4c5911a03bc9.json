@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Regelung hybrider und virtueller Versammlungen in der Bundesnotarordnung, der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung und dem Steuerberatungsgesetz sowie zur Änderung weiterer Vorschriften des Rechts der rechtsberatenden Berufe\", \"kurztitel\": null, \"drucksachen\": [\"20/8674\", \"20/12144\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 169,
+ "prompt_eval_count": 1124,
+ "total_duration": 7539227916,
+ "load_duration": 647833,
+ "wand_s": 7.541229709051549,
+ "prompt_zeichen": 3150
+}

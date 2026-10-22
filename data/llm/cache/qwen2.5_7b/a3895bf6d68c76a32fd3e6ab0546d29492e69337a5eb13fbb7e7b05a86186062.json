@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Digitalisierung des Finanzmarktes (Finanzmarktdigitalisierungsgesetz FinmadiG)\", \"kurztitel\": \"Finanzmarktdigitalisierungsgesetz\", \"drucksachen\": [\"20/10280\", \"20/11178\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 133,
+ "prompt_eval_count": 1082,
+ "total_duration": 5997853667,
+ "load_duration": 858375,
+ "wand_s": 6.000303333159536,
+ "prompt_zeichen": 3021
+}

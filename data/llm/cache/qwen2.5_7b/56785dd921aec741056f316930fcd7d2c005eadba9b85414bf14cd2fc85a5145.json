@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite Beratung und Schlussabstimmung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Vertrag vom 3. Dezember 2009 zwischen der Bundesrepublik Deutschland und der Föderativen Republik Brasilien über die Rechtshilfe in Strafsachen\", \"kurztitel\": null, \"drucksachen\": [\"20/11474\", \"20/11994\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite\"}]}",
+ "thinking": null,
+ "eval_count": 144,
+ "prompt_eval_count": 1128,
+ "total_duration": 6584215500,
+ "load_duration": 1163375,
+ "wand_s": 6.586400957778096,
+ "prompt_zeichen": 3165
+}

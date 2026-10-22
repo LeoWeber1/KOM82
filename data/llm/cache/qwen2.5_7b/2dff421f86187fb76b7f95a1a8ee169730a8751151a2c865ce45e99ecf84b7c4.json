@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Europol-Gesetzes\",\n      \"kurztitel\": \"Europol-Gesetz\",\n      \"drucksachen\": [\"20/13083\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Änderung der Freistellungsvoraussetzungen des § 23 des Allgemeinen Eisenbahngesetzes\",\n      \"kurztitel\": \"Allgemeines Eisenbahngesetz\",\n      \"drucksachen\": [\"20/13358\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Roger Beckamp, Rüdiger Lucassen, Eugen Schmidt, weiterer Abgeordneter und der Fraktion der AfD Würdige Beisetzung auch von deutschen Gefallenen der Zeit vor den Weltkriegen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13359\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Martin Sichert, Jörg Schneider, Dr. Christina Baum, weiterer Abgeordneter und der Fraktion der AfD Gleichbehandlung von Medizinalcannabis und anderen Arzneimitteln sicherstellen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13360\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Uwe Schulz, Leif-Erik Holm, Dr. Malte Kaufmann, weiterer Abgeordneter und der Fraktion der AfD Wirtschaft stärken – Nationales Raumfahrtgesetz für Deutschland\",\n      \"kurztitel\": \"Raumfahrtgesetz\",\n      \"drucksachen\": [\"20/6074\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 597,
+ "prompt_eval_count": 1523,
+ "total_duration": 27161822000,
+ "load_duration": 917833,
+ "wand_s": 27.164668875280768,
+ "prompt_zeichen": 4373
+}

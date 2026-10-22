@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Fraktionen SPD, CDU/CSU, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zur Änderung des Abgeordnetengesetzes Öffentlichkeitsarbeit der Fraktionen und weitere Änderungen\", \"kurztitel\": null, \"drucksachen\": [\"20/11944\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 132,
+ "prompt_eval_count": 1090,
+ "total_duration": 5975299333,
+ "load_duration": 2373166,
+ "wand_s": 5.97781716613099,
+ "prompt_zeichen": 3034
+}

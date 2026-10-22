@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Russlands neuen Akteuren in Afrika entschieden entgegentreten\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14232\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Überweisungsvorschlag: Auswärtiger Ausschuss (f)\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14232 (f)\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Verteidigungsausschuss\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14232 (f) (Verteidigungsausschuss)\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Ausschuss für Menschenrechte und humanitäre Hilfe\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14232 (f) (Ausschuss für Menschenrechte und humanitäre Hilfe)\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14232 (f) (Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung)\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Ausschuss für Kultur und Medien\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14232 (f) (Ausschuss für Kultur und Medien)\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Haushaltsausschuss\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14232 (f) (Haushaltsausschuss)\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 597,
+ "prompt_eval_count": 1079,
+ "total_duration": 12378113083,
+ "load_duration": 657917,
+ "wand_s": 12.381548749748617,
+ "prompt_zeichen": 3054
+}

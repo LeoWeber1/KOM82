@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zehnten Gesetzes zur Änderung des Regionalisierungsgesetzes\", \"kurztitel\": \"Regionalisierungsgesetz\", \"drucksachen\": [\"20/12773\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 101,
+ "prompt_eval_count": 1057,
+ "total_duration": 4576313625,
+ "load_duration": 937958,
+ "wand_s": 4.578686167020351,
+ "prompt_zeichen": 2942
+}

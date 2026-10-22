@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung eines Nachtrags zum Bundeshaushaltsplan für das Haushaltsjahr 2024 (Nachtragshaushaltsgesetz 2024)\", \"kurztitel\": null, \"drucksachen\": [\"20/12770\", \"20/13337\", \"20/13439\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite\"}]}",
+ "thinking": null,
+ "eval_count": 144,
+ "prompt_eval_count": 1123,
+ "total_duration": 6559557750,
+ "load_duration": 920042,
+ "wand_s": 6.56197908334434,
+ "prompt_zeichen": 3104
+}

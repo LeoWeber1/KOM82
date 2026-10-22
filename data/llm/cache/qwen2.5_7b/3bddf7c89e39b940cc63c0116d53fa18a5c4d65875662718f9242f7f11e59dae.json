@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Berufsbildungsvalidierungs- und ‑digitalisierungsgesetzes (BVaDiG)\", \"kurztitel\": \"BVaDiG\", \"drucksachen\": [\"20/10857\", \"20/11802\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) zu dem Antrag der Abgeordneten Nicole Gohlke, Clara Bünger, Dr. André Hahn, weiterer Abgeordneter und der Gruppe Die Linke Ausbildungsqualität verbessern – Berufsbildungsgesetz umfassend novellieren\", \"kurztitel\": null, \"drucksachen\": [\"20/10801\", \"20/11802\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 293,
+ "prompt_eval_count": 1291,
+ "total_duration": 13354002542,
+ "load_duration": 703500,
+ "wand_s": 13.357178332749754,
+ "prompt_zeichen": 3622
+}

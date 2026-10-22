@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Anpassung des Mutterschutzgesetzes und weiterer Gesetze – Anspruch auf Mutterschutzfristen nach einer Fehlgeburt (Mutterschutzanpassungsgesetz)\", \"kurztitel\": \"Mutterschutzanpassungsgesetz\", \"drucksachen\": [\"20/14231\", \"20/14783\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 160,
+ "prompt_eval_count": 1152,
+ "total_duration": 7404792750,
+ "load_duration": 685416,
+ "wand_s": 7.407170709222555,
+ "prompt_zeichen": 3219
+}

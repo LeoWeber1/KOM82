@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Medizinforschungsgesetzes\", \"kurztitel\": \"Medizinforschungsgesetz\", \"drucksachen\": [\"20/11561\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 94,
+ "prompt_eval_count": 1139,
+ "total_duration": 4578368959,
+ "load_duration": 2037167,
+ "wand_s": 4.58082704199478,
+ "prompt_zeichen": 3235
+}

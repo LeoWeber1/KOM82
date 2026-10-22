@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des DWD-Gesetzes\", \"kurztitel\": null, \"drucksachen\": [\"20/10032\", \"20/10282\", \"20/10428\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 121,
+ "prompt_eval_count": 1092,
+ "total_duration": 5515630167,
+ "load_duration": 863500,
+ "wand_s": 5.518177416641265,
+ "prompt_zeichen": 3001
+}

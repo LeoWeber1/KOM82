@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals an Hochschulen des Bundes und zur Änderung weiterer dienstrechtlicher Vorschriften\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10247\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Binnenschifffahrt stärken\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10386\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Anreize für Blut- und Blutplasma-Spenden in Deutschland erhöhen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10613\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Nicole Höchst, Jörn König, Dr. Christina Baum, weiterer Abgeordneter und der Fraktion der AfD Zurück zum Wettkampfcharakter bei den Bundesjugendspielen für die Grundschulklassen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10614\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes über die …\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10248\"], \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 531,
+ "prompt_eval_count": 1513,
+ "total_duration": 24099359834,
+ "load_duration": 856209,
+ "wand_s": 24.10199945839122,
+ "prompt_zeichen": 4367
+}

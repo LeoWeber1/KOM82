@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"hier: Einzelplan 04 Bundeskanzler und Bundeskanzleramt\", \"kurztitel\": null, \"drucksachen\": [\"20/8604\", \"20/8661\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"beratung\"}, {\"titel\": \"hier: Einzelplan 22 Unabhängiger Kontrollrat\", \"kurztitel\": null, \"drucksachen\": [\"20/8661\", \"20/8662\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 158,
+ "prompt_eval_count": 1155,
+ "total_duration": 7297307959,
+ "load_duration": 795459,
+ "wand_s": 7.29983854200691,
+ "prompt_zeichen": 3207
+}

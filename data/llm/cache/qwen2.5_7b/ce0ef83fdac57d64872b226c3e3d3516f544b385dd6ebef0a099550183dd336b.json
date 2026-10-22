@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Dritten Gesetzes zur Änderung des Energiewirtschaftsgesetzes\", \"kurztitel\": \"Energiewirtschaftsgesetz\", \"drucksachen\": [\"20/10014\", \"20/11017\", \"20/11018\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Klimaschutz und Energie (25. Ausschuss) zu der Verordnung der Bundesregierung Verordnung über das Herkunftsnachweisregister für Gas und das Herkunftsnachweisregister für Wärme oder Kälte (Gas-Wärme-Kälte-Herkunftsnachweisregister-Verordnung – GWKHV)\", \"kurztitel\": null, \"drucksachen\": [\"20/10159\", \"20/10238\", \"20/10995\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 303,
+ "prompt_eval_count": 1260,
+ "total_duration": 13566765833,
+ "load_duration": 891958,
+ "wand_s": 13.569205916952342,
+ "prompt_zeichen": 3450
+}

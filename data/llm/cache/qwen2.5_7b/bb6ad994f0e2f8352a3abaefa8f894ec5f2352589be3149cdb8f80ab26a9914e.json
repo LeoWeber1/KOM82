@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Anpassung des nationalen Rechts an die Reform des Gemeinsamen Europäischen Asylsystems (GEAS-Anpassungsgesetz)\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13963\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des AZRG und weiterer Gesetze in Folge der Anpassung des nationalen Rechts an das Gemeinsame Europäische Asylsystem (GEAS-Anpassungsfolgegesetz)\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13964\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/Die Grünen eingebrachten Entwurfs eines Gesetzes zur Stärkung der polizeilichen Befugnisse\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14704\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Dr. Lukas Köhler, Manfred Todtenhausen, Renata Alt, weiterer Abgeordneter und der Fraktion der FDP Öffentliche Vergabe entfesseln – Ein effizientes Vergaberecht für eine starke Wirtschaft\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14723\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 488,
+ "prompt_eval_count": 1519,
+ "total_duration": 22328311625,
+ "load_duration": 1896375,
+ "wand_s": 22.33055333327502,
+ "prompt_zeichen": 4360
+}

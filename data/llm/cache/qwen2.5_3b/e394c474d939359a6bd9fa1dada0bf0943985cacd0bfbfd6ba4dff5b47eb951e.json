@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Wahlvorschlag der Fraktion der AfD Wahl der Mitglieder des Beirates bei der Koordinierungsstelle für Digitale Dienste gemäß § 21 des Digitale-Dienste-Gesetzes (DDG)\",\n      \"kurztitel\": \"DDG\",\n      \"drucksachen\": [\"20/12123\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"zweite\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 121,
+ "prompt_eval_count": 1215,
+ "total_duration": 2881749958,
+ "load_duration": 657375,
+ "wand_s": 2.88359091617167,
+ "prompt_zeichen": 3449
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "deepseek-r1:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"beratungsstufe\": \"zweite und dritte\",\n      \"drucksachen\": [\"20/9041\", \"20/10997\"],\n      \"kurztitel\": \"Ehenamens- und Geburtsnamenrechtsgesetz\",\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Ehenamens- und Geburtsnamensrechts Drucksache 20/9041 Beschlussempfehlung und Bericht des Rechtsausschusses (6. Ausschuss) Drucksache 20/10997\",\n      \"typ\": \"gesetzentwurf\"\n    },\n    {\n      \"beratungsstufe\": \"unbekannt\",\n      \"drucksachen\": [\"20/11001\"],\n      \"kurztitel\": null,\n      \"titel\": \"Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung Drucksache 20/11001\",\n      \"typ\": \"bericht\"\n    }\n  ]\n}",
+ "thinking": "\nOkay, I need to extract the discussion points from the given parliamentary protocol entry. The user wants the information in a JSON format based on the specified schema. \n\nFirst, I'll look at the Aufruf (call) provided. It mentions two parts: the first part starts with \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes...\". This looks like a Beratung des Entwurfs, so the typ should be \"gesetzentwurf\". The drucksachen are 20/9041 and 20/10997. The Beratungsstufe is \"zweite und dritte\".\n\nThe second part is \"Bericht des Haushaltsausschusses... Drucksache 20/11001\". This starts with \"Bericht\", so the typ is \"bericht\". The drucksache is just 20/11001. The Beratungsstufe isn't explicitly stated here, so I'll leave it as \"unbekannt\".\n\nI'll structure each Gegenstand with the required fields: title, kürztitel, drucksachen, typ, and beratungsstufe. Making sure to separate them with a comma if there are multiple Gegenstände.\n",
+ "eval_count": 578,
+ "prompt_eval_count": 1091,
+ "total_duration": 24169848917,
+ "load_duration": 757542,
+ "wand_s": 24.174194249790162,
+ "prompt_zeichen": 3040
+}

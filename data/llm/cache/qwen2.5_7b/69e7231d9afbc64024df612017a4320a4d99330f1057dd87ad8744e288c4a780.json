@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der EU-Erneuerbaren-Richtlinie in den Bereichen Windenergie auf See und Stromnetze und zur Änderung des Bundesbedarfsplangesetzes\", \"kurztitel\": null, \"drucksachen\": [\"20/11226\", \"20/11558\", \"20/11685\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Klimaschutz und Energie (25. Ausschuss) zu dem Entwurf eines Gesetzes zur Umsetzung der EU-Erneuerbaren-Richtlinie in den Bereichen Windenergie auf See und Stromnetze und zur Änderung des Bundesbedarfsplangesetzes\", \"kurztitel\": null, \"drucksachen\": [\"20/12145\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 292,
+ "prompt_eval_count": 1120,
+ "total_duration": 12433110041,
+ "load_duration": 671125,
+ "wand_s": 12.435031791683286,
+ "prompt_zeichen": 3088
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des Kulturgutschutzgesetzes (KGSGÄndG)\", \"kurztitel\": \"Kulturgutschutzgesetz\", \"drucksachen\": [\"20/12350\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 108,
+ "prompt_eval_count": 1094,
+ "total_duration": 5247045583,
+ "load_duration": 893083,
+ "wand_s": 5.249709750059992,
+ "prompt_zeichen": 3066
+}

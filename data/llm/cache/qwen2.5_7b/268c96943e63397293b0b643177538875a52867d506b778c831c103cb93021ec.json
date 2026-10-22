@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Beratung des Antrags der Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP Gute Startchancen für mehr Bildungsgerechtigkeit\", \"kurztitel\": null, \"drucksachen\": [\"20/10968\"], \"typ\": \"antrag\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von den Abgeordneten Dr. Götz Frömming, Marcus Bühl, Nicole Höchst, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Steigerung der Leistungsfähigkeit der kommunalen Bildungsinfrastruktur\", \"kurztitel\": null, \"drucksachen\": [\"20/10980\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 221,
+ "prompt_eval_count": 1241,
+ "total_duration": 10098830792,
+ "load_duration": 517667,
+ "wand_s": 10.100323540624231,
+ "prompt_zeichen": 3515
+}

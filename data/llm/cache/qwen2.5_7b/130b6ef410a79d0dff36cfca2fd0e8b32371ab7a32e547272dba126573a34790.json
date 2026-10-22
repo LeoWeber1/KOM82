@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": []}",
+ "thinking": null,
+ "eval_count": 9,
+ "prompt_eval_count": 986,
+ "total_duration": 623326833,
+ "load_duration": 756666,
+ "wand_s": 0.625522957649082,
+ "prompt_zeichen": 2758
+}

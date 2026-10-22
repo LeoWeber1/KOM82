@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur periodengerechten Veranschlagung von Zinsausgaben im Rahmen der staatlichen Kreditaufnahme und eines Dritten Gesetzes zur Weiterentwicklung der Qualität und zur Teilhabe in der Kindertagesbetreuung\", \"kurztitel\": null, \"drucksachen\": [\"20/12771\", \"20/13165\", \"20/13287\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 159,
+ "prompt_eval_count": 1109,
+ "total_duration": 7069679666,
+ "load_duration": 715208,
+ "wand_s": 7.071780541911721,
+ "prompt_zeichen": 3110
+}

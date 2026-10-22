@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Versprechen der Bundesministerin für Bildung und Forschung einhalten – Zukunft der DDR-Forschung sicherstellen Drucksache 20/10069\",\n      \"kurztitel\": \"Versprechen der Bundesministerin\",\n      \"drucksachen\": [\"20/10069\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Überweisungsvorschlag: Ausschuss für Bildung, Forschung und Technikfolgenabschätzung (f) Ausschuss für Kultur und Medien Haushaltsausschuss\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10069\"],\n      \"typ\": \"sonstiges\",\n      \"beratungsstufe\": \"unbekannt\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 233,
+ "prompt_eval_count": 1070,
+ "total_duration": 4888642917,
+ "load_duration": 639459,
+ "wand_s": 4.89053808292374,
+ "prompt_zeichen": 3009
+}

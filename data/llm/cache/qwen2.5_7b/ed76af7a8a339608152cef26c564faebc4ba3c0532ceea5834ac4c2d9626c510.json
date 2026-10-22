@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Kohlendioxid-Speicherungsgesetzes\",\n      \"kurztitel\": \"Kohlendioxid-Speicherungsgesetz\",\n      \"drucksachen\": [\"20/11900\", \"20/12717\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines CO2Export-Ermöglichungsgesetzes\",\n      \"kurztitel\": \"CO2Export-Ermöglichungsgesetz\",\n      \"drucksachen\": [\"20/12084\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Potentiale der CO2-Abscheidung und -Speicherung und CO2-Nutzung entfesseln und Hürden konsequent aus dem Weg räumen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12965\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"erste\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 346,
+ "prompt_eval_count": 1445,
+ "total_duration": 16200427291,
+ "load_duration": 1829333,
+ "wand_s": 16.20301220798865,
+ "prompt_zeichen": 4122
+}

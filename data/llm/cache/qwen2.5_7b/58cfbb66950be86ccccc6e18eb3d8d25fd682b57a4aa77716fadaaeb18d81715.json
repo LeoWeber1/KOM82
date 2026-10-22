@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Befristungsrechts für die Wissenschaft\", \"kurztitel\": \"Befristungsrechtsänderungsgesetz\", \"drucksachen\": [\"20/11559\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Abgeordneten Nicole Gohlke, Dr. Petra Sitte, Clara Bünger, weiterer Abgeordneter und der Gruppe Die Linke Gute Wissenschaft braucht gute Arbeitsbedingungen – Paradigmenwechsel beim Wissenschaftszeitvertragsgesetz unverzüglich umsetzen\", \"kurztitel\": null, \"drucksachen\": [\"20/10802\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 230,
+ "prompt_eval_count": 1212,
+ "total_duration": 10464609417,
+ "load_duration": 762792,
+ "wand_s": 10.466812457889318,
+ "prompt_zeichen": 3433
+}

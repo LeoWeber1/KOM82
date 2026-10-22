@@ -1,0 +1,580 @@
+schluessel,wert,ki_unten,ki_oben,einheit,quelle
+fensterCheckTokMedianZweihundert,275,,,Tokens,sentiment_fenstercheck.py:token_kennzahlen
+fensterCheckTokPfuenfundneunzigZweihundert,320,,,Tokens,sentiment_fenstercheck.py:token_kennzahlen
+fensterCheckTokPneunundneunzigZweihundert,348,,,Tokens,sentiment_fenstercheck.py:token_kennzahlen
+fensterCheckAnteilUeberTrainingZweihundert,0.7392005157962604,,,Anteil,sentiment_fenstercheck.py:token_kennzahlen
+fensterCheckFensterZweihundert,3102,,,Fenster,sentiment_fenstercheck.py:token_kennzahlen
+fensterCheckTokMedianHundertfuenfzig,208,,,Tokens,sentiment_fenstercheck.py:token_kennzahlen
+fensterCheckTokPfuenfundneunzigHundertfuenfzig,245,,,Tokens,sentiment_fenstercheck.py:token_kennzahlen
+fensterCheckTokPneunundneunzigHundertfuenfzig,276.3600000000001,,,Tokens,sentiment_fenstercheck.py:token_kennzahlen
+fensterCheckAnteilUeberTrainingHundertfuenfzig,0.0290037831021437,,,Anteil,sentiment_fenstercheck.py:token_kennzahlen
+fensterCheckFensterHundertfuenfzig,3965,,,Fenster,sentiment_fenstercheck.py:token_kennzahlen
+fensterCheckReden,1000,,,Reden,sentiment_fenstercheck.py:reden_vergleich
+fensterCheckPearson,0.869679741164645,0.849174214937238,0.8872701335641703,r,sentiment_fenstercheck.py:reden_vergleich
+fensterCheckSpearman,0.8736414336414337,0.8521081947230599,0.8917515708806344,rho,sentiment_fenstercheck.py:reden_vergleich
+fensterCheckLabelGleich,0.856,0.833,0.877,Anteil,sentiment_fenstercheck.py:reden_vergleich
+fensterCheckKappaLabel,0.6800568787771063,0.6303388318135611,0.7252123034368073,kappa,sentiment_fenstercheck.py:reden_vergleich
+fensterCheckNettoDiff,-0.0211143651529804,-0.0312276051300866,-0.0116257647096604,netto 150 minus 200,sentiment_fenstercheck.py:reden_vergleich
+fensterCheckGoldAbweichungZweihundert,0,,,Fenster,sentiment_fenstercheck.py:gold_vergleich
+fensterCheckGoldUnentschieden,1,,,Fenster,sentiment_fenstercheck.py:gold_vergleich
+fensterCheckKappaZweihundert,0.4891774891774891,0.3159050718873612,0.6589633269107258,kappa,sentiment_fenstercheck.py:gold_vergleich
+fensterCheckRohZweihundert,0.6610169491525424,,,Anteil,sentiment_fenstercheck.py:gold_vergleich
+fensterCheckKappaHundertfuenfzig,0.4084568439407149,0.2286969991042103,0.5755237423856262,kappa,sentiment_fenstercheck.py:gold_vergleich
+fensterCheckRohHundertfuenfzig,0.6101694915254238,,,Anteil,sentiment_fenstercheck.py:gold_vergleich
+kappaBertLlmEins,0.4499999999999999,0.2767530655227218,0.6144777909066884,kappa,sentiment_kappa.py:kappa
+rohBertLlmEins,0.6333333333333333,0.5166666666666667,0.75,Anteil,sentiment_kappa.py:kappa
+kappaBertLlmZwei,0.4,0.2220817937606378,0.5782028789026675,kappa,sentiment_kappa.py:kappa
+rohBertLlmZwei,0.6,0.4666666666666667,0.7333333333333333,Anteil,sentiment_kappa.py:kappa
+kappaBertQwen,0.35,0.1595869546472247,0.5257952788318845,kappa,sentiment_kappa.py:kappa
+rohBertQwen,0.5666666666666667,0.4333333333333333,0.6833333333333333,Anteil,sentiment_kappa.py:kappa
+kappaBertMehrheit,0.425,0.2527006405445356,0.5954615689128963,kappa,sentiment_kappa.py:kappa
+rohBertMehrheit,0.6166666666666667,0.5,0.7333333333333333,Anteil,sentiment_kappa.py:kappa
+kappaBertMehrheitLinear,0.5,0.3170336024350979,0.6727569169960474,kappa,sentiment_kappa.py:kappa
+kappaLlmLlm,0.946164199192463,0.8629900803023146,1.0,kappa,sentiment_kappa.py:kappa
+rohLlmLlm,0.9666666666666668,0.9166666666666666,1.0,Anteil,sentiment_kappa.py:kappa
+kappaLlmEinsQwen,0.685589519650655,0.541549233173548,0.8341690655146625,kappa,sentiment_kappa.py:kappa
+rohLlmEinsQwen,0.8,0.7,0.9,Anteil,sentiment_kappa.py:kappa
+kappaLlmZweiQwen,0.68503937007874,0.5457842513675106,0.8344218018630308,kappa,sentiment_kappa.py:kappa
+rohLlmZweiQwen,0.8,0.7166666666666667,0.9,Anteil,sentiment_kappa.py:kappa
+precisionBertNegativ,0.9,0.75,1.0,Anteil,sentiment_kappa.py:konfusion_bert_mehrheit
+precisionBertNeutral,0.35,0.1538461538461538,0.5714285714285714,Anteil,sentiment_kappa.py:konfusion_bert_mehrheit
+precisionBertPositiv,0.6,0.3808035714285714,0.8181818181818182,Anteil,sentiment_kappa.py:konfusion_bert_mehrheit
+fehlertypAnzahl,8,,,Fenster,sentiment_kappa.py:konfusion_bert_mehrheit
+mehrheitUnentschieden,0,,,Fenster,sentiment_kappa.py:sentiment_gold
+goldFenster,60,,,Fenster,sentiment_kappa.py:sentiment_gold
+kappaBertLlmEinsZweihundert,0.4,0.2258851536793583,0.5744725214274305,kappa,sentiment_kappa.py:kappa
+rohBertLlmEinsZweihundert,0.6,0.4833333333333333,0.7333333333333333,Anteil,sentiment_kappa.py:kappa
+kappaBertLlmZweiZweihundert,0.525,0.3660469928576196,0.6913976891252208,kappa,sentiment_kappa.py:kappa
+rohBertLlmZweiZweihundert,0.6833333333333333,0.5666666666666667,0.8,Anteil,sentiment_kappa.py:kappa
+kappaBertQwenZweihundert,0.3249999999999999,0.161132346400833,0.5159389637120954,kappa,sentiment_kappa.py:kappa
+rohBertQwenZweihundert,0.55,0.4333333333333333,0.6833333333333333,Anteil,sentiment_kappa.py:kappa
+kappaBertMehrheitZweihundert,0.4891774891774891,0.3159050718873612,0.6589633269107258,kappa,sentiment_kappa.py:kappa
+rohBertMehrheitZweihundert,0.6610169491525424,0.5344827586206896,0.7833333333333333,Anteil,sentiment_kappa.py:kappa
+kappaBertMehrheitLinearZweihundert,0.5722054380664652,0.3918274827415061,0.7320190483784921,kappa,sentiment_kappa.py:kappa
+kappaLlmLlmZweihundert,0.8570747975226298,0.7232183907063712,0.969475617377435,kappa,sentiment_kappa.py:kappa
+rohLlmLlmZweihundert,0.9166666666666666,0.85,0.9833333333333332,Anteil,sentiment_kappa.py:kappa
+kappaLlmEinsQwenZweihundert,0.4924309884238645,0.3187331691024019,0.6706237273232136,kappa,sentiment_kappa.py:kappa
+rohLlmEinsQwenZweihundert,0.6833333333333333,0.5666666666666667,0.8,Anteil,sentiment_kappa.py:kappa
+kappaLlmZweiQwenZweihundert,0.5432154052843708,0.3646720595376546,0.7147426177379661,kappa,sentiment_kappa.py:kappa
+rohLlmZweiQwenZweihundert,0.7166666666666667,0.6,0.8333333333333334,Anteil,sentiment_kappa.py:kappa
+precisionBertNegativZweihundert,0.95,0.8421052631578947,1.0,Anteil,sentiment_kappa.py:konfusion_bert_mehrheit
+precisionBertNeutralZweihundert,0.3157894736842105,0.1111111111111111,0.55,Anteil,sentiment_kappa.py:konfusion_bert_mehrheit
+precisionBertPositivZweihundert,0.7,0.4736842105263157,0.8889880952380951,Anteil,sentiment_kappa.py:konfusion_bert_mehrheit
+fehlertypAnzahlZweihundert,10,,,Fenster,sentiment_kappa.py:konfusion_bert_mehrheit
+mehrheitUnentschiedenZweihundert,1,,,Fenster,sentiment_kappa.py:sentiment_gold
+goldFensterZweihundert,60,,,Fenster,sentiment_kappa.py:sentiment_gold
+redenGesamt,6368,,,Reden,metrics.py:reden
+plenarredenGesamt,6397,,,Reden,metrics.py:reden
+plenarredenOhneDebatte,29,,,Reden,metrics.py:reden
+kurzinterventionenGesamt,70,,,Beiträge,metrics.py:reden
+erwiderungenGesamt,44,,,Beiträge,metrics.py:reden
+zwischenfragenGesamt,304,,,Beiträge,metrics.py:reden
+befragungGesamt,3517,,,Beiträge,metrics.py:reden
+zuProtokollGesamt,604,,,Reden,metrics.py:reden
+beitraegeGesamt,13662,,,Beiträge,metrics.py:abgeordnete
+personenGesamt,748,,,Personen,metrics.py:abgeordnete
+rednerMitRede,741,,,Personen,metrics.py:abgeordnete
+abgeordneteMitRede,722,,,Personen,metrics.py:abgeordnete
+abgeordneteGesamt,728,,,Personen,metrics.py:abgeordnete
+ohneMandatMitRede,19,,,Personen,metrics.py:abgeordnete
+woerterGesamt,3702683,,,Wörter,metrics.py:reden
+woerterMittel,581.4514761306533,,,Wörter,metrics.py:reden
+woerterMedian,556,,,Wörter,metrics.py:reden
+woerterQEins,421,,,Wörter,metrics.py:reden
+woerterQDrei,703.25,,,Wörter,metrics.py:reden
+minutenGesamt,26808.18185689949,,,Minuten,metrics.py:reden
+wpmMedian,138.11764705882354,,,Wörter/Minute,metrics.py:wpm
+wpmQEins,126.75641025641023,,,Wörter/Minute,metrics.py:wpm
+wpmQDrei,146.85683760683762,,,Wörter/Minute,metrics.py:wpm
+wpmIqr,20.100427350427367,,,Wörter/Minute,metrics.py:wpm
+wpmN,311,,,Blöcke,metrics.py:wpm
+wpmMedianMitZuProtokoll,132.51470588235293,,,Wörter/Minute,metrics.py:wpm
+wpmZuProtokollAusgeschlossen,114,,,Blöcke,metrics.py:wpm
+wpmAnsagen,435,,,Ansagen,metrics.py:wpm
+wpmUntergrenzeMedian,128.65740740740742,,,Wörter/Minute,metrics.py:wpm_sitzungen
+wpmUntergrenzeMin,51.14884696016772,,,Wörter/Minute,metrics.py:wpm_sitzungen
+wpmUntergrenzeMax,152.67073170731706,,,Wörter/Minute,metrics.py:wpm_sitzungen
+sitzungenGesamt,67,,,Sitzungen,metrics.py:sitzungen
+gesetzeEinheitGesamt,259,,,Gesetzentwürfe,metrics.py:gesetze_einheit
+gesetzeEinzelplanAusgeschlossen,18,,,Drucksachen,metrics.py:top10_gesetze
+zustromRang,3,,,Rang,metrics.py:top10_gesetze
+zustromRedner,35,,,Personen,metrics.py:top10_gesetze
+zustromReden,47,,,Reden,metrics.py:top10_gesetze
+redenSPD,1410,,,Reden,metrics.py:fraktionen_kennzahlen
+woerterSPD,904560,,,Wörter,metrics.py:fraktionen_kennzahlen
+minutenSPD,6549.199318568994,,,Minuten,metrics.py:fraktionen_kennzahlen
+woerterMedianSPD,622,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQEinsSPD,508,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQDreiSPD,743.75,,,Wörter,metrics.py:fraktionen_kennzahlen
+kurzinterventionenSPD,5,,,Beiträge,metrics.py:fraktionen_kennzahlen
+sitzeSPD,207,,,Sitze,metrics.py:fraktionen_kennzahlen
+minutenProSitzSPD,31.638644051057945,,,Minuten/Sitz,metrics.py:fraktionen_kennzahlen
+kurzinterventionenProSitzSPD,0.0241545893719806,,,Beiträge/Sitz,metrics.py:fraktionen_kennzahlen
+redenUnion,1545,,,Reden,metrics.py:fraktionen_kennzahlen
+woerterUnion,933619,,,Wörter,metrics.py:fraktionen_kennzahlen
+minutenUnion,6759.592419080068,,,Minuten,metrics.py:fraktionen_kennzahlen
+woerterMedianUnion,589,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQEinsUnion,452,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQDreiUnion,713,,,Wörter,metrics.py:fraktionen_kennzahlen
+kurzinterventionenUnion,14,,,Beiträge,metrics.py:fraktionen_kennzahlen
+sitzeUnion,196.01492537313433,,,Sitze,metrics.py:fraktionen_kennzahlen
+minutenProSitzUnion,34.48509038897164,,,Minuten/Sitz,metrics.py:fraktionen_kennzahlen
+kurzinterventionenProSitzUnion,0.0714231325668164,,,Beiträge/Sitz,metrics.py:fraktionen_kennzahlen
+redenGruene,917,,,Reden,metrics.py:fraktionen_kennzahlen
+woerterGruene,528796,,,Wörter,metrics.py:fraktionen_kennzahlen
+minutenGruene,3828.5911413969334,,,Minuten,metrics.py:fraktionen_kennzahlen
+woerterMedianGruene,541,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQEinsGruene,428,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQDreiGruene,709,,,Wörter,metrics.py:fraktionen_kennzahlen
+kurzinterventionenGruene,6,,,Beiträge,metrics.py:fraktionen_kennzahlen
+sitzeGruene,117.50746268656717,,,Sitze,metrics.py:fraktionen_kennzahlen
+minutenProSitzGruene,32.58168505951918,,,Minuten/Sitz,metrics.py:fraktionen_kennzahlen
+kurzinterventionenProSitzGruene,0.0510605868156992,,,Beiträge/Sitz,metrics.py:fraktionen_kennzahlen
+redenFDP,777,,,Reden,metrics.py:fraktionen_kennzahlen
+woerterFDP,466276,,,Wörter,metrics.py:fraktionen_kennzahlen
+minutenFDP,3375.9335604770017,,,Minuten,metrics.py:fraktionen_kennzahlen
+woerterMedianFDP,602,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQEinsFDP,474,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQDreiFDP,723,,,Wörter,metrics.py:fraktionen_kennzahlen
+kurzinterventionenFDP,8,,,Beiträge,metrics.py:fraktionen_kennzahlen
+sitzeFDP,90.92537313432835,,,Sitze,metrics.py:fraktionen_kennzahlen
+minutenProSitzFDP,37.128619263289416,,,Minuten/Sitz,metrics.py:fraktionen_kennzahlen
+kurzinterventionenProSitzFDP,0.087984241628365,,,Beiträge/Sitz,metrics.py:fraktionen_kennzahlen
+redenAfD,773,,,Reden,metrics.py:fraktionen_kennzahlen
+woerterAfD,402406,,,Wörter,metrics.py:fraktionen_kennzahlen
+minutenAfD,2913.5017035775127,,,Minuten,metrics.py:fraktionen_kennzahlen
+woerterMedianAfD,494,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQEinsAfD,400,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQDreiAfD,613,,,Wörter,metrics.py:fraktionen_kennzahlen
+kurzinterventionenAfD,34,,,Beiträge,metrics.py:fraktionen_kennzahlen
+sitzeAfD,76.94029850746269,,,Sitze,metrics.py:fraktionen_kennzahlen
+minutenProSitzAfD,37.86704444998901,,,Minuten/Sitz,metrics.py:fraktionen_kennzahlen
+kurzinterventionenProSitzAfD,0.4419010669253152,,,Beiträge/Sitz,metrics.py:fraktionen_kennzahlen
+redenLinke,383,,,Reden,metrics.py:fraktionen_kennzahlen
+woerterLinke,142810,,,Wörter,metrics.py:fraktionen_kennzahlen
+minutenLinke,1033.973594548552,,,Minuten,metrics.py:fraktionen_kennzahlen
+woerterMedianLinke,361,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQEinsLinke,286,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQDreiLinke,431.5,,,Wörter,metrics.py:fraktionen_kennzahlen
+kurzinterventionenLinke,0,,,Beiträge,metrics.py:fraktionen_kennzahlen
+sitzeLinke,28,,,Sitze,metrics.py:fraktionen_kennzahlen
+minutenProSitzLinke,36.927628376734,,,Minuten/Sitz,metrics.py:fraktionen_kennzahlen
+kurzinterventionenProSitzLinke,0,,,Beiträge/Sitz,metrics.py:fraktionen_kennzahlen
+redenBSW,159,,,Reden,metrics.py:fraktionen_kennzahlen
+woerterBSW,49569,,,Wörter,metrics.py:fraktionen_kennzahlen
+minutenBSW,358.8896933560477,,,Minuten,metrics.py:fraktionen_kennzahlen
+woerterMedianBSW,310,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQEinsBSW,270.5,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQDreiBSW,346.5,,,Wörter,metrics.py:fraktionen_kennzahlen
+kurzinterventionenBSW,1,,,Beiträge,metrics.py:fraktionen_kennzahlen
+sitzeBSW,10,,,Sitze,metrics.py:fraktionen_kennzahlen
+minutenProSitzBSW,35.88896933560477,,,Minuten/Sitz,metrics.py:fraktionen_kennzahlen
+kurzinterventionenProSitzBSW,0.1,,,Beiträge/Sitz,metrics.py:fraktionen_kennzahlen
+redenFraktionslos,147,,,Reden,metrics.py:fraktionen_kennzahlen
+woerterFraktionslos,36425,,,Wörter,metrics.py:fraktionen_kennzahlen
+minutenFraktionslos,263.72444633730834,,,Minuten,metrics.py:fraktionen_kennzahlen
+woerterMedianFraktionslos,247,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQEinsFraktionslos,214.5,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQDreiFraktionslos,280.5,,,Wörter,metrics.py:fraktionen_kennzahlen
+kurzinterventionenFraktionslos,2,,,Beiträge,metrics.py:fraktionen_kennzahlen
+sitzeFraktionslos,7.328358208955224,,,Sitze,metrics.py:fraktionen_kennzahlen
+minutenProSitzFraktionslos,35.98683890957161,,,Minuten/Sitz,metrics.py:fraktionen_kennzahlen
+kurzinterventionenProSitzFraktionslos,0.2729124236252546,,,Beiträge/Sitz,metrics.py:fraktionen_kennzahlen
+redenRegMitMandat,208,,,Reden,metrics.py:fraktionen_kennzahlen
+woerterRegMitMandat,192094,,,Wörter,metrics.py:fraktionen_kennzahlen
+minutenRegMitMandat,1390.7998296422486,,,Minuten,metrics.py:fraktionen_kennzahlen
+woerterMedianRegMitMandat,692.5,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQEinsRegMitMandat,516.5,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQDreiRegMitMandat,1025,,,Wörter,metrics.py:fraktionen_kennzahlen
+kurzinterventionenRegMitMandat,0,,,Beiträge,metrics.py:fraktionen_kennzahlen
+redenRegOhneMandat,29,,,Reden,metrics.py:fraktionen_kennzahlen
+woerterRegOhneMandat,25260,,,Wörter,metrics.py:fraktionen_kennzahlen
+minutenRegOhneMandat,182.88756388415672,,,Minuten,metrics.py:fraktionen_kennzahlen
+woerterMedianRegOhneMandat,894,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQEinsRegOhneMandat,706,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQDreiRegOhneMandat,1045,,,Wörter,metrics.py:fraktionen_kennzahlen
+kurzinterventionenRegOhneMandat,0,,,Beiträge,metrics.py:fraktionen_kennzahlen
+redenLaender,20,,,Reden,metrics.py:fraktionen_kennzahlen
+woerterLaender,20868,,,Wörter,metrics.py:fraktionen_kennzahlen
+minutenLaender,151.0885860306644,,,Minuten,metrics.py:fraktionen_kennzahlen
+woerterMedianLaender,979,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQEinsLaender,825.5,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQDreiLaender,1206.5,,,Wörter,metrics.py:fraktionen_kennzahlen
+kurzinterventionenLaender,0,,,Beiträge,metrics.py:fraktionen_kennzahlen
+redenAlle,6368,,,Reden,metrics.py:fraktionen_kennzahlen
+woerterAlle,3702683,,,Wörter,metrics.py:fraktionen_kennzahlen
+minutenAlle,26808.18185689949,,,Minuten,metrics.py:fraktionen_kennzahlen
+woerterMedianAlle,556,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQEinsAlle,421,,,Wörter,metrics.py:fraktionen_kennzahlen
+woerterQDreiAlle,703.25,,,Wörter,metrics.py:fraktionen_kennzahlen
+kurzinterventionenAlle,70,,,Beiträge,metrics.py:fraktionen_kennzahlen
+redenProSitzSPD,6.811594202898551,6.1352657004830915,7.531400966183575,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzSPD,4369.855072463768,3926.288888888889,4851.496980676328,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelSPD,641.531914893617,622.3235823223598,662.0106722337223,Wörter,stats.py:bootstrap_fraktion
+redenProSitzUnion,7.882052843980811,7.091169192111475,8.65750399756339,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzUnion,4762.999543135613,4245.4274765857,5335.507349805832,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelUnion,604.284142394822,578.0382719668967,640.3507645920191,Wörter,stats.py:bootstrap_fraktion
+redenProSitzGruene,7.803759684999365,6.927006858884796,8.706255556966846,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzGruene,4500.105677632415,3924.3543725390577,5077.066905880858,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelGruene,576.6586695747001,551.7374097358552,603.5543105637014,Wörter,stats.py:bootstrap_fraktion
+redenProSitzFDP,8.545469468154957,7.313415134602757,9.7668007222587,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzFDP,5128.117531188444,4401.510394780039,5885.073456992777,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelFDP,600.0978120978122,570.8452350408446,628.4080796111825,Wörter,stats.py:bootstrap_fraktion
+redenProSitzAfD,10.046750727449078,8.707725509214356,11.710378273520854,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzAfD,5230.107080504365,4472.999607177498,6130.293671193017,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelAfD,520.5769728331177,494.5721461695143,548.9760361815083,Wörter,stats.py:bootstrap_fraktion
+redenProSitzLinke,13.678571428571429,10.821428571428571,16.785714285714285,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzLinke,5100.357142857143,3961.979464285714,6363.026785714284,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelLinke,372.8720626631854,342.74732122768864,412.056425944885,Wörter,stats.py:bootstrap_fraktion
+redenProSitzBSW,15.9,11.095,21.0,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzBSW,4956.9,3399.16,6549.8724999999995,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelBSW,311.75471698113205,282.8268903374233,339.73403846153843,Wörter,stats.py:bootstrap_fraktion
+redenProSitzFraktionslos,20.059063136456217,10.09775967413442,32.74949083503055,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzFraktionslos,4970.417515274949,2357.185539714867,8151.303920570265,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelFraktionslos,247.7891156462585,228.593984962406,267.4222222222222,Wörter,stats.py:bootstrap_fraktion
+redenProSitzSPDKoalition,5.555555555555555,5.004830917874396,6.116062801932367,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzSPDKoalition,3533.449275362319,3181.6263285024156,3912.117270531401,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelSPDKoalition,636.0208695652174,617.9912989012807,655.6810530852038,Wörter,stats.py:bootstrap_fraktion
+redenProSitzUnionKoalition,6.484045213564069,5.892140142042613,7.116890067020106,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzUnionKoalition,3844.2429728918673,3503.9620911273378,4254.691197359208,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelUnionKoalition,592.8772619984264,572.0296849627792,616.3138771008739,Wörter,stats.py:bootstrap_fraktion
+redenProSitzGrueneKoalition,6.390934844192635,5.744617563739377,7.070821529745042,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzGrueneKoalition,3643.716713881019,3231.552620396601,4074.0837110481584,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelGrueneKoalition,570.1382978723404,544.5049568110759,596.3355578730342,Wörter,stats.py:bootstrap_fraktion
+redenProSitzFDPKoalition,6.732745646097613,5.778757256503977,7.632729520533218,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzFDPKoalition,3994.130079552784,3409.4629434530207,4545.385417114599,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelFDPKoalition,593.2394136807818,565.5386568465389,619.5777965391246,Wörter,stats.py:bootstrap_fraktion
+redenProSitzAfDKoalition,8.014470677837014,6.952779893373953,9.154493526275704,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzAfDKoalition,4165.919268849962,3605.416774562072,4796.539642041127,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelAfDKoalition,519.799676898223,495.6177021525734,547.2066727210337,Wörter,stats.py:bootstrap_fraktion
+redenProSitzLinkeKoalition,10.75,8.641964285714286,12.930357142857142,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzLinkeKoalition,3960.714285714286,3110.273214285714,4886.589285714286,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelLinkeKoalition,368.4385382059801,342.81960638297875,400.4448739245011,Wörter,stats.py:bootstrap_fraktion
+redenProSitzBSWKoalition,12.3,8.4,16.6,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzBSWKoalition,3789.6,2550.04,5226.245,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelBSWKoalition,308.0975609756098,280.0003544528135,334.6583818181818,Wörter,stats.py:bootstrap_fraktion
+redenProSitzFraktionslosKoalition,14.948275862068966,7.617025862068965,24.624353448275865,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzFraktionslosKoalition,3703.0689655172414,1810.5,5978.471336206896,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelFraktionslosKoalition,247.72549019607845,227.88908638464272,275.12288770053476,Wörter,stats.py:bootstrap_fraktion
+redenProSitzSPDMinderheit,0.4879227053140096,0.4396135265700483,0.5410628019323671,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzSPDMinderheit,324.6328502415459,277.9230676328503,377.3399758454106,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelSPDMinderheit,665.3366336633663,617.174448066804,712.3376146788992,Wörter,stats.py:bootstrap_fraktion
+redenProSitzUnionMinderheit,0.5612244897959183,0.5,0.6275510204081632,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzUnionMinderheit,352.73979591836735,310.1577806122449,394.8178571428571,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelUnionMinderheit,628.5181818181818,584.5442077756054,680.1465550912889,Wörter,stats.py:bootstrap_fraktion
+redenProSitzGrueneMinderheit,0.5811965811965812,0.5042735042735043,0.6666666666666666,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzGrueneMinderheit,349.7008547008547,307.07115384615383,397.4634615384616,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelGrueneMinderheit,601.6911764705883,557.48828125,651.1807224025973,Wörter,stats.py:bootstrap_fraktion
+redenProSitzFDPMinderheit,0.7212205270457698,0.6102635228848821,0.8543689320388349,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzFDPMinderheit,454.4355062413315,368.30596393897366,550.9045769764217,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelFDPMinderheit,630.0923076923077,564.8559038344491,690.5029365079365,Wörter,stats.py:bootstrap_fraktion
+redenProSitzAfDMinderheit,0.8289473684210527,0.6973684210526315,0.9605263157894736,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzAfDMinderheit,427.2894736842105,344.3421052631579,512.4490131578947,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelAfDMinderheit,515.4603174603175,460.3369269241456,571.72282414307,Wörter,stats.py:bootstrap_fraktion
+redenProSitzLinkeMinderheit,1.1785714285714286,0.8928571428571429,1.5,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzLinkeMinderheit,487.9642857142857,351.49285714285713,658.1517857142857,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelLinkeMinderheit,414.030303030303,361.1895945945946,489.4246212121212,Wörter,stats.py:bootstrap_fraktion
+redenProSitzBSWMinderheit,1.7,0.8,2.9024999999999976,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzBSWMinderheit,543.2,281.27000000000004,866.9149999999998,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelBSWMinderheit,319.52941176470586,279.999,402.3575,Wörter,stats.py:bootstrap_fraktion
+redenProSitzFraktionslosMinderheit,1.6901408450704225,0.5633802816901409,3.157746478873237,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzFraktionslosMinderheit,436.9577464788732,149.29577464788733,813.3239436619715,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelFraktionslosMinderheit,258.53333333333336,252.21052631578948,271.625,Wörter,stats.py:bootstrap_fraktion
+redenProSitzSPDNachVertrauensfrage,0.7681159420289855,0.6859903381642513,0.8503623188405796,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzSPDNachVertrauensfrage,511.77294685990336,443.5913043478261,583.8144927536232,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelSPDNachVertrauensfrage,666.2704402515724,623.710841609371,711.2477536979704,Wörter,stats.py:bootstrap_fraktion
+redenProSitzUnionNachVertrauensfrage,0.8367346938775511,0.7447704081632653,0.9438775510204082,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzUnionNachVertrauensfrage,565.9948979591836,470.4056122448979,686.7408163265306,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelUnionNachVertrauensfrage,676.4329268292682,604.2375,773.7574718045112,Wörter,stats.py:bootstrap_fraktion
+redenProSitzGrueneNachVertrauensfrage,0.8290598290598291,0.7094017094017094,0.9658119658119658,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzGrueneNachVertrauensfrage,505.44444444444446,415.66175213675217,602.8213675213675,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelGrueneNachVertrauensfrage,609.659793814433,560.9283651593253,658.6035108695652,Wörter,stats.py:bootstrap_fraktion
+redenProSitzFDPNachVertrauensfrage,1.0888888888888888,0.9219444444444446,1.2780555555555553,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzFDPNachVertrauensfrage,678.5666666666667,541.9563888888888,830.9627777777777,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelFDPNachVertrauensfrage,623.1734693877551,565.6508672248804,690.043653551354,Wörter,stats.py:bootstrap_fraktion
+redenProSitzAfDNachVertrauensfrage,1.1973684210526316,0.986842105263158,1.4342105263157894,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzAfDNachVertrauensfrage,633.8947368421053,492.5069078947368,802.6654605263157,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelAfDNachVertrauensfrage,529.4065934065934,474.1046672077922,585.2388046146293,Wörter,stats.py:bootstrap_fraktion
+redenProSitzLinkeNachVertrauensfrage,1.75,1.2142857142857142,2.357142857142857,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzLinkeNachVertrauensfrage,651.6785714285714,441.6241071428571,902.0544642857144,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelLinkeNachVertrauensfrage,372.3877551020408,318.8788702239789,461.4632925724637,Wörter,stats.py:bootstrap_fraktion
+redenProSitzBSWNachVertrauensfrage,1.9,1.3,2.6,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzBSWNachVertrauensfrage,624.1,403.9,891.92,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelBSWNachVertrauensfrage,328.4736842105263,291.07589285714283,349.10545454545456,Wörter,stats.py:bootstrap_fraktion
+redenProSitzFraktionslosNachVertrauensfrage,3.3333333333333335,2.111111111111111,4.666666666666667,je Sitz,stats.py:bootstrap_fraktion
+woerterProSitzFraktionslosNachVertrauensfrage,808.7777777777778,452.31666666666666,1178.5694444444446,je Sitz,stats.py:bootstrap_fraktion
+woerterMittelFraktionslosNachVertrauensfrage,242.63333333333333,216.0,260.49735064011384,Wörter,stats.py:bootstrap_fraktion
+kwLaengeH,132.64083754591857,,,H,stats.py:kruskal_laenge
+kwLaengeP,3.570816464207151e-26,,,p,stats.py:kruskal_laenge
+kwLaengeEpsilon,0.2196040356720506,,,Epsilon-Quadrat,stats.py:kruskal_laenge
+kwLaengeN,605,,,MdB,stats.py:kruskal_laenge
+kwLaengeDf,6,,,Freiheitsgrade,stats.py:kruskal_laenge
+hEinsSPD,-2.1028456231019232,-4.2976717325800795,0.4476387631680247,Prozentpunkte,stats.py:h1
+hEinsSPDErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilSPD,26.109689212838592,,,Prozent,stats.py:h1
+sitzanteilSPD,28.212534835940517,,,Prozent,stats.py:h1
+hEinsUnion,0.2331110430315697,-2.1455282275470826,2.8476363239046556,Prozentpunkte,stats.py:h1
+hEinsUnionErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilUnion,26.948463267446225,,,Prozent,stats.py:h1
+sitzanteilUnion,26.71535222441465,,,Prozent,stats.py:h1
+hEinsGruene,-0.7519365349275053,-2.504601038256288,1.0777220888336116,Prozentpunkte,stats.py:h1
+hEinsGrueneErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilGruene,15.26344213428871,,,Prozent,stats.py:h1
+sitzanteilGruene,16.015378669216215,,,Prozent,stats.py:h1
+hEinsFDP,1.0663915577077367,-0.8422328687842573,2.96097294868427,Prozentpunkte,stats.py:h1
+hEinsFDPErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilFDP,13.458832412891931,,,Prozent,stats.py:h1
+sitzanteilFDP,12.392440855184196,,,Prozent,stats.py:h1
+hEinsAfD,1.1288746637897238,-0.5226640728770605,2.901706387912648,Prozentpunkte,stats.py:h1
+hEinsAfDErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilAfD,11.615255590985148,,,Prozent,stats.py:h1
+sitzanteilAfD,10.486380927195423,,,Prozent,stats.py:h1
+hEinsLinke,0.3059536565937111,-0.655568298352147,1.326240538044733,Prozentpunkte,stats.py:h1
+hEinsLinkeErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilLinke,4.122141943580834,,,Prozent,stats.py:h1
+sitzanteilLinke,3.8161882869871233,,,Prozent,stats.py:h1
+hEinsBSW,0.0678609489610879,-0.4034133576383799,0.5552511544262666,Prozentpunkte,stats.py:h1
+hEinsBSWErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilBSW,1.4307853371707748,,,Prozent,stats.py:h1
+sitzanteilBSW,1.3629243882096869,,,Prozent,stats.py:h1
+hEinsFraktionslos,0.0525902879456129,-0.5377363663956999,0.722245427186542,Prozentpunkte,stats.py:h1
+hEinsFraktionslosErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilFraktionslos,1.0513901007977864,,,Prozent,stats.py:h1
+sitzanteilFraktionslos,0.9987998128521736,,,Prozent,stats.py:h1
+hEinsRegSPD,-0.8017333698157936,-3.524420801886424,1.93357716469182,Prozentpunkte,stats.py:h1
+hEinsRegSPDErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilRegSPD,27.410801466124724,,,Prozent,stats.py:h1
+hEinsRegUnion,-1.3577772240411956,-3.5041731910529834,1.0727950751429711,Prozentpunkte,stats.py:h1
+hEinsRegUnionErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilRegUnion,25.357575000373455,,,Prozent,stats.py:h1
+hEinsRegGruene,0.3783836463808476,-1.621292959458152,2.201359143859642,Prozentpunkte,stats.py:h1
+hEinsRegGrueneErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilRegGruene,16.393762315597062,,,Prozent,stats.py:h1
+hEinsRegFDP,1.286328990666287,-0.5977520236872932,3.2122414592310693,Prozentpunkte,stats.py:h1
+hEinsRegFDPErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilRegFDP,13.678769845850484,,,Prozent,stats.py:h1
+hEinsRegAfD,0.4431741971114719,-1.147693018903536,2.204103866936017,Prozentpunkte,stats.py:h1
+hEinsRegAfDErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilRegAfD,10.929555124306898,,,Prozent,stats.py:h1
+hEinsRegLinke,0.0626051885134114,-0.7693523357525175,0.951284969813422,Prozentpunkte,stats.py:h1
+hEinsRegLinkeErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilRegLinke,3.8787934755005344,,,Prozent,stats.py:h1
+hEinsRegBSW,-0.0166047062050233,-0.4642444274179003,0.4391136259619808,Prozentpunkte,stats.py:h1
+hEinsRegBSWErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilRegBSW,1.3463196820046637,,,Prozent,stats.py:h1
+hEinsRegFraktionslos,0.0056232773900032,-0.5756332948018688,0.7377742237878455,Prozentpunkte,stats.py:h1
+hEinsRegFraktionslosErfuellt,1,,,ja=1,stats.py:h1
+woerteranteilRegFraktionslos,1.004423090242177,,,Prozent,stats.py:h1
+hEinsErfuelltN,8,,,Fraktionen,stats.py:h1
+hEinsRegErfuelltN,8,,,Fraktionen,stats.py:h1
+kurzinterventionenProSitzOpposition,0.158921198278134,0.1193864953070587,0.2073576907835639,je Sitz,stats.py:h1_kurzinterventionen
+kurzinterventionenOpposition,54,,,Beiträge,stats.py:h1_kurzinterventionen
+kurzinterventionenProSitzRegierung,0.0406168302201341,0.0232160279011094,0.0659591876268928,je Sitz,stats.py:h1_kurzinterventionen
+kurzinterventionenRegierung,16,,,Beiträge,stats.py:h1_kurzinterventionen
+kurzinterventionenProSitzVerhaeltnis,3.912693270666784,2.206142486471111,7.324088565631041,Verhältnis,stats.py:h1_kurzinterventionen
+hZweiAnFdpJeRedeVor,0.5142428785607196,0.4689439129065281,0.560171323690863,Anteil Reden,stats.py:h2
+hZweiAnFdpJeRedeNach,0.2453987730061349,0.1698058038177204,0.3308322530464091,Anteil Reden,stats.py:h2
+hZweiAnFdpJeRedeDiff,-0.2688441055545846,-0.3512834381862812,-0.1833052462929175,Anteil Reden,stats.py:h2
+hZweiAnFdpJeTausendWoerterVor,2.1538844621513946,1.9043662115240063,2.4161336821890393,je 1000 Wörter,stats.py:h2
+hZweiAnFdpJeTausendWoerterNach,0.6860928969782508,0.4401551217218595,0.9868751168346852,je 1000 Wörter,stats.py:h2
+hZweiAnFdpJeTausendWoerterDiff,-1.467791565173144,-1.7579883530864442,-1.1582196618262208,je 1000 Wörter,stats.py:h2
+hZweiVonFdpJeRedeVor,0.2857840742550073,0.2585231848838201,0.3132614506824929,Anteil Reden,stats.py:h2
+hZweiVonFdpJeRedeNach,0.1382289416846652,0.1047603785103785,0.1741936357640851,Anteil Reden,stats.py:h2
+hZweiVonFdpJeRedeDiff,-0.1475551325703421,-0.1879038083788251,-0.1035136144196628,Anteil Reden,stats.py:h2
+hZweiVonFdpJeTausendWoerterVor,1.0674109903855606,0.8533178649735806,1.3439138011051015,je 1000 Wörter,stats.py:h2
+hZweiVonFdpJeTausendWoerterNach,0.3864228463158944,0.2682813622417033,0.5137451803894294,je 1000 Wörter,stats.py:h2
+hZweiVonFdpJeTausendWoerterDiff,-0.6809881440696661,-0.9979553815808428,-0.4133724327256756,je 1000 Wörter,stats.py:h2
+hZweiAnFdpJeRedeVorAlle,0.9220389805097452,0.8970514592585879,0.94436910832947,Anteil Reden,stats.py:h2
+hZweiAnFdpJeRedeNachAlle,0.5950920245398773,0.4966413148454746,0.704548398492699,Anteil Reden,stats.py:h2
+hZweiAnFdpJeRedeDiffAlle,-0.3269469559698678,-0.417249121651757,-0.2281903499354364,Anteil Reden,stats.py:h2
+hZweiAnFdpJeTausendWoerterVorAlle,6.857569721115538,6.450815161659346,7.331694919921729,je 1000 Wörter,stats.py:h2
+hZweiAnFdpJeTausendWoerterNachAlle,2.7247689337136247,2.0829766655560484,3.632271312142968,je 1000 Wörter,stats.py:h2
+hZweiAnFdpJeTausendWoerterDiffAlle,-4.132800787401913,-4.909750682917687,-3.303927097166744,je 1000 Wörter,stats.py:h2
+hZweiVonFdpJeRedeVorAlle,0.8314606741573034,0.8114928606084154,0.8512031328667187,Anteil Reden,stats.py:h2
+hZweiVonFdpJeRedeNachAlle,0.4600431965442764,0.40660225477036,0.5148758515479103,Anteil Reden,stats.py:h2
+hZweiVonFdpJeRedeDiffAlle,-0.3714174776130269,-0.4227144919837298,-0.3157990320657504,Anteil Reden,stats.py:h2
+hZweiVonFdpJeTausendWoerterVorAlle,4.911329031179393,4.576491802958433,5.245477735956924,je 1000 Wörter,stats.py:h2
+hZweiVonFdpJeTausendWoerterNachAlle,1.7513680615284897,1.4097671394730986,2.1277413293053615,je 1000 Wörter,stats.py:h2
+hZweiVonFdpJeTausendWoerterDiffAlle,-3.1599609696509035,-3.635769308127595,-2.679656305774765,je 1000 Wörter,stats.py:h2
+nettoMittelSPD,-0.2123122998904403,-0.2347791203661389,-0.1906945041740529,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertSPD,0.0982856939160819,0.0816832709480128,0.1137578909459034,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativSPD,0.1944641589779985,0.1667729974079007,0.2266877577326601,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelUnion,-0.3322307984118983,-0.3548050842917338,-0.3066746090588878,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertUnion,-0.0249310005548898,-0.0432290301258538,-0.0056152631713329,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativUnion,0.3400520156046814,0.3031214796678994,0.3754339606714117,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelGruene,-0.2561367417406645,-0.2841600328386311,-0.2273742136388129,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertGruene,0.0584143081764569,0.0366227039001919,0.0802312248783332,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativGruene,0.2584884994523548,0.2149113745106568,0.3033933855642675,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelFDP,-0.2214492542012136,-0.2442273056390241,-0.195801297740116,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertFDP,0.090535966036561,0.0701709237528536,0.1113117670339396,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativFDP,0.1950904392764857,0.1664514850641326,0.2237760353623656,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelAfD,-0.467340026992618,-0.5107495175437928,-0.4226200802788372,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertAfD,-0.1606093501173031,-0.1944956742857372,-0.1272679450406624,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativAfD,0.5103896103896104,0.4455703582155635,0.5670672754691689,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelLinke,-0.5498256657434875,-0.5999030212243012,-0.499530214251642,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertLinke,-0.2319629595501814,-0.2699127379761996,-0.1929469167791555,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativLinke,0.6109660574412533,0.5307861862746354,0.6812524287564767,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelBSW,-0.5369743671051043,-0.6421154429703386,-0.4202154155298703,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertBSW,-0.1965494037754654,-0.2874887495742043,-0.1133913308147551,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativBSW,0.6666666666666666,0.527592853589786,0.78031600249066,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelFraktionslos,-0.524891094867966,-0.6652289413408817,-0.3293948133409818,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertFraktionslos,-0.1654400028923571,-0.2870724905412781,0.0027793504003674,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativFraktionslos,0.6258503401360545,0.3932400504042844,0.7991484716157204,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelSPDKoalition,-0.2002110695477725,-0.2216371195067421,-0.1785274686285437,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertSPDKoalition,0.1015516578241392,0.0844110060806602,0.1161106531481137,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativSPDKoalition,0.1662315056570931,0.1377239224322136,0.1951497506544127,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelUnionKoalition,-0.3348298176277574,-0.3571703943667684,-0.3098347782519272,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertUnionKoalition,-0.036445952818309,-0.0555400960353648,-0.0156471886658088,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativUnionKoalition,0.3391304347826087,0.3003874196477915,0.374423425336072,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelGrueneKoalition,-0.2467095685211233,-0.2784519717136416,-0.2182953053193776,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertGrueneKoalition,0.0603865026370912,0.0371384241932037,0.0825734644027087,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativGrueneKoalition,0.248663101604278,0.2025048507807447,0.2986022871664548,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelFDPKoalition,-0.2072371858744628,-0.2359410901547052,-0.1757462675545067,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertFDPKoalition,0.0928675896717512,0.0678854058920501,0.1166385541238077,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativFDPKoalition,0.1748366013071895,0.1423985585585585,0.2075890698821017,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelAfDKoalition,-0.4577564390685023,-0.5025635942700891,-0.4140168389987993,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertAfDKoalition,-0.1625216980269682,-0.1981697218869517,-0.1275016263942153,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativAfDKoalition,0.4878444084278768,0.4272990288643107,0.5510154151797211,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelLinkeKoalition,-0.5369432006594745,-0.591257700469415,-0.4849736202669508,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertLinkeKoalition,-0.229296671613699,-0.271256222160939,-0.185524851711898,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativLinkeKoalition,0.5946843853820598,0.5153633720930232,0.6697963859476531,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelBSWKoalition,-0.4985766769044341,-0.6288433692953616,-0.3713249457247863,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertBSWKoalition,-0.1738937245021937,-0.2987136918824978,-0.0768341841862493,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativBSWKoalition,0.6260162601626016,0.4886297568710359,0.7604182260479041,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelFraktionslosKoalition,-0.4993400574413993,-0.6560755670857975,-0.2522266009338743,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertFraktionslosKoalition,-0.1734564545821262,-0.3076345868848062,0.0344670943777137,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativFraktionslosKoalition,0.5686274509803921,0.3011746987951808,0.7544704151683556,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelSPDMinderheit,-0.2996511676735355,-0.3581859633063744,-0.2408346046596167,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertSPDMinderheit,0.0705277678796926,0.0167852413692585,0.1222098922349218,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativSPDMinderheit,0.3564356435643564,0.256610127826942,0.4579749189395384,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelUnionMinderheit,-0.3597940914784054,-0.4174670129356909,-0.3017819401055163,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertUnionMinderheit,0.0057837561305453,-0.0405377603750112,0.0566106486109039,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativUnionMinderheit,0.3727272727272727,0.2815321069664452,0.4643013784461153,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelGrueneMinderheit,-0.2796642093337946,-0.340080889494304,-0.2164737430257939,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertGrueneMinderheit,0.0903160612305171,0.0349629771575415,0.1447450175056826,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativGrueneMinderheit,0.3088235294117647,0.1846153846153846,0.4428968253968253,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelFDPMinderheit,-0.3039604008714839,-0.3667814743540121,-0.2418525271004076,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertFDPMinderheit,0.0814242002913547,0.0252504240209451,0.14268664278734,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativFDPMinderheit,0.2923076923076923,0.188383152173913,0.4117880485527544,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelAfDMinderheit,-0.5280851065567568,-0.6109299219829483,-0.4296326250240397,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertAfDMinderheit,-0.1589199683021693,-0.22178707524455,-0.0840264932872034,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativAfDMinderheit,0.6349206349206349,0.4798852459016393,0.7595204136209663,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelLinkeMinderheit,-0.609150928576704,-0.6966609188329442,-0.4896488558824981,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertLinkeMinderheit,-0.2154296553904434,-0.2848604047280519,-0.1252456821071581,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativLinkeMinderheit,0.6666666666666666,0.4760044642857142,0.8333333333333334,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelBSWMinderheit,-0.5802181596569532,-0.6885988510910938,-0.4435943702808781,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertBSWMinderheit,-0.2423448533941393,-0.300595618892307,-0.1664675563950153,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativBSWMinderheit,0.7058823529411765,0.4,0.8421052631578947,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelFraktionslosMinderheit,-0.5193321177131952,-0.6845321492893928,-0.2658881395538288,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertFraktionslosMinderheit,-0.1055163386775206,-0.2600868865473001,0.1438956399932376,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativFraktionslosMinderheit,0.6666666666666666,0.2727272727272727,0.9166666666666666,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelSPDNachVertrauensfrage,-0.2442814069195762,-0.2908153284626232,-0.1911526991767678,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertSPDNachVertrauensfrage,0.0923168763017263,0.0530529890351761,0.1334839153398604,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativSPDNachVertrauensfrage,0.2955974842767295,0.2222046413502109,0.3647819989801121,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelUnionNachVertrauensfrage,-0.2934595005874968,-0.3427006388027212,-0.2409736272632477,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertUnionNachVertrauensfrage,0.0437057563642973,0.0076380483782201,0.0814543209828074,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativUnionNachVertrauensfrage,0.3251533742331288,0.2482436643124221,0.3986948153494526,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelGrueneNachVertrauensfrage,-0.3123393991827667,-0.3683266317839266,-0.2467202431150503,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertGrueneNachVertrauensfrage,0.0208419301946987,-0.0239733193055063,0.0713413139859554,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativGrueneNachVertrauensfrage,0.2989690721649484,0.2210526315789473,0.378956442831216,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelFDPNachVertrauensfrage,-0.2558261746383676,-0.3074227411173523,-0.2000453710156762,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertFDPNachVertrauensfrage,0.0819309259200868,0.0385816405483839,0.1237914047860271,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativFDPNachVertrauensfrage,0.2577319587628865,0.1808297872340425,0.351078442833762,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelAfDNachVertrauensfrage,-0.4905192907330465,-0.5557938530621452,-0.4175827080216336,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertAfDNachVertrauensfrage,-0.1486817100516372,-0.2061096107207144,-0.0922774827468129,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativAfDNachVertrauensfrage,0.5777777777777777,0.4705519244734931,0.6790123456790124,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelLinkeNachVertrauensfrage,-0.589007059963727,-0.6757094181652533,-0.5079377363645048,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertLinkeNachVertrauensfrage,-0.2594762596757436,-0.372345707379329,-0.159336203529313,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativLinkeNachVertrauensfrage,0.673469387755102,0.5094339622641509,0.8474668386145909,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelBSWNachVertrauensfrage,-0.7468570734893669,-0.8170776343194635,-0.6603290044586552,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertBSWNachVertrauensfrage,-0.3022402409909903,-0.3702357529660056,-0.2240810990756561,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativBSWNachVertrauensfrage,0.8947368421052632,0.6875,1.0,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+nettoMittelFraktionslosNachVertrauensfrage,-0.6145441106956782,-0.7298217050851475,-0.4934153603696387,netto,stats_sentiment.py:sentiment_fraktion_phase
+nettoZentriertFraktionslosNachVertrauensfrage,-0.1681458992545605,-0.2580218996042688,-0.0700673487023786,netto,stats_sentiment.py:sentiment_fraktion_phase
+anteilNegativFraktionslosNachVertrauensfrage,0.8,0.6486089030206678,0.9643165024630542,Anteil,stats_sentiment.py:sentiment_fraktion_phase
+kwSentimentH,194.6133489379149,,,H,stats_sentiment.py:kruskal_sentiment
+kwSentimentP,2.657230179013156e-39,,,p,stats_sentiment.py:kruskal_sentiment
+kwSentimentEpsilon,0.3222075313541637,,,Epsilon-Quadrat,stats_sentiment.py:kruskal_sentiment
+kwSentimentN,605,,,MdB,stats_sentiment.py:kruskal_sentiment
+hDreiFdpVor,-0.2072371858744628,-0.2404471114529878,-0.1762794083759073,netto,stats_sentiment.py:h3
+hDreiFdpNach,-0.2751392901022723,-0.3209062141130601,-0.2255926823169878,netto,stats_sentiment.py:h3
+hDreiUnionNach,-0.3201877240233941,-0.3616790491409492,-0.2751405020233889,netto,stats_sentiment.py:h3
+hDreiFdpNachMinusUnionNach,0.0450484339211218,-0.0167074423401268,0.1060131167036523,netto,stats_sentiment.py:h3
+hDreiFdpNachMinusFdpVor,-0.0679021042278094,-0.1276195269513497,-0.0079549895772684,netto,stats_sentiment.py:h3
+hDreiAbstandsdifferenz,0.0228536703066875,-0.0810260167199682,0.1112132504796332,netto,stats_sentiment.py:h3
+hDreiFdpVorZentriert,0.0928675896717512,0.0677775408141388,0.1174487512603265,netto,stats_sentiment.py:h3
+hDreiFdpNachZentriert,0.081727610081398,0.0355867449710583,0.1219549751844809,netto,stats_sentiment.py:h3
+hDreiUnionNachZentriert,0.0284258295301848,-0.0047648235523256,0.0629277992319401,netto,stats_sentiment.py:h3
+hDreiFdpNachMinusUnionNachZentriert,0.0533017805512132,0.0023482649257297,0.1042312319284177,netto,stats_sentiment.py:h3
+hDreiFdpNachMinusFdpVorZentriert,-0.0111399795903532,-0.061293803173756,0.0376672541623285,netto,stats_sentiment.py:h3
+hDreiAbstandsdifferenzZentriert,-0.04216180096086,-0.0889258659859022,0.0451499550754988,netto,stats_sentiment.py:h3
+hDreiGestuetzt,0,,,ja=1,stats_sentiment.py:h3
+validierungSitzungen,67,,,Sitzungen,make_zahlen.py:data/processed/validierung.csv:sitzung
+redenFEinsMikro,0.9581718984739463,,,F1,make_zahlen.py:data/processed/validierung.csv:reden_tp/reden_parser/reden_gold (mikro)
+redenPrecisionMikro,0.9305790201197973,,,Quote,make_zahlen.py:data/processed/validierung.csv:reden_tp/reden_parser (mikro)
+redenRecallMikro,0.9874511082138201,,,Quote,make_zahlen.py:data/processed/validierung.csv:reden_tp/reden_gold (mikro)
+redenFEinsMikroXmlVoll,0.9854427820460978,,,F1,make_zahlen.py:data/processed/validierung.csv:reden_* ohne xml_unvollstaendig (mikro)
+xmlUnvollstaendig,9,,,Sitzungen,make_zahlen.py:data/processed/validierung.csv:xml_unvollstaendig
+redenFEinsMedian,0.9886363636363636,,,F1,make_zahlen.py:data/processed/validierung.csv:reden_f1 (Median)
+redenFEinsMin,0.5576923076923077,,,F1,make_zahlen.py:data/processed/validierung.csv:reden_f1 (Minimum)
+beitraegeFEinsMikro,0.9812821712681329,,,F1,make_zahlen.py:data/processed/validierung.csv:beitraege_tp/beitraege_parser/beitraege_gold (mikro)
+ordnungsquoteMedian,1,,,Quote,make_zahlen.py:data/processed/validierung.csv:ordnungsquote (Median)
+ordnungsquoteMin,1,,,Quote,make_zahlen.py:data/processed/validierung.csv:ordnungsquote (Minimum)
+fuenfGrammRecallMedian,0.9995961737462457,,,Quote,make_zahlen.py:data/processed/validierung.csv:recall_5gramm (Median)
+fuenfGrammRecallMin,0.9991755552120368,,,Quote,make_zahlen.py:data/processed/validierung.csv:recall_5gramm (Minimum)
+tokenRecallMedian,0.9999428806433924,,,Quote,make_zahlen.py:data/processed/validierung.csv:recall_token (Median)
+tokenRecallMin,0.9998144755455578,,,Quote,make_zahlen.py:data/processed/validierung.csv:recall_token (Minimum)
+parteiQuote,0.9991659716430359,,,Quote,make_zahlen.py:data/processed/validierung.csv:partei_gleich/partei_pruefbar (Summe)
+parteiGleich,5990,,,Reden,make_zahlen.py:data/processed/validierung.csv:partei_gleich (Summe)
+parteiPruefbar,5995,,,Reden,make_zahlen.py:data/processed/validierung.csv:partei_pruefbar (Summe)
+drucksachenRecall,0.8854389721627409,,,Quote,make_zahlen.py:data/processed/validierung.csv:drs_gefunden/drs_gold (Summe)
+drucksachenGefunden,1654,,,Drucksachen,make_zahlen.py:data/processed/validierung.csv:drs_gefunden (Summe)
+drucksachenGold,1868,,,Drucksachen,make_zahlen.py:data/processed/validierung.csv:drs_gold (Summe)
+titelN,882,,,Gegenstände,make_zahlen.py:data/processed/validierung.csv:titel_n (Summe)
+titelQuote,0.9399092970521542,,,Quote,make_zahlen.py:data/processed/validierung.csv:titel_gleich/titel_n (Summe)
+titelGesetzN,282,,,Gesetzentwürfe,make_zahlen.py:data/processed/validierung.csv:titel_gesetz_n (Summe)
+titelGesetzGleich,278,,,Gesetzentwürfe,make_zahlen.py:data/processed/validierung.csv:titel_gesetz_gleich (Summe)
+titelGesetzQuote,0.9858156028368794,,,Quote,make_zahlen.py:data/processed/validierung.csv:titel_gesetz_gleich/titel_gesetz_n (Summe)
+kurztitelXml,70,,,Kurztitel,make_zahlen.py:data/processed/validierung.csv:kurztitel_xml (Summe)
+kurztitelGleich,68,,,Kurztitel,make_zahlen.py:data/processed/validierung.csv:kurztitel_gleich (Summe)
+kurztitelNurParser,0,,,Kurztitel,make_zahlen.py:data/processed/validierung.csv:kurztitel_nur_parser (Summe)
+abstimmungPrecision,0.98,0.8935304542885001,0.9994937720169592,Anteil,make_zahlen.py:data/reference/abstimmung_urteile_v3.csv:urteil bei abgestimmt=True; Clopper-Pearson
+abstimmungFehlrateFalse,0.04,0.0010121996993108446,0.203516913922414,Anteil,make_zahlen.py:data/reference/abstimmung_urteile_v3.csv:urteil=falsch bei abgestimmt=False; Clopper-Pearson
+abstimmungRichtig,49,,,Fälle,make_zahlen.py:data/reference/abstimmung_urteile_v3.csv:urteil=richtig bei abgestimmt=True
+abstimmungFaelle,50,,,Fälle,make_zahlen.py:data/reference/abstimmung_urteile_v3.csv:abgestimmt=True
+abstimmungFalsch,1,,,Fälle,make_zahlen.py:data/reference/abstimmung_urteile_v3.csv:urteil=falsch bei abgestimmt=False
+abstimmungFaelleFalse,25,,,Fälle,make_zahlen.py:data/reference/abstimmung_urteile_v3.csv:abgestimmt=False
+abstimmungZeileRichtig,46,,,Fälle,make_zahlen.py:data/reference/abstimmung_urteile_v3.csv:urteil=richtig und zeile_ok=ja bei abgestimmt=True
+abstimmungBeschlussartRichtig,61,,,Fälle,"make_zahlen.py:data/reference/abstimmung_urteile_v3.csv:beschlussart_ok=ja (alle Fälle, Parserstand der Stichprobe)"
+abstimmungStichprobeN,75,,,Fälle,make_zahlen.py:data/reference/abstimmung_urteile_v3.csv:Zeilen
+abstimmungRecallGeschaetzt,0.9519391083725988,0.7801928347266579,0.9987489024735924,Anteil,make_zahlen.py:data/reference/abstimmung_urteile_v3.csv:Precision × 536 / (Precision × 536 + Fehlrate × 663); Grenzen aus CP
+gegenstaendeAbgestimmt,536,,,Gegenstände,make_zahlen.py:data/processed/gesetze.parquet:abgestimmt=True
+abstimmungVierBeschlussartRichtig,69,,,Fälle,"make_zahlen.py:data/reference/abstimmung_urteile_v4.csv:beschlussart_ok=ja (alle Fälle, Parserstand nach den Regeln aus v3)"
+abstimmungVierN,75,,,Fälle,make_zahlen.py:data/reference/abstimmung_urteile_v4.csv:Zeilen
+abstimmungVierRichtig,50,,,Fälle,make_zahlen.py:data/reference/abstimmung_urteile_v4.csv:urteil=richtig bei abgestimmt=True
+abstimmungVierFaelle,50,,,Fälle,make_zahlen.py:data/reference/abstimmung_urteile_v4.csv:abgestimmt=True
+abstimmungVierFalsch,2,,,Fälle,make_zahlen.py:data/reference/abstimmung_urteile_v4.csv:urteil=falsch bei abgestimmt=False
+abstimmungVierFaelleFalse,25,,,Fälle,make_zahlen.py:data/reference/abstimmung_urteile_v4.csv:abgestimmt=False
+parserSitzungen,67,,,Sitzungen,make_zahlen.py:data/processed/sitzungen.parquet:Zeilen
+parserBeitraege,25086,,,Beiträge,make_zahlen.py:data/processed/beitraege.parquet:Zeilen
+parserReden,10936,,,Reden,make_zahlen.py:data/processed/reden.parquet:Zeilen
+parserGesetze,1199,,,Beratungsgegenstände,make_zahlen.py:data/processed/gesetze.parquet:Zeilen
+parserGesetzeEinheit,259,,,Gesetzentwürfe,make_zahlen.py:data/processed/gesetze_einheit.parquet:Zeilen
+gesetzeOhneEinzelplan,241,,,Gesetzentwürfe,make_zahlen.py:data/processed/gesetze_einheit.parquet:titel ohne Einzelplan
+gesetzeGemeinsamBeraten,118,,,Gesetzentwürfe,"make_zahlen.py:data/processed/gesetze_einheit.parquet:gegenstaende_im_top_max > 1, ohne Einzelplan"
+parserZuProtokoll,604,,,Reden,make_zahlen.py:data/processed/reden.parquet:redetyp in zu_protokoll/erklaerung_go31
+laufzeitExtract,27.9,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=extract)
+laufzeitStammdaten,0.8,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=stammdaten)
+laufzeitGold,7.8,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=gold)
+laufzeitParse,13.4,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=parse)
+laufzeitValidate,26,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=validate)
+laufzeitApplaus,15.1,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=applaus)
+laufzeitSentiment,7.9,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=sentiment)
+laufzeitSentimentKappa,1.3,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=sentiment_kappa)
+laufzeitMetrics,6.2,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=metrics)
+laufzeitStats,1.3,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=stats)
+laufzeitStatsSentiment,1.2,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=stats_sentiment)
+laufzeitLlm,34,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=llm)
+laufzeitVisualize,3.1,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=visualize)
+laufzeitGesamt,146,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (Summe OK/TEIL ohne zahlen)
+laufzeitGesamtMinuten,2.433333333333333,,,Minuten,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (Summe OK/TEIL ohne zahlen / 60)

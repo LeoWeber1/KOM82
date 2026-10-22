@@ -1,0 +1,31 @@
+fall,sitzung,zeile,abgestimmt,urteil,grund
+1,160,10113,True,richtig,Abstimmung über die Beschlussempfehlung des Verkehrsausschusses (Ausbaustrecke Paderborn–Halle); Ergebnis angenommen
+2,207,11759,True,richtig,TOP 18 c: Antrag Drs. 20/11426 und 20/13332 wird abgestimmt (Zurückverweisung und Beschlussempfehlung)
+3,175,4243,True,richtig,Z. 4241: Buchstabe a der Beschlussempfehlung zu Drs. 20/7463 abgestimmt; abstimmung_zeile zeigt eine Zeile zu spät (Buchstabe b)
+4,207,2695,True,falsch,Drs. 20/14252 wurde Z. 2693 nur überwiesen; Z. 2695 ist das Ergebnis der namentlichen Abstimmung zu TOP 6 a; ergebnis_text gehört zu TOP 6 a
+5,172,11161,True,richtig,Z. 11161 ist die Schlussabstimmung zu TOP 20 a; TOP 20 c (Beschlussempfehlung Vision Zero) wird Z. 11171 abgestimmt und angenommen
+6,157,8165,True,richtig,Abstimmung über die Beschlussempfehlung zur 37. BImSchV-Verordnung
+7,172,9815,True,richtig,Beschlussempfehlung zu Antrag CDU/CSU Arbeitszeit flexibilisieren wird abgestimmt
+8,155,1199,True,richtig,Abstimmung über Antrag Drs. 20/10374 (Verlängerung Enquete-Kommission)
+9,203,3789,True,richtig,ZP 9 a Antrag Drs. 20/14028: Abstimmung über Zurückverweisung
+10,181,7441,True,richtig,TOP 18 b: Abstimmung über Beschlussempfehlung Energiespeicher
+11,169,8029,True,richtig,Abstimmung über Antrag Drs. 20/11379 Drohnenarmee
+12,147,4121,True,richtig,Namentliche Abstimmung über Beschlussempfehlung zum AfD-Antrag Friedensinitiative
+13,164,5339,True,richtig,ZP 17: Abstimmung über Gesetzentwurf Energiewirtschaftsgesetz in zweiter und dritter Beratung
+14,175,1951,True,richtig,Namentliche Abstimmung über Antrag Drs. 20/11758
+15,188,827,True,richtig,Abstimmung über Viertes Bürokratieentlastungsgesetz
+16,148,3161,True,richtig,TOP 32 a: Abstimmung über Gesetzentwurf Staatsangehörigkeitsrecht
+17,160,995,True,richtig,Abstimmung über Gesetzentwurf Drs. 20/10031 (DSA-Durchführung)
+18,195,6009,True,richtig,Z. 6009 ist die Schlussabstimmung des vorigen Entwurfs; ZP 11 Existenzminimum 2024 wird Z. 6011 abgestimmt
+19,163,6125,True,richtig,Abstimmung über Gesetzentwurf CDU/CSU Wohnungseinbruchdiebstahl
+20,194,2043,True,richtig,TOP 8 c: Abstimmung über Beschlussempfehlung Pakt für Wachstum und Wohlstand
+21,210,31,False,richtig,Jahreswirtschaftsbericht Drs. 20/14740 wird Z. 1195 nur überwiesen
+22,206,2689,False,richtig,Fragestunde ohne Abstimmung
+23,147,4253,False,falsch,ZP 9 a Beschlussfassung ohne Aussprache: Z. 4257 Wer stimmt für diese Beschlussempfehlung (Drs. 20/4874 und 20/9892) – Abstimmung nicht erkannt
+24,185,4113,False,falsch,ZP 6 d Beschlussfassung ohne Aussprache: Z. 4145 Abstimmung über Beschlussempfehlung zu Drs. 20/4565 – nicht erkannt
+25,203,9917,False,richtig,ZP 18 b Drs. 20/12105 wird Z. 10241 überwiesen
+26,190,3047,False,richtig,Erste Beratung Drs. 20/13092 mit Überweisung Z. 3503
+27,179,2711,False,richtig,Erste Beratung GVSG mit Überweisung Z. 3327
+28,176,2337,False,richtig,Antrag Drs. 20/11754 wird Z. 2821 überwiesen
+29,207,12625,False,richtig,Antrag Drs. 20/14019 wird Z. 12761 überwiesen
+30,188,5895,False,richtig,Erste Beratung Tierschutzgesetz mit Überweisung Z. 6487

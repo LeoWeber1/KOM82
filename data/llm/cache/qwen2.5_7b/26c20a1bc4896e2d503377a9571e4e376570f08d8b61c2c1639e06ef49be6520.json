@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"kernpunkt\": \"Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024)\",\n  \"positionen\": [\n    {\"fraktion\": \"CDU/CSU\", \"haltung\": \"zustimmend\", \"begruendung\": \"CDU/CSU fordert Rücknahme des Zuschusses für Agrardiesel\"},\n    {\"fraktion\": \"SPD\", \"haltung\": \"zustimmend\", \"begruendung\": \"SPD betont verfassungskonforme Haushalte und innere Sicherheit\"},\n    {\"fraktion\": \"AfD\", \"haltung\": \"ablehnend\", \"begruendung\": \"AfD kritisiert Energietransformation und Kostenvorhaltungen\"},\n    {\"fraktion\": \"BÜNDNIS 90/DIE GRÜNEN\", \"haltung\": \"zustimmend\", \"begruendung\": \"Grüne betonen KTF-Buchungspraxis und ihre Konsequenzen\"},\n    {\"fraktion\": \"FDP\", \"haltung\": \"zustimmend\", \"begruendung\": \"FDP fordert Diskussion und klare Deckung\"},\n    {\"fraktion\": \"Die Linke\", \"haltung\": \"ablehnend\", \"begruendung\": \"Die Linke fordert Schluss auf Kürzungen und Sozialstaat\"},\n    {\"fraktion\": \"BSW\", \"haltung\": \"ablehnend\", \"begruendung\": \"BSW kritisiert Kürzungen bei existenziellen Themen\"}\n  ]\n}",
+ "thinking": null,
+ "eval_count": 376,
+ "prompt_eval_count": 2041,
+ "total_duration": 24542281917,
+ "load_duration": 603625,
+ "wand_s": 24.54646254191175,
+ "prompt_zeichen": 6977
+}

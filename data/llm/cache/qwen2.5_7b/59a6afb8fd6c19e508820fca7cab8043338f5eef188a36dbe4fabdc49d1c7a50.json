@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Gesetzes über die Statistiken der öffentlichen Finanzen und des Personals im öffentlichen Dienst sowie zur Anpassung nationaler Rechtsvorschriften an die Verordnung (EU) 2023/2631 über europäische grüne Anleihen sowie fakultative Offenlegungen zu als ökologisch nachhaltig vermarkteten Anleihen und zu an Nachhaltigkeitsziele geknüpften Anleihen\", \"kurztitel\": null, \"drucksachen\": [\"20/12781\", \"20/13301\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 214,
+ "prompt_eval_count": 1158,
+ "total_duration": 16513161458,
+ "load_duration": 2683833208,
+ "wand_s": 16.519147207960486,
+ "prompt_zeichen": 3249
+}

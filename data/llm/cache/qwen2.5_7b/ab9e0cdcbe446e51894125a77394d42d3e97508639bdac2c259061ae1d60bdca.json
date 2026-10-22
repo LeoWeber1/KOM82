@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Strafgesetzbuches – Stärkung des Schutzes von Vollstreckungsbeamten und Rettungskräften sowie von dem Gemeinwohl dienenden Tätigkeiten\", \"kurztitel\": \"Strafgesetzbuch\", \"drucksachen\": [\"20/12950\", \"20/13185\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zum Schutz von Vollstreckungsbeamten und Hilfeleistenden\", \"kurztitel\": null, \"drucksachen\": [\"20/13217\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Abgeordneten Martin Sichert, Dr. Christina Baum, Jörg Schneider, weiterer Abgeordneter und der Fraktion der AfD Schärfere Strafen bei Gewalt gegen Ärzte und medizinisches Personal\", \"kurztitel\": null, \"drucksachen\": [\"20/13232\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 342,
+ "prompt_eval_count": 1287,
+ "total_duration": 15285606000,
+ "load_duration": 625125,
+ "wand_s": 15.288036624900997,
+ "prompt_zeichen": 3635
+}

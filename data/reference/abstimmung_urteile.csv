@@ -1,0 +1,31 @@
+fall,sitzung,zeile,abgestimmt,urteil,grund
+1,147,9315,True,richtig,Abstimmung über Gesetzentwurf EnWG-Änderung
+2,178,8715,True,falsch,Hinweis auf namentliche Abstimmung; Antrag nur überwiesen (Z. 9121)
+3,146,5729,True,richtig,Abstimmung über strittige Federführung (Überweisung)
+4,210,7555,True,falsch,Abstimmung gehört zu TOP 21 a; ZP 10 b überwiesen
+5,158,1899,True,richtig,"Abstimmung über Antrag 20/10611, abgelehnt"
+6,207,2695,True,falsch,Z. 2693 nur überwiesen; Z. 2695 betrifft TOP 6 a
+7,176,311,True,richtig,Abstimmung über Beschlussempfehlung des Vermittlungsausschusses
+8,160,5887,True,richtig,Abgestimmt Z. 6909; Z. 5887 betrifft TOP 15
+9,191,6555,True,richtig,Abstimmung über Beschlussempfehlung zur Immunität
+10,210,9509,True,richtig,Sammelankündigung Z. 9509; 12 b abgestimmt Z. 9717
+11,147,6499,True,richtig,Polizeibeauftragtengesetz in Schlussabstimmung angenommen
+12,178,5735,True,falsch,Hinweis auf namentliche Abstimmung; Bericht nach § 62 ohne Abstimmung
+13,166,5575,True,richtig,Namentliche Abstimmung über Beschlussempfehlung (Mandat)
+14,182,2541,True,richtig,"Abstimmung über Gesetzentwurf, angenommen"
+15,171,3669,True,richtig,Namentliche Abstimmung über Beschlussempfehlung (Soli-Antrag)
+16,181,3413,True,richtig,Abstimmung Z. 3413 korrekt; Punkt eigentlich ZP 5 b
+17,181,3287,True,richtig,Abstimmung über Beschlussempfehlung 20/11677
+18,181,5469,True,richtig,Abstimmung über strittige Ausschussüberweisung
+19,203,4873,True,richtig,"Abstimmung über Überweisung, AfD dagegen"
+20,203,4857,True,richtig,"Abstimmung über Überweisung, AfD dagegen"
+21,149,2761,False,falsch,Abstimmung über Einzelplan 25 Z. 3867 nicht erkannt
+22,168,3299,False,richtig,"Erste Beratung, Überweisung ohne Abstimmung Z. 3747"
+23,163,7633,False,richtig,"Erste Beratung, Überweisung ohne Abstimmung Z. 7901"
+24,207,12365,False,richtig,"Erste Beratung, Überweisung ohne Abstimmung Z. 12625"
+25,154,5227,False,richtig,Sammelüberweisung ohne Abstimmung Z. 5307
+26,175,4161,False,richtig,Überweisung im vereinfachten Verfahren Z. 4193
+27,203,1767,False,richtig,"Erste Beratung, Überweisung ohne Abstimmung Z. 2759"
+28,207,6263,False,falsch,Zurückverweisung Z. 7023 („Wer stimmt gegen“) nicht erkannt
+29,188,7551,False,richtig,"Erste Beratung, Überweisung ohne Abstimmung Z. 7719"
+30,207,5467,False,richtig,Sammelüberweisung ohne Abstimmung Z. 6261

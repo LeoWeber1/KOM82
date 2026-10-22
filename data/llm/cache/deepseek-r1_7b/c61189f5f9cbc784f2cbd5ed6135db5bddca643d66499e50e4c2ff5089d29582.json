@@ -1,0 +1,11 @@
+{
+ "modell": "deepseek-r1:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"beratungsstufe\": \"erste\",\n      \"drucksachen\": [\"20/14014\"],\n      \"kurztitel\": \"Ergänzungsabsatz 1\",\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Abschöpfung kriminell erlangter Vermögen erleichtern – Gesetzeslücken schließen – Expertenvorschläge umsetzen\",\n      \"typ\": \"beschlussempfehlung\"\n    },\n    {\n      \"beratungsstufe\": \"erste\",\n      \"drucksachen\": [\"20/14014\"],\n      \"kurztitel\": null,\n      \"titel\": \"Überweisungsvorschlag: Rechtsausschuss (f) Ausschuss für Inneres und Heimat Finanzausschuss\",\n      \"typ\": \"gesetzentwurf\"\n    }\n  ]\n}",
+ "thinking": "\nOkay, I need to extract the discussion points from the given parliamentary protocol entry. The user is asking for the 17th supplement point in sitting 2, which is about the parliamentary debate on the supplement to the decision on the amendment of the law on property crimes. \n\nFirst, I'll look for the section that starts with \"17. Ergänzungsabsatz 1\" because that's the supplement point number. The text mentions a discussion on the supplement to the decision on amending the property crime law, including measures to close legal gaps, expert proposals, and implementing these measures. \n\nI need to extract the discussion points. The first point is about amending the property crime law, so that's the first discussion point. The second point is about closing legal gaps, which is part of the same discussion. The third point is about implementing expert proposals. \n\nI should structure each discussion point with the title, which is the main topic, and the discussion text. The discussion text includes the details like the Rechtsausschuss (f), which is the Financial and Home Affairs Committee, and the specific points discussed. \n\nI'll make sure each discussion point is correctly labeled and that the text accurately reflects the content discussed in the meeting. Also, I'll ensure that the JSON structure matches the required schema, with each discussion point having the necessary fields.\n",
+ "eval_count": 508,
+ "prompt_eval_count": 1051,
+ "total_duration": 20972147875,
+ "load_duration": 639084,
+ "wand_s": 20.974125541280955,
+ "prompt_zeichen": 2953
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung (1. Ausschuss) Antrag auf Genehmigung zum Vollzug gerichtlicher Durchsuchungs- und Beschlagnahmebeschlüsse\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11925\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"zweite\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 136,
+ "prompt_eval_count": 1292,
+ "total_duration": 3456533667,
+ "load_duration": 596667,
+ "wand_s": 3.458505249582231,
+ "prompt_zeichen": 3623
+}

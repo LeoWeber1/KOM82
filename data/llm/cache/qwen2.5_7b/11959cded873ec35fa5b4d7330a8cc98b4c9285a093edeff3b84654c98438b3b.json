@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 – HG 2025)\", \"kurztitel\": null, \"drucksachen\": [\"20/12400\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung der Unterrichtung durch die Bundesregierung Finanzplan des Bundes 2024 bis 2028\", \"kurztitel\": null, \"drucksachen\": [\"20/12401\"], \"typ\": \"sonstiges\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 200,
+ "prompt_eval_count": 1146,
+ "total_duration": 8990167625,
+ "load_duration": 618959,
+ "wand_s": 8.9921116665937,
+ "prompt_zeichen": 3187
+}

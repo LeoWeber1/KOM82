@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Zweiten Haushaltsfinanzierungsgesetzes 2024\", \"kurztitel\": \"Zweites Haushaltsfinanzierungsgesetz 2024\", \"drucksachen\": [\"20/9999\", \"20/10150\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 – HG 2024)\", \"kurztitel\": \"Haushaltsgesetz 2024\", \"drucksachen\": [\"20/7800\", \"20/7802\", \"20/8601\", \"20/8602\", \"20/8604\", \"20/8605\", \"20/8606\", \"20/8607\", \"20/8608\", \"20/8609\", \"20/8610\", \"20/8611\", \"20/8612\", \"20/8614\", \"20/8616\", \"20/8617\", \"20/8630\", \"20/8632\", \"20/8660\", \"20/8661\", \"20/8662\", \"20/8663\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"dritte\"}]}",
+ "thinking": null,
+ "eval_count": 462,
+ "prompt_eval_count": 1349,
+ "total_duration": 20666998250,
+ "load_duration": 847667,
+ "wand_s": 20.6744839171879,
+ "prompt_zeichen": 3368
+}

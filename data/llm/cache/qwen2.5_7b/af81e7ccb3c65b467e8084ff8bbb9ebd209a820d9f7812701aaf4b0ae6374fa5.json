@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von den Abgeordneten Konstantin Kuhle, Renata Alt, Jens Beeck, weiteren Abgeordneten und der Fraktion der FDP eingebrachten Entwurfs eines Gesetzes zur Neuregelung der Vormünder- und Betreuervergütung und zur Entlastung von Betreuungsgerichten und Betreuern\", \"kurztitel\": null, \"drucksachen\": [\"20/14259\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Rechtsausschusses (6. Ausschuss) zu dem Entwurf eines Gesetzes zur Neuregelung der Vormünder- und Betreuervergütung und zur Entlastung von Betreuungsgerichten und Betreuern\", \"kurztitel\": null, \"drucksachen\": [\"20/14768\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 277,
+ "prompt_eval_count": 1107,
+ "total_duration": 11821168250,
+ "load_duration": 1080209,
+ "wand_s": 11.823395166080445,
+ "prompt_zeichen": 3083
+}

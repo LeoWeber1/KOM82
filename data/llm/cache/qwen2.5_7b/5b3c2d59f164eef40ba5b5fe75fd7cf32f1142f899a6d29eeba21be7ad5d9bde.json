@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zur Korrektur schwebender Änderungen im Passgesetz, im Personalausweisgesetz und im eID-Karte-Gesetz\", \"kurztitel\": null, \"drucksachen\": [\"20/12807\", \"20/12992\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 148,
+ "prompt_eval_count": 1353,
+ "total_duration": 7802898250,
+ "load_duration": 966042,
+ "wand_s": 7.805449959356338,
+ "prompt_zeichen": 3779
+}

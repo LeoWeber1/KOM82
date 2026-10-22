@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Richtlinie (EU) 2023/2413 in den Bereichen Windenergie an Land und Solarenergie sowie für Energiespeicheranlagen am selben Standort\", \"kurztitel\": null, \"drucksachen\": [\"20/12785\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 127,
+ "prompt_eval_count": 1139,
+ "total_duration": 5957744542,
+ "load_duration": 736000,
+ "wand_s": 5.95976037485525,
+ "prompt_zeichen": 3203
+}

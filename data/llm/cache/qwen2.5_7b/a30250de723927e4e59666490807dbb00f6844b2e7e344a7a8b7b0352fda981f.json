@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Mit Entschlossenheit für neues Vertrauen und eine gemeinsame Sicherheits- und Europapolitik in den deutsch-polnischen Beziehungen sowie eine Neuaufstellung des Weimarer Dreiecks eintreten\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10380\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Petr Bystron, Tino Chrupalla, Markus Frohnmaier, weiterer Abgeordneter und der Fraktion der AfD Partnerschaft mit den Visegrád-Staaten ausbauen – Abendländische Werte verteidigen, Europa neu denken, Wirtschaftskooperation vertiefen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/8355\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 271,
+ "prompt_eval_count": 1306,
+ "total_duration": 12523930583,
+ "load_duration": 680083,
+ "wand_s": 12.526483749970794,
+ "prompt_zeichen": 3796
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des GAP-Konditionalitäten-Gesetzes\", \"kurztitel\": \"GAP-Konditionalitäten-Gesetz\", \"drucksachen\": [\"20/10819\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 107,
+ "prompt_eval_count": 1085,
+ "total_duration": 4994160292,
+ "load_duration": 933459,
+ "wand_s": 4.996617124881595,
+ "prompt_zeichen": 3045
+}

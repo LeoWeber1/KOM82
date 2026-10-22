@@ -1,0 +1,11 @@
+{
+ "modell": "deepseek-r1:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"beratungsstufe\": \"beratung\",\n      \"drucksachen\": [\"20/12804\", \"20/13648\"],\n      \"kurztitel\": null,\n      \"titel\": \"Zweite und dritte Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)\",\n      \"typ\": \"beschlussempfehlung\"\n    }\n  ]\n}",
+ "thinking": "\nOkay, I need to extract the discussion points from the given parliamentary protocol entry. The user wants the information in a JSON format based on the specified schema. \n\nFirst, I'll look at the structure of the query. It mentions extracting content from a specific point in the 20th Bundestag's Plenarprotokoll. The example provided shows how to parse similar entries, so I'll follow that structure.\n\nThe query starts with \"Aufruf Zusatzpunkt 35 (Sitzung 211):\" which indicates the section we're focusing on. The content describes a Beratung (consultation) involving a specific bill. \n\nI notice the title is \"Zweite und dritte Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)\". This translates to the second and third consultative meeting regarding the draft law limiting illegal immigration from third states to Germany. \n\nThe drucksachen (print statements) are 20/12804 and 20/13648, which are the Beschlusssempfehlung (recommendation) and Bericht (report) of the 4th Committee on Interior and Home Affairs. \n\nThe type is \"beschlussempfehlung\" because it starts with a Beratung der Beschlusssempfehlung. The Beratungsstufe is \"beratung\" since it's a general consultative meeting without a specific stage mentioned.\n\nI'll structure this into the JSON format, making sure each field is correctly filled. I'll double-check the typology to ensure accuracy, as sometimes it's tricky to determine if it's a beschlussempfehlung or another type.\n",
+ "eval_count": 551,
+ "prompt_eval_count": 1077,
+ "total_duration": 30741720458,
+ "load_duration": 3519376083,
+ "wand_s": 30.744198832660913,
+ "prompt_zeichen": 3030
+}

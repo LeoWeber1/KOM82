@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Ehenamens- und Geburtsnamensrechts\",\n      \"kurztitel\": \"Ehenamens- und Geburtsnamensrecht\",\n      \"drucksachen\": [\n        \"20/9041\",\n        \"20/10997\"\n      ],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\n        \"20/11001\"\n      ],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 233,
+ "prompt_eval_count": 1101,
+ "total_duration": 4925330834,
+ "load_duration": 595167,
+ "wand_s": 4.928328542038798,
+ "prompt_zeichen": 3040
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur rechtssicheren Einführung einer Bezahlkarte im Asylbewerberleistungsgesetz (Bezahlkartengesetz – BezahlkG)\", \"kurztitel\": \"BezahlkG\", \"drucksachen\": [\"20/10722\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 125,
+ "prompt_eval_count": 1109,
+ "total_duration": 5769334167,
+ "load_duration": 766709,
+ "wand_s": 5.772264417260885,
+ "prompt_zeichen": 3132
+}

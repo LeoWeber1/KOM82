@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Umweltstatistikgesetzes\", \"kurztitel\": \"Umweltstatistikgesetz\", \"drucksachen\": [\"20/10285\", \"20/10753\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Dritten Gesetzes zur Änderung des Bundesschuldenwesengesetzes\", \"kurztitel\": \"Bundesschuldenwesengesetz\", \"drucksachen\": [\"20/10246\", \"20/10645\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 239,
+ "prompt_eval_count": 1554,
+ "total_duration": 12422537209,
+ "load_duration": 785042,
+ "wand_s": 12.4277359158732,
+ "prompt_zeichen": 4372
+}

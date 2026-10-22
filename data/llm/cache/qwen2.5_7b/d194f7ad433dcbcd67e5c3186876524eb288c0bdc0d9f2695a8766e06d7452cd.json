@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur steuerlichen Freistellung des Existenzminimums 2024\", \"kurztitel\": null, \"drucksachen\": [\"20/12783\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Fortentwicklung des Steuerrechts und zur Anpassung des Einkommensteuertarifs (Steuerfortentwicklungsgesetz – SteFeG)\", \"kurztitel\": \"Steuerfortentwicklungsgesetz – SteFeG\", \"drucksachen\": [\"20/12778\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 217,
+ "prompt_eval_count": 1224,
+ "total_duration": 9932030958,
+ "load_duration": 1704083,
+ "wand_s": 9.93490504194051,
+ "prompt_zeichen": 3461
+}

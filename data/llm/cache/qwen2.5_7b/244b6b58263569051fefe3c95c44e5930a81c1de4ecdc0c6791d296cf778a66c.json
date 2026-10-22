@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Modernisierung und zum Bürokratieabbau im Strom- und Energiesteuerrecht\", \"kurztitel\": null, \"drucksachen\": [\"20/12351\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 101,
+ "prompt_eval_count": 1125,
+ "total_duration": 4893218000,
+ "load_duration": 634958,
+ "wand_s": 4.8951455829665065,
+ "prompt_zeichen": 3148
+}

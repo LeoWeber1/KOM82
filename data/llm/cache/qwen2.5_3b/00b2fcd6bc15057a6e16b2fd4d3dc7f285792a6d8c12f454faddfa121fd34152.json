@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur erleichterten Durchsetzung der Rückgabe von NS-verfolgungsbedingt entzogenem Kulturgut\", \"kurztitel\": \"Kulturgut\", \"drucksachen\": [\"20/13258\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 110,
+ "prompt_eval_count": 1056,
+ "total_duration": 2470670709,
+ "load_duration": 978459,
+ "wand_s": 2.4731776248663664,
+ "prompt_zeichen": 2959
+}

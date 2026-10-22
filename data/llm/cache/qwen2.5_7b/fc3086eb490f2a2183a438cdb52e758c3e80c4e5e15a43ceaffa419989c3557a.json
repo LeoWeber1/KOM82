@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Entlastung der Zustellerinnen und Zusteller in der Paketbranche\", \"kurztitel\": null, \"drucksachen\": [\"20/14243\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 112,
+ "prompt_eval_count": 1060,
+ "total_duration": 9202275166,
+ "load_duration": 702791,
+ "wand_s": 9.206501458305866,
+ "prompt_zeichen": 2961
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Rückführung (Rückführungsverbesserungsgesetz)\", \"kurztitel\": \"Rückführungsverbesserungsgesetz\", \"drucksachen\": [\"20/9463\", \"20/9642\", \"20/10090\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 134,
+ "prompt_eval_count": 1077,
+ "total_duration": 5881926625,
+ "load_duration": 878292,
+ "wand_s": 5.884432333055884,
+ "prompt_zeichen": 2987
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Einführung einer elektronischen Präsenzbeurkundung\", \"kurztitel\": null, \"drucksachen\": [\"20/11849\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 96,
+ "prompt_eval_count": 1089,
+ "total_duration": 4538086875,
+ "load_duration": 688833,
+ "wand_s": 4.5402122917585075,
+ "prompt_zeichen": 3060
+}

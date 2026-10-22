@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Zweiten Haushaltsfinanzierungsgesetzes 2024\", \"kurztitel\": \"Zweite Haushaltsfinanzierungsgesetz 2024\", \"drucksachen\": [\"20/9999\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Abgeordneten Dirk Brandes, Kay Gottschalk, Klaus Stöber, weiterer Abgeordneter und der Fraktion der AfD Luftverkehrsteuer aussetzen und evaluieren\", \"kurztitel\": null, \"drucksachen\": [\"20/10054\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 229,
+ "prompt_eval_count": 1240,
+ "total_duration": 10574025542,
+ "load_duration": 725167,
+ "wand_s": 10.576196332927793,
+ "prompt_zeichen": 3485
+}

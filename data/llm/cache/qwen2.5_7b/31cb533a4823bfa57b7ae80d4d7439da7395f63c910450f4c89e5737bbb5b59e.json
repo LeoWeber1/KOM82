@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"kernpunkt\": \"Gesetzentwurf zur Entlastung von Bürokratie, insbesondere in Wirtschaft und Verwaltung.\",\n  \"positionen\": [\n    {\"fraktion\": \"FDP\", \"haltung\": \"zustimmend\", \"begruendung\": \"Wirtschaftswende und Stellenabbau verhindern\"},\n    {\"fraktion\": \"CDU/CSU\", \"haltung\": \"ablehnend\", \"begruendung\": \"Mageres Entlastungsgesetz und Versäumnis\"},\n    {\"fraktion\": \"SPD\", \"haltung\": \"zustimmend\", \"begruendung\": \"Wettbewerbsfähigkeit, Eigenverantwortung und einfaches Leben\"},\n    {\"fraktion\": \"AfD\", \"haltung\": \"ablehnend\", \"begruendung\": \"Ampelmännchen und Ampelweibchen entlassen\"},\n    {\"fraktion\": \"BÜNDNIS 90/DIE GRÜNEN\", \"haltung\": \"zustimmend\", \"begruendung\": \"Wichtiges Thema, aber nicht genug\"},\n    {\"fraktion\": \"Die Linke\", \"haltung\": \"ablehnend\", \"begruendung\": \"Ungenügende Maßnahmen und Steuerbetrug\"},\n    {\"fraktion\": \"BSW\", \"haltung\": \"ablehnend\", \"begruendung\": \"Cum-ex-Skandal und illegalen Rückzahlungen\"}\n  ]\n}",
+ "thinking": null,
+ "eval_count": 341,
+ "prompt_eval_count": 2027,
+ "total_duration": 23155099416,
+ "load_duration": 813708,
+ "wand_s": 23.159165249671787,
+ "prompt_zeichen": 7039
+}

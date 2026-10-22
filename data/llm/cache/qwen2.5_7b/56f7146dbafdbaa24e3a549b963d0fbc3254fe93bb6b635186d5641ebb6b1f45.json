@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen\", \"kurztitel\": \"Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen\", \"drucksachen\": [\"20/13183\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 125,
+ "prompt_eval_count": 1075,
+ "total_duration": 5575938875,
+ "load_duration": 818042,
+ "wand_s": 5.578264792449772,
+ "prompt_zeichen": 3018
+}

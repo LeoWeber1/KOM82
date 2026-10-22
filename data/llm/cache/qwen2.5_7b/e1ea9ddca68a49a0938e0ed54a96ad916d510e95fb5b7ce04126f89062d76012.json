@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Modernisierung des Postrechts (Postrechtsmodernisierungsgesetz – PostModG)\", \"kurztitel\": \"Postrechtsmodernisierungsgesetz\", \"drucksachen\": [\"20/10283\", \"20/11817\", \"20/11818\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Wirtschaftsausschusses (9. Ausschuss) zu dem Antrag der Fraktion der CDU/CSU Deutschlands Postmärkte der Zukunft – Zuverlässig, erschwinglich, digital\", \"kurztitel\": null, \"drucksachen\": [\"20/9733\", \"20/11817\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 264,
+ "prompt_eval_count": 1237,
+ "total_duration": 11989473541,
+ "load_duration": 1001375,
+ "wand_s": 11.993125083390623,
+ "prompt_zeichen": 3445
+}

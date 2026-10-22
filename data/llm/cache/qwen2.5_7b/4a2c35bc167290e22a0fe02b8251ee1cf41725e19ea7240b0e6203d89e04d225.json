@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zur Änderung des Konsumcannabisgesetzes und des Medizinal-Cannabisgesetzes\",\n      \"kurztitel\": \"Konsumcannabisgesetz, Medizinal-Cannabisgesetz\",\n      \"drucksachen\": [\"20/11366\", \"20/11662\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Sechsten Gesetzes zur Änderung des Straßenverkehrsgesetzes und weiterer straßenverkehrsrechtlicher Vorschriften\",\n      \"kurztitel\": \"Sechstes Straßenverkehrsgesetz\",\n      \"drucksachen\": [\"20/11370\", \"20/11666\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Verkehrsausschusses (15. Ausschuss) zu dem Antrag der Fraktion der CDU/CSU Für die Vision Zero und gegen die Erhöhung des Cannabis-Grenzwertes im Straßenverkehr\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11143\", \"20/11666\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 467,
+ "prompt_eval_count": 1312,
+ "total_duration": 20465734750,
+ "load_duration": 709583,
+ "wand_s": 20.467543750070035,
+ "prompt_zeichen": 3600
+}

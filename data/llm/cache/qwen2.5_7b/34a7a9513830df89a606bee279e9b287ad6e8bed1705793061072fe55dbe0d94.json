@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"hier: Einzelplan 07 Bundesministerium der Justiz\", \"kurztitel\": null, \"drucksachen\": [\"20/8607\", \"20/8661\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"beratung\"}, {\"titel\": \"hier: Einzelplan 19 Bundesverfassungsgericht\", \"kurztitel\": null, \"drucksachen\": [\"20/8661\", \"20/8662\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 156,
+ "prompt_eval_count": 1155,
+ "total_duration": 7287812000,
+ "load_duration": 1138125,
+ "wand_s": 7.290756750386208,
+ "prompt_zeichen": 3216
+}

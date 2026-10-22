@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Beratung des Berichts des Ausschusses für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (16. Ausschuss) gemäß § 62 Absatz 2 der Geschäftsordnung zu dem von der Bundesregierung eingebrachten Entwurf eines Gesetzes zur Verbesserung des Klimaschutzes beim Immissionsschutz, zur Beschleunigung immissionsschutzrechtlicher Genehmigungsverfahren und zur Umsetzung von EU-Recht\", \"kurztitel\": null, \"drucksachen\": [\"20/7502\", \"20/10698\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 183,
+ "prompt_eval_count": 1111,
+ "total_duration": 8032387125,
+ "load_duration": 740875,
+ "wand_s": 8.034530541859567,
+ "prompt_zeichen": 3110
+}

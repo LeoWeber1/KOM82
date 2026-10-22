@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Gesetzes über Energiedienstleistungen und andere Effizienzmaßnahmen, zur Änderung des Energieeffizienzgesetzes und zur Änderung des Energieverbrauchskennzeichnungsgesetzes\", \"kurztitel\": \"Energiedienstleistungensgesetz\", \"drucksachen\": [\"20/11852\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 151,
+ "prompt_eval_count": 1158,
+ "total_duration": 6999508875,
+ "load_duration": 833875,
+ "wand_s": 7.001918375026435,
+ "prompt_zeichen": 3263
+}

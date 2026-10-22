@@ -1,0 +1,76 @@
+fall,sitzung,zeile,abgestimmt,urteil,zeile_ok,beschlussart_ok,grund
+1,203,3789,True,richtig,nein,ja,"Zurückverweisung ZP 9 b abgestimmt 3799–3807; Zeile 3789 nur allgemeiner Auftakt, folgt ZP 9 a"
+2,166,3009,True,richtig,ja,ja,"Abstimmung Sammelübersicht 563 in 3009, angenommen"
+3,181,4893,True,richtig,ja,ja,"Zweite Beratung 4893, Schlussabstimmung 4901 angenommen"
+4,166,2969,True,richtig,ja,ja,"Abstimmung Sammelübersicht 559 in 2969, angenommen"
+5,169,1781,True,richtig,ja,ja,Beschlussempfehlung TOP 8 b in 1781 abgestimmt und angenommen
+6,181,3223,True,richtig,ja,nein,"Strittige Federführung abgestimmt 3223–3225; Überweisung beschlossen, also überwiesen statt offen"
+7,169,3719,True,richtig,ja,ja,"Buchstabe a (20/9737) einfach abgestimmt in 3719, Beschlussempfehlung angenommen"
+8,210,9075,True,richtig,ja,nein,"Antrag 20/14702 abgestimmt 9075–9079, angenommen statt offen"
+9,169,9969,True,richtig,ja,ja,"Beschlussempfehlung TOP 22 a abgestimmt 9969–9973, angenommen"
+10,198,1113,True,richtig,ja,ja,Antrag 20/13614 in 1113 abgestimmt und abgelehnt
+11,210,12193,True,richtig,ja,ja,"Abstimmungsauftakt 12193; zweite Beratung 12199, Schlussabstimmung 12203 angenommen"
+12,188,3957,True,richtig,ja,nein,Strittige Federführung abgestimmt 3957–3959; überwiesen statt offen
+13,175,4221,True,richtig,ja,ja,"Schlussabstimmung in 4221, einstimmig angenommen"
+14,155,2049,True,richtig,ja,ja,Beschlussempfehlung TOP 28 in 2049 abgestimmt und angenommen
+15,203,4049,True,richtig,ja,nein,Zurückverweisung in 4049 abgestimmt und angenommen; zurückverwiesen statt offen
+16,205,2107,True,richtig,ja,nein,"Namentliche Abstimmung ab 2107; Ergebnis 2217 Mehrheit verfehlt, also abgelehnt"
+17,203,4749,True,richtig,ja,ja,"Strittig Abstimmung oder Überweisung; Überweisung in 4749–4753 abgestimmt, beschlossen"
+18,163,4117,True,richtig,ja,ja,Beschlussempfehlung ZP 4 in 4117 abgestimmt und angenommen
+19,147,1853,True,falsch,nein,ja,"Nur einvernehmliche Überweisung in 1853 (Dann verfahren wir so), keine Abstimmung"
+20,181,3243,True,richtig,ja,ja,"Buchstabe a (20/5364) in 3243 abgestimmt, Beschlussempfehlung angenommen"
+21,181,6869,True,richtig,ja,ja,"Zweite Beratung 6869, Schlussabstimmung 6873 endgültig angenommen"
+22,159,4365,True,richtig,ja,ja,Beschlussempfehlung TOP 28 b in 4365 abgestimmt und angenommen
+23,167,5453,True,richtig,ja,ja,Beschlussempfehlung TOP 25 in 5453 abgestimmt und angenommen
+24,176,917,True,richtig,nein,ja,"TOP 19 b abgestimmt 929; Zeile 917 ist Gesetzentwurf TOP 19 a, Wert nur zufällig"
+25,210,7567,True,richtig,ja,ja,"Strittig Abstimmung oder Überweisung; Überweisung in 7567 abgestimmt, beschlossen"
+26,181,3267,True,richtig,ja,ja,"Z. 3267: Beschlussempfehlung 20/11549 zu 20/10393 abgestimmt, angenommen."
+27,170,2591,True,richtig,ja,ja,"Z. 2591: Beschlussempfehlung 20/11424 zu 20/9323 abgestimmt, angenommen."
+28,155,4311,True,richtig,ja,ja,Z. 4311-4323: zweite Beratung angenommen; namentliche Schlussabstimmung angenommen (Z. 4955).
+29,210,7579,True,richtig,ja,nein,Z. 7579: strittige Überweisung mehrheitlich beschlossen; richtig wäre überwiesen statt offen.
+30,211,1039,True,richtig,ja,ja,"Z. 1039-1047: zweite Beratung und Schlussabstimmung, Gesetzentwurf angenommen."
+31,172,11165,True,richtig,ja,ja,"Z. 11165-11169: zweite und dritte Beratung, Gesetzentwurf angenommen."
+32,202,6339,True,richtig,ja,nein,Z. 6339-6343: Zurückverweisung angenommen; richtig wäre zurückverwiesen statt offen.
+33,194,2041,True,richtig,ja,ja,"Z. 2041: Beschlussempfehlung 20/13048 zu 20/10985 abgestimmt, angenommen."
+34,207,6777,True,richtig,ja,ja,"Z. 6777: Sammelübersicht 734 angenommen; im Protokoll ZP 28 e, nicht 28 a."
+35,174,3939,True,richtig,ja,ja,Z. 3939: Beschlussempfehlung 20/11257 zum Unionsantrag 20/9740 angenommen.
+36,149,6563,True,richtig,ja,ja,"Z. 6563-6567: nach Änderungsantrag Einzelplan 06 abgestimmt, angenommen."
+37,194,8759,True,richtig,ja,ja,"Z. 8759-8773: zweite und dritte Beratung, Gesetzentwurf angenommen."
+38,178,10655,True,richtig,ja,ja,"Z. 10655-10665: Schlussabstimmung durch Aufstehen, einstimmig angenommen."
+39,181,3297,True,richtig,ja,ja,"Z. 3297: Beschlussempfehlung 20/9488 zu 20/8875 abgestimmt, angenommen."
+40,160,10771,True,richtig,ja,ja,Z. 10771-10775: Beschlussempfehlung des Ältestenrates 20/10679 angenommen.
+41,147,7123,True,richtig,ja,ja,"Z. 7123: Beschlussempfehlung 20/9794 zu 20/7351 abgestimmt, angenommen."
+42,160,4331,True,richtig,ja,ja,"Z. 4331-4335: TOP 31 f, Sammelübersicht 531 (20/10631) angenommen."
+43,166,7177,True,richtig,ja,ja,"Z. 7177: Beschlussempfehlung 20/11117 zu 20/10382 abgestimmt, angenommen."
+44,167,821,True,richtig,ja,nein,"Z. 821-829: zweite Beratung angenommen; namentliche Schlussabstimmung angenommen (Z. 1315), nicht offen."
+45,149,2759,True,richtig,ja,ja,"Z. 2759: Einzelplan 17 abgestimmt, angenommen."
+46,188,9267,True,richtig,ja,ja,"Z. 9267-9271: zweite und dritte Beratung, Gesetzentwurf angenommen."
+47,149,57,True,richtig,ja,ja,"Z. 57: Einzelplan 01 abgestimmt, angenommen."
+48,151,3933,True,richtig,nein,ja,"ZP 1 in Z. 4021 abgestimmt, angenommen; Z. 3933 betrifft Sammelübersicht 504."
+49,155,5819,True,richtig,ja,ja,Z. 5819-5821 namentliche Abstimmung eröffnet; Ergebnis angenommen in Z. 6453-6455.
+50,194,6797,True,richtig,ja,ja,"Z. 6797: Beschlussempfehlung 20/13399 zu 20/10610 abgestimmt, angenommen."
+51,160,4081,False,richtig,,ja,Nur einvernehmliche Überweisung im vereinfachten Verfahren (4135); keine Abstimmung.
+52,182,531,False,richtig,,ja,Einvernehmliche Überweisung 1389; Abstimmung 1391 betrifft TOP 25 b (Drs. 20/12056).
+53,181,5471,False,richtig,,ja,Einvernehmliche Überweisung 5861; Abstimmung 5857 betrifft nur TOP 26 a (Drs. 20/12086).
+54,207,4187,False,falsch,,ja,"Förmliche Abstimmung über strittige Ausschussüberweisung (AfD wollte Sachabstimmung), 5461; Überweisung beschlossen."
+55,154,8909,False,richtig,,ja,Nur einvernehmliche Überweisung 9193 nach Debatte; keine Abstimmung.
+56,172,5877,False,richtig,,nein,"Vereinfachte Überweisung 5971 ohne Abstimmung; Beschlussart müsste überwiesen sein, nicht offen."
+57,189,4021,False,richtig,,ja,Nur einvernehmliche Überweisung 4477 nach Debatte; keine Abstimmung.
+58,194,5029,False,richtig,,nein,"Vereinfachte Überweisung 5137 ohne Abstimmung; Beschlussart müsste überwiesen sein, nicht offen."
+59,176,2337,False,richtig,,ja,Nur einvernehmliche Überweisung 2821 nach Debatte; keine Abstimmung.
+60,207,5467,False,richtig,,nein,"Einvernehmliche Sammelüberweisung 6261 ohne Abstimmung; Beschlussart müsste überwiesen sein, nicht offen."
+61,157,7555,False,richtig,,ja,Nur einvernehmliche Überweisung 7901; Abstimmungen ab 8165 betreffen TOP 20.
+62,191,3791,False,richtig,,ja,Vereinfachte Überweisung 3873 ohne Abstimmung; Drucksache später nicht mehr erwähnt.
+63,207,5467,False,richtig,,nein,"Einvernehmliche Sammelüberweisung 6261 ohne Abstimmung; Beschlussart müsste überwiesen sein, nicht offen."
+64,172,5877,False,richtig,,nein,"Vereinfachte Überweisung 5971 ohne Abstimmung; Beschlussart müsste überwiesen sein, nicht offen."
+65,204,9,False,richtig,,ja,Nur einvernehmliche Überweisung 743 nach Debatte; keine Abstimmung.
+66,208,1017,False,richtig,,ja,Nur einvernehmliche Überweisung 2131 nach Debatte; keine Abstimmung.
+67,174,2773,False,richtig,,ja,"Einvernehmliche Überweisung 3367, auch des AfD-Entschließungsantrags; keine Abstimmung."
+68,156,2423,False,richtig,,ja,Nur einvernehmliche Überweisung 2881 nach Debatte; keine Abstimmung.
+69,163,6127,False,richtig,,ja,Nur einvernehmliche Überweisung 6365 nach Debatte; keine Abstimmung.
+70,179,3927,False,richtig,,ja,Nur einvernehmliche Überweisung 4301 nach Debatte; keine Abstimmung.
+71,185,13,False,richtig,,ja,Einvernehmliche Überweisung ZP 1–3 bei 1445; Überweisungsabstimmungen 1457/1461 betreffen ZP 4/9.
+72,181,3133,False,richtig,,ja,Unstrittige vereinfachte Überweisung 3193; Federführungsabstimmung 3209 betrifft nur TOP 30 a.
+73,169,811,False,richtig,,ja,Einvernehmliche Überweisung 1779; Abstimmung 1781 betrifft TOP 8 b.
+74,172,5877,False,richtig,,nein,"Vereinfachte Überweisung 5971 ohne Abstimmung; Beschlussart müsste überwiesen sein, nicht offen."
+75,178,4025,False,richtig,,ja,Vereinfachte Überweisung 4087 ohne Abstimmung; Drucksache später nicht mehr erwähnt.

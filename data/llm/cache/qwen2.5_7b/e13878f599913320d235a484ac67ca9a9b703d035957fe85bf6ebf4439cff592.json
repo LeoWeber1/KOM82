@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Änderung des Kraft-Wärme-Kopplungsgesetzes\", \"kurztitel\": \"Kraft-Wärme-Kopplungsgesetz\", \"drucksachen\": [\"20/13615\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 114,
+ "prompt_eval_count": 1111,
+ "total_duration": 5435709458,
+ "load_duration": 672083,
+ "wand_s": 5.4378121248446405,
+ "prompt_zeichen": 3120
+}

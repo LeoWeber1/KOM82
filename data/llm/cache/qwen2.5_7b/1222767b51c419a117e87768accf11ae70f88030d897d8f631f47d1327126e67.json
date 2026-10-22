@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der integrierten Stadtentwicklung\", \"kurztitel\": null, \"drucksachen\": [\"20/13091\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 92,
+ "prompt_eval_count": 1121,
+ "total_duration": 4485331667,
+ "load_duration": 903042,
+ "wand_s": 4.487720875069499,
+ "prompt_zeichen": 3152
+}

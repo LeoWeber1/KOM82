@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Reform des Kapitalanleger-Musterverfahrensgesetzes\", \"kurztitel\": \"Kapitalanleger-Musterverfahrensgesetz\", \"drucksachen\": [\"20/10942\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 111,
+ "prompt_eval_count": 1065,
+ "total_duration": 4995472542,
+ "load_duration": 802708,
+ "wand_s": 4.997881209012121,
+ "prompt_zeichen": 2976
+}

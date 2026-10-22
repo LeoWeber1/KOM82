@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung der Verordnung der Bundesregierung Verordnung zur Stärkung der Bewirtschaftung von gewerblichen Siedlungsabfällen und bestimmten Bau- und Abbruchab Fallen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13950\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Rechtsausschusses (6. Ausschuss) Übersicht 7 über die dem Deutschen Bundestag zugeleiteten Streitsachen vor dem Bundesverfassungsgericht\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14766\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Zweite Beratung und Schlussabstimmung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu der Entschließung vom 23. Mai 2023 zur Änderung des Übereinkommens vom 29. November 1972 über die Errichtung des Afrikanischen Entwicklungsfonds\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13489\", \"20/14739\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 393,
+ "prompt_eval_count": 1535,
+ "total_duration": 19041334166,
+ "load_duration": 2730291,
+ "wand_s": 19.04433837486431,
+ "prompt_zeichen": 4373
+}

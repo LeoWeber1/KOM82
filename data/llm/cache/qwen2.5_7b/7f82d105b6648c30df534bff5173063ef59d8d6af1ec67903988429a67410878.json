@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Errichtung der Stiftung Gedenken und Dokumentation NSU-Komplex (NSU-KomplexStiftG)\", \"kurztitel\": \"NSU-KomplexStiftG\", \"drucksachen\": [\"20/14024\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 132,
+ "prompt_eval_count": 1145,
+ "total_duration": 6059024333,
+ "load_duration": 658208,
+ "wand_s": 6.061037166975439,
+ "prompt_zeichen": 3222
+}

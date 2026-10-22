@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)\", \"kurztitel\": \"Zustrombegrenzungsgesetz\", \"drucksachen\": [\"20/12804\", \"20/13648A\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 143,
+ "prompt_eval_count": 1087,
+ "total_duration": 6981260000,
+ "load_duration": 805417,
+ "wand_s": 6.985132415778935,
+ "prompt_zeichen": 3030
+}

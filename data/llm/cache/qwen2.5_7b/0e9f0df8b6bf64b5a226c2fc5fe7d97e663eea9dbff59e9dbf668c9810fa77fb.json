@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"kernpunkt\": \"Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025\",\n  \"positionen\": [\n    {\n      \"fraktion\": \"FDP\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Dr. Marco Buschmann spricht von Stolz auf 75 Jahre Grundgesetz.\"\n    },\n    {\n      \"fraktion\": \"CDU/CSU\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Dr. Günter Krings kritisiert die Rechtspolitik der Regierung als ratlos und ineffektiv.\"\n    },\n    {\n      \"fraktion\": \"SPD\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Esther Dilcher feiert 75 Jahre Grundgesetz und den Einzelplan des Justizministeriums.\"\n    },\n    {\n      \"fraktion\": \"AfD\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Dr. Michael Espendiller kritisiert die Politik als ineffektiv und verantwortungslos.\"\n    },\n    {\n      \"fraktion\": \"BÜNDNIS 90/DIE GRÜNEN\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Bruno Hönel lobt den soliden Regierungsentwurf für die Projektförderung HateAid.\"\n    },\n    {\n      \"fraktion\": \"Die Linke\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Clara Bünger kritisiert die AfD für ihre Fokussierung auf Migration und Kürzungen in demokratischen Bereichen.\"\n    },\n    {\n      \"fraktion\": \"BSW\",\n      \"haltung\": \"unklar\",\n      \"begruendung\": \"Andrej Hunko spricht von Coronaaufarbeitung und Strukturreformen, ohne eine klare Haltung zum Gesetzentwurf zu zeigen.\"\n    },\n    {\n      \"fraktion\": \"fraktionslos\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Robert Farle kritisiert die Haushaltsbuchung als unzureichend und ineffektiv.\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 530,
+ "prompt_eval_count": 2218,
+ "total_duration": 31062390167,
+ "load_duration": 736042,
+ "wand_s": 31.0679445839487,
+ "prompt_zeichen": 7566
+}

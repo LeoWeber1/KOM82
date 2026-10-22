@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Fünften Gesetzes zur Änderung des Aufstiegsfortbildungsförderungsgesetzes\",\n      \"kurztitel\": \"Aufstiegsfortbildungsgesetzes\",\n      \"drucksachen\": [\n        \"20/12777\",\n        \"20/13169\"\n      ],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 141,
+ "prompt_eval_count": 1417,
+ "total_duration": 3142475667,
+ "load_duration": 614709,
+ "wand_s": 3.1442958749830723,
+ "prompt_zeichen": 3958
+}

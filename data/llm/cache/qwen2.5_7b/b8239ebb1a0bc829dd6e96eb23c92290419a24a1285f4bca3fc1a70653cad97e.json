@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer energiewirtschaftsrechtlicher Vorschriften zur Steigerung des Ausbaus photovoltaischer Energieerzeugung\",\n      \"kurztitel\": \"Erneuerbare-Energien-Gesetz\",\n      \"drucksachen\": [\"20/8657\", \"20/11180\", \"20/11181\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Zweiter Bericht des Ausschusses für Klimaschutz und Energie (25. Ausschuss) zu dem Entwurf eines Gesetzes zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer energiewirtschaftsrechtlicher Vorschriften zur Steigerung des Ausbaus photovoltaischer Energieerzeugung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11180\"],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Zweiter Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11181\"],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Entschließungsantrag der Gruppe Die Linke\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11180\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 468,
+ "prompt_eval_count": 1240,
+ "total_duration": 20101571208,
+ "load_duration": 883250,
+ "wand_s": 20.10407554078847,
+ "prompt_zeichen": 3533
+}

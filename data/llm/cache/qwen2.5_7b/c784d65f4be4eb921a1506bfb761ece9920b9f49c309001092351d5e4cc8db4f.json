@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Berichterstattung haben die Abgeordneten Andreas Mattfeldt, Frank Junge, Felix Banaszak, Karsten Klein, Wolfgang Wiehle und Victor Perli.\", \"kurztitel\": null, \"drucksachen\": [\"20/8609\", \"20/8661\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 101,
+ "prompt_eval_count": 1052,
+ "total_duration": 4581608583,
+ "load_duration": 647583,
+ "wand_s": 4.58348891697824,
+ "prompt_zeichen": 2931
+}

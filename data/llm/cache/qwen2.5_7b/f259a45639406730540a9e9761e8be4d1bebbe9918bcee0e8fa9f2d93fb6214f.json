@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Sechsten Gesetzes zur Verbesserung rehabilitierungsrechtlicher Vorschriften für Opfer der politischen Verfolgung in der ehemaligen DDR\", \"kurztitel\": null, \"drucksachen\": [\"20/12789\", \"20/13250\", \"20/13439\", \"20/14744\", \"20/14799\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung des Antrags der Fraktionen SPD, CDU/CSU, BÜNDNIS 90/DIE GRÜNEN und FDP Die Geschädigten des staatlich organisierten Dopingsystems der ehemaligen DDR als Opfergruppe anerkennen und besser unterstützen\", \"kurztitel\": null, \"drucksachen\": [\"20/14702\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 275,
+ "prompt_eval_count": 1232,
+ "total_duration": 12310295292,
+ "load_duration": 938959,
+ "wand_s": 12.312596833333373,
+ "prompt_zeichen": 3385
+}

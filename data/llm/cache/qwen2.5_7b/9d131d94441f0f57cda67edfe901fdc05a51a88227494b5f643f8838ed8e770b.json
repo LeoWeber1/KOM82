@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Bundesministerium der Verteidigung – in der Ausschussfassung\", \"kurztitel\": null, \"drucksachen\": [], \"typ\": \"sonstiges\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 67,
+ "prompt_eval_count": 1173,
+ "total_duration": 3757129250,
+ "load_duration": 1112833,
+ "wand_s": 3.7591998330317438,
+ "prompt_zeichen": 3339
+}

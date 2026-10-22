@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur weiteren Digitalisierung der Justiz\", \"kurztitel\": \"Gesetz zur weiteren Digitalisierung der Justiz\", \"drucksachen\": [\"20/10943\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 101,
+ "prompt_eval_count": 1043,
+ "total_duration": 4534279042,
+ "load_duration": 717917,
+ "wand_s": 4.536504290997982,
+ "prompt_zeichen": 2925
+}

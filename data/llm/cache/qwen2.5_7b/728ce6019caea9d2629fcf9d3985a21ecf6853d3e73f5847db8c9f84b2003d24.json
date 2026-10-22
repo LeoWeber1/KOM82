@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Düngegesetzes\",\n      \"kurztitel\": \"Zweite Änderung des Düngegesetzes\",\n      \"drucksachen\": [\"20/8658\", \"20/11664\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss) zu der Unterrichtung durch die Bundesregierung Bericht über die Auswirkungen der verbindlichen Stoffstrombilanzierung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/411\", \"20/549 Nr. 3\", \"20/11664\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 286,
+ "prompt_eval_count": 1496,
+ "total_duration": 11806578375,
+ "load_duration": 944708,
+ "wand_s": 11.809247707948089,
+ "prompt_zeichen": 4104
+}

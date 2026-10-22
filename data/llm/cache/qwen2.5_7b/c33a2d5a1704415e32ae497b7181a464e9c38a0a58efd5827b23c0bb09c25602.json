@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur weiteren Digitalisierung der Zwangsvollstreckung\", \"kurztitel\": null, \"drucksachen\": [\"20/11310\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 94,
+ "prompt_eval_count": 1041,
+ "total_duration": 4201701334,
+ "load_duration": 866959,
+ "wand_s": 4.204204624984413,
+ "prompt_zeichen": 2916
+}

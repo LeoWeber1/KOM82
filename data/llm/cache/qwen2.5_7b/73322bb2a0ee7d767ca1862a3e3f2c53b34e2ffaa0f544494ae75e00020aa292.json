@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Änderung des Aufenthaltsgesetzes zur Verhängung eines Einreise- und Aufenthaltsverbotes auch bei erstmaliger Einreise\", \"kurztitel\": null, \"drucksachen\": [\"20/10398\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 121,
+ "prompt_eval_count": 1091,
+ "total_duration": 5585996875,
+ "load_duration": 661416,
+ "wand_s": 5.588296708185226,
+ "prompt_zeichen": 3075
+}

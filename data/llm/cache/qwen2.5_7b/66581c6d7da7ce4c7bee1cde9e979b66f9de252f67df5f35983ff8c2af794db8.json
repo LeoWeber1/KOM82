@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zum Schutz Minderjähriger bei Auslandsehen\", \"kurztitel\": null, \"drucksachen\": [\"20/11367\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 109,
+ "prompt_eval_count": 1072,
+ "total_duration": 4889587458,
+ "load_duration": 604625,
+ "wand_s": 4.892237499821931,
+ "prompt_zeichen": 2993
+}

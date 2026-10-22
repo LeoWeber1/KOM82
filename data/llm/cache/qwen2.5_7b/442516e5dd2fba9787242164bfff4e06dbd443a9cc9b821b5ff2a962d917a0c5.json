@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Tierschutzgesetzes und des Tiererzeugnisse-Handels-Verbotsgesetzes\", \"kurztitel\": \"Tierschutzgesetz\", \"drucksachen\": [\"20/12719\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 115,
+ "prompt_eval_count": 1083,
+ "total_duration": 5100850042,
+ "load_duration": 810625,
+ "wand_s": 5.102651792112738,
+ "prompt_zeichen": 3021
+}

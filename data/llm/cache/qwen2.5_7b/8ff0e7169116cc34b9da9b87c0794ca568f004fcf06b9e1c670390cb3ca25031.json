@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"hier: Einzelplan 11 Bundesministerium für Arbeit und Soziales\", \"kurztitel\": null, \"drucksachen\": [\"20/8611\", \"20/8661\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 84,
+ "prompt_eval_count": 1066,
+ "total_duration": 3901910833,
+ "load_duration": 961708,
+ "wand_s": 3.904507207684219,
+ "prompt_zeichen": 2960
+}

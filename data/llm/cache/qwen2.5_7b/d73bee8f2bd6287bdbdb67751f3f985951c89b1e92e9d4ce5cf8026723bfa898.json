@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Abgeordneten Christoph Meyer, Anja Schulz, Renata Alt, weiteren Abgeordneten und der Fraktion der FDP eingebrachten Entwurfs eines Gesetzes zur Reform der steuerlich geförderten privaten Altersvorsorge und zur Einführung eines Altersvorsorgedepots (Altersvorsorgedepotgesetz)\", \"kurztitel\": \"Altersvorsorgedepotgesetz\", \"drucksachen\": [\"20/14027\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 160,
+ "prompt_eval_count": 1105,
+ "total_duration": 7139681083,
+ "load_duration": 670583,
+ "wand_s": 7.141685082577169,
+ "prompt_zeichen": 3117
+}

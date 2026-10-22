@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher Vorschriften\",\n      \"kurztitel\": \"Umwelt-Rechtsbehelfsgesetz\",\n      \"drucksachen\": [\"20/13081\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Schornsteinfeger-Handwerksgesetzes\",\n      \"kurztitel\": \"Schornsteinfeger-Handwerksgesetz\",\n      \"drucksachen\": [\"20/13085\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Gesetzliche Voraussetzungen für eine Erstattung der Kosten von medizinischen Schutzmaßnahmen für Betroffene einer Vergewaltigung schaffen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13224\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Dr. Gottfried Curio, Dr. Bernd Baumann, Martin Hess, weiterer Abgeordneter und der Fraktion der AfD Migrationsbedingte Notlage in den Kommunen nicht weiter ignorieren – Sofortige Entlastung durch Einstellung der freiwilligen Aufnahmeprogramme bewirken\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/9846\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 493,
+ "prompt_eval_count": 1500,
+ "total_duration": 22644525375,
+ "load_duration": 911709,
+ "wand_s": 22.647081582807004,
+ "prompt_zeichen": 4364
+}

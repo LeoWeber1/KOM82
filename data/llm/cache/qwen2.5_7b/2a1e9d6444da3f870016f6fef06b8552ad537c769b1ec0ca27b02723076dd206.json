@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Berichterstattung haben die Abgeordneten Dr. Michael Espendiller, Esther Dilcher, Franziska Hoppermann, Dr. Sebastian Schäfer, Torsten Herbst und Victor Perli.\", \"kurztitel\": null, \"drucksachen\": [\"20/8661\", \"20/8662\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 107,
+ "prompt_eval_count": 1046,
+ "total_duration": 4681525792,
+ "load_duration": 856917,
+ "wand_s": 4.683805583976209,
+ "prompt_zeichen": 2913
+}

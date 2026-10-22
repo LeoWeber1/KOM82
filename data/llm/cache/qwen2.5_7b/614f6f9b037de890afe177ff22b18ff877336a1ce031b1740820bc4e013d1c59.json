@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Dritten Gesetzes zur Neuordnung des Wehrdisziplinarrechts und zur Änderung weiterer soldatenrechtlicher Vorschriften (3. WehrDiszNOG)\", \"kurztitel\": \"3. WehrDiszNOG\", \"drucksachen\": [\"20/12197\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 128,
+ "prompt_eval_count": 1083,
+ "total_duration": 5657443584,
+ "load_duration": 627750,
+ "wand_s": 5.6593948751688,
+ "prompt_zeichen": 3035
+}

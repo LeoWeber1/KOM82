@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des vom Bundesrat eingebrachten Entwurfs eines Gesetzes zur Änderung des Gesetzes zur Kooperation und Information im Kinderschutz\", \"kurztitel\": null, \"drucksachen\": [\"20/2912\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 95,
+ "prompt_eval_count": 1088,
+ "total_duration": 4446355833,
+ "load_duration": 659583,
+ "wand_s": 4.448189583141357,
+ "prompt_zeichen": 3078
+}

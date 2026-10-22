@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation European Union Naval Force ASPIDES (EUNAVFOR ASPIDES) Drucksachen 20/14044, 20/14709\",\n      \"kurztitel\": \"EUNAVFOR ASPIDES\",\n      \"drucksachen\": [\n        \"20/14044\",\n        \"20/14709\",\n        \"20/14789\"\n      ],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in der Republik Südsudan (UNMISS) Drucksachen 20/14045, 20/14708\",\n      \"kurztitel\": \"UNMISS\",\n      \"drucksachen\": [\n        \"20/14045\",\n        \"20/14708\",\n        \"20/14790\"\n      ],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"zweite\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 405,
+ "prompt_eval_count": 1285,
+ "total_duration": 8756330958,
+ "load_duration": 621500,
+ "wand_s": 8.758339624851942,
+ "prompt_zeichen": 3600
+}

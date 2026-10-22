@@ -1,0 +1,10 @@
+kennzahl,wert
+gesetze,10.0
+gueltig,10.0
+neu_berechnet,0.0
+aus_cache,10.0
+positionen,71.0
+plausibel_ja,28.0
+plausibel_nein,3.0
+plausibel_ohne_erwartung,40.0
+llm_sekunden_summe,324.2

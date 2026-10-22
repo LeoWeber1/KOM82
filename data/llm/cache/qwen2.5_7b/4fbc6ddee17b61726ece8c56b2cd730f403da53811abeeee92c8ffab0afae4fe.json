@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zehnten Gesetzes zur Änderung des Bundesverfassungsgerichtsgesetzes – Einführung des elektronischen Rechtsverkehrs mit dem Bundesverfassungsgericht\", \"kurztitel\": \"Bundesverfassungsgerichtsgesetz\", \"drucksachen\": [\"20/9043\", \"20/10408\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 150,
+ "prompt_eval_count": 1101,
+ "total_duration": 6662768917,
+ "load_duration": 705708,
+ "wand_s": 6.664682833012193,
+ "prompt_zeichen": 3084
+}

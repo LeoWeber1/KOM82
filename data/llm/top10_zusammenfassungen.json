@@ -1,0 +1,855 @@
+{
+ "quelle_top10": "top10_gesetze.csv",
+ "modell": "qwen2.5:7b",
+ "gesetze": [
+  {
+   "drucksache": "20/7800",
+   "kurztitel": "Haushaltsgesetz 2024 – HG 2024",
+   "titel": "Zweite Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 – HG 2024)",
+   "n_reden_gesamt": 245,
+   "n_reden_kontext": 7,
+   "fraktionen_kontext": [
+    "CDU/CSU",
+    "SPD",
+    "AfD",
+    "BÜNDNIS 90/DIE GRÜNEN",
+    "FDP",
+    "Die Linke",
+    "BSW"
+   ],
+   "beschlussart_final": "angenommen",
+   "status": "gueltig",
+   "fehler": null,
+   "versuche": 1,
+   "sekunden": 24.54,
+   "eval_count": 376,
+   "prompt_eval_count": 2041,
+   "thinking_zeichen": 0,
+   "cache": true,
+   "kernpunkt": "Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024)",
+   "positionen": [
+    {
+     "fraktion": "CDU/CSU",
+     "haltung": "zustimmend",
+     "begruendung": "CDU/CSU fordert Rücknahme des Zuschusses für Agrardiesel",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "SPD",
+     "haltung": "zustimmend",
+     "begruendung": "SPD betont verfassungskonforme Haushalte und innere Sicherheit",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "AfD",
+     "haltung": "ablehnend",
+     "begruendung": "AfD kritisiert Energietransformation und Kostenvorhaltungen",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+     "haltung": "zustimmend",
+     "begruendung": "Grüne betonen KTF-Buchungspraxis und ihre Konsequenzen",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "FDP",
+     "haltung": "zustimmend",
+     "begruendung": "FDP fordert Diskussion und klare Deckung",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "Die Linke",
+     "haltung": "ablehnend",
+     "begruendung": "Die Linke fordert Schluss auf Kürzungen und Sozialstaat",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BSW",
+     "haltung": "ablehnend",
+     "begruendung": "BSW kritisiert Kürzungen bei existenziellen Themen",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    }
+   ]
+  },
+  {
+   "drucksache": "20/12400",
+   "kurztitel": "Haushaltsgesetz 2025 – HG 2025",
+   "titel": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 – HG 2025)",
+   "n_reden_gesamt": 84,
+   "n_reden_kontext": 8,
+   "fraktionen_kontext": [
+    "FDP",
+    "CDU/CSU",
+    "SPD",
+    "AfD",
+    "BÜNDNIS 90/DIE GRÜNEN",
+    "Die Linke",
+    "BSW",
+    "fraktionslos"
+   ],
+   "beschlussart_final": "offen",
+   "status": "gueltig",
+   "fehler": null,
+   "versuche": 1,
+   "sekunden": 31.06,
+   "eval_count": 530,
+   "prompt_eval_count": 2218,
+   "thinking_zeichen": 0,
+   "cache": true,
+   "kernpunkt": "Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025",
+   "positionen": [
+    {
+     "fraktion": "FDP",
+     "haltung": "zustimmend",
+     "begruendung": "Dr. Marco Buschmann spricht von Stolz auf 75 Jahre Grundgesetz.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "CDU/CSU",
+     "haltung": "ablehnend",
+     "begruendung": "Dr. Günter Krings kritisiert die Rechtspolitik der Regierung als ratlos und ineffektiv.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "SPD",
+     "haltung": "zustimmend",
+     "begruendung": "Esther Dilcher feiert 75 Jahre Grundgesetz und den Einzelplan des Justizministeriums.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "AfD",
+     "haltung": "ablehnend",
+     "begruendung": "Dr. Michael Espendiller kritisiert die Politik als ineffektiv und verantwortungslos.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+     "haltung": "zustimmend",
+     "begruendung": "Bruno Hönel lobt den soliden Regierungsentwurf für die Projektförderung HateAid.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "Die Linke",
+     "haltung": "ablehnend",
+     "begruendung": "Clara Bünger kritisiert die AfD für ihre Fokussierung auf Migration und Kürzungen in demokratischen Bereichen.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BSW",
+     "haltung": "unklar",
+     "begruendung": "Andrej Hunko spricht von Coronaaufarbeitung und Strukturreformen, ohne eine klare Haltung zum Gesetzentwurf zu zeigen.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "fraktionslos",
+     "haltung": "ablehnend",
+     "begruendung": "Robert Farle kritisiert die Haushaltsbuchung als unzureichend und ineffektiv.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    }
+   ]
+  },
+  {
+   "drucksache": "20/12804",
+   "kurztitel": "Zustrombegrenzungsgesetz",
+   "titel": "Zweite und dritte Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)",
+   "n_reden_gesamt": 47,
+   "n_reden_kontext": 8,
+   "fraktionen_kontext": [
+    "SPD",
+    "CDU/CSU",
+    "BÜNDNIS 90/DIE GRÜNEN",
+    "FDP",
+    "AfD",
+    "Die Linke",
+    "BSW",
+    "fraktionslos"
+   ],
+   "beschlussart_final": "abgelehnt",
+   "status": "gueltig",
+   "fehler": null,
+   "versuche": 1,
+   "sekunden": 28.36,
+   "eval_count": 471,
+   "prompt_eval_count": 2180,
+   "thinking_zeichen": 0,
+   "cache": true,
+   "kernpunkt": "Gesetzentwurf zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland",
+   "positionen": [
+    {
+     "fraktion": "SPD",
+     "haltung": "ablehnend",
+     "begruendung": "Entschuldigung für Abstimmung mit AfD, aber Zusammenarbeit ist notwendig",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "CDU/CSU",
+     "haltung": "zustimmend",
+     "begruendung": "Entschließungsantrag zur Begrenzung des Zustroms ist in der Sache richtig",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+     "haltung": "ablehnend",
+     "begruendung": "AfD-Mehrheit in Abstimmung, Demokratie erschüttert",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "FDP",
+     "haltung": "zustimmend",
+     "begruendung": "Mehr Demokratie wagen, AfD-Mehrheit in Abstimmung",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "AfD",
+     "haltung": "zustimmend",
+     "begruendung": "Erste Chance für AfD, ihre Politik durchzusetzen",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "Die Linke",
+     "haltung": "ablehnend",
+     "begruendung": "AfD hat durch AfD-Mehrheit ihre Politik durchgesetzt",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BSW",
+     "haltung": "ablehnend",
+     "begruendung": "AfD-Mehrheit, politische Show, nicht Lösung",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "fraktionslos",
+     "haltung": "zustimmend",
+     "begruendung": "Merkels Migrationspolitik ein Fehler, AfD-Mehrheit in Abstimmung",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    }
+   ]
+  },
+  {
+   "drucksache": "20/8649",
+   "kurztitel": "Justizstandort-Stärkungsgesetz",
+   "titel": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung des Justizstandortes Deutschland durch Einführung von Commercial Courts und der Gerichtssprache Englisch in der Zivilgerichtsbarkeit (Justizstandort-Stärkungsgesetz)",
+   "n_reden_gesamt": 33,
+   "n_reden_kontext": 7,
+   "fraktionen_kontext": [
+    "FDP",
+    "CDU/CSU",
+    "SPD",
+    "AfD",
+    "BÜNDNIS 90/DIE GRÜNEN",
+    "Die Linke"
+   ],
+   "beschlussart_final": "angenommen",
+   "status": "gueltig",
+   "fehler": null,
+   "versuche": 1,
+   "sekunden": 24.22,
+   "eval_count": 390,
+   "prompt_eval_count": 2025,
+   "thinking_zeichen": 0,
+   "cache": true,
+   "kernpunkt": "Einführung von Commercial Courts und der Gerichtssprache Englisch in der Zivilgerichtsbarkeit zur Stärkung des Justizstandortes Deutschland.",
+   "positionen": [
+    {
+     "fraktion": "FDP",
+     "haltung": "zustimmend",
+     "begruendung": "Wichtig für den Wirtschaftsstandort Deutschland und internationale Geschäftsbeziehungen.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "CDU/CSU",
+     "haltung": "ablehnend",
+     "begruendung": "Kritik an der Verzögerung der Lösung von Massenverfahren und dem Leitentscheidungsverfahren.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "SPD",
+     "haltung": "zustimmend",
+     "begruendung": "Verteidigung der deutschen Wirtschaft und des Investitionsstandortes Deutschland.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "AfD",
+     "haltung": "ablehnend",
+     "begruendung": "Kritik an der Verhältnismäßigkeit und dem Deutschtum.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+     "haltung": "zustimmend",
+     "begruendung": "Nötig für internationale Geschäftsbeziehungen und Rechtsordnungskonkurrenz.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "Die Linke",
+     "haltung": "ablehnend",
+     "begruendung": "Kritik an der Kritik der AfD und der Verhältnismäßigkeit.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    }
+   ]
+  },
+  {
+   "drucksache": "20/12805",
+   "kurztitel": null,
+   "titel": "Zweite und dritte Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zur Verbesserung der inneren Sicherheit und des Asylsystems",
+   "n_reden_gesamt": 40,
+   "n_reden_kontext": 7,
+   "fraktionen_kontext": [
+    "SPD",
+    "CDU/CSU",
+    "BÜNDNIS 90/DIE GRÜNEN",
+    "AfD",
+    "FDP",
+    "Die Linke",
+    "BSW"
+   ],
+   "beschlussart_final": "angenommen",
+   "status": "gueltig",
+   "fehler": null,
+   "versuche": 1,
+   "sekunden": 42.27,
+   "eval_count": 459,
+   "prompt_eval_count": 1944,
+   "thinking_zeichen": 0,
+   "cache": true,
+   "kernpunkt": "Verbesserung der inneren Sicherheit und des Asylsystems im Hinblick auf islamistischen Terrorismus, Rechts- und Linksextremismus sowie Gewaltkriminalität.",
+   "positionen": [
+    {
+     "fraktion": "SPD",
+     "haltung": "zustimmend",
+     "begruendung": "Sicherheitspaket als wichtiger Fortschritt zur Bekämpfung von Terrorismus und Gewaltkriminalität.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "CDU/CSU",
+     "haltung": "ablehnend",
+     "begruendung": "Versprechen des Bundeskanzlers nicht gehalten, da Sicherheitsmaßnahmen nicht durchgesetzt wurden.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+     "haltung": "zustimmend",
+     "begruendung": "Verbesserungen im Waffenrecht und Migration, stärkere Sicherheitskräfte.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "AfD",
+     "haltung": "zustimmend",
+     "begruendung": "Zustimmung trotz Kritik an der Koalition und der Migrationspolitik.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "FDP",
+     "haltung": "zustimmend",
+     "begruendung": "Notwendigkeit zusätzlicher politischer Maßnahmen zur geordneten Migration.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "Die Linke",
+     "haltung": "ablehnend",
+     "begruendung": "Scheinlösungen und pauschale Einstufung von Geflüchteten als Terrorismusverdächtige.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BSW",
+     "haltung": "ablehnend",
+     "begruendung": "Vernünftige Sicherheitspolitik durch die Grünen verhindert, nach Meinung des BSW.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    }
+   ]
+  },
+  {
+   "drucksache": "20/9999",
+   "kurztitel": null,
+   "titel": "Zweite und dritte Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Zweiten Haushaltsfinanzierungsgesetzes 2024",
+   "n_reden_gesamt": 33,
+   "n_reden_kontext": 7,
+   "fraktionen_kontext": [
+    "CDU/CSU",
+    "SPD",
+    "AfD",
+    "BÜNDNIS 90/DIE GRÜNEN",
+    "FDP",
+    "Die Linke",
+    "BSW"
+   ],
+   "beschlussart_final": "angenommen",
+   "status": "gueltig",
+   "fehler": null,
+   "versuche": 1,
+   "sekunden": 28.45,
+   "eval_count": 470,
+   "prompt_eval_count": 2034,
+   "thinking_zeichen": 0,
+   "cache": true,
+   "kernpunkt": "Zweites Beratungsgesetz zum zweiten Haushaltsfinanzierungsgesetz 2024",
+   "positionen": [
+    {
+     "fraktion": "CDU/CSU",
+     "haltung": "zustimmend",
+     "begruendung": "CDU/CSU-Fraktion stellt Anträge zur Förderung der Landwirtschaft.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "SPD",
+     "haltung": "zustimmend",
+     "begruendung": "SPD-Fraktion betont den verfassungskonformen Haushalt und die innere Sicherheit.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "AfD",
+     "haltung": "ablehnend",
+     "begruendung": "AfD-Fraktion kritisiert die Energietransformation und die Kosten für die Bürger.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+     "haltung": "zustimmend",
+     "begruendung": "BÜNDNIS 90/DIE GRÜNEN-Fraktion betont die wirtschaftliche Anspannung und die Konsequenzen des Verfassungsgerichts.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "FDP",
+     "haltung": "zustimmend",
+     "begruendung": "FDP-Fraktion betont die Notwendigkeit des Haushalts und die Diskussion der Anträge.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "Die Linke",
+     "haltung": "ablehnend",
+     "begruendung": "Die Linke-Fraktion kritisiert die Kürzungen und fordert einen Sozialstaat.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BSW",
+     "haltung": "ablehnend",
+     "begruendung": "BSW-Fraktion kritisiert den Haushalt für die steigenden Lebenskosten der Bevölkerung.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    }
+   ]
+  },
+  {
+   "drucksache": "20/10722",
+   "kurztitel": "Bezahlkartengesetz – BezahlkG",
+   "titel": "Zweite und dritte Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur rechtssicheren Einführung einer Bezahlkarte im Asylbewerberleistungsgesetz (Bezahlkartengesetz – BezahlkG)",
+   "n_reden_gesamt": 37,
+   "n_reden_kontext": 7,
+   "fraktionen_kontext": [
+    "SPD",
+    "CDU/CSU",
+    "BÜNDNIS 90/DIE GRÜNEN",
+    "AfD",
+    "FDP",
+    "Die Linke",
+    "BSW"
+   ],
+   "beschlussart_final": "abgelehnt",
+   "status": "gueltig",
+   "fehler": null,
+   "versuche": 1,
+   "sekunden": 55.4,
+   "eval_count": 441,
+   "prompt_eval_count": 2023,
+   "thinking_zeichen": 0,
+   "cache": true,
+   "kernpunkt": "Einführung einer Bezahlkarte für geflüchtete Menschen im Asylbewerberleistungsgesetz.",
+   "positionen": [
+    {
+     "fraktion": "SPD",
+     "haltung": "zustimmend",
+     "begruendung": "Solidarische Unterstützung der Länder und Gemeinsames Europäisches Asylsystem.",
+     "erwartung": "ablehnend",
+     "basis": "abgelehnt_mit_koalitionsmehrheit",
+     "plausibel": false
+    },
+    {
+     "fraktion": "CDU/CSU",
+     "haltung": "ablehnend",
+     "begruendung": "Grünen stimmen gegen EU-Asylreform, was gegen Sozialleistungsbetrug vorgeht.",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": false
+    },
+    {
+     "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+     "haltung": "ablehnend",
+     "begruendung": "Bezahlkarten sind nicht notwendig, da sie ohne Regelung eingeführt werden können.",
+     "erwartung": "ablehnend",
+     "basis": "abgelehnt_mit_koalitionsmehrheit",
+     "plausibel": true
+    },
+    {
+     "fraktion": "AfD",
+     "haltung": "zustimmend",
+     "begruendung": "Verbesserung von Datenübermittlungen und Abfrageprozessen zur Verhinderung von Leistungsbetrug.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "FDP",
+     "haltung": "zustimmend",
+     "begruendung": "Neuer Baustein zur Realpolitik in der Migration.",
+     "erwartung": "ablehnend",
+     "basis": "abgelehnt_mit_koalitionsmehrheit",
+     "plausibel": false
+    },
+    {
+     "fraktion": "Die Linke",
+     "haltung": "ablehnend",
+     "begruendung": "Vorurteile gegenüber Geflüchteten und absurd, dass große Geldbeträge ins Ausland transferiert werden.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BSW",
+     "haltung": "ablehnend",
+     "begruendung": "Koalition hat nicht die Kraft, abgelehnte Asylbewerber zurückzuführen.",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    }
+   ]
+  },
+  {
+   "drucksache": "20/11944",
+   "kurztitel": null,
+   "titel": "Zweite und dritte Beratung des von den Fraktionen SPD, CDU/CSU, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zur Änderung des Abgeordnetengesetzes – Öffentlichkeitsarbeit der Fraktionen und weitere Änderungen",
+   "n_reden_gesamt": 31,
+   "n_reden_kontext": 7,
+   "fraktionen_kontext": [
+    "SPD",
+    "CDU/CSU",
+    "BÜNDNIS 90/DIE GRÜNEN",
+    "FDP",
+    "AfD",
+    "fraktionslos",
+    "Die Linke"
+   ],
+   "beschlussart_final": "angenommen",
+   "status": "gueltig",
+   "fehler": null,
+   "versuche": 1,
+   "sekunden": 43.2,
+   "eval_count": 395,
+   "prompt_eval_count": 2044,
+   "thinking_zeichen": 0,
+   "cache": true,
+   "kernpunkt": "Änderung des Abgeordnetengesetzes zur Stärkung des Bundesverfassungsgerichts",
+   "positionen": [
+    {
+     "fraktion": "SPD",
+     "haltung": "zustimmend",
+     "begruendung": "Stärkung der Demokratie durch robustere Institutionen",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "CDU/CSU",
+     "haltung": "zustimmend",
+     "begruendung": "Resilienz des Bundesverfassungsgerichtes verankern",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+     "haltung": "zustimmend",
+     "begruendung": "Demokratien unter Druck, Stärkung des Bundesverfassungsgerichts notwendig",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "FDP",
+     "haltung": "zustimmend",
+     "begruendung": "Stärkung des Bundesverfassungsgerichts als notwendig",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "AfD",
+     "haltung": "ablehnend",
+     "begruendung": "Gesetzentwürfe unverändert, keine neuen Erkenntnisse",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "Die Linke",
+     "haltung": "zustimmend",
+     "begruendung": "Widerstandsfähigkeit der Demokratie durch Stärkung des Bundesverfassungsgerichts",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "fraktionslos",
+     "haltung": "zustimmend",
+     "begruendung": "Stärkung des Bundesverfassungsgerichts als Säule der politischen Ordnung",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    }
+   ]
+  },
+  {
+   "drucksache": "20/12977",
+   "kurztitel": "Artikel 93 und 94",
+   "titel": "Zweite und dritte Beratung des von den Fraktionen SPD, CDU/CSU, BÜNDNIS 90/DIE GRÜNEN und FDP sowie dem Abgeordneten Stefan Seidler eingebrachten Entwurfs eines Gesetzes zur Änderung des Grundgesetzes (Artikel 93 und 94)",
+   "n_reden_gesamt": 41,
+   "n_reden_kontext": 7,
+   "fraktionen_kontext": [
+    "SPD",
+    "CDU/CSU",
+    "BÜNDNIS 90/DIE GRÜNEN",
+    "FDP",
+    "AfD",
+    "fraktionslos",
+    "Die Linke"
+   ],
+   "beschlussart_final": "angenommen",
+   "status": "gueltig",
+   "fehler": null,
+   "versuche": 1,
+   "sekunden": 23.53,
+   "eval_count": 372,
+   "prompt_eval_count": 2045,
+   "thinking_zeichen": 0,
+   "cache": true,
+   "kernpunkt": "Änderung des Grundgesetzes zur Stärkung des Bundesverfassungsgerichts",
+   "positionen": [
+    {
+     "fraktion": "SPD",
+     "haltung": "zustimmend",
+     "begruendung": "Stärkung der Demokratie durch robustere Institutionen",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "CDU/CSU",
+     "haltung": "zustimmend",
+     "begruendung": "Resilienz des Bundesverfassungsgerichtes verankern",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+     "haltung": "zustimmend",
+     "begruendung": "Notwendigkeit der Sicherheitsmaßnahmen gegen Angriffe auf Demokratie",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "FDP",
+     "haltung": "zustimmend",
+     "begruendung": "Stärkung der Verfassungskontrolle",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "AfD",
+     "haltung": "ablehnend",
+     "begruendung": "Neuigkeiten sind wenig, Änderungen sind nicht notwendig",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "fraktionslos",
+     "haltung": "zustimmend",
+     "begruendung": "Stärkung des Bundesverfassungsgerichts zur Schutz der Grundrechte",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "Die Linke",
+     "haltung": "zustimmend",
+     "begruendung": "Widerstandsfähigkeit der Demokratie gegen innen stehende Feinde verstärken",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    }
+   ]
+  },
+  {
+   "drucksache": "20/11306",
+   "kurztitel": "Viertes Bürokratieentlastungsgesetz",
+   "titel": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Vierten Gesetzes zur Entlastung der Bürgerinnen und Bürger, der Wirtschaft sowie der Verwaltung von Bürokratie (Viertes Bürokratieentlastungsgesetz)",
+   "n_reden_gesamt": 34,
+   "n_reden_kontext": 7,
+   "fraktionen_kontext": [
+    "FDP",
+    "CDU/CSU",
+    "SPD",
+    "AfD",
+    "BÜNDNIS 90/DIE GRÜNEN",
+    "Die Linke",
+    "BSW"
+   ],
+   "beschlussart_final": "angenommen",
+   "status": "gueltig",
+   "fehler": null,
+   "versuche": 1,
+   "sekunden": 23.15,
+   "eval_count": 341,
+   "prompt_eval_count": 2027,
+   "thinking_zeichen": 0,
+   "cache": true,
+   "kernpunkt": "Gesetzentwurf zur Entlastung von Bürokratie, insbesondere in Wirtschaft und Verwaltung.",
+   "positionen": [
+    {
+     "fraktion": "FDP",
+     "haltung": "zustimmend",
+     "begruendung": "Wirtschaftswende und Stellenabbau verhindern",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "CDU/CSU",
+     "haltung": "ablehnend",
+     "begruendung": "Mageres Entlastungsgesetz und Versäumnis",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "SPD",
+     "haltung": "zustimmend",
+     "begruendung": "Wettbewerbsfähigkeit, Eigenverantwortung und einfaches Leben",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "AfD",
+     "haltung": "ablehnend",
+     "begruendung": "Ampelmännchen und Ampelweibchen entlassen",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+     "haltung": "zustimmend",
+     "begruendung": "Wichtiges Thema, aber nicht genug",
+     "erwartung": "zustimmend",
+     "basis": "einbringer",
+     "plausibel": true
+    },
+    {
+     "fraktion": "Die Linke",
+     "haltung": "ablehnend",
+     "begruendung": "Ungenügende Maßnahmen und Steuerbetrug",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    },
+    {
+     "fraktion": "BSW",
+     "haltung": "ablehnend",
+     "begruendung": "Cum-ex-Skandal und illegalen Rückzahlungen",
+     "erwartung": null,
+     "basis": "keine",
+     "plausibel": null
+    }
+   ]
+  }
+ ]
+}

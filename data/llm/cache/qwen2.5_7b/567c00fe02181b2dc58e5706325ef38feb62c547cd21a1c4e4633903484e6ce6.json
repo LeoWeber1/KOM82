@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Versorgungsqualität im Krankenhaus und zur Reform der Vergütungsstrukturen (Krankenhausversorgungsverbesserungsgesetz – KHVVG)\", \"kurztitel\": \"Krankenhausversorgungsverbesserungsgesetz\", \"drucksachen\": [\"20/11854\", \"20/12894\", \"20/13059\", \"20/13407\", \"20/13408\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss) zu dem Antrag der Abgeordneten Martin Sichert, Jörg Schneider, Dr. Christina Baum, weiterer Abgeordneter und der Fraktion der AfD Geburtshilfe in Deutschland flächendeckend sicherstellen – Fehlanreize beseitigen\", \"kurztitel\": null, \"drucksachen\": [\"20/5550\", \"20/5556\", \"20/5558\", \"20/11433\", \"20/13407\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss) zu dem Antrag der Abgeordneten Martin Sichert, Jörg Schneider, Dr. Christina Baum, weiterer Abgeordneter und der Fraktion der AfD Abteilungen für Kurzzeitpflege in Krankenhäusern bundesweit einrichten – Krankenhausstandorte erhalten und stärken\", \"kurztitel\": null, \"drucksachen\": [\"20/5550\", \"20/5556\", \"20/5558\", \"20/11433\", \"20/13407\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss) zu dem Antrag der Abgeordneten Andrej Hunko, Dr. Sahra Wagenknecht, Ali Al-Dailami, weiterer Abgeordneter und der Gruppe BSW Nein zur geplanten Krankenhausreform – Sofortprogramm zur Rettung des Gesundheitswesens\", \"kurztitel\": null, \"drucksachen\": [\"20/5550\", \"20/5556\", \"20/5558\", \"20/11433\", \"20/13407\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 738,
+ "prompt_eval_count": 1558,
+ "total_duration": 32885871542,
+ "load_duration": 644250,
+ "wand_s": 32.88793933391571,
+ "prompt_zeichen": 4365
+}

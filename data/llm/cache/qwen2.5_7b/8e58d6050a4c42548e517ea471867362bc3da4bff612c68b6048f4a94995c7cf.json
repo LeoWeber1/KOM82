@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Schaffung einer Digitalagentur für Gesundheit (Gesundheits-Digitalagentur-Gesetz – GDAG)\", \"kurztitel\": \"Gesundheits-Digitalagentur-Gesetz\", \"drucksachen\": [\"20/13249\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 118,
+ "prompt_eval_count": 1079,
+ "total_duration": 5427554541,
+ "load_duration": 780750,
+ "wand_s": 5.429573999717832,
+ "prompt_zeichen": 3036
+}

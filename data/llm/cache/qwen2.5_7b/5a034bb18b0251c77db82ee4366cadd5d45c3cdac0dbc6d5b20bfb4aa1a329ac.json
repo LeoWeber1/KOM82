@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von den Abgeordneten Stephan Brandner, Peter Boehringer, Dr. Christina Baum, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Änderung des Gesetzes über die Ruhebezüge des Bundespräsidenten\",\n      \"kurztitel\": \"Gesetz über die Ruhebezüge des Bundespräsidenten\",\n      \"drucksachen\": [\"20/11139\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Dietmar Friedhoff, Dr. Christina Baum, Dr. Malte Kaufmann, weiterer Abgeordneter und der Fraktion der AfD Systemisch integrativer und interessengeleiteter afrikapolitischer Ansatz für Deutschland\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11147\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Kay Gottschalk, Klaus Stöber, Albrecht Glaser, weiterer Abgeordneter und der Fraktion der AfD Abschaffung des Solidaritätszuschlags – Erster Schritt einer umfänglichen Steuerreform zur Entlastung des Mittelstands, von Unternehmen sowie Arbeitnehmern\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11149\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Bernd Schattner, Stephan Protschka, Peter Felser, weiterer Abgeordneter und der Fraktion der AfD Deutsche Landwirtschaft schützen – Zollfreiheiten für ukrainische Getreide- und Ölsaaten beenden\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11148\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 548,
+ "prompt_eval_count": 1494,
+ "total_duration": 24758837209,
+ "load_duration": 1203750,
+ "wand_s": 24.764701459091157,
+ "prompt_zeichen": 4372
+}

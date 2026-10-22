@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Vierten Gesetzes zur Entlastung der Bürgerinnen und Bürger, der Wirtschaft sowie der Verwaltung von Bürokratie (Viertes Bürokratieentlastungsgesetz)\", \"kurztitel\": \"Viertes Bürokratieentlastungsgesetz\", \"drucksachen\": [\"20/11306\", \"20/13015\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung\", \"kurztitel\": null, \"drucksachen\": [\"20/13016\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 221,
+ "prompt_eval_count": 1124,
+ "total_duration": 9663967750,
+ "load_duration": 1016250,
+ "wand_s": 9.666814125142992,
+ "prompt_zeichen": 3135
+}

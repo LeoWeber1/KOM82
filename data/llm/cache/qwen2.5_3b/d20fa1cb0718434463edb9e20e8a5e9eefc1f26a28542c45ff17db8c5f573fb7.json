@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung der Unterrichtung durch die Bundesregierung Bericht zur Risikoanalyse für den Zivilschutz 2023\",\n      \"kurztitel\": \"Zivilschutzbericht\",\n      \"drucksachen\": [\"20/10476\"],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Überweisungsvorschlag: Ausschuss für Inneres und Heimat (f) Verteidigungsausschuss Ausschuss für Ernährung und Landwirtschaft Ausschuss für Digitales\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"f\", \"20/10476\", \"20/10476\", \"20/10476\", \"20/10476\"],\n      \"typ\": \"sonstiges\",\n      \"beratungsstufe\": \"unbekannt\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 242,
+ "prompt_eval_count": 1111,
+ "total_duration": 4956209625,
+ "load_duration": 660417,
+ "wand_s": 4.95842720894143,
+ "prompt_zeichen": 3145
+}

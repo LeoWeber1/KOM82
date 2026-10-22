@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Strenge Sanktionen gegen Russland und Belarus im Agrarbereich einführen\",\n      \"kurztitel\": \"Strenge Sanktionen\",\n      \"drucksachen\": [\n        \"20/11141\",\n        \"21397\"\n      ],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"zweite\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 124,
+ "prompt_eval_count": 1361,
+ "total_duration": 2589323750,
+ "load_duration": 573166,
+ "wand_s": 2.591234916821122,
+ "prompt_zeichen": 3869
+}

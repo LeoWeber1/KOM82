@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des Tierhaltungskennzeichnungsgesetzes\", \"kurztitel\": null, \"drucksachen\": [\"20/14034\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 113,
+ "prompt_eval_count": 1103,
+ "total_duration": 5193192875,
+ "load_duration": 859667,
+ "wand_s": 5.19570591673255,
+ "prompt_zeichen": 3088
+}

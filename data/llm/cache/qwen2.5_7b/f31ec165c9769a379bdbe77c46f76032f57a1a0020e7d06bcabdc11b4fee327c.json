@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Anwendung des Mehrseitigen Übereinkommens vom 24. November 2016 und zu weiteren Maßnahmen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10820\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Peter Felser, Stephan Protschka, Bernd Schattner, weiterer Abgeordneter und der Fraktion der AfD Anerkennung der Selbstregulation bei Werbung für Lebensmittel\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10976\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Peter Felser, Stephan Protschka, Bernd Schattner, weiterer Abgeordneter und der Fraktion der AfD Kulturgut Fleisch schützen – Kennzeichnungspflicht für künstlichen Fleischersatz aus dem Labor\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10977\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Praktisches Jahr im Medizinstudium gerecht und effizient ausgestalten\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10978\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Martin Sichert, Jörg Schneider, Dr. Christina Baum, weiterer Abgeordneter und der Fraktion der AfD Einheitliches Prüfverfahren zur Eignung von Ärzten mit Studienabschluss aus Drittstaaten\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10979\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 580,
+ "prompt_eval_count": 1514,
+ "total_duration": 26048583583,
+ "load_duration": 879500,
+ "wand_s": 26.05109708290547,
+ "prompt_zeichen": 4368
+}

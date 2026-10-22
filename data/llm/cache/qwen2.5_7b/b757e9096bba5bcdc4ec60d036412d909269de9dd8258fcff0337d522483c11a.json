@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Berichterstattung haben die Abgeordneten Dennis Rohde, Christian Haase, Sven-Christian Kindler, Otto Fricke, Peter Boehringer und Dr. Gesine Lötzsch.\", \"kurztitel\": null, \"drucksachen\": [\"20/8632\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 97,
+ "prompt_eval_count": 1049,
+ "total_duration": 4279826292,
+ "load_duration": 567792,
+ "wand_s": 4.281681917142123,
+ "prompt_zeichen": 2935
+}

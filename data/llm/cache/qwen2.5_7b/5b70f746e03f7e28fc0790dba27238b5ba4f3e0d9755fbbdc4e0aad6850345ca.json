@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes für ein verlässliches Hilfesystem bei geschlechtsspezifischer und häuslicher Gewalt\",\n      \"kurztitel\": \"Gewaltgesetz\",\n      \"drucksachen\": [\"20/14025\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Gewalt gegen Frauen wirksam bekämpfen – Schutz, Hilfe und Unterstützungsangebote ausbauen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13734\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Gyde Jensen, Nicole Bauer, Katja Adler, weiterer Abgeordneter und der Fraktion der FDP Gewalt gegen Frauen entschieden bekämpfen – Frauenhäuser ausbauen und Prävention stärken\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14029\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Gökay Akbulut, Heidi Reichinnek, Cornelia Möhring, weiterer Abgeordneter und der Gruppe Die Linke Frauen und ihre Kinder vor Gewalt schützen – Istanbul-Konvention umsetzen – Gewalthilfegesetz jetzt beschließen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13739\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 479,
+ "prompt_eval_count": 1424,
+ "total_duration": 21464687916,
+ "load_duration": 992750,
+ "wand_s": 21.468439334072173,
+ "prompt_zeichen": 4113
+}

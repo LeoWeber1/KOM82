@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"kernpunkt\": \"Einführung von Commercial Courts und der Gerichtssprache Englisch in der Zivilgerichtsbarkeit zur Stärkung des Justizstandortes Deutschland.\",\n  \"positionen\": [\n    {\n      \"fraktion\": \"FDP\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Wichtig für den Wirtschaftsstandort Deutschland und internationale Geschäftsbeziehungen.\"\n    },\n    {\n      \"fraktion\": \"CDU/CSU\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Kritik an der Verzögerung der Lösung von Massenverfahren und dem Leitentscheidungsverfahren.\"\n    },\n    {\n      \"fraktion\": \"SPD\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Verteidigung der deutschen Wirtschaft und des Investitionsstandortes Deutschland.\"\n    },\n    {\n      \"fraktion\": \"AfD\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Kritik an der Verhältnismäßigkeit und dem Deutschtum.\"\n    },\n    {\n      \"fraktion\": \"BÜNDNIS 90/DIE GRÜNEN\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"Nötig für internationale Geschäftsbeziehungen und Rechtsordnungskonkurrenz.\"\n    },\n    {\n      \"fraktion\": \"Die Linke\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Kritik an der Kritik der AfD und der Verhältnismäßigkeit.\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 390,
+ "prompt_eval_count": 2025,
+ "total_duration": 24225978084,
+ "load_duration": 7745500,
+ "wand_s": 24.24048029212281,
+ "prompt_zeichen": 7328
+}

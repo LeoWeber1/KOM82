@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Mit Entschlossenheit für neues Vertrauen und eine gemeinsame Sicherheits- und Europapolitik in den deutsch-polnischen Beziehungen sowie eine Neuaufstellung des Weimarer Dreiecks eintreten\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10380\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Petr Bystron, Tino Chrupalla, Markus Frohnmaier, weiterer Abgeordneter und der Fraktion der AfD Partnerschaft mit den Visegrád-Staaten ausbauen – Abendländische Werte verteidigen, Europa neu denken, Wirtschaftskooperation vertiefen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/8355\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"zweite\"\n    },\n    {\n      \"titel\": \"Überweisungsvorschlag: Auswärtiger Ausschuss (f) Ausschuss für Inneres und Heimat Wirtschaftsausschuss Ausschuss für Ernährung und Landwirtschaft Verteidigungsausschuss Ausschuss für die Angelegenheiten der Europäischen Union Ausschuss für Kultur und Medien\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"f\", \"f\", \"f\", \"f\", \"f\", \"f\"],\n      \"typ\": \"sonstiges\",\n      \"beratungsstufe\": \"unbekannt\"\n    },\n    {\n      \"titel\": \"Überweisungsvorschlag: Wirtschaftsausschuss Ausschuss für Familie, Senioren, Frauen und Jugend Ausschuss für Menschenrechte und humanitäre Hilfe Ausschuss für die Angelegenheiten der Europäischen Union Haushaltsausschuss\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"f\", \"f\", \"f\", \"f\", \"1\"],\n      \"typ\": \"sonstiges\",\n      \"beratungsstufe\": \"unbekannt\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 532,
+ "prompt_eval_count": 1306,
+ "total_duration": 11852712625,
+ "load_duration": 570417,
+ "wand_s": 11.855516958981752,
+ "prompt_zeichen": 3796
+}

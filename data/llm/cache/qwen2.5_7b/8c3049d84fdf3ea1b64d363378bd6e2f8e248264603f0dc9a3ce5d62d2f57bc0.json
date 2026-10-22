@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"hier: Einzelplan 08 Bundesministerium der Finanzen\", \"kurztitel\": null, \"drucksachen\": [\"20/8608\", \"20/8661\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}, {\"titel\": \"hier: Einzelplan 20 Bundesrechnungshof\", \"kurztitel\": null, \"drucksachen\": [\"20/8661\", \"20/8662\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 150,
+ "prompt_eval_count": 1169,
+ "total_duration": 6993297208,
+ "load_duration": 863500,
+ "wand_s": 6.9960759580135345,
+ "prompt_zeichen": 3230
+}

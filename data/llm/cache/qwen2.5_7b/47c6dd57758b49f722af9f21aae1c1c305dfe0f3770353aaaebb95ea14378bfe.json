@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Abgeordneten Carmen Wegge, Ulle Schauws, Sanae Abdi und weiteren Abgeordneten eingebrachten Entwurfs eines Gesetzes zur Neuregelung des Schwangerschaftsabbruchs\", \"kurztitel\": null, \"drucksachen\": [\"20/13775\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Abgeordneten Carmen Wegge, Ulle Schauws, Sanae Abdi und weiterer Abgeordneter Versorgungslage von ungewollt Schwangeren verbessern\", \"kurztitel\": null, \"drucksachen\": [\"20/13776\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 215,
+ "prompt_eval_count": 1214,
+ "total_duration": 9913277500,
+ "load_duration": 902750,
+ "wand_s": 9.915791207924485,
+ "prompt_zeichen": 3443
+}

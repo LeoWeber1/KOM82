@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz – OZGÄndG)\", \"kurztitel\": \"OZGÄndG\", \"drucksachen\": [\"20/8093\", \"20/10417\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 149,
+ "prompt_eval_count": 1134,
+ "total_duration": 6783354708,
+ "load_duration": 1398625,
+ "wand_s": 6.786672624759376,
+ "prompt_zeichen": 3139
+}

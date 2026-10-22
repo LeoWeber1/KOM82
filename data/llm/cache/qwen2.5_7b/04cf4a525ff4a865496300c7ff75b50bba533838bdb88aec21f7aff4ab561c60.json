@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Abgeordneten Dr. Lukas Köhler, Dr. Jens Brandenburg (Rhein-Neckar), Renata Alt, weiteren Abgeordneten und der Fraktion der FDP eingebrachten Entwurfs eines Gesetzes zur Flexibilisierung des Arbeitszeitgesetzes – (Arbeitszeitflexibilisierungsgesetz – ArbZ-FlexG)\", \"kurztitel\": \"Arbeitszeitflexibilisierungsgesetz\", \"drucksachen\": [\"20/14255\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 161,
+ "prompt_eval_count": 1094,
+ "total_duration": 7129467459,
+ "load_duration": 847042,
+ "wand_s": 7.132121624890715,
+ "prompt_zeichen": 3058
+}

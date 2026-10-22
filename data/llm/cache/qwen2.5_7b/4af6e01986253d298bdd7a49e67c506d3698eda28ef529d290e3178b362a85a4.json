@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zum Zweiten IT-Änderungsstaatsvertrag\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11851\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Martin Sichert, Kay-Uwe Ziegler, Dr. Christina Baum, weiterer Abgeordneter und der Fraktion der AfD Studienplätze für die Zulassung im Sanitätsdienst der Bundeswehr vom Bund finanzieren\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11959\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Rechtssicherheit schaffen und für mehr Gerechtigkeit sorgen – Keine Benachteiligung einzelner Berufsgruppen durch die Erweiterung der Lkw-Maut ab 1. Juli 2024\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11956\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Christian Görke, Dr. Gesine Lötzsch, Ina Latendorf, weiterer Abgeordneter und der Gruppe Die Linke Globale Mindeststeuer für Milliardärinnen und Milliardäre einführen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11630\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Nicole Höchst, Dr. Götz Frömming, Dr. Marc Jongen, weiterer Abgeordneter und der Fraktion der AfD Ansehen des Handwerks heben – Eine gemeinnützige Stiftung „Haus\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11630\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 595,
+ "prompt_eval_count": 1530,
+ "total_duration": 27018678334,
+ "load_duration": 2067292,
+ "wand_s": 27.022328583989292,
+ "prompt_zeichen": 4373
+}

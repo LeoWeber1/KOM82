@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Jahressteuergesetzes 2024 (Jahressteuergesetz 2024 – JStG 2024)\",\n      \"kurztitel\": \"Jahressteuergesetz 2024\",\n      \"drucksachen\": [\"20/12780\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Caren Lay, Dr. Gesine Lötzsch, Christian Görke, weiterer Abgeordneter und der Gruppe Die Linke Eine starke neue Wohngemeinnützigkeit als nicht-profitorientierten Sektor auf dem Wohnungsmarkt einführen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12109\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 267,
+ "prompt_eval_count": 1260,
+ "total_duration": 12125582708,
+ "load_duration": 755000,
+ "wand_s": 12.12931920774281,
+ "prompt_zeichen": 3536
+}

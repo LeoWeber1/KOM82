@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Abgeordneten Stephan Brandner, Marc Bernhard, Dietmar Friedhoff, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Abschaffung der Sommerzeit\", \"kurztitel\": null, \"drucksachen\": [\"20/14217\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von dem Abgeordneten Tobias Matthias Peterka und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Strafbarkeit der Betätigung auf dem Gebiet der Paralleljustiz\", \"kurztitel\": null, \"drucksachen\": [\"20/13789\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von den Abgeordneten Stephan Brandner, Tobias Matthias Peterka, Dr. Christina Baum, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Einführung der Haftung von Bundesministern bei Amtspflichtverletzungen\", \"kurztitel\": null, \"drucksachen\": [\"20/13805\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von den Abgeordneten Stephan Brandner, Dr. Christina Baum, Marcus Bühl, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Beendigung des externen Weisungsrechts gegenüber Staatsanwälten\", \"kurztitel\": null, \"drucksachen\": [\"20/13807\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Abgeordneten Stephan Brandner, Marc Bernhard, Dr. Michael Kaufmann, weiterer Abgeordneter und der Fraktion der AfD Abschaffung der Sommerzeit\", \"kurztitel\": null, \"drucksachen\": [\"20/14217\"], \"typ\": \"antrag\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 558,
+ "prompt_eval_count": 1492,
+ "total_duration": 24893709667,
+ "load_duration": 663000,
+ "wand_s": 24.896149583160877,
+ "prompt_zeichen": 4367
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften\", \"kurztitel\": null, \"drucksachen\": [\"20/9049\", \"20/11004\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Familie, Senioren, Frauen und Jugend (13. Ausschuss) zu dem Antrag der Abgeordneten Beatrix von Storch, Marcus Bühl, Nicole Höchst, Tobias Matthias Peterka und der Fraktion der AfD Transsexuellengesetz erhalten und den Schutz von Menschen mit Geschlechtsdysphorie verbessern\", \"kurztitel\": null, \"drucksachen\": [\"20/8203\", \"20/11002\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 285,
+ "prompt_eval_count": 1210,
+ "total_duration": 12667146459,
+ "load_duration": 880375,
+ "wand_s": 12.669650833122432,
+ "prompt_zeichen": 3412
+}

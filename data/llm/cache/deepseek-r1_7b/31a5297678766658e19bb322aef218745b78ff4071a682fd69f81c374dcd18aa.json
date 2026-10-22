@@ -1,0 +1,11 @@
+{
+ "modell": "deepseek-r1:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"beratungsstufe\": \"beratung\",\n      \"drucksachen\": [\"20/12123\"],\n      \"kurztitel\": \"Wahlvorschlag der AfD\",\n      \"titel\": \"Wahlvorschlag der Fraktion der AfD Wahl der Mitglieder des Beirates bei der Koordinierungsstelle für Digitale Dienste gemäß § 21 des Digitale-Dienste-Gesetzes (DDG) Drucksache 20/12123\",\n      \"typ\": \"sonstiges\"\n    }\n  ]\n}",
+ "thinking": "\nOkay, I need to extract the discussion points from the given Protokoll (minutes) of the Bundestag's plenary session for the 20th Bundestag period. The focus is on the 7th supplement point, which is a supplement to point 7 in sitting 181. This point is about a proposal by the AfD Fraktion (AfD's party group) for changing the coordination desk for digital services according to the Digital Dienste Gesetz (DDG). The discussion includes who is voting for and against the proposal, with specific participants like Stephan Brandner and Enrico Komning.\n\nFirst, I'll look for the section in the Protokoll that corresponds to supplement point 7. The user provided a sample response, so I can use that as a reference. The sample identified the Gegenstand as a question and answer format, with the title, short title, discussion points, and types.\n\nI'll start by identifying the Gegenstand. The title should be \"Wahlvorschlag der Fraktion der AfD Wahl der Mitglieder des Beirates bei der Koordinierungsstelle für Digitale Dienste gemäß § 21 des Digitale-Dienste-Gesetzes (DDG) Drucksache 20/12123\". The short title is \"Wahlvorschlag der AfD\".\n\nNext, the discussion points. The user's example included the participants and their statements. I'll extract each participant's name, their vote (for or against), and their reasoning. I'll list these as separate points under the Gegenstand.\n\nI'll also note the type as \"sonstiges\" since it's a discussion about a specific decision, not a formal decision-making process.\n\nFinally, I'll structure the JSON as per the user's instructions, ensuring only the relevant Gegenstand is included with the correct fields.\n",
+ "eval_count": 540,
+ "prompt_eval_count": 1205,
+ "total_duration": 22936521542,
+ "load_duration": 755208,
+ "wand_s": 22.93944049999118,
+ "prompt_zeichen": 3449
+}

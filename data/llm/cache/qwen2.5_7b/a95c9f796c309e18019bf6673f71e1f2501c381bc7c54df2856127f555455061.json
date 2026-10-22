@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Verbrechensaufklärung – Einführung einer Mindestspeicherung von IP-Adressen und Wiederherstellung der Funkzellenabfragemöglichkeit\", \"kurztitel\": null, \"drucksachen\": [\"20/13366\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des vom Bundesrat eingebrachten Entwurfs eines Gesetzes zur Einführung einer Mindestspeicherung von IP-Adressen für die Bekämpfung schwerer Kriminalität\", \"kurztitel\": null, \"drucksachen\": [\"20/13748\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von den Abgeordneten Konstantin Kuhle, Dr. Thorsten Lieb, Renata Alt, weiteren Abgeordneten und der Fraktion der FDP eingebrachten Entwurfs eines Gesetzes zur Einführung einer Sicherungsanordnung für Verkehrsdaten in der Strafprozessordnung\", \"kurztitel\": null, \"drucksachen\": [\"20/14022\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 355,
+ "prompt_eval_count": 1297,
+ "total_duration": 15799140792,
+ "load_duration": 859292,
+ "wand_s": 15.801614707801491,
+ "prompt_zeichen": 3714
+}

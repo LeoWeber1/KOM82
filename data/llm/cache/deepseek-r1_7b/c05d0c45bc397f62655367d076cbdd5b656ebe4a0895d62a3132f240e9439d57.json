@@ -1,0 +1,11 @@
+{
+ "modell": "deepseek-r1:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"beratungsstufe\": \"unbekannt\",\n      \"drucksachen\": [\"20/13176\"],\n      \"kurztitel\": \"Fragestunde\",\n      \"titel\": \"Die mündlichen Fragen können Sie auf der Drucksache 20/13176 nachlesen. Sie werden in der üblichen Reihenfolge aufgerufen.\",\n      \"typ\": \"sonstiges\"\n    }\n  ]\n}",
+ "thinking": "\nOkay, I need to extract the discussion topics from the plenary session log of the German Bundestag 20th term, specifically the 20th electoral period. The user provided a query in German about a discussion topic during a question hour, with a specific Druckachse (print page) number. My task is to parse this information and structure it into a JSON response based on the given schema.\n\nFirst, I'll identify the relevant fields. The title is straightforward—it's the topic of the discussion. The short title should be in parentheses, similar to the example. The Druckachse is given as 20/13176. The type is a question hour, so it should be marked as \"sonstiges.\" The Beratungsstufe isn't specified here, so I'll leave it as \"unbekannt.\" \n\nI need to ensure that the JSON structure matches the provided example, with the correct keys and values. I'll make sure the title and short title are accurately transcribed from the query, and the type is correctly assigned. Since there's no mention of it being a set draft or a decision, it's appropriate to categorize it as \"sonstiges.\" \n\nI should also check if there are any additional comments or notes, but in this case, the query is concise, so no extra information is needed. Finally, I'll format the JSON correctly, ensuring there are no typos or missing commas.\n",
+ "eval_count": 421,
+ "prompt_eval_count": 1016,
+ "total_duration": 17477276667,
+ "load_duration": 1030625,
+ "wand_s": 17.480392375029624,
+ "prompt_zeichen": 2846
+}

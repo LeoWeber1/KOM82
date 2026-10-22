@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Funkanlagengesetzes\", \"kurztitel\": \"Funkanlagengesetz\", \"drucksachen\": [\"20/9873\", \"20/10465\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 116,
+ "prompt_eval_count": 1102,
+ "total_duration": 5344962375,
+ "load_duration": 1187209,
+ "wand_s": 5.347214958164841,
+ "prompt_zeichen": 3082
+}

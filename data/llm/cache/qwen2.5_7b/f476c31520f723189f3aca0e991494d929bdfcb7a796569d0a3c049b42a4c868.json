@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Änderung des Energiewirtschaftsrechts zur Vermeidung von temporären Erzeugungsüberschüssen\", \"kurztitel\": null, \"drucksachen\": [\"20/14235\", \"20/14773\", \"20/14795\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Änderung des Erneuerbare-Energien-Gesetzes zur Flexibilisierung von Biogasanlagen und Sicherung der Anschlussförderung\", \"kurztitel\": null, \"drucksachen\": [\"20/14246\", \"20/14774\", \"20/14796\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Anpassung des Treibhausgas-Emissionshandelsgesetzes an die Änderung der Richtlinie 2003/87/EG (TEHG-Europarechtsanpassungsgesetz 2024)\", \"kurztitel\": null, \"drucksachen\": [\"20/13585\", \"20/13962\", \"20/14775\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Zweite und dritte Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Änderung des Kraft-Wärme-Kopplungsgesetzes\", \"kurztitel\": null, \"drucksachen\": [\"20/13615\", \"20/14776\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 567,
+ "prompt_eval_count": 1614,
+ "total_duration": 26060655042,
+ "load_duration": 806250,
+ "wand_s": 26.062998166307807,
+ "prompt_zeichen": 4364
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Öffentlichen Gesundheit\", \"kurztitel\": \"Gesetz zur Stärkung der Öffentlichen Gesundheit\", \"drucksachen\": [\"20/12790\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 109,
+ "prompt_eval_count": 1064,
+ "total_duration": 4849594583,
+ "load_duration": 641833,
+ "wand_s": 4.851332916878164,
+ "prompt_zeichen": 2972
+}

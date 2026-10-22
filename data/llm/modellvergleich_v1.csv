@@ -1,0 +1,16 @@
+modell,sitzung,top_id,aufruf_zeile,gueltig,fehler,versuche,sekunden,eval_count,prompt_eval_count,thinking_zeichen,cache,klasse,drs_gleich,typ_gleich,stufe_gleich,titel_quote
+qwen2.5:3b,211,Zusatzpunkt 35,1065,True,,1,6.68,218,1087,0,False,typ_abweichend,True,False,False,1.0
+qwen2.5:3b,166,Zusatzpunkt 3,1997,True,,1,2.94,133,1109,0,False,stufe_abweichend,True,True,False,1.0
+qwen2.5:3b,210,Tagesordnungspunkt 12,9109,True,,1,8.76,405,1285,0,False,stufe_abweichend,True,True,False,0.944
+qwen2.5:3b,181,Tagesordnungspunkt 18,6877,True,,1,5.11,245,1101,0,False,stufe_abweichend,True,True,False,1.0
+qwen2.5:3b,169,Tagesordnungspunkt 23,9505,True,,1,4.89,233,1070,0,False,typ_abweichend,True,False,False,0.94
+qwen2.5:7b,211,Zusatzpunkt 35,1065,True,,2,13.63,299,2379,0,False,gleich,True,True,True,1.0
+qwen2.5:7b,166,Zusatzpunkt 3,1997,True,,1,5.5,119,1109,0,False,gleich,True,True,True,1.0
+qwen2.5:7b,210,Tagesordnungspunkt 12,9109,True,,1,14.14,316,1285,0,False,gleich,True,True,True,1.0
+qwen2.5:7b,181,Tagesordnungspunkt 18,6877,True,,1,9.04,210,1101,0,False,gleich,True,True,True,1.0
+qwen2.5:7b,169,Tagesordnungspunkt 23,9505,True,,1,4.39,97,1070,0,False,gleich,True,True,True,1.0
+deepseek-r1:7b,211,Zusatzpunkt 35,1065,True,,1,27.22,551,1077,1583,False,typ_abweichend,True,False,False,1.0
+deepseek-r1:7b,166,Zusatzpunkt 3,1997,True,,1,44.41,1072,1099,2572,False,typ_abweichend,True,False,False,0.654
+deepseek-r1:7b,210,Tagesordnungspunkt 12,9109,True,,1,49.8,1181,1275,2380,False,typ_abweichend,True,False,True,0.787
+deepseek-r1:7b,181,Tagesordnungspunkt 18,6877,True,,1,18.18,431,1091,613,False,gleich,True,True,True,1.0
+deepseek-r1:7b,169,Tagesordnungspunkt 23,9505,True,,1,33.44,818,1060,2196,False,typ_abweichend,True,False,False,1.0

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zum Zweiten IT-Änderungsstaatsvertrag\", \"kurztitel\": \"Zweite IT-Änderungsstaatsvertrag\", \"drucksachen\": [\"20/11851\", \"20/12196\", \"20/12868\", \"20/13017\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung\", \"kurztitel\": null, \"drucksachen\": [\"20/13018\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 216,
+ "prompt_eval_count": 1296,
+ "total_duration": 10225092125,
+ "load_duration": 862959,
+ "wand_s": 10.227312541101128,
+ "prompt_zeichen": 3584
+}

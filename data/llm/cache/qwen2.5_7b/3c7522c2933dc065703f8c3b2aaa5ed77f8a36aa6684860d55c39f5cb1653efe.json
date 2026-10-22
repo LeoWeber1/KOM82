@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Beratung des Antrags der Abgeordneten Dr. Malte Kaufmann, Leif-Erik Holm, Enrico Komning, weiterer Abgeordneter und der Fraktion der AfD Den Rohstoffmangel in Deutschland beheben und die Versorgung der Industrie mit kritischen Rohstoffen sicherstellen\", \"kurztitel\": null, \"drucksachen\": [\"20/13616\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 128,
+ "prompt_eval_count": 1090,
+ "total_duration": 5900837083,
+ "load_duration": 1189375,
+ "wand_s": 5.909918583929539,
+ "prompt_zeichen": 3068
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Schwangerschaftskonfliktgesetzes\", \"kurztitel\": \"Schwangerschaftskonfliktgesetz\", \"drucksachen\": [\"20/10861\", \"20/12151\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 127,
+ "prompt_eval_count": 1145,
+ "total_duration": 5872178500,
+ "load_duration": 610458,
+ "wand_s": 5.873943000100553,
+ "prompt_zeichen": 3233
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Durchführung der EU-Verordnung über europäische Daten-Governance (Daten-Governance-Gesetz – DGG)\", \"kurztitel\": \"Daten-Governance-Gesetz\", \"drucksachen\": [\"20/13090\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 117,
+ "prompt_eval_count": 1092,
+ "total_duration": 5358640167,
+ "load_duration": 3964834,
+ "wand_s": 5.361156249884516,
+ "prompt_zeichen": 3068
+}

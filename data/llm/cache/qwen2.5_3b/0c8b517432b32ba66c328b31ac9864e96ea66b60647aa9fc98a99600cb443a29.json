@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Beratung des Antrags der Abgeordneten Dr. Rainer Kraft, Karsten Hilse, Steffen Kotré, weiterer Abgeordneter und der Fraktion der AfD Für eine kostengünstige, sichere und zukunftsfähige Energieversorgung – Kernenergie konsequent ausbauen\", \"kurztitel\": null, \"drucksachen\": [\"20/11145\", \"20/11146\"], \"typ\": \"antrag\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Abgeordneten Dr. Rainer Kraft, Andreas Bleck, Jürgen Braun, weiterer Abgeordneter und der Fraktion der AfD Beitritt zur europäischen Nuklearallianz\", \"kurztitel\": null, \"drucksachen\": [\"20/11145\", \"20/11146\"], \"typ\": \"antrag\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 248,
+ "prompt_eval_count": 1268,
+ "total_duration": 5355099417,
+ "load_duration": 687750,
+ "wand_s": 5.357022291980684,
+ "prompt_zeichen": 3575
+}

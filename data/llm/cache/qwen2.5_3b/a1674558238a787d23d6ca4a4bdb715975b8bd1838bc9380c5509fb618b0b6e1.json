@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Abschöpfung kriminell erlangter Vermögen erleichtern – Gesetzeslücken schließen – Expertenvorschläge umsetzen\", \"kurztitel\": null, \"drucksachen\": [\"20/14014\"], \"typ\": \"antrag\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 106,
+ "prompt_eval_count": 1061,
+ "total_duration": 2392258459,
+ "load_duration": 598084,
+ "wand_s": 2.397076374851167,
+ "prompt_zeichen": 2953
+}

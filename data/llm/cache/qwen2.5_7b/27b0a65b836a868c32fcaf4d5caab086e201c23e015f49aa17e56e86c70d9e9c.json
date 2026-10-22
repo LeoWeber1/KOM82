@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"hier: Einzelplan 23 Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung\", \"kurztitel\": null, \"drucksachen\": [\"20/8661\", \"20/8662\"], \"typ\": \"sonstiges\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 85,
+ "prompt_eval_count": 1066,
+ "total_duration": 11361695667,
+ "load_duration": 3243650292,
+ "wand_s": 11.365469957701862,
+ "prompt_zeichen": 2995
+}

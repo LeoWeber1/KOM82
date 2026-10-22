@@ -1,0 +1,11 @@
+{
+ "modell": "deepseek-r1:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"beratungsstufe\": \"zweite und dritte\",\n      \"drucksachen\": [\"20/8674\", \"20/12144\"],\n      \"kurztitel\": \"Mustergesetz\",\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Regelung hybrider und virtueller Versammlungen in der Bundesnotarordnung, der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung und dem Steuerberatungsgesetz sowie zur Änderung weiterer Vorschriften des Rechts der rechtsberatenden Berufe\",\n      \"typ\": \"gesetzentwurf\"\n    }\n  ]\n}",
+ "thinking": "\nOkay, I need to extract the discussion points from the given day's session of the German Bundestag's Plenarprotokoll (Meeting Protocols) for the 20th Bundestag election period. The specific session is labeled as Tagesordnungspunkt 21 (Session 181). \n\nLooking at the provided query, the Aufruf (call) mentions \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes...\". This translates to the second and third consultative vote on a draft law by the Bundesregierung (Federal Government) regarding regulations on hybrid and virtual assemblies in various legal orders and the tax consulting act, as well as modifications to other regulations of the right of representation.\n\nThe Drucksache (druck sheet) number is 20/8674, and it's part of the Beschlusssempfehlung (recommendation for decisions) and the Bericht (report) of the Right of Representation Committee (6th Committee) with Drucksache 20/12144. Additionally, there's an Anlage (appendix) number 8 mentioned.\n\nI need to structure this information according to the provided schema. The title should be the full title of the discussion, the short title would be the name of the law, the drucksachen are the sheet numbers, the type is \"gesetzentwurf\" since it's a consultative vote on a draft law, and the Beratungsstufe is \"zweite und dritte\" as it's the second and third consultative vote.\n\nI should make sure to only include the relevant information and format it correctly in JSON as per the instructions.\n",
+ "eval_count": 560,
+ "prompt_eval_count": 1114,
+ "total_duration": 23424270417,
+ "load_duration": 642792,
+ "wand_s": 23.42648283392191,
+ "prompt_zeichen": 3150
+}

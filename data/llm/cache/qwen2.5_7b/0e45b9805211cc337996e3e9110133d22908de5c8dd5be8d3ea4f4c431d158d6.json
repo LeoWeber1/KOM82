@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur weiteren Stärkung der personellen Einsatzbereitschaft und zur Änderung von Vorschriften für die Bundeswehr\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13488\", \"20/14787\", \"20/14788\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Verteidigungsausschusses (12. Ausschuss) zu dem Antrag der Fraktion der SPD und BÜNDNIS 90/DIE GRÜNEN\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14020\", \"20/14347\"],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Strafbarkeit der Ausübung von Tätigkeiten für fremde Mächte sowie zur Änderung soldatenrechtlicher und soldatenbeteiligungsrechtlicher Vorschriften\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13957\", \"20/14298\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Christoph Meyer, Otto Fricke, Renata Alt, weiterer Abgeordneter und der Fraktion der FDP\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14712\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 518,
+ "prompt_eval_count": 1471,
+ "total_duration": 23320034125,
+ "load_duration": 738708,
+ "wand_s": 23.32229991676286,
+ "prompt_zeichen": 4131
+}

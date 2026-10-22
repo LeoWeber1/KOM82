@@ -1,0 +1,11 @@
+{
+ "modell": "deepseek-r1:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"beratungsstufe\": \"erste\",\n      \"drucksachen\": [\"20/10612\"],\n      \"kurztitel\": \"Überweisungsvorschlag: Ausschuss für Inneres und Heimat (f) Ausschuss für Familie, Senioren, Frauen und Jugendsatz 20/10612\",\n      \"titel\": \"Unterwanderungen von Organisationen verhindern und mehr Transparenz bei Gefährdungslagen sicherstellen\",\n      \"typ\": \"bericht\"\n    }\n  ]\n}",
+ "thinking": "\nOkay, I need to extract the discussion points from the given parliamentary protocol entry. The user is asking for the fifth supplementary point in the first session, which is about the debate on the 20/10612 resolution regarding the protection of individuals from forced migration and the measures to counteract it.\n\nFirst, I'll look for the section that starts with \"Unterwanderungen von Organisationen verhindern und mehr Transparenz bei Gefährdungslagen sicherstellen\" which translates to \"Preventing Incidents of Forced Migration and Enhancing Transparency in Crisis Situations.\" This is part of the resolution's discussion.\n\nI notice that the resolution is discussed under the \"Unterwanderungen von Organisationen\" (Subsection f) of the \"Ausschuss für Inneres und Heimat\" (Interior and Home Committee). The resolution is titled \"Überweisungsvorschlag: Ausschuss für Inneres und Heimat (f) Ausschuss für Familie, Senioren, Frauen und Jugendsatz 20/10612.\"\n\nSo, the main discussion point is the debate on this resolution. I'll structure the JSON accordingly, including the title, short title, discussion points, type, and Beratungsstufe. The type here is \"beratung\" since it's a discussion on a resolution. The Beratungsstufe is \"erste\" as it's the first supplementary point.\n\nI'll make sure to format the JSON correctly, using the appropriate keys and ensuring that the discussion points are accurately captured.\n",
+ "eval_count": 469,
+ "prompt_eval_count": 1083,
+ "total_duration": 19602497083,
+ "load_duration": 561625,
+ "wand_s": 19.61301475018263,
+ "prompt_zeichen": 3106
+}

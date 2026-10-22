@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Menschenunwürdige Zustände in der Prostitution beenden – Sexkauf bestrafen\", \"kurztitel\": null, \"drucksachen\": [\"20/10384\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 92,
+ "prompt_eval_count": 1128,
+ "total_duration": 4488247042,
+ "load_duration": 1663459,
+ "wand_s": 4.491550333797932,
+ "prompt_zeichen": 3214
+}

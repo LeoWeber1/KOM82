@@ -1,0 +1,861 @@
+id,nachname,vorname,name,partei,fraktion,gruppe,ins_lang,von,bis,vorgriff,name_key
+11000756,Gysi,Gregor,Gregor Gysi,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,gregor gysi
+11000756,Gysi,Gregor,Gregor Gysi,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,gregor gysi
+11000756,Gysi,Gregor,Gregor Gysi,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,gregor gysi
+11000975,Hüppe,Hubert,Hubert Hüppe,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,hubert hueppe
+11001235,Kubicki,Wolfgang,Wolfgang Kubicki,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,wolfgang kubicki
+11001772,Ramsauer,Peter,Peter Ramsauer,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,peter ramsauer
+11001938,Schäuble,Wolfgang,Wolfgang Schäuble,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,2023-12-26,False,wolfgang schaeuble
+11002666,Gröhe,Hermann,Hermann Gröhe,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,hermann groehe
+11002667,Grund,Manfred,Manfred Grund,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,manfred grund
+11002718,Laschet,Armin,Armin Laschet,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,armin laschet
+11002720,Lemke,Steffi,Steffi Lemke,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,steffi lemke
+11002733,Meister,Michael,Michael Meister,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,michael meister
+11002735,Merz,Friedrich,Friedrich Merz,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,friedrich merz
+11002746,Özdemir,Cem,Cem Özdemir,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,cem oezdemir
+11002754,Rachel,Thomas,Thomas Rachel,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,thomas rachel
+11002765,Röttgen,Norbert,Norbert Röttgen,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,norbert roettgen
+11002812,Straubinger,Max,Max Straubinger,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,max straubinger
+11003034,Bartsch,Dietmar,Dietmar Bartsch,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,dietmar bartsch
+11003034,Bartsch,Dietmar,Dietmar Bartsch,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,dietmar bartsch
+11003034,Bartsch,Dietmar,Dietmar Bartsch,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,dietmar bartsch
+11003068,Deligöz,Ekin,Ekin Deligöz,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,ekin deligoez
+11003124,Friedrich,Hans-Peter,Hans-Peter Friedrich,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,hans peter friedrich
+11003132,Göring-Eckardt,Katrin,Katrin Göring-Eckardt,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,katrin goering eckardt
+11003142,Heil,Hubertus,Hubertus Heil,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,hubertus heil
+11003162,Kramme,Anette,Anette Kramme,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,anette kramme
+11003199,Nietan,Dietmar,Dietmar Nietan,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,dietmar nietan
+11003206,Pau,Petra,Petra Pau,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,petra pau
+11003206,Pau,Petra,Petra Pau,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,petra pau
+11003206,Pau,Petra,Petra Pau,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,petra pau
+11003212,Roth,Claudia,Claudia Roth,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,claudia roth
+11003213,Roth,Michael,Michael Roth,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,michael roth
+11003218,Schneider,Carsten,Carsten Schneider,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,carsten schneider
+11003231,Scholz,Olaf,Olaf Scholz,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,olaf scholz
+11003246,Trittin,Jürgen,Jürgen Trittin,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,2024-01-05,False,juergen trittin
+11003259,Widmann-Mauz,Annette,Annette Widmann-Mauz,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,annette widmann mauz
+11003264,Willsch,Klaus-Peter,Klaus-Peter Willsch,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,klaus peter willsch
+11003440,Griese,Kerstin,Kerstin Griese,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,kerstin griese
+11003496,Bartol,Sören,Sören Bartol,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,soeren bartol
+11003510,Braun,Helge,Helge Braun,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,helge braun
+11003514,Connemann,Gitta,Gitta Connemann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,gitta connemann
+11003516,Dobrindt,Alexander,Alexander Dobrindt,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,alexander dobrindt
+11003525,Ferlemann,Enak,Enak Ferlemann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,enak ferlemann
+11003530,Fricke,Otto,Otto Fricke,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,otto fricke
+11003541,Grosse-Brömer,Michael,Michael Grosse-Brömer,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,michael grosse broemer
+11003542,Grübel,Markus,Markus Grübel,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,markus gruebel
+11003544,Gutting,Olav,Olav Gutting,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,olav gutting
+11003545,Hagedorn,Bettina,Bettina Hagedorn,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,bettina hagedorn
+11003551,Hennrich,Michael,Michael Hennrich,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,2023-02-28,False,michael hennrich
+11003566,Klöckner,Julia,Julia Klöckner,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,julia kloeckner
+11003573,Krichbaum,Gunther,Gunther Krichbaum,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,gunther krichbaum
+11003574,Krings,Günter,Günter Krings,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,guenter krings
+11003576,Künast,Renate,Renate Künast,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,renate kuenast
+11003578,Kurth,Markus,Markus Kurth,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,markus kurth
+11003582,Lips,Patricia,Patricia Lips,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,patricia lips
+11003584,Lötzsch,Gesine,Gesine Lötzsch,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,gesine loetzsch
+11003584,Lötzsch,Gesine,Gesine Lötzsch,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,gesine loetzsch
+11003584,Lötzsch,Gesine,Gesine Lötzsch,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,gesine loetzsch
+11003585,Lührmann,Anna,Anna Lührmann,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,anna luehrmann
+11003586,Bär,Dorothee,Dorothee Bär,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,dorothee baer
+11003589,Mayer,Stephan,Stephan Mayer,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,stephan mayer
+11003597,Müller,Stefan,Stefan Müller,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,2024-05-31,False,stefan mueller
+11003599,Mützenich,Rolf,Rolf Mützenich,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,rolf muetzenich
+11003613,Ludwig,Daniela,Daniela Ludwig,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,daniela ludwig
+11003620,Rupprecht,Albert,Albert Rupprecht,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,albert rupprecht
+11003624,Schäfer,Axel,Axel Schäfer,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,axel schaefer
+11003625,Scheuer,Andreas,Andreas Scheuer,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,2024-04-01,False,andreas scheuer
+11003636,Silberhorn,Thomas,Thomas Silberhorn,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,thomas silberhorn
+11003638,Spahn,Jens,Jens Spahn,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,jens spahn
+11003639,Stetten,Christian,Christian Frhr. von Stetten,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,christian frhr von stetten
+11003643,Storjohann,Gero,Gero Storjohann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,2023-01-29,False,gero storjohann
+11003646,Tillmann,Antje,Antje Tillmann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,antje tillmann
+11003655,Wanderwitz,Marco,Marco Wanderwitz,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,marco wanderwitz
+11003658,Wellenreuther,Ingo,Ingo Wellenreuther,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2024-06-10,,False,ingo wellenreuther
+11003702,Wissing,Volker,Volker Wissing,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,2024-11-07,False,volker wissing
+11003702,Wissing,Volker,Volker Wissing,Plos,fraktionslos,,Fraktionslos,2024-11-08,,False,volker wissing
+11003706,Auernhammer,Artur,Artur Auernhammer,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,artur auernhammer
+11003710,Kofler,Bärbel,Bärbel Kofler,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,baerbel kofler
+11003715,Klingbeil,Lars,Lars Klingbeil,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,lars klingbeil
+11003732,Annen,Niels,Niels Annen,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,niels annen
+11003734,Bareiß,Thomas,Thomas Bareiß,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,thomas bareiss
+11003742,Brand,Michael,Michael Brand,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,michael brand
+11003746,Dağdelen,Sevim,Sevim Dağdelen,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,sevim dagdelen
+11003746,Dağdelen,Sevim,Sevim Dağdelen,BSW,BSW,BSW,Fraktionslos,2023-12-06,2024-02-02,True,sevim dagdelen
+11003746,Dağdelen,Sevim,Sevim Dağdelen,BSW,BSW,BSW,Gruppe BSW - Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit,2024-02-02,,False,sevim dagdelen
+11003753,Ernst,Klaus,Klaus Ernst,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,klaus ernst
+11003753,Ernst,Klaus,Klaus Ernst,BSW,BSW,BSW,Fraktionslos,2023-12-06,2024-02-02,True,klaus ernst
+11003753,Ernst,Klaus,Klaus Ernst,BSW,BSW,BSW,Gruppe BSW - Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit,2024-02-02,,False,klaus ernst
+11003756,Gehring,Kai,Kai Gehring,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,kai gehring
+11003758,Gerster,Martin,Martin Gerster,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,martin gerster
+11003761,Grütters,Monika,Monika Grütters,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,monika gruetters
+11003764,Haßelmann,Britta,Britta Haßelmann,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,britta hasselmann
+11003764,Haßelmann,Britta,Britta Haßelmann,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,britta hasselmann
+11003772,Hofreiter,Anton,Anton Hofreiter,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,anton hofreiter
+11003780,Jung,Andreas,Andreas Jung,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,andreas jung
+11003782,Juratovic,Josip,Josip Juratovic,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,josip juratovic
+11003786,Kipping,Katja,Katja Kipping,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2022-01-03,False,katja kipping
+11003789,Koeppen,Jens,Jens Koeppen,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,jens koeppen
+11003790,Korte,Jan,Jan Korte,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,jan korte
+11003790,Korte,Jan,Jan Korte,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,jan korte
+11003790,Korte,Jan,Jan Korte,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,jan korte
+11003797,Lauterbach,Karl,Karl Lauterbach,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,karl lauterbach
+11003799,Lehrieder,Paul,Paul Lehrieder,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,paul lehrieder
+11003802,Link,Michael Georg,Michael Georg Link,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,michael georg link
+11003804,Mast,Katja,Katja Mast,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,katja mast
+11003809,Miersch,Matthias,Matthias Miersch,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,matthias miersch
+11003815,Müller,Carsten,Carsten Müller,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,carsten mueller
+11003816,Müller,Detlef,Detlef Müller,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,detlef mueller
+11003821,Otte,Henning,Henning Otte,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,henning otte
+11003830,Rix,Sönke,Sönke Rix,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,soenke rix
+11003834,Schäffler,Frank,Frank Schäffler,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,frank schaeffler
+11003838,Schieder,Marianne,Marianne Schieder,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,marianne schieder
+11003846,Schwabe,Frank,Frank Schwabe,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,frank schwabe
+11003847,Schwarzelühr-Sutter,Rita,Rita Schwarzelühr-Sutter,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,rita schwarzeluehr sutter
+11003848,Sitte,Petra,Petra Sitte,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,petra sitte
+11003848,Sitte,Petra,Petra Sitte,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,petra sitte
+11003848,Sitte,Petra,Petra Sitte,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,petra sitte
+11003856,Toncar,Florian,Florian Toncar,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,florian toncar
+11003858,Ulrich,Alexander,Alexander Ulrich,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,alexander ulrich
+11003858,Ulrich,Alexander,Alexander Ulrich,BSW,BSW,BSW,Fraktionslos,2023-12-06,2024-02-02,True,alexander ulrich
+11003858,Ulrich,Alexander,Alexander Ulrich,BSW,BSW,BSW,Gruppe BSW - Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit,2024-02-02,,False,alexander ulrich
+11003865,Winkelmeier-Becker,Elisabeth,Elisabeth Winkelmeier-Becker,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,elisabeth winkelmeier becker
+11003881,Nouripour,Omid,Omid Nouripour,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,omid nouripour
+11003888,Strengmann-Kuhn,Wolfgang,Wolfgang Strengmann-Kuhn,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,wolfgang strengmann kuhn
+11003890,Hirte,Christian,Christian Hirte,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,christian hirte
+11004003,Aschenberg-Dugnus,Christine,Christine Aschenberg-Dugnus,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,christine aschenberg dugnus
+11004004,Aumer,Peter,Peter Aumer,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,peter aumer
+11004006,Bas,Bärbel,Bärbel Bas,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,baerbel bas
+11004010,Beyer,Peter,Peter Beyer,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,peter beyer
+11004011,Bilger,Steffen,Steffen Bilger,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,steffen bilger
+11004012,Birkwald,Matthias W.,Matthias W. Birkwald,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,matthias w birkwald
+11004012,Birkwald,Matthias W.,Matthias W. Birkwald,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,matthias w birkwald
+11004012,Birkwald,Matthias W.,Matthias W. Birkwald,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,matthias w birkwald
+11004018,Brandl,Reinhard,Reinhard Brandl,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,reinhard brandl
+11004019,Brehmer,Heike,Heike Brehmer,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,heike brehmer
+11004021,Brinkhaus,Ralph,Ralph Brinkhaus,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,ralph brinkhaus
+11004023,Buschmann,Marco,Marco Buschmann,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,marco buschmann
+11004029,Djir-Sarai,Bijan,Bijan Djir-Sarai,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,bijan djir sarai
+11004033,Franke,Edgar,Edgar Franke,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,edgar franke
+11004034,Frieser,Michael,Michael Frieser,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,michael frieser
+11004036,Gädechens,Ingo,Ingo Gädechens,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,ingo gaedechens
+11004038,Gebhart,Thomas,Thomas Gebhart,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,thomas gebhart
+11004039,Gerdes,Michael,Michael Gerdes,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,michael gerdes
+11004041,Gohlke,Nicole,Nicole Gohlke,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,nicole gohlke
+11004041,Gohlke,Nicole,Nicole Gohlke,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,nicole gohlke
+11004041,Gohlke,Nicole,Nicole Gohlke,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,nicole gohlke
+11004048,Hahn,Florian,Florian Hahn,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,florian hahn
+11004050,Hardt,Jürgen,Jürgen Hardt,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,juergen hardt
+11004052,Heil,Mechthild,Mechthild Heil,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,mechthild heil
+11004056,Heveling,Ansgar,Ansgar Heveling,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,ansgar heveling
+11004057,Höferlin,Manuel,Manuel Höferlin,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,manuel hoeferlin
+11004060,Hunko,Andrej,Andrej Hunko,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,andrej hunko
+11004060,Hunko,Andrej,Andrej Hunko,BSW,BSW,BSW,Fraktionslos,2023-12-06,2024-02-02,True,andrej hunko
+11004060,Hunko,Andrej,Andrej Hunko,BSW,BSW,BSW,Gruppe BSW - Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit,2024-02-02,,False,andrej hunko
+11004061,Jarzombek,Thomas,Thomas Jarzombek,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,thomas jarzombek
+11004063,Kaczmarek,Oliver,Oliver Kaczmarek,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,oliver kaczmarek
+11004065,Kaufmann,Stefan,Stefan Kaufmann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2024-01-04,,False,stefan kaufmann
+11004066,Kekeritz,Uwe,Uwe Kekeritz,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2024-12-02,,False,uwe kekeritz
+11004067,Keul,Katja,Katja Keul,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,katja keul
+11004068,Kiesewetter,Roderich,Roderich Kiesewetter,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,roderich kiesewetter
+11004070,Kindler,Sven-Christian,Sven-Christian Kindler,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,sven christian kindler
+11004071,Klein,Volkmar,Volkmar Klein,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,volkmar klein
+11004072,Klein-Schmeink,Maria,Maria Klein-Schmeink,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,maria klein schmeink
+11004073,Knoerig,Axel,Axel Knoerig,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,axel knoerig
+11004075,Kober,Pascal,Pascal Kober,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,pascal kober
+11004081,Krischer,Oliver,Oliver Krischer,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,2022-06-28,False,oliver krischer
+11004087,Lange,Ulrich,Ulrich Lange,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,ulrich lange
+11004088,Lay,Caren,Caren Lay,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,caren lay
+11004088,Lay,Caren,Caren Lay,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,caren lay
+11004088,Lay,Caren,Caren Lay,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,caren lay
+11004091,Lenkert,Ralph,Ralph Lenkert,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,ralph lenkert
+11004091,Lenkert,Ralph,Ralph Lenkert,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,ralph lenkert
+11004091,Lenkert,Ralph,Ralph Lenkert,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,ralph lenkert
+11004095,Lindemann,Lars,Lars Lindemann,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,2024-03-04,False,lars lindemann
+11004097,Lindner,Christian,Christian Lindner,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,christian lindner
+11004098,Linnemann,Carsten,Carsten Linnemann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,carsten linnemann
+11004100,Luczak,Jan-Marco,Jan-Marco Luczak,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,jan marco luczak
+11004102,Luksic,Oliver,Oliver Luksic,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,oliver luksic
+11004103,Lutze,Thomas,Thomas Lutze,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-10-10,False,thomas lutze
+11004103,Lutze,Thomas,Thomas Lutze,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2023-10-10,,False,thomas lutze
+11004106,Brugger,Agnieszka,Agnieszka Brugger,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,agnieszka brugger
+11004108,Mattfeldt,Andreas,Andreas Mattfeldt,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,andreas mattfeldt
+11004110,Middelberg,Mathias,Mathias Middelberg,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,mathias middelberg
+11004111,Möhring,Cornelia,Cornelia Möhring,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,cornelia moehring
+11004111,Möhring,Cornelia,Cornelia Möhring,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,cornelia moehring
+11004111,Möhring,Cornelia,Cornelia Möhring,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,cornelia moehring
+11004113,Monstadt,Dietrich,Dietrich Monstadt,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,dietrich monstadt
+11004116,Schön,Nadine,Nadine Schön,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,nadine schoen
+11004117,Müller-Gemmeke,Beate,Beate Müller-Gemmeke,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,beate mueller gemmeke
+11004119,Nestle,Ingrid,Ingrid Nestle,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,ingrid nestle
+11004123,Notz,Konstantin,Konstantin von Notz,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,konstantin von notz
+11004124,Özoğuz,Aydan,Aydan Özoğuz,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,aydan oezoguz
+11004127,Paus,Lisa,Lisa Paus,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,lisa paus
+11004136,Rief,Josef,Josef Rief,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,josef rief
+11004138,Rößner,Tabea,Tabea Rößner,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,tabea roessner
+11004139,Rüddel,Erwin,Erwin Rüddel,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,2025-02-03,False,erwin rueddel
+11004146,Schnieder,Patrick,Patrick Schnieder,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,patrick schnieder
+11004150,Schwartze,Stefan,Stefan Schwartze,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,stefan schwartze
+11004152,Seif,Detlef,Detlef Seif,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,detlef seif
+11004159,Skudelny,Judith,Judith Skudelny,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,judith skudelny
+11004168,Stier,Dieter,Dieter Stier,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,dieter stier
+11004169,Stracke,Stephan,Stephan Stracke,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,stephan stracke
+11004175,Thomae,Stephan,Stephan Thomae,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,stephan thomae
+11004179,Vogel,Johannes,Johannes Vogel,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,johannes vogel
+11004181,Vogler,Kathrin,Kathrin Vogler,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,kathrin vogler
+11004181,Vogler,Kathrin,Kathrin Vogler,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,kathrin vogler
+11004181,Vogler,Kathrin,Kathrin Vogler,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,kathrin vogler
+11004182,Wadephul,Johann David,Johann David Wadephul,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,johann david wadephul
+11004183,Wagenknecht,Sahra,Sahra Wagenknecht,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,sahra wagenknecht
+11004183,Wagenknecht,Sahra,Sahra Wagenknecht,BSW,BSW,BSW,Fraktionslos,2023-12-06,2024-02-02,True,sahra wagenknecht
+11004183,Wagenknecht,Sahra,Sahra Wagenknecht,BSW,BSW,BSW,Gruppe BSW - Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit,2024-02-02,,False,sahra wagenknecht
+11004187,Weiss,Sabine,Sabine Weiss,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,sabine weiss
+11004215,Ebner,Harald,Harald Ebner,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,harald ebner
+11004217,Lindner,Tobias,Tobias Lindner,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,tobias lindner
+11004221,Walter-Rosenheimer,Beate,Beate Walter-Rosenheimer,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,beate walter rosenheimer
+11004222,Todtenhausen,Manfred,Manfred Todtenhausen,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,manfred todtenhausen
+11004226,Hellmich,Wolfgang,Wolfgang Hellmich,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,wolfgang hellmich
+11004229,Reinhold,Hagen,Hagen Reinhold,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,2023-09-03,False,hagen reinhold
+11004241,Albani,Stephan,Stephan Albani,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,stephan albani
+11004243,Amtsberg,Luise,Luise Amtsberg,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,luise amtsberg
+11004244,Baehrens,Heike,Heike Baehrens,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,heike baehrens
+11004245,Baerbock,Annalena,Annalena Baerbock,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,annalena baerbock
+11004246,Bahr,Ulrike,Ulrike Bahr,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,ulrike bahr
+11004252,Berghegger,André,André Berghegger,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,2023-12-31,False,andre berghegger
+11004255,Brantner,Franziska,Franziska Brantner,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,franziska brantner
+11004257,Castellucci,Lars,Lars Castellucci,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,lars castellucci
+11004258,Daldrup,Bernhard,Bernhard Daldrup,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,bernhard daldrup
+11004259,Diaby,Karamba,Karamba Diaby,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,karamba diaby
+11004261,Dittmar,Sabine,Sabine Dittmar,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,sabine dittmar
+11004262,Donth,Michael,Michael Donth,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,michael donth
+11004263,Dröge,Katharina,Katharina Dröge,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,katharina droege
+11004263,Dröge,Katharina,Katharina Dröge,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,katharina droege
+11004264,Durz,Hansjörg,Hansjörg Durz,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,hansjoerg durz
+11004267,Esken,Saskia,Saskia Esken,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,saskia esken
+11004269,Färber,Hermann,Hermann Färber,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,hermann faerber
+11004270,Fechner,Johannes,Johannes Fechner,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,johannes fechner
+11004271,Feiler,Uwe,Uwe Feiler,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,uwe feiler
+11004276,Frei,Thorsten,Thorsten Frei,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,thorsten frei
+11004278,Gastel,Matthias,Matthias Gastel,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,matthias gastel
+11004280,Groden-Kranich,Ursula,Ursula Groden-Kranich,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2025-02-07,,False,ursula groden kranich
+11004282,Grötsch,Uli,Uli Grötsch,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,2024-03-15,False,uli groetsch
+11004283,Grundmann,Oliver,Oliver Grundmann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,oliver grundmann
+11004285,Güntzler,Fritz,Fritz Güntzler,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,fritz guentzler
+11004286,Haase,Christian,Christian Haase,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,christian haase
+11004287,Hagl-Kehl,Rita,Rita Hagl-Kehl,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,rita hagl kehl
+11004288,Hahn,André,André Hahn,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,andre hahn
+11004288,Hahn,André,André Hahn,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,andre hahn
+11004288,Hahn,André,André Hahn,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,andre hahn
+11004289,Hakverdi,Metin,Metin Hakverdi,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,metin hakverdi
+11004291,Hartmann,Sebastian,Sebastian Hartmann,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,sebastian hartmann
+11004292,Hauer,Matthias,Matthias Hauer,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,matthias hauer
+11004294,Heck,Stefan,Stefan Heck,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,stefan heck
+11004295,Heidenblut,Dirk,Dirk Heidenblut,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,dirk heidenblut
+11004296,Heinrich,Gabriela,Gabriela Heinrich,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,gabriela heinrich
+11004298,Helfrich,Mark,Mark Helfrich,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,mark helfrich
+11004303,Hitschler,Thomas,Thomas Hitschler,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,thomas hitschler
+11004304,Hoffmann,Alexander,Alexander Hoffmann,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,alexander hoffmann
+11004305,Hoppenstedt,Hendrik,Hendrik Hoppenstedt,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,hendrik hoppenstedt
+11004311,Irlstorfer,Erich,Erich Irlstorfer,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,erich irlstorfer
+11004312,Janecek,Dieter,Dieter Janecek,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,dieter janecek
+11004317,Junge,Frank,Frank Junge,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,frank junge
+11004323,Karliczek,Anja,Anja Karliczek,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,anja karliczek
+11004325,Katzmarek,Gabriele,Gabriele Katzmarek,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,gabriele katzmarek
+11004327,Kippels,Georg,Georg Kippels,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,georg kippels
+11004328,Kiziltepe,Cansel,Cansel Kiziltepe,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,2023-05-15,False,cansel kiziltepe
+11004331,Koob,Markus,Markus Koob,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,markus koob
+11004332,Körber,Carsten,Carsten Körber,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,carsten koerber
+11004333,Kühn,Christian,Christian Kühn,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,2024-02-14,False,christian kuehn
+11004336,Launert,Silke,Silke Launert,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,silke launert
+11004337,Leikert,Katja,Katja Leikert,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,katja leikert
+11004339,Lenz,Andreas,Andreas Lenz,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,andreas lenz
+11004342,Lindholz,Andrea,Andrea Lindholz,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,andrea lindholz
+11004346,Magwas,Yvonne,Yvonne Magwas,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,yvonne magwas
+11004352,Metzler,Jan,Jan Metzler,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,jan metzler
+11004353,Mihalic,Irene,Irene Mihalic,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,irene mihalic
+11004355,Mittag,Susanne,Susanne Mittag,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,susanne mittag
+11004358,Müller,Bettina,Bettina Müller,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,bettina mueller
+11004359,Müntefering,Michelle,Michelle Müntefering,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,michelle muentefering
+11004365,Oellers,Wilfried,Wilfried Oellers,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,wilfried oellers
+11004366,Oßner,Florian,Florian Oßner,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,florian ossner
+11004368,Özdemir,Mahmut,Mahmut Özdemir,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,mahmut oezdemir
+11004369,Pahlmann,Ingrid,Ingrid Pahlmann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2024-01-02,,False,ingrid pahlmann
+11004377,Poschmann,Sabine,Sabine Poschmann,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,sabine poschmann
+11004378,Post,Achim,Achim Post,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,achim post
+11004381,Rabanus,Martin,Martin Rabanus,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2024-01-26,,False,martin rabanus
+11004382,Radomski,Kerstin,Kerstin Radomski,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,kerstin radomski
+11004383,Radwan,Alexander,Alexander Radwan,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,alexander radwan
+11004384,Rainer,Alois,Alois Rainer,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,alois rainer
+11004385,Renner,Martina,Martina Renner,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,martina renner
+11004385,Renner,Martina,Martina Renner,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,martina renner
+11004385,Renner,Martina,Martina Renner,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,martina renner
+11004386,De Ridder,Daniela,Daniela De Ridder,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2022-06-03,,False,daniela de ridder
+11004387,Rimkus,Andreas,Andreas Rimkus,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,andreas rimkus
+11004388,Rohde,Dennis,Dennis Rohde,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,dennis rohde
+11004389,Rosemann,Martin,Martin Rosemann,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,martin rosemann
+11004390,Rüffer,Corinna,Corinna Rüffer,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,corinna rueffer
+11004392,Rützel,Bernd,Bernd Rützel,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,bernd ruetzel
+11004393,Saathoff,Johann,Johann Saathoff,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,johann saathoff
+11004395,Schauws,Ulle,Ulle Schauws,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,ulle schauws
+11004396,Scheer,Nina,Nina Scheer,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,nina scheer
+11004397,Schiefner,Udo,Udo Schiefner,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,udo schiefner
+11004398,Schimke,Jana,Jana Schimke,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,jana schimke
+11004401,Schmidt,Dagmar,Dagmar Schmidt,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,dagmar schmidt
+11004405,Schulz-Asche,Kordula,Kordula Schulz-Asche,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,kordula schulz asche
+11004407,Schwarz,Andreas,Andreas Schwarz,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,andreas schwarz
+11004409,Sorge,Tino,Tino Sorge,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,tino sorge
+11004412,Stadler,Svenja,Svenja Stadler,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,svenja stadler
+11004413,Stamm-Fibich,Martina,Martina Stamm-Fibich,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,martina stamm fibich
+11004414,Stefinger,Wolfgang,Wolfgang Stefinger,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,wolfgang stefinger
+11004415,Stegemann,Albert,Albert Stegemann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,albert stegemann
+11004418,Steiniger,Johannes,Johannes Steiniger,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,johannes steiniger
+11004423,Tausend,Claudia,Claudia Tausend,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,claudia tausend
+11004424,Thews,Michael,Michael Thews,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,michael thews
+11004425,Timmermann-Fechter,Astrid,Astrid Timmermann-Fechter,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,astrid timmermann fechter
+11004426,Träger,Carsten,Carsten Träger,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,carsten traeger
+11004427,Ullrich,Volker,Volker Ullrich,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,volker ullrich
+11004429,Verlinden,Julia,Julia Verlinden,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,julia verlinden
+11004433,Vöpel,Dirk,Dirk Vöpel,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,dirk voepel
+11004437,Warken,Nina,Nina Warken,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,nina warken
+11004440,Weisgerber,Anja,Anja Weisgerber,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,anja weisgerber
+11004442,Westphal,Bernd,Bernd Westphal,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,bernd westphal
+11004443,Whittaker,Kai,Kai Whittaker,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,kai whittaker
+11004444,Wiese,Dirk,Dirk Wiese,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,dirk wiese
+11004448,Yüksel,Gülistan,Gülistan Yüksel,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,guelistan yueksel
+11004452,Zeulner,Emmi,Emmi Zeulner,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,emmi zeulner
+11004453,Zierke,Stefan,Stefan Zierke,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,stefan zierke
+11004603,Zimmermann,Jens,Jens Zimmermann,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,jens zimmermann
+11004605,Petry,Christian,Christian Petry,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,christian petry
+11004614,Glöckner,Angelika,Angelika Glöckner,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,angelika gloeckner
+11004617,Kemmer,Ronja,Ronja Kemmer,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,ronja kemmer
+11004622,Ryglewski,Sarah,Sarah Ryglewski,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,sarah ryglewski
+11004639,Coße,Jürgen,Jürgen Coße,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,juergen cosse
+11004645,Uhl,Markus,Markus Uhl,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,markus uhl
+11004653,Akbulut,Gökay,Gökay Akbulut,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,goekay akbulut
+11004653,Akbulut,Gökay,Gökay Akbulut,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,goekay akbulut
+11004653,Akbulut,Gökay,Gökay Akbulut,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,goekay akbulut
+11004654,Alt,Renata,Renata Alt,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,renata alt
+11004655,Altenkamp,Norbert Maria,Norbert Maria Altenkamp,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,norbert maria altenkamp
+11004656,Amthor,Philipp,Philipp Amthor,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,philipp amthor
+11004659,Badum,Lisa,Lisa Badum,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,lisa badum
+11004661,Bauer,Nicole,Nicole Bauer,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,nicole bauer
+11004662,Baumann,Bernd,Bernd Baumann,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,bernd baumann
+11004665,Bayram,Canan,Canan Bayram,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,canan bayram
+11004666,Beeck,Jens,Jens Beeck,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,jens beeck
+11004667,In der Beek,Olaf,Olaf In der Beek,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,olaf in der beek
+11004669,Bernhard,Marc,Marc Bernhard,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,marc bernhard
+11004670,Bernstein,Melanie,Melanie Bernstein,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2023-02-06,,False,melanie bernstein
+11004673,Biadacz,Marc,Marc Biadacz,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,marc biadacz
+11004674,Bleck,Andreas,Andreas Bleck,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,andreas bleck
+11004675,Boehringer,Peter,Peter Boehringer,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,peter boehringer
+11004676,Brandenburg,Jens,Jens Brandenburg,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,jens brandenburg
+11004677,Brandenburg,Mario,Mario Brandenburg,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,mario brandenburg
+11004678,Brandner,Stephan,Stephan Brandner,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,stephan brandner
+11004680,Braun,Jürgen,Jürgen Braun,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,juergen braun
+11004681,Breher,Silvia,Silvia Breher,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,silvia breher
+11004682,Brehm,Sebastian,Sebastian Brehm,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,sebastian brehm
+11004683,Breymaier,Leni,Leni Breymaier,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,leni breymaier
+11004684,Brodesser,Carsten,Carsten Brodesser,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,carsten brodesser
+11004686,Budde,Katrin,Katrin Budde,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,katrin budde
+11004687,Bühl,Marcus,Marcus Bühl,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,marcus buehl
+11004690,Busen,Karlheinz,Karlheinz Busen,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,karlheinz busen
+11004692,Bystron,Petr,Petr Bystron,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,2024-07-15,False,petr bystron
+11004693,Cezanne,Jörg,Jörg Cezanne,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-03-08,,False,joerg cezanne
+11004694,Christmann,Anna,Anna Christmann,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,anna christmann
+11004695,Chrupalla,Tino,Tino Chrupalla,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,tino chrupalla
+11004696,Cotar,Joana,Joana Cotar,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,2022-11-21,False,joana cotar
+11004696,Cotar,Joana,Joana Cotar,Plos,fraktionslos,,Fraktionslos,2022-11-21,,False,joana cotar
+11004697,Cronenberg,Carl-Julius,Carl-Julius Cronenberg,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,carl julius cronenberg
+11004698,Curio,Gottfried,Gottfried Curio,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,gottfried curio
+11004699,Damerow,Astrid,Astrid Damerow,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,astrid damerow
+11004701,Dilcher,Esther,Esther Dilcher,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,esther dilcher
+11004703,Domscheit-Berg,Anke,Anke Domscheit-Berg,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,anke domscheit berg
+11004703,Domscheit-Berg,Anke,Anke Domscheit-Berg,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,anke domscheit berg
+11004703,Domscheit-Berg,Anke,Anke Domscheit-Berg,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,anke domscheit berg
+11004705,Dürr,Christian,Christian Dürr,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,christian duerr
+11004707,Ehrhorn,Thomas,Thomas Ehrhorn,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,thomas ehrhorn
+11004709,Erndl,Thomas,Thomas Erndl,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,thomas erndl
+11004710,Esdar,Wiebke,Wiebke Esdar,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,wiebke esdar
+11004711,Espendiller,Michael,Michael Espendiller,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,michael espendiller
+11004712,Faber,Marcus,Marcus Faber,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,marcus faber
+11004713,Fahimi,Yasmin,Yasmin Fahimi,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,2022-05-30,False,yasmin fahimi
+11004714,Felser,Peter,Peter Felser,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,peter felser
+11004715,Ferschl,Susanne,Susanne Ferschl,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,susanne ferschl
+11004715,Ferschl,Susanne,Susanne Ferschl,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,susanne ferschl
+11004715,Ferschl,Susanne,Susanne Ferschl,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,susanne ferschl
+11004716,Föst,Daniel,Daniel Föst,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,daniel foest
+11004719,Friedhoff,Dietmar,Dietmar Friedhoff,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,dietmar friedhoff
+11004721,Frohnmaier,Markus,Markus Frohnmaier,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,markus frohnmaier
+11004722,Frömming,Götz,Götz Frömming,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,goetz froemming
+11004724,Gauland,Alexander,Alexander Gauland,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,alexander gauland
+11004726,Gelbhaar,Stefan,Stefan Gelbhaar,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,stefan gelbhaar
+11004727,Glaser,Albrecht,Albrecht Glaser,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,albrecht glaser
+11004731,Gottschalk,Kay,Kay Gottschalk,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,kay gottschalk
+11004732,Gremmels,Timon,Timon Gremmels,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,2024-01-25,False,timon gremmels
+11004733,Grundl,Erhard,Erhard Grundl,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,erhard grundl
+11004734,Hacker,Thomas,Thomas Hacker,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,thomas hacker
+11004736,Harder-Kühnel,Mariana Iris,Mariana Iris Harder-Kühnel,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,mariana iris harder kuehnel
+11004739,Haug,Jochen,Jochen Haug,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,jochen haug
+11004741,Heilmann,Thomas,Thomas Heilmann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,thomas heilmann
+11004742,Helling-Plahr,Katrin,Katrin Helling-Plahr,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,katrin helling plahr
+11004744,Henrichmann,Marc,Marc Henrichmann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,marc henrichmann
+11004745,Herbrand,Markus,Markus Herbrand,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,markus herbrand
+11004746,Herbst,Torsten,Torsten Herbst,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,torsten herbst
+11004749,Hess,Martin,Martin Hess,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,martin hess
+11004750,Hessel,Katja,Katja Hessel,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,katja hessel
+11004752,Hilse,Karsten,Karsten Hilse,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,karsten hilse
+11004753,Höchst,Nicole,Nicole Höchst,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,nicole hoechst
+11004754,Hocker,Gero Clemens,Gero Clemens Hocker,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,gero clemens hocker
+11004756,Hoffmann,Bettina,Bettina Hoffmann,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,bettina hoffmann
+11004757,Hoffmann,Christoph,Christoph Hoffmann,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,christoph hoffmann
+11004761,Holm,Leif-Erik,Leif-Erik Holm,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,leif erik holm
+11004762,Holtz,Ottmar,Ottmar von Holtz,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2024-01-10,,False,ottmar von holtz
+11004763,Houben,Reinhard,Reinhard Houben,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,reinhard houben
+11004764,Huber,Johannes,Johannes Huber,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,2021-12-31,False,johannes huber
+11004764,Huber,Johannes,Johannes Huber,Plos,fraktionslos,,Fraktionslos,2022-01-01,,False,johannes huber
+11004767,Jacobi,Fabian,Fabian Jacobi,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,fabian jacobi
+11004768,Jongen,Marc,Marc Jongen,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,2024-07-15,False,marc jongen
+11004770,Jung,Ingmar,Ingmar Jung,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,2024-01-25,False,ingmar jung
+11004771,Kaiser,Elisabeth,Elisabeth Kaiser,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,elisabeth kaiser
+11004773,Kappert-Gonther,Kirsten,Kirsten Kappert-Gonther,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,kirsten kappert gonther
+11004778,Keuter,Stefan,Stefan Keuter,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,stefan keuter
+11004779,Kießling,Michael,Michael Kießling,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,michael kiessling
+11004780,Klein,Karsten,Karsten Klein,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,karsten klein
+11004781,Kleinwächter,Norbert,Norbert Kleinwächter,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,norbert kleinwaechter
+11004783,Willkomm,Katharina,Katharina Willkomm,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2023-08-07,,False,katharina willkomm
+11004784,Kluckert,Daniela,Daniela Kluckert,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,daniela kluckert
+11004786,Köhler,Lukas,Lukas Köhler,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,lukas koehler
+11004787,Komning,Enrico,Enrico Komning,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,enrico komning
+11004788,König,Jörn,Jörn König,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,joern koenig
+11004789,Konrad,Carina,Carina Konrad,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,carina konrad
+11004791,Kotré,Steffen,Steffen Kotré,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,steffen kotre
+11004792,Kraft,Rainer,Rainer Kraft,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,rainer kraft
+11004796,Kuhle,Konstantin,Konstantin Kuhle,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,konstantin kuhle
+11004798,Lambsdorff,Alexander,Alexander Graf Lambsdorff,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,2023-08-07,False,alexander graf lambsdorff
+11004799,Lechte,Ulrich,Ulrich Lechte,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,ulrich lechte
+11004800,Lehmann,Jens,Jens Lehmann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,jens lehmann
+11004801,Lehmann,Sven,Sven Lehmann,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,sven lehmann
+11004802,Lindh,Helge,Helge Lindh,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,helge lindh
+11004806,Loos,Bernhard,Bernhard Loos,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,bernhard loos
+11004807,Lucassen,Rüdiger,Rüdiger Lucassen,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,ruediger lucassen
+11004809,Maas,Heiko,Heiko Maas,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,2022-12-31,False,heiko maas
+11004814,Mannes,Astrid,Astrid Mannes,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2024-01-26,,False,astrid mannes
+11004815,Mansmann,Till,Till Mansmann,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,till mansmann
+11004819,Meiser,Pascal,Pascal Meiser,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,pascal meiser
+11004819,Meiser,Pascal,Pascal Meiser,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,pascal meiser
+11004819,Meiser,Pascal,Pascal Meiser,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,2024-03-04,False,pascal meiser
+11004820,Meyer,Christoph,Christoph Meyer,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,christoph meyer
+11004821,Miazga,Corinna,Corinna Miazga,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,2023-02-25,False,corinna miazga
+11004823,Mohamed Ali,Amira,Amira Mohamed Ali,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,amira mohamed ali
+11004823,Mohamed Ali,Amira,Amira Mohamed Ali,BSW,BSW,BSW,Fraktionslos,2023-12-06,2024-02-02,True,amira mohamed ali
+11004823,Mohamed Ali,Amira,Amira Mohamed Ali,BSW,BSW,BSW,Gruppe BSW - Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit,2024-02-02,,False,amira mohamed ali
+11004824,Mohrs,Falko,Falko Mohrs,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,2022-11-07,False,falko mohrs
+11004825,Moll,Claudia,Claudia Moll,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,claudia moll
+11004826,Möller,Siemtje,Siemtje Möller,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,siemtje moeller
+11004828,Müller,Alexander,Alexander Müller,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,alexander mueller
+11004829,Müller,Axel,Axel Müller,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,axel mueller
+11004830,Müller,Claudia,Claudia Müller,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,claudia mueller
+11004832,Müller,Sepp,Sepp Müller,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,sepp mueller
+11004834,Müller-Rosentritt,Frank,Frank Müller-Rosentritt,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,frank mueller rosentritt
+11004835,Münz,Volker,Volker Münz,AfD,AfD,,Fraktion Alternative für Deutschland,2024-07-16,,False,volker muenz
+11004836,Münzenmaier,Sebastian,Sebastian Münzenmaier,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,sebastian muenzenmaier
+11004837,Nastic,Zaklin,Zaklin Nastic,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,zaklin nastic
+11004837,Nastic,Zaklin,Zaklin Nastic,BSW,BSW,BSW,Fraktionslos,2023-12-06,2024-02-02,True,zaklin nastic
+11004837,Nastic,Zaklin,Zaklin Nastic,BSW,BSW,BSW,Gruppe BSW - Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit,2024-02-02,,False,zaklin nastic
+11004841,Nicolaisen,Petra,Petra Nicolaisen,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,petra nicolaisen
+11004842,Nolte,Jan Ralf,Jan Ralf Nolte,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,jan ralf nolte
+11004844,Ortleb,Josephine,Josephine Ortleb,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,josephine ortleb
+11004845,Oster,Josef,Josef Oster,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,josef oster
+11004846,Otten,Gerold,Gerold Otten,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,gerold otten
+11004848,Pellmann,Sören,Sören Pellmann,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,soeren pellmann
+11004848,Pellmann,Sören,Sören Pellmann,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,soeren pellmann
+11004848,Pellmann,Sören,Sören Pellmann,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,soeren pellmann
+11004849,Perli,Victor,Victor Perli,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,victor perli
+11004849,Perli,Victor,Victor Perli,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,victor perli
+11004849,Perli,Victor,Victor Perli,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,victor perli
+11004850,Peterka,Tobias Matthias,Tobias Matthias Peterka,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,tobias matthias peterka
+11004853,Pilsinger,Stephan,Stephan Pilsinger,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,stephan pilsinger
+11004854,Ploß,Christoph,Christoph Ploß,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,christoph ploss
+11004856,Pohl,Jürgen,Jürgen Pohl,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,juergen pohl
+11004857,Polat,Filiz,Filiz Polat,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,filiz polat
+11004858,Protschka,Stephan,Stephan Protschka,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,stephan protschka
+11004859,Reichardt,Martin,Martin Reichardt,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,martin reichardt
+11004862,Renner,Martin Erwin,Martin Erwin Renner,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,martin erwin renner
+11004864,Reuther,Bernd,Bernd Reuther,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,bernd reuther
+11004865,Riexinger,Bernd,Bernd Riexinger,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,bernd riexinger
+11004865,Riexinger,Bernd,Bernd Riexinger,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,bernd riexinger
+11004865,Riexinger,Bernd,Bernd Riexinger,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,bernd riexinger
+11004866,Rottmann,Manuela,Manuela Rottmann,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,2024-12-01,False,manuela rottmann
+11004867,Rouenhoff,Stefan,Stefan Rouenhoff,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,stefan rouenhoff
+11004869,Sattelberger,Thomas,Thomas Sattelberger,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,2022-08-01,False,thomas sattelberger
+11004871,Sauter,Christian,Christian Sauter,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,christian sauter
+11004873,Schielke-Ziesing,Ulrike,Ulrike Schielke-Ziesing,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,ulrike schielke ziesing
+11004876,Schmid,Nils,Nils Schmid,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,nils schmid
+11004877,Schmidt,Stefan,Stefan Schmidt,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,stefan schmidt
+11004878,Schmidt,Uwe,Uwe Schmidt,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,uwe schmidt
+11004880,Schneider,Jörg,Jörg Schneider,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,joerg schneider
+11004881,Schraps,Johannes,Johannes Schraps,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,johannes schraps
+11004883,Schreiner,Felix,Felix Schreiner,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,felix schreiner
+11004884,Schrodi,Michael,Michael Schrodi,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,michael schrodi
+11004888,Schulz,Uwe,Uwe Schulz,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,uwe schulz
+11004890,Seestern-Pauly,Matthias,Matthias Seestern-Pauly,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,matthias seestern pauly
+11004891,Seitz,Thomas,Thomas Seitz,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,2024-03-30,False,thomas seitz
+11004891,Seitz,Thomas,Thomas Seitz,Plos,fraktionslos,,Fraktionslos,2024-03-31,,False,thomas seitz
+11004892,Sichert,Martin,Martin Sichert,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,martin sichert
+11004893,Simon,Björn,Björn Simon,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,bjoern simon
+11004899,Spaniel,Dirk,Dirk Spaniel,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,2024-10-15,False,dirk spaniel
+11004899,Spaniel,Dirk,Dirk Spaniel,Plos,fraktionslos,,Fraktionslos,2024-10-15,,False,dirk spaniel
+11004900,Springer,René,René Springer,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,rene springer
+11004901,Staffler,Katrin,Katrin Staffler,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,katrin staffler
+11004902,Stark-Watzinger,Bettina,Bettina Stark-Watzinger,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,bettina stark watzinger
+11004904,Stein,Mathias,Mathias Stein,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,mathias stein
+11004905,Storch,Beatrix,Beatrix von Storch,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,beatrix von storch
+11004906,Strack-Zimmermann,Marie-Agnes,Marie-Agnes Strack-Zimmermann,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,2024-07-15,False,marie agnes strack zimmermann
+11004908,Strasser,Benjamin,Benjamin Strasser,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,benjamin strasser
+11004911,Tatti,Jessica,Jessica Tatti,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,jessica tatti
+11004911,Tatti,Jessica,Jessica Tatti,BSW,BSW,BSW,Fraktionslos,2023-12-06,2024-02-02,True,jessica tatti
+11004911,Tatti,Jessica,Jessica Tatti,BSW,BSW,BSW,Gruppe BSW - Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit,2024-02-02,,False,jessica tatti
+11004912,Tebroke,Hermann-Josef,Hermann-Josef Tebroke,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,hermann josef tebroke
+11004913,Teuteberg,Linda,Linda Teuteberg,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,linda teuteberg
+11004914,Theurer,Michael,Michael Theurer,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,2024-09-01,False,michael theurer
+11004915,Thies,Hans-Jürgen,Hans-Jürgen Thies,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,hans juergen thies
+11004917,Throm,Alexander,Alexander Throm,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,alexander throm
+11004921,Töns,Markus,Markus Töns,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,markus toens
+11004922,Ullmann,Andrew,Andrew Ullmann,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,andrew ullmann
+11004923,Ullrich,Gerald,Gerald Ullrich,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,gerald ullrich
+11004924,Vieregge,Kerstin,Kerstin Vieregge,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,kerstin vieregge
+11004926,Vries,Christoph,Christoph de Vries,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,christoph de vries
+11004929,Weeser,Sandra,Sandra Weeser,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,sandra weeser
+11004930,Weidel,Alice,Alice Weidel,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,alice weidel
+11004931,Westig,Nicole,Nicole Westig,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,nicole westig
+11004932,Weyel,Harald,Harald Weyel,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,harald weyel
+11004933,Wiehle,Wolfgang,Wolfgang Wiehle,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,wolfgang wiehle
+11004934,Wiesmann,Bettina Margarethe,Bettina Margarethe Wiesmann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2024-01-26,,False,bettina margarethe wiesmann
+11004936,Wirth,Christian,Christian Wirth,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,christian wirth
+11004937,Witt,Uwe,Uwe Witt,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,2021-12-31,False,uwe witt
+11004937,Witt,Uwe,Uwe Witt,Plos,fraktionslos,,Fraktionslos,2022-01-01,,False,uwe witt
+11004938,Ziemiak,Paul,Paul Ziemiak,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,paul ziemiak
+11004941,Jensen,Gyde,Gyde Jensen,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,gyde jensen
+11004942,Völlers,Marja-Liisa,Marja-Liisa Völlers,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,marja liisa voellers
+11004947,Baradari,Nezahat,Nezahat Baradari,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,nezahat baradari
+11004948,Heidt,Peter,Peter Heidt,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,peter heidt
+11004949,Mackensen-Geis,Isabel,Isabel Mackensen-Geis,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,isabel mackensen geis
+11004950,Weingarten,Joe,Joe Weingarten,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,joe weingarten
+11004952,Hanke,Reginald,Reginald Hanke,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,2023-12-31,False,reginald hanke
+11004953,Lehmann,Sylvia,Sylvia Lehmann,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,sylvia lehmann
+11004956,Bubendorfer-Licht,Sandra,Sandra Bubendorfer-Licht,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,sandra bubendorfer licht
+11004959,Martin,Dorothee,Dorothee Martin,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,dorothee martin
+11004962,Dahmen,Janosch,Janosch Dahmen,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,janosch dahmen
+11004969,Emmerich,Marcel,Marcel Emmerich,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,marcel emmerich
+11005000,Abdi,Sanae,Sanae Abdi,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,sanae abdi
+11005001,Abel,Valentin,Valentin Abel,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,valentin abel
+11005002,Abraham,Knut,Knut Abraham,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,knut abraham
+11005003,Adler,Katja,Katja Adler,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,katja adler
+11005004,Aeffner,Stephanie,Stephanie Aeffner,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,2025-01-14,False,stephanie aeffner
+11005005,Ahmetović,Adis,Adis Ahmetović,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,adis ahmetovic
+11005006,Alabali Radovan,Reem,Reem Alabali Radovan,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,reem alabali radovan
+11005007,Al-Dailami,Ali,Ali Al-Dailami,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,ali al dailami
+11005007,Al-Dailami,Ali,Ali Al-Dailami,BSW,BSW,BSW,Fraktionslos,2023-12-06,2024-02-02,True,ali al dailami
+11005007,Al-Dailami,Ali,Ali Al-Dailami,BSW,BSW,BSW,Gruppe BSW - Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit,2024-02-02,,False,ali al dailami
+11005008,Al-Halak,Muhanad,Muhanad Al-Halak,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,muhanad al halak
+11005009,Andres,Dagmar,Dagmar Andres,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,dagmar andres
+11005010,Arlt,Johannes,Johannes Arlt,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,johannes arlt
+11005011,Audretsch,Andreas,Andreas Audretsch,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,andreas audretsch
+11005012,Außendorf,Maik,Maik Außendorf,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,maik aussendorf
+11005013,Bacherle,Tobias B.,Tobias B. Bacherle,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,tobias b bacherle
+11005014,Bachmann,Carolin,Carolin Bachmann,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,carolin bachmann
+11005015,Baldy,Daniel,Daniel Baldy,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,daniel baldy
+11005016,Banaszak,Felix,Felix Banaszak,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,felix banaszak
+11005017,Bär,Karl,Karl Bär,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,karl baer
+11005018,Baum,Christina,Christina Baum,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,christina baum
+11005019,Beck,Katharina,Katharina Beck,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,katharina beck
+11005020,Beckamp,Roger,Roger Beckamp,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,roger beckamp
+11005021,Becker,Holger,Holger Becker,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,holger becker
+11005022,Benner,Lukas,Lukas Benner,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,lukas benner
+11005023,Berghahn,Jürgen,Jürgen Berghahn,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,juergen berghahn
+11005024,Bergt,Bengt,Bengt Bergt,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,bengt bergt
+11005025,Blankenburg,Jakob,Jakob Blankenburg,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,jakob blankenburg
+11005026,Bochmann,René,René Bochmann,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,rene bochmann
+11005027,Bodtke,Ingo,Ingo Bodtke,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,ingo bodtke
+11005028,Boginski,Friedhelm,Friedhelm Boginski,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,friedhelm boginski
+11005029,Bollmann,Gereon,Gereon Bollmann,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,gereon bollmann
+11005030,Borchardt,Simone,Simone Borchardt,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,simone borchardt
+11005031,Brandes,Dirk,Dirk Brandes,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,dirk brandes
+11005032,Breilmann,Michael,Michael Breilmann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,michael breilmann
+11005033,Bröhr,Marlon,Marlon Bröhr,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,marlon broehr
+11005034,Bsirske,Frank,Frank Bsirske,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,frank bsirske
+11005035,Bury,Yannick,Yannick Bury,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,yannick bury
+11005036,Cademartori,Isabel,Isabel Cademartori,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,isabel cademartori
+11005037,Czaja,Mario,Mario Czaja,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,mario czaja
+11005038,Demir,Hakan,Hakan Demir,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,hakan demir
+11005039,Detzer,Sandra,Sandra Detzer,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,sandra detzer
+11005040,Diedenhofen,Martin,Martin Diedenhofen,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,martin diedenhofen
+11005041,Dieren,Jan,Jan Dieren,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,jan dieren
+11005042,Dietz,Thomas,Thomas Dietz,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,thomas dietz
+11005043,Döring,Felix,Felix Döring,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,felix doering
+11005044,Droßmann,Falko,Falko Droßmann,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,falko drossmann
+11005045,Düring,Deborah,Deborah Düring,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,deborah duering
+11005046,Echeverria,Axel,Axel Echeverria,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,axel echeverria
+11005047,Eckert,Leon,Leon Eckert,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,leon eckert
+11005048,Edelhäußer,Ralph,Ralph Edelhäußer,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,ralph edelhaeusser
+11005049,Eichwede,Sonja,Sonja Eichwede,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,sonja eichwede
+11005050,Engelhard,Alexander,Alexander Engelhard,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,alexander engelhard
+11005051,Engelhardt,Heike,Heike Engelhardt,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,heike engelhardt
+11005052,Englhardt-Kopf,Martina,Martina Englhardt-Kopf,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,martina englhardt kopf
+11005053,Farle,Robert,Robert Farle,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,2022-09-08,False,robert farle
+11005053,Farle,Robert,Robert Farle,AfD,fraktionslos,,Fraktionslos,2022-09-09,,False,robert farle
+11005054,Fäscher,Ariane,Ariane Fäscher,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,ariane faescher
+11005055,Fester,Emilia,Emilia Fester,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,emilia fester
+11005056,Fiedler,Sebastian,Sebastian Fiedler,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,sebastian fiedler
+11005057,Funke,Fabian,Fabian Funke,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,fabian funke
+11005058,Funke-Kaiser,Maximilian,Maximilian Funke-Kaiser,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,maximilian funke kaiser
+11005059,Gambir,Schahina,Schahina Gambir,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,schahina gambir
+11005060,Ganserer,Tessa,Tessa Ganserer,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,tessa ganserer
+11005061,Gassner-Herz,Martin,Martin Gassner-Herz,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,martin gassner herz
+11005062,Gava,Manuel,Manuel Gava,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,manuel gava
+11005063,Geissler,Jonas,Jonas Geissler,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,jonas geissler
+11005064,Gerschau,Knut,Knut Gerschau,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,knut gerschau
+11005065,Gesenhues,Jan-Niclas,Jan-Niclas Gesenhues,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,jan niclas gesenhues
+11005066,Gnauck,Hannes,Hannes Gnauck,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,hannes gnauck
+11005067,Görke,Christian,Christian Görke,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,christian goerke
+11005067,Görke,Christian,Christian Görke,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,christian goerke
+11005067,Görke,Christian,Christian Görke,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,christian goerke
+11005068,Gramling,Fabian,Fabian Gramling,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,fabian gramling
+11005069,Gräßle,Inge,Inge Gräßle,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,inge graessle
+11005070,Grau,Armin,Armin Grau,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,armin grau
+11005071,Grützmacher,Sabine,Sabine Grützmacher,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,sabine gruetzmacher
+11005072,Güler,Serap,Serap Güler,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,serap gueler
+11005073,Gürpinar,Ates,Ates Gürpinar,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,ates guerpinar
+11005073,Gürpinar,Ates,Ates Gürpinar,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,ates guerpinar
+11005073,Gürpinar,Ates,Ates Gürpinar,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,ates guerpinar
+11005074,Habeck,Robert,Robert Habeck,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,robert habeck
+11005075,Hartewig,Philipp,Philipp Hartewig,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,philipp hartewig
+11005076,Harzer,Ulrike,Ulrike Harzer,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,ulrike harzer
+11005077,Heiligenstadt,Frauke,Frauke Heiligenstadt,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,frauke heiligenstadt
+11005078,Heitmann,Linda,Linda Heitmann,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,linda heitmann
+11005079,Helferich,Matthias,Matthias Helferich,AfD,fraktionslos,,Fraktionslos,2021-10-26,,False,matthias helferich
+11005080,Henneberger,Kathrin,Kathrin Henneberger,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,kathrin henneberger
+11005081,Hennig,Anke,Anke Hennig,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,anke hennig
+11005082,Hennig-Wellsow,Susanne,Susanne Hennig-Wellsow,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,susanne hennig wellsow
+11005082,Hennig-Wellsow,Susanne,Susanne Hennig-Wellsow,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,susanne hennig wellsow
+11005082,Hennig-Wellsow,Susanne,Susanne Hennig-Wellsow,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,susanne hennig wellsow
+11005083,Herrmann,Bernhard,Bernhard Herrmann,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,bernhard herrmann
+11005084,Heselhaus,Nadine,Nadine Heselhaus,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,nadine heselhaus
+11005085,Hierl,Susanne,Susanne Hierl,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,susanne hierl
+11005086,Hönel,Bruno,Bruno Hönel,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,bruno hoenel
+11005087,Hoppermann,Franziska,Franziska Hoppermann,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,franziska hoppermann
+11005088,Hostert,Jasmina,Jasmina Hostert,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,jasmina hostert
+11005089,Hubertz,Verena,Verena Hubertz,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,verena hubertz
+11005090,Hümpfer,Markus,Markus Hümpfer,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,markus huempfer
+11005091,Huy,Gerrit,Gerrit Huy,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,gerrit huy
+11005092,Janich,Steffen,Steffen Janich,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,steffen janich
+11005093,Janssen,Anne,Anne Janssen,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,anne janssen
+11005094,Jurisch,Ann-Veruschka,Ann-Veruschka Jurisch,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,ann veruschka jurisch
+11005095,Kaddor,Lamya,Lamya Kaddor,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,lamya kaddor
+11005096,Karaahmetoğlu,Macit,Macit Karaahmetoğlu,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,macit karaahmetoglu
+11005097,Kasper,Carlos,Carlos Kasper,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,carlos kasper
+11005098,Kassautzki,Anna,Anna Kassautzki,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,anna kassautzki
+11005099,Kaufmann,Malte,Malte Kaufmann,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,malte kaufmann
+11005100,Kaufmann,Michael,Michael Kaufmann,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,michael kaufmann
+11005101,Keller,Rainer Johannes,Rainer Johannes Keller,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,2022-09-22,False,rainer johannes keller
+11005102,Kellner,Michael,Michael Kellner,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,michael kellner
+11005103,Kersten,Franziska,Franziska Kersten,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,franziska kersten
+11005104,Khan,Misbah,Misbah Khan,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,misbah khan
+11005105,Kleebank,Helmut,Helmut Kleebank,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,helmut kleebank
+11005106,Klein,Ottilie,Ottilie Klein,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,ottilie klein
+11005107,Klinck,Kristian,Kristian Klinck,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,kristian klinck
+11005108,Klose,Annika,Annika Klose,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,annika klose
+11005109,Klüssendorf,Tim,Tim Klüssendorf,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,tim kluessendorf
+11005110,König,Anne,Anne König,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,anne koenig
+11005111,Kopf,Chantal,Chantal Kopf,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,chantal kopf
+11005112,Koß,Simona,Simona Koß,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,simona koss
+11005113,Kraft,Laura,Laura Kraft,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,laura kraft
+11005114,Krämer,Philip,Philip Krämer,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,philip kraemer
+11005115,Kreiser,Dunja,Dunja Kreiser,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,dunja kreiser
+11005116,Kröber,Martin,Martin Kröber,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,martin kroeber
+11005117,Kruse,Michael,Michael Kruse,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,michael kruse
+11005118,Kuban,Tilman,Tilman Kuban,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,tilman kuban
+11005119,Kühnert,Kevin,Kevin Kühnert,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,kevin kuehnert
+11005120,Lahrkamp,Sarah,Sarah Lahrkamp,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,sarah lahrkamp
+11005121,Lang,Ricarda,Ricarda Lang,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,ricarda lang
+11005122,Larem,Andreas,Andreas Larem,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,andreas larem
+11005123,Latendorf,Ina,Ina Latendorf,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,ina latendorf
+11005123,Latendorf,Ina,Ina Latendorf,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,ina latendorf
+11005123,Latendorf,Ina,Ina Latendorf,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,ina latendorf
+11005124,Leiser,Kevin,Kevin Leiser,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,kevin leiser
+11005125,Lenders,Jürgen,Jürgen Lenders,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,juergen lenders
+11005126,Benkstein,Barbara,Barbara Benkstein,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,barbara benkstein
+11005127,Leye,Christian,Christian Leye,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,christian leye
+11005127,Leye,Christian,Christian Leye,BSW,BSW,BSW,Fraktionslos,2023-12-06,2024-02-02,True,christian leye
+11005127,Leye,Christian,Christian Leye,BSW,BSW,BSW,Gruppe BSW - Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit,2024-02-02,,False,christian leye
+11005128,Licina-Bode,Luiza,Luiza Licina-Bode,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,luiza licina bode
+11005129,Lieb,Thorsten,Thorsten Lieb,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,thorsten lieb
+11005130,Liebert,Anja,Anja Liebert,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,anja liebert
+11005131,Limbacher,Esra,Esra Limbacher,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,esra limbacher
+11005132,Limburg,Helge,Helge Limburg,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,helge limburg
+11005133,Loop,Denise,Denise Loop,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,denise loop
+11005134,Lucks,Max,Max Lucks,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,max lucks
+11005135,Lugk,Bettina,Bettina Lugk,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,bettina lugk
+11005136,Lütke,Kristine,Kristine Lütke,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,kristine luetke
+11005137,Machalet,Tanja,Tanja Machalet,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,tanja machalet
+11005138,Mack,Klaus,Klaus Mack,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,klaus mack
+11005139,Malottki,Erik,Erik von Malottki,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,erik von malottki
+11005140,Mann,Holger,Holger Mann,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,holger mann
+11005141,Mansoori,Kaweh,Kaweh Mansoori,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,2024-01-25,False,kaweh mansoori
+11005142,Grundberg,Zanda,Zanda Grundberg,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,zanda grundberg
+11005143,Marvi,Parsa,Parsa Marvi,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,parsa marvi
+11005144,Mascheck,Franziska,Franziska Mascheck,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,franziska mascheck
+11005145,Mayer,Zoe,Zoe Mayer,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,zoe mayer
+11005146,Mayer-Lay,Volker,Volker Mayer-Lay,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,volker mayer lay
+11005147,Mehltretter,Andreas,Andreas Mehltretter,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,andreas mehltretter
+11005148,Mehmet Ali,Takis,Takis Mehmet Ali,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,2024-12-31,False,takis mehmet ali
+11005149,Menge,Susanne,Susanne Menge,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,susanne menge
+11005150,Glogowski-Merten,Anikó,Anikó Glogowski-Merten,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,aniko glogowski merten
+11005151,Mesarosch,Robin,Robin Mesarosch,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,robin mesarosch
+11005152,Michaelsen,Swantje Henrike,Swantje Henrike Michaelsen,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,swantje henrike michaelsen
+11005153,Michel,Kathrin,Kathrin Michel,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,kathrin michel
+11005154,Mieves,Matthias David,Matthias David Mieves,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,matthias david mieves
+11005155,Mijatović,Boris,Boris Mijatović,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,boris mijatovic
+11005156,Moncsek,Mike,Mike Moncsek,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,mike moncsek
+11005157,Moosdorf,Matthias,Matthias Moosdorf,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,matthias moosdorf
+11005158,Mordhorst,Maximilian,Maximilian Mordhorst,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,maximilian mordhorst
+11005159,Mörseburg,Maximilian,Maximilian Mörseburg,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,maximilian moerseburg
+11005160,Müller,Florian,Florian Müller,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,florian mueller
+11005161,Müller,Michael,Michael Müller,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,michael mueller
+11005162,Müller,Sascha,Sascha Müller,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,sascha mueller
+11005163,Nacke,Stefan,Stefan Nacke,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,stefan nacke
+11005164,Nanni,Sara,Sara Nanni,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,sara nanni
+11005165,Nasr,Rasha,Rasha Nasr,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,rasha nasr
+11005166,Naujok,Edgar,Edgar Naujok,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,edgar naujok
+11005167,Nick,Ophelia,Ophelia Nick,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,ophelia nick
+11005168,Nickholz,Brian,Brian Nickholz,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,brian nickholz
+11005169,Nürnberger,Jörg,Jörg Nürnberger,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,joerg nuernberger
+11005170,Oehl,Lennard,Lennard Oehl,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,lennard oehl
+11005171,Oppelt,Moritz,Moritz Oppelt,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,moritz oppelt
+11005172,Otte,Karoline,Karoline Otte,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,karoline otte
+11005173,Pahlke,Julian,Julian Pahlke,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,julian pahlke
+11005174,Pantazis,Christos,Christos Pantazis,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,christos pantazis
+11005175,Papenbrock,Wiebke,Wiebke Papenbrock,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,wiebke papenbrock
+11005176,Papendieck,Mathias,Mathias Papendieck,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,mathias papendieck
+11005177,Pawlik,Natalie,Natalie Pawlik,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,natalie pawlik
+11005178,Peick,Jens,Jens Peick,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,jens peick
+11005179,Philippi,Andreas,Andreas Philippi,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,2023-01-24,False,andreas philippi
+11005180,Piechotta,Paula,Paula Piechotta,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,paula piechotta
+11005181,Plobner,Jan,Jan Plobner,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,jan plobner
+11005182,Plum,Martin,Martin Plum,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,martin plum
+11005183,Redder,Volker,Volker Redder,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,volker redder
+11005184,Rehbaum,Henning,Henning Rehbaum,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,henning rehbaum
+11005185,Reichel,Markus,Markus Reichel,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,markus reichel
+11005186,Reichinnek,Heidi,Heidi Reichinnek,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,heidi reichinnek
+11005186,Reichinnek,Heidi,Heidi Reichinnek,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,heidi reichinnek
+11005186,Reichinnek,Heidi,Heidi Reichinnek,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,heidi reichinnek
+11005187,Reinalter,Anja,Anja Reinalter,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,anja reinalter
+11005188,Rhie,Ye-One,Ye-One Rhie,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,ye one rhie
+11005189,Rinck,Frank,Frank Rinck,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,frank rinck
+11005190,Rohwer,Lars,Lars Rohwer,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,lars rohwer
+11005191,Roloff,Sebastian,Sebastian Roloff,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,sebastian roloff
+11005192,Rosenthal,Jessica,Jessica Rosenthal,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,jessica rosenthal
+11005193,Röwekamp,Thomas,Thomas Röwekamp,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,thomas roewekamp
+11005194,Rudolph,Thorsten,Thorsten Rudolph,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,thorsten rudolph
+11005195,Rudolph,Tina,Tina Rudolph,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,tina rudolph
+11005197,Taher Saleh,Kassem,Kassem Taher Saleh,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,kassem taher saleh
+11005198,Santos-Wintz,Catarina,Catarina dos Santos-Wintz,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,catarina dos santos wintz
+11005199,Schäfer,Ingo,Ingo Schäfer,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,ingo schaefer
+11005200,Schäfer,Jamila,Jamila Schäfer,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,jamila schaefer
+11005201,Schäfer,Sebastian,Sebastian Schäfer,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,sebastian schaefer
+11005202,Schamber,Rebecca,Rebecca Schamber,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,rebecca schamber
+11005203,Schattner,Bernd,Bernd Schattner,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,bernd schattner
+11005204,Schätzl,Johannes,Johannes Schätzl,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,johannes schaetzl
+11005205,Schenderlein,Christiane,Christiane Schenderlein,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,christiane schenderlein
+11005206,Schierenbeck,Peggy,Peggy Schierenbeck,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,peggy schierenbeck
+11005207,Schisanowski,Timo,Timo Schisanowski,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,timo schisanowski
+11005208,Schmid,Christoph,Christoph Schmid,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,christoph schmid
+11005209,Schmidt,Eugen,Eugen Schmidt,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,eugen schmidt
+11005210,Schmidt,Jan Wenzel,Jan Wenzel Schmidt,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,jan wenzel schmidt
+11005211,Schneider,Daniel,Daniel Schneider,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,daniel schneider
+11005212,Schönberger,Marlene,Marlene Schönberger,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,marlene schoenberger
+11005213,Schreider,Christian,Christian Schreider,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,christian schreider
+11005214,Schröder,Christina-Johanne,Christina-Johanne Schröder,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,christina johanne schroeder
+11005215,Schröder,Ria,Ria Schröder,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,ria schroeder
+11005216,Schulz,Anja,Anja Schulz,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,anja schulz
+11005217,Schulze,Svenja,Svenja Schulze,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,svenja schulze
+11005218,Schwarz,Armin,Armin Schwarz,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,2024-01-25,False,armin schwarz
+11005219,Seidler,Stefan,Stefan Seidler,SSW,fraktionslos,,Fraktionslos,2021-10-26,,False,stefan seidler
+11005220,Seiter,Stephan,Stephan Seiter,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,stephan seiter
+11005221,Seitzl,Lina,Lina Seitzl,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,lina seitzl
+11005222,Sekmen,Melis,Melis Sekmen,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,2024-07-02,False,melis sekmen
+11005222,Sekmen,Melis,Melis Sekmen,CDU,fraktionslos,,Fraktionslos,2024-07-02,2024-07-09,False,melis sekmen
+11005222,Sekmen,Melis,Melis Sekmen,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2024-07-09,,False,melis sekmen
+11005223,Semet,Rainer,Rainer Semet,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,rainer semet
+11005224,Slawik,Nyke,Nyke Slawik,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,nyke slawik
+11005225,Spallek,Anne Monika,Anne Monika Spallek,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,anne monika spallek
+11005226,Spellerberg,Merle,Merle Spellerberg,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,merle spellerberg
+11005227,Stahr,Nina,Nina Stahr,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,2024-03-04,False,nina stahr
+11005228,Steffen,Till,Till Steffen,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,till steffen
+11005229,Stegner,Ralf,Ralf Stegner,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,ralf stegner
+11005230,Steinmüller,Hanna,Hanna Steinmüller,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,hanna steinmueller
+11005231,Sthamer,Nadja,Nadja Sthamer,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,nadja sthamer
+11005232,Stöber,Klaus,Klaus Stöber,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,klaus stoeber
+11005233,Stöcker,Diana,Diana Stöcker,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,2024-06-02,False,diana stoecker
+11005234,Stockmeier,Konrad,Konrad Stockmeier,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,konrad stockmeier
+11005235,Stumpp,Christina,Christina Stumpp,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,christina stumpp
+11005236,Stüwe,Ruppert,Ruppert Stüwe,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,ruppert stuewe
+11005237,Tesfaiesus,Awet,Awet Tesfaiesus,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,awet tesfaiesus
+11005238,Teutrine,Jens,Jens Teutrine,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,jens teutrine
+11005239,Tippelt,Nico,Nico Tippelt,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,nico tippelt
+11005240,Troff-Schaffarzyk,Anja,Anja Troff-Schaffarzyk,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,anja troff schaffarzyk
+11005241,Türk-Nachbaur,Derya,Derya Türk-Nachbaur,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,derya tuerk nachbaur
+11005242,Uhlig,Katrin,Katrin Uhlig,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,katrin uhlig
+11005243,Ullrich,Frank,Frank Ullrich,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,frank ullrich
+11005244,Vogt,Oliver,Oliver Vogt,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,oliver vogt
+11005245,Wagener,Niklas,Niklas Wagener,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,niklas wagener
+11005246,Wagener,Robin,Robin Wagener,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,robin wagener
+11005247,Wagner,Carolin,Carolin Wagner,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,carolin wagner
+11005248,Wagner,Johannes,Johannes Wagner,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,johannes wagner
+11005249,Wallstein,Maja,Maja Wallstein,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,maja wallstein
+11005250,Walter,Hannes,Hannes Walter,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,hannes walter
+11005251,Wegge,Carmen,Carmen Wegge,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,carmen wegge
+11005252,Wegling,Melanie,Melanie Wegling,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,melanie wegling
+11005253,Weishaupt,Saskia,Saskia Weishaupt,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,saskia weishaupt
+11005254,Weiss,Maria-Lena,Maria-Lena Weiss,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,maria lena weiss
+11005255,Wenzel,Stefan,Stefan Wenzel,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,stefan wenzel
+11005256,Werner,Lena,Lena Werner,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,lena werner
+11005257,Wiener,Klaus,Klaus Wiener,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,klaus wiener
+11005258,Winkler,Tobias,Tobias Winkler,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,tobias winkler
+11005259,Winklmann,Tina,Tina Winklmann,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2021-10-26,,False,tina winklmann
+11005260,Wissler,Janine,Janine Wissler,Die Linke,Die Linke,,Fraktion DIE LINKE.,2021-10-26,2023-12-05,False,janine wissler
+11005260,Wissler,Janine,Janine Wissler,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,janine wissler
+11005260,Wissler,Janine,Janine Wissler,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,janine wissler
+11005261,Wittmann,Mechthilde,Mechthilde Wittmann,CSU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,mechthilde wittmann
+11005262,Wollmann,Herbert,Herbert Wollmann,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,herbert wollmann
+11005263,Wulf,Mareike Lotte,Mareike Lotte Wulf,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,mareike lotte wulf
+11005264,Wundrak,Joachim,Joachim Wundrak,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,joachim wundrak
+11005265,Ziegler,Kay-Uwe,Kay-Uwe Ziegler,AfD,AfD,,Fraktion Alternative für Deutschland,2021-10-26,,False,kay uwe ziegler
+11005266,Zippelius,Nicolas,Nicolas Zippelius,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2021-10-26,,False,nicolas zippelius
+11005267,Zorn,Armand,Armand Zorn,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,armand zorn
+11005268,Zschau,Katrin,Katrin Zschau,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2021-10-26,,False,katrin zschau
+11005273,Raffelhüschen,Claudia,Claudia Raffelhüschen,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2021-10-26,,False,claudia raffelhueschen
+11005289,Bünger,Clara,Clara Bünger,Die Linke,Die Linke,,Fraktion DIE LINKE.,2022-01-05,2023-12-05,False,clara buenger
+11005289,Bünger,Clara,Clara Bünger,Die Linke,Die Linke,Die Linke,Fraktionslos,2023-12-06,2024-02-02,True,clara buenger
+11005289,Bünger,Clara,Clara Bünger,Die Linke,Die Linke,Die Linke,Gruppe Die Linke,2024-02-02,,False,clara buenger
+11005298,Sacher,Michael,Michael Sacher,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2022-06-30,,False,michael sacher
+11005299,Gründer,Nils,Nils Gründer,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2022-08-02,,False,nils gruender
+11005300,Rinkert,Daniel,Daniel Rinkert,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2022-09-30,,False,daniel rinkert
+11005301,Bartz,Alexander,Alexander Bartz,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2022-11-08,,False,alexander bartz
+11005302,Vontz,Emily,Emily Vontz,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2023-01-01,,False,emily vontz
+11005303,Mende,Dirk-Ulrich,Dirk-Ulrich Mende,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2023-01-25,,False,dirk ulrich mende
+11005304,Föhr,Alexander,Alexander Föhr,CDU,CDU/CSU,,Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union,2023-03-01,,False,alexander foehr
+11005305,Rothfuß,Rainer,Rainer Rothfuß,AfD,AfD,,Fraktion Alternative für Deutschland,2023-03-02,,False,rainer rothfuss
+11005306,Trăsnea,Ana-Maria,Ana-Maria Trăsnea,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2023-05-16,2024-03-04,False,ana maria trasnea
+11005308,Bartelt,Christian,Christian Bartelt,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2023-09-04,,False,christian bartelt
+11005309,Wagner,Tim,Tim Wagner,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2024-01-01,,False,tim wagner
+11005310,Ruf,Nadine,Nadine Ruf,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2024-01-26,,False,nadine ruf
+11005311,Kretz,Jürgen,Jürgen Kretz,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2024-02-15,,False,juergen kretz
+11005312,Krumwiede-Steiner,Franziska,Franziska Krumwiede-Steiner,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2024-03-04,,False,franziska krumwiede steiner
+11005313,Hohmann,Angela,Angela Hohmann,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2024-03-05,,False,angela hohmann
+11005314,Heubach,Heike,Heike Heubach,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2024-03-20,,False,heike heubach
+11005315,Schiller,Manfred,Manfred Schiller,AfD,AfD,,Fraktion Alternative für Deutschland,2024-07-23,,False,manfred schiller
+11005316,Griewel,Fabian,Fabian Griewel,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2024-07-16,,False,fabian griewel
+11005317,Grünke,Julian,Julian Grünke,FDP,FDP,,Fraktion der Freien Demokratischen Partei,2024-09-02,,False,julian gruenke
+11005318,Schanbacher,Lucia,Lucia Schanbacher,SPD,SPD,,Fraktion der Sozialdemokratischen Partei Deutschlands,2025-01-01,,False,lucia schanbacher
+11005319,Kretschmann,Johannes F.,Johannes F. Kretschmann,BÜNDNIS 90/DIE GRÜNEN,BÜNDNIS 90/DIE GRÜNEN,,Fraktion BÜNDNIS 90/DIE GRÜNEN,2025-01-27,,False,johannes f kretschmann

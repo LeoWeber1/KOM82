@@ -1,0 +1,436 @@
+sitzung,zeile,minuten_angesagt,ansage,top_id,top_typ,erster_kopf,ende_zeile,reden_n,woerter,wpm,grund,verwendet
+146,3075,39.0,Für die Aussprache wurde eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 3,Debatte,3081,3609.0,10,6893,176.74358974358975,,True
+146,3619,39.0,nd Kommunen Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 4,Debatte,3629,4323.0,8,4474,114.71794871794872,,True
+146,4341,39.0,r Tourismus Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 5,Debatte,4355,5025.0,12,5343,137.0,Reden zu Protokoll im TOP,False
+146,5045,39.0,tsausschuss Federführung offen Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 3,Debatte,5051,,8,4977,127.61538461538461,,True
+147,217,120.0,Für die Aussprache wurde eine Dauer von 120 Minuten vereinbart,Tagesordnungspunkt 7,Debatte,223,1873.0,33,17719,147.65833333333333,,True
+147,1879,68.0,ung des Vertrages von Aachen Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 9,Debatte,1887,3037.0,17,9463,139.16176470588235,,True
+147,3057,68.0,Für die Aussprache ist eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 10,Debatte,3063,4133.0,19,10790,158.6764705882353,,True
+147,6029,39.0,uss) Drucksache 20/10092 Für die Aussprache ist hier eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 13,Debatte,6055,6509.0,9,5303,135.97435897435898,,True
+147,7137,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 15,Debatte,7143,7847.0,10,5905,151.4102564102564,,True
+147,7855,39.0,"Drucksachen 20/3687, 20/9527 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 8,Debatte,7861,8363.0,10,5383,138.02564102564102,,True
+147,8371,39.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 17,Debatte,8377,8693.0,9,4710,120.76923076923077,,True
+147,8707,39.0,"Drucksachen 20/4065, 20/9793 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 18,Debatte,8713,9021.0,9,4645,119.1025641025641,,True
+147,9047,26.0,usschuss) Drucksache 20/10094 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 23,Debatte,9053,9323.0,6,3805,146.34615384615384,Reden zu Protokoll im TOP,False
+147,9587,26.0,hnikfolgenabschätzung (f) Haushaltsausschuss Für die Aussprache sind 26 Minuten verabredet,Tagesordnungspunkt 21,Debatte,9593,9925.0,8,3730,143.46153846153845,Reden zu Protokoll im TOP,False
+147,10123,26.0,chuss Haushaltsausschuss mitberatend und gemäß § 96 der GO Hier sind 26 Minuten Aussprache vorgesehen,Tagesordnungspunkt 19,Debatte,10143,10259.0,3,1156,44.46153846153846,Reden zu Protokoll im TOP,False
+147,10259,26.0,nd Kommunen Ausschuss für Klimaschutz und Energie Haushaltsausschuss 26 Minuten sind auch hier für die Ausspr,Tagesordnungspunkt 24,Debatte,10265,10521.0,5,2111,81.1923076923077,Reden zu Protokoll im TOP,False
+147,10721,26.0,maschutz und Energie Haushaltsausschuss Hier sind für die Aussprache 26 Minuten vorgesehen,Tagesordnungspunkt 26,Debatte,10727,10751.0,1,222,8.538461538461538,Reden zu Protokoll im TOP,False
+147,11001,26.0,"nen, Stadtentwicklung, Bauwesen und Kommunen Für die Aussprache sind 26 Minuten vorgesehen",Tagesordnungspunkt 29,Debatte,11011,,1,498,19.153846153846153,Reden zu Protokoll im TOP,False
+148,29,68.0,icklung Drucksache 20/10100 Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 30,Debatte,35,753.0,19,9205,135.36764705882354,,True
+148,771,68.0,hen Union Haushaltsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 31,Debatte,777,2191.0,18,9495,139.63235294117646,,True
+148,2209,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 32,Debatte,2215,3193.0,12,5993,153.66666666666666,,True
+148,3203,39.0,schen Union Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 12,Debatte,3217,4163.0,10,5400,138.46153846153845,,True
+148,4253,39.0,r Klimaschutz und Energie Haushaltsausschuss Hier ist eine Dauer von 39 Minuten für die Aussprache vereinbart,Tagesordnungspunkt 34,Debatte,4259,,8,5294,135.74358974358975,,True
+149,93,90.0,Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt I,Debatte,99,1451.0,19,13315,147.94444444444446,,True
+149,1459,90.0,Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt I,Debatte,1465,2761.0,23,14055,156.16666666666666,,True
+149,2769,90.0,Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt I,Debatte,2775,3871.0,22,13312,147.9111111111111,,True
+149,3879,90.0,Auch hier ist für die Aussprache eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt I,Debatte,3885,5383.0,26,14157,157.3,,True
+149,5399,90.0,90 Minuten sind für die Aussprache vorge,Tagesordnungspunkt I,Debatte,5405,6571.0,23,12686,140.95555555555555,,True
+149,6579,90.0,Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt I,Debatte,6585,,23,13063,145.14444444444445,,True
+150,39,210.0,Für die Aussprache wurde eine Dauer von 210 Minuten vereinbart,Tagesordnungspunkt I,Debatte,45,2641.0,29,28572,136.05714285714285,,True
+150,2655,90.0,Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt I,Debatte,2661,4213.0,24,12573,139.7,,True
+150,4221,90.0,Für die Aussprache sind 90 Minuten vorgesehen,Tagesordnungspunkt I,Debatte,4227,5477.0,20,13225,146.94444444444446,,True
+151,29,90.0,Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt I,Debatte,35,1475.0,30,15219,169.1,,True
+151,1483,90.0,Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt I,Debatte,1489,2853.0,19,13521,150.23333333333332,,True
+151,2867,90.0,Für die Aussprache wurde die Dauer von 90 Minuten vereinbart,Tagesordnungspunkt I,Debatte,2873,3885.0,17,12080,134.22222222222223,,True
+151,4035,39.0,Für die Aussprache ist hier eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt II,Debatte,4041,4895.0,8,6041,154.89743589743588,,True
+151,4903,90.0,Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt I,Debatte,4913,6539.0,21,11945,132.72222222222223,,True
+151,6547,90.0,"Es ist vorgesehen, dass die Aussprache 90 Minuten dauert",Tagesordnungspunkt I.18,Debatte,6553,7693.0,20,12729,141.43333333333334,,True
+151,7701,90.0,Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt I.19,Debatte,7711,,21,12885,143.16666666666666,,True
+152,83,90.0,Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt III,Debatte,89,1527.0,23,13405,148.94444444444446,,True
+152,1859,19.0,Für die Aussprache ist eine Dauer von 19 Minuten vorgesehen,Zusatzpunkt 2,Debatte,1869,2023.0,3,1328,69.89473684210526,,True
+153,2623,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 3,Debatte,2629,2945.0,9,5230,134.10256410256412,,True
+153,2969,39.0,irtschaft Drucksache 20/10371 Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Tagesordnungspunkt 4,Debatte,2975,3533.0,12,6030,154.6153846153846,,True
+153,3541,39.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Tagesordnungspunkt 31,Debatte,3547,3899.0,8,4929,126.38461538461539,,True
+153,3909,39.0,und Medien Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Tagesordnungspunkt 5,Debatte,3915,,9,5432,139.28205128205127,,True
+154,21,68.0,ssprache im Anschluss an die Regierungserklärung wurde eine Dauer von 68 Minuten beschlossen,Zusatzpunkt 2,Regierungserklärung,27,1303.0,28,14867,218.63235294117646,Regierungserklärung,False
+154,1313,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Tagesordnungspunkt 7,Debatte,1319,2083.0,16,9237,135.83823529411765,,True
+154,2117,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 8,Debatte,2123,3729.0,18,11224,165.05882352941177,,True
+154,3757,68.0,eiten der Europäischen Union Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Zusatzpunkt 5,Debatte,3765,5227.0,16,9848,144.8235294117647,,True
+154,6473,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 12,Debatte,6483,7051.0,11,5409,138.69230769230768,,True
+154,7073,39.0,ushaltsausschuss 1) Anlage 8 Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Tagesordnungspunkt 13,Debatte,7079,7495.0,10,5059,129.71794871794873,,True
+154,7505,39.0,ltsausschuss gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Tagesordnungspunkt 12,Debatte,7511,7805.0,8,4581,117.46153846153847,,True
+154,8927,26.0,"sschuss für Wahlprüfung, Immunität und Geschäftsordnung Hierfür sind 26 Minuten Debatte vorgesehen",Zusatzpunkt 14,Debatte,8941,9197.0,6,2691,103.5,Reden zu Protokoll im TOP,False
+154,9537,26.0,Zusammenarbeit und Entwicklung Für die Aussprache ist eine Dauer von 26 Minuten beschlossen,Zusatzpunkt 16,Debatte,9543,9779.0,5,2437,93.73076923076923,Reden zu Protokoll im TOP,False
+154,9801,26.0,r Ausschuss Haushaltsausschuss Für die Aussprache ist eine Dauer von 26 Minuten beschlossen,Tagesordnungspunkt 21,Debatte,9807,10131.0,8,2802,107.76923076923077,Reden zu Protokoll im TOP,False
+154,10131,26.0,s Lobbyregistergesetzes Drucksache 20/10290 Für die Aussprache sind 26 Minuten vorgesehen,Tagesordnungspunkt 26,Debatte,10137,10245.0,2,741,28.5,Reden zu Protokoll im TOP,False
+154,10261,26.0,"nen, Stadtentwicklung, Bauwesen und Kommunen Für die Aussprache sind 26 Minuten vorgesehen",Tagesordnungspunkt 23,Debatte,10279,10477.0,3,1171,45.03846153846154,Reden zu Protokoll im TOP,False
+154,10601,26.0,Ausschuss) Drucksache 20/10408 26 Minuten sind hier für die Aussprache,Tagesordnungspunkt 20,Debatte,10611,10755.0,3,1197,46.03846153846154,Reden zu Protokoll im TOP,False
+154,10765,26.0,Ausschuss) Drucksache 20/10428 Es sind 26 Minuten Aussprache vorgesehen,Tagesordnungspunkt 22,Debatte,10779,10957.0,5,1624,62.46153846153846,Reden zu Protokoll im TOP,False
+154,11205,26.0,"für Familie, Senioren, Frauen und Jugend Auch hier sind theoretisch 26 Minuten für die Aussprache vorgesehen",Tagesordnungspunkt 18,Debatte,11211,,3,1179,45.34615384615385,Reden zu Protokoll im TOP,False
+155,351,68.0,hlands“ Drucksache 20/10374 Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Tagesordnungspunkt 6,Debatte,357,497.0,3,2480,36.470588235294116,,True
+155,1215,68.0,für Klimaschutz und Energie Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Tagesordnungspunkt 28,Debatte,1221,2053.0,15,9660,142.05882352941177,,True
+155,2069,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 19,Debatte,2075,2819.0,12,6148,157.64102564102564,,True
+155,2829,39.0,"icklung, Bauwesen und Kommunen Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen",Tagesordnungspunkt 30,Debatte,2835,3405.0,9,6069,155.6153846153846,,True
+155,4357,39.0,"Drucksachen 20/7575, 20/9766 Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen",Tagesordnungspunkt 32,Debatte,4367,5325.0,8,4367,111.97435897435898,,True
+155,5335,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 29,Debatte,5387,5827.0,11,5428,139.17948717948718,,True
+156,2433,39.0,usschuss für Kultur und Medien Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 3,Debatte,2439,2883.0,10,4944,126.76923076923077,,True
+156,2897,39.0,"hen 20/6412, 20/5618, 20/10302 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 4,Debatte,2903,3383.0,10,5412,138.76923076923077,,True
+156,3403,39.0,"Drucksachen 20/6276, 20/7416 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Zusatzpunkt 2,Debatte,3409,,7,4757,121.97435897435898,,True
+157,817,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 7,Debatte,823,1579.0,15,9785,143.89705882352942,,True
+157,2977,68.0,und Jugend Haushaltsausschuss Für die Aussprache ist eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 8,Debatte,2983,4061.0,17,9903,145.63235294117646,,True
+157,5485,39.0,Jugend Ausschuss für Digitales Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 13,Debatte,5491,5773.0,8,4989,127.92307692307692,,True
+157,5781,39.0,"Drucksachen 20/8856, 20/10651 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 12,Debatte,5787,6339.0,10,5478,140.46153846153845,,True
+157,6351,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 15,Debatte,6357,6593.0,7,3823,98.02564102564102,,True
+157,6603,39.0,Jugend Ausschuss für Digitales Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 14,Debatte,6609,7155.0,10,5406,138.6153846153846,,True
+157,7165,39.0,usschuss) Drucksache 20/10630 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 17,Debatte,7171,7555.0,9,5441,139.51282051282053,,True
+157,7563,39.0,"e, Senioren, Frauen und Jugend Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 16,Debatte,7571,7903.0,9,4816,123.48717948717949,,True
+157,7915,26.0,Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 20,Debatte,7921,8177.0,6,3117,119.88461538461539,,True
+157,8185,26.0,nheiten der Europäischen Union Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 19,Debatte,8193,8523.0,7,3229,124.1923076923077,,True
+158,13,68.0,um Internationalen Frauentag Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 22,Debatte,19,1001.0,23,10103,148.5735294117647,,True
+158,1009,68.0,msetzen Drucksache 20/10611 Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 23,Debatte,1015,1901.0,17,10146,149.2058823529412,,True
+158,1911,39.0,"Familie, Senioren, Frauen und Jugend Hierzu ist eine Aussprache von 39 Minuten vereinbart",Zusatzpunkt 5,Debatte,1917,2453.0,8,4987,127.87179487179488,,True
+158,2461,39.0,"Drucksachen 20/8846, 20/10544 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 24,Debatte,2467,,14,5829,149.46153846153845,,True
+159,153,90.0,ssprache im Anschluss an die Regierungserklärung wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt 2,Regierungserklärung,159,1355.0,19,15819,175.76666666666668,Regierungserklärung,False
+159,3879,39.0,"Drucksachen 20/7587, 20/8482 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 28,Debatte,3885,4367.0,13,5200,133.33333333333334,,True
+159,4387,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 2,Debatte,4393,,10,5252,134.66666666666666,,True
+160,31,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 7,Debatte,37,1009.0,18,9277,136.4264705882353,,True
+160,1017,68.0,heit Ausschuss für Digitales Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 4,Debatte,1023,2227.0,18,10298,151.44117647058823,,True
+160,2241,68.0,für Klimaschutz und Energie Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 13,Debatte,2247,3109.0,16,10085,148.30882352941177,,True
+160,3127,68.0,r Klimaschutz und Energie Haushaltsausschuss Für die Aussprache sind 68 Minuten vorgesehen,Tagesordnungspunkt 9,Debatte,3131,4081.0,20,9701,142.66176470588235,,True
+160,5209,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 15,Debatte,5215,5633.0,10,5144,131.89743589743588,,True
+160,5641,39.0,"20/7350, 20/10413 Buchstabe a Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 14,Debatte,5655,6919.0,13,6369,163.30769230769232,,True
+160,6933,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 27,Debatte,6939,7237.0,9,4389,112.53846153846153,,True
+160,7247,39.0,und Jugend Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 26,Debatte,7253,7489.0,4,2267,58.12820512820513,,True
+160,8273,39.0,"dung, Forschung und Technikfolgenabschätzung Hier ist eine Dauer von 39 Minuten für die Aussprache vereinbart",Tagesordnungspunkt 17,Debatte,8279,8663.0,9,4780,122.56410256410257,,True
+160,8673,39.0,und humanitäre Hilfe Auch hier ist für die Aussprache eine Dauer von 39 Minuten vorgesehen und vereinbart,Tagesordnungspunkt 5,Debatte,8681,9193.0,9,4837,124.02564102564102,,True
+160,9203,26.0,chaft Ausschuss für Digitales Hier ist eine Dauer der Aussprache von 26 Minuten vorgesehen,Tagesordnungspunkt 19,Debatte,9209,9471.0,7,3272,125.84615384615384,,True
+160,9481,26.0,sausschuss (f) Finanzausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 20,Debatte,9487,9857.0,8,3566,137.15384615384616,Reden zu Protokoll im TOP,False
+160,9865,26.0,"1, 20/10660 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart",Tagesordnungspunkt 21,Debatte,9875,10119.0,7,3039,116.88461538461539,,True
+160,10119,26.0,nheiten der Europäischen Union Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 18,Debatte,10131,10455.0,6,2682,103.15384615384616,Reden zu Protokoll im TOP,False
+160,10463,26.0,Bundestag Drucksache 20/10679 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 23,Debatte,10475,10777.0,5,2574,99.0,Reden zu Protokoll im TOP,False
+160,10787,26.0,itäre Hilfe Haushaltsausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 24,Debatte,10793,,4,2116,81.38461538461539,Reden zu Protokoll im TOP,False
+161,15,68.0,les (f) Wirtschaftsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 9,Debatte,21,703.0,18,8820,129.7058823529412,,True
+161,721,68.0,d Energie Haushaltsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 8,Debatte,727,1653.0,15,9243,135.9264705882353,,True
+161,1663,39.0,Zusammenarbeit und Entwicklung Haushaltsausschuss gemäß § 96 der GO 39 Minuten sind für diese Debatte vorges,Tagesordnungspunkt 25,Debatte,1669,1969.0,9,4952,126.97435897435898,,True
+161,2425,39.0,nd Soziales Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 10,Debatte,2431,2879.0,7,4928,126.35897435897436,,True
+162,3143,39.0,(f) Rechtsausschuss Ausschuss für Gesundheit Für die Aussprache sind 39 Minuten verabredet,Tagesordnungspunkt 3,Debatte,3149,3755.0,11,4687,120.17948717948718,,True
+162,3763,39.0,"en, Moratorium umsetzen Drucksache 20/10967 Für die Aussprache sind 39 Minuten vorgesehen",Zusatzpunkt 2,Debatte,3769,4535.0,12,5832,149.53846153846155,,True
+162,4543,39.0,oziales Verteidigungsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 3,Debatte,4551,4773.0,7,4207,107.87179487179488,,True
+163,21,68.0,Kommunen Haushaltsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 8,Debatte,27,887.0,18,10076,148.1764705882353,,True
+163,895,68.0,tschaft Drucksache 20/10985 Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 21,Debatte,901,1997.0,21,10410,153.08823529411765,,True
+163,2007,68.0,und Technikfolgenabschätzung Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 19,Debatte,2013,2729.0,16,9704,142.7058823529412,,True
+163,2739,68.0,nd Soziales Haushaltsausschuss Für die Aussprache ist eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 9,Debatte,2745,3877.0,17,9873,145.19117647058823,,True
+163,5745,39.0,rucksache 20/10794 Für die Aussprache dieses TOPs ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 11,Debatte,5751,6127.0,7,5079,130.23076923076923,,True
+163,6135,39.0,cherheit und Verbraucherschutz Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 10,Debatte,6141,6367.0,7,4861,124.64102564102564,,True
+163,6375,39.0,schen Union Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 13,Debatte,6383,6879.0,10,5150,132.05128205128204,,True
+163,6903,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 12,Debatte,6909,7289.0,10,5206,133.48717948717947,,True
+163,7295,39.0,– Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 15,Debatte,7301,7633.0,7,3071,78.74358974358974,,True
+163,7641,26.0,cherheit und Verbraucherschutz Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 14,Debatte,7647,7903.0,8,3255,125.1923076923077,,True
+163,7913,26.0,Klimaschutz und Energie Für die Aussprache ist erneut eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 16,Debatte,7919,8119.0,6,3105,119.42307692307692,Reden zu Protokoll im TOP,False
+163,8127,26.0,"Drucksachen 20/7589, 20/10087 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart",Tagesordnungspunkt 17,Debatte,8133,8363.0,5,2246,86.38461538461539,Reden zu Protokoll im TOP,False
+164,1085,68.0,nd Medien Haushaltsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 22,Debatte,1091,2135.0,16,9044,133.0,,True
+164,2149,39.0,tsordnung Drucksache 20/11001 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 13,Debatte,2155,2479.0,10,5497,140.94871794871796,,True
+164,2489,39.0,Energie Federführung strittig Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 21,Debatte,2497,2911.0,8,5309,136.12820512820514,,True
+164,2931,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 14,Debatte,2943,3569.0,10,4618,118.41025641025641,,True
+164,3581,39.0,nd Soziales Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 14,Debatte,3589,4883.0,10,5656,145.02564102564102,,True
+164,4905,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 17,Debatte,4911,5353.0,11,5035,129.10256410256412,,True
+165,2577,39.0,g und Technikfolgenabschätzung Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 3,Debatte,2583,2955.0,12,5480,140.51282051282053,Reden zu Protokoll im TOP,False
+165,2963,39.0,utschland Drucksache 20/11135 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 4,Debatte,2969,3583.0,9,6322,162.10256410256412,,True
+165,3593,39.0,schuss für Arbeit und Soziales Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 5,Debatte,3605,4053.0,12,5412,138.76923076923077,,True
+166,23,68.0,20 Jahre EU-Osterweiterung Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 6,Debatte,29,721.0,18,9809,144.25,,True
+166,1437,68.0,bessern Drucksache 20/11138 Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 8,Debatte,1443,1997.0,12,9159,134.69117647058823,,True
+166,2009,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 3,Debatte,2015,2891.0,17,9111,133.98529411764707,,True
+166,5291,39.0,"Für die Aussprache ist eine Dauer von 39 Minuten vereinbart, und ich begrüße h",Tagesordnungspunkt 15,Debatte,5301,5583.0,8,4728,121.23076923076923,,True
+166,5597,39.0,erführung strittig 4 21397 D Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 16,Debatte,5603,6157.0,6,3466,88.87179487179488,,True
+166,6333,39.0,usschuss) Drucksache 20/11177 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 7,Debatte,6339,6769.0,7,4623,118.53846153846153,,True
+166,6777,39.0,"eschleunigen Drucksachen 20/10382, 20/11117 Hier ist eine Dauer von 39 Minuten für die Aussprache vorgesehen",Tagesordnungspunkt 18,Debatte,6783,7179.0,8,4889,125.35897435897436,,True
+166,7189,26.0,Ausschuss) Drucksache 20/11179 Hier ist eine Dauer von 26 Minuten für die Aussprache vorgesehen,Tagesordnungspunkt 17,Debatte,7195,7465.0,5,2243,86.26923076923077,Reden zu Protokoll im TOP,False
+166,7783,26.0,Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Zusatzpunkt 9,Debatte,7789,8073.0,8,3365,129.42307692307693,,True
+166,8083,26.0,ugend Ausschuss für Gesundheit Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 20,Debatte,8089,,7,3001,115.42307692307692,,True
+167,845,68.0,tswende Drucksache 20/11144 Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 10,Debatte,851,2097.0,15,9076,133.47058823529412,,True
+167,2109,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Zusatzpunkt 12,Debatte,2117,3535.0,18,11279,165.86764705882354,,True
+167,3551,39.0,g und Technikfolgenabschätzung Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 24,Debatte,3557,4431.0,9,5293,135.71794871794873,,True
+167,5035,39.0,"Drucksachen 20/8210, 20/10666 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 25,Debatte,5041,,10,5081,130.28205128205127,,True
+168,3307,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 3,Debatte,3313,3749.0,10,5802,148.76923076923077,,True
+168,3759,39.0,Haushaltsausschuss Für die Aussprache dieses TOPs ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 4,Debatte,3771,4279.0,11,5567,142.74358974358975,,True
+168,4607,39.0,svorschlag: Ausschuss für Inneres und Heimat Für die Aussprache sind 39 Minuten vorgesehen,Zusatzpunkt 2,Debatte,4613,,8,4673,119.82051282051282,,True
+169,29,68.0,Debatte: 75 Jahre Europarat Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 7,Debatte,35,295.0,5,3667,53.9264705882353,,True
+169,825,68.0,"rucksachen 20/6903, 20/11417 Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart",Tagesordnungspunkt 8,Debatte,831,1785.0,19,10703,157.39705882352942,,True
+169,1815,68.0,und Technikfolgenabschätzung Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 9,Debatte,1821,2715.0,15,10283,151.22058823529412,,True
+169,5481,39.0,"Drucksachen 20/4865, 20/11219 Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen",Tagesordnungspunkt 12,Debatte,5487,5833.0,9,5072,130.05128205128204,,True
+169,5841,39.0,"Drucksachen 20/8861, 20/11061 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 13,Debatte,5849,6381.0,9,5907,151.46153846153845,,True
+169,6397,39.0,und Energie Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 14,Debatte,6403,6649.0,5,3325,85.25641025641026,,True
+169,6841,39.0,ss für Klimaschutz und Energie Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 26,Debatte,6847,7255.0,9,4558,116.87179487179488,,True
+169,7263,39.0,ucherschutz Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 8,Debatte,7269,7679.0,9,4781,122.58974358974359,Reden zu Protokoll im TOP,False
+169,7687,39.0,hnenarmee Drucksache 20/11379 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 15,Debatte,7695,8031.0,8,5094,130.6153846153846,Reden zu Protokoll im TOP,False
+169,8039,26.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 29,Debatte,8047,8349.0,7,3509,134.96153846153845,,True
+169,8779,26.0,"e, Senioren, Frauen und Jugend Für die Aussprache ist eine Dauer von 26 Minuten vereinbart",Tagesordnungspunkt 16,Debatte,8789,8961.0,5,2196,84.46153846153847,Reden zu Protokoll im TOP,False
+169,8971,26.0,s (f) Ausschuss für Gesundheit Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 17,Debatte,8977,9317.0,5,2613,100.5,Reden zu Protokoll im TOP,False
+169,9317,26.0,"sachen 20/9139, 20/9970 Für die Aussprache ist erneut eine Dauer von 26 Minuten vereinbart",Tagesordnungspunkt 18,Debatte,9323,9505.0,4,1626,62.53846153846154,Reden zu Protokoll im TOP,False
+169,9515,26.0,und Medien Haushaltsausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 23,Debatte,9521,9697.0,5,1846,71.0,Reden zu Protokoll im TOP,False
+169,9709,26.0,Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Zusatzpunkt 9,Debatte,9715,9847.0,4,1668,64.15384615384616,Reden zu Protokoll im TOP,False
+169,9861,26.0,usschuss) Drucksache 20/11416 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 20,Debatte,9867,9953.0,2,822,31.615384615384617,Reden zu Protokoll im TOP,False
+169,9991,26.0,chuss Ausschuss für Gesundheit Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 24,Debatte,9997,10223.0,6,2282,87.76923076923077,Reden zu Protokoll im TOP,False
+169,10231,26.0,"icklung, Bauwesen und Kommunen Für die Aussprache ist eine Dauer von 26 Minuten vereinbart",Zusatzpunkt 10,Debatte,10237,10411.0,4,2001,76.96153846153847,Reden zu Protokoll im TOP,False
+169,10419,26.0,für Arbeit und Soziales Für die Aussprache ist erneut eine Dauer von 26 Minuten vereinbart,Zusatzpunkt 11,Debatte,10425,,3,1339,51.5,Reden zu Protokoll im TOP,False
+170,17,68.0,ratend und gemäß § 96 der GO Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 12,Debatte,23,729.0,16,9603,141.22058823529412,,True
+170,739,68.0,Digitales Haushaltsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 13,Debatte,745,1611.0,15,9230,135.73529411764707,,True
+170,1623,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 25,Debatte,1629,2047.0,11,5731,146.94871794871796,,True
+170,2055,39.0,"Drucksachen 20/9323, 20/11424 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 28,Debatte,2061,2593.0,10,5820,149.23076923076923,,True
+170,2609,39.0,ätzung (f) Ausschuss für Arbeit und Soziales Ausschuss für Digitales 39 Minuten sind für die Aussprache vorge,Tagesordnungspunkt 27,Debatte,2615,2901.0,10,5081,130.28205128205127,,True
+171,2177,39.0,ltsausschuss gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 3,Debatte,2183,2475.0,9,5164,132.4102564102564,,True
+171,2487,39.0,nheiten der Europäischen Union Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 4,Debatte,2493,2853.0,9,4830,123.84615384615384,,True
+171,2863,39.0,ltsausschuss gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 5,Debatte,2871,3147.0,8,4835,123.97435897435898,,True
+171,3153,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 6,Debatte,3161,,9,5114,131.12820512820514,,True
+172,27,90.0,ssprache im Anschluss an die Regierungserklärung wurde eine Dauer von 90 Minuten vereinbart,Zusatzpunkt 1,Regierungserklärung,33,1399.0,17,15524,172.48888888888888,Regierungserklärung,False
+172,2747,68.0,Für die Aussprache ist eine Dauer von 68 Minuten vorgesehen,Tagesordnungspunkt 23,Debatte,2753,2973.0,3,2109,31.014705882352942,,True
+172,6943,39.0,bschätzung Haushaltsausschuss Hier ist eine Dauer der Aussprache von 39 Minuten vereinbart,Tagesordnungspunkt 9,Debatte,6949,7453.0,11,5116,131.17948717948718,,True
+172,7463,39.0,s für Arbeit und Soziales Haushaltsausschuss Für die Aussprache sind 39 Minuten vorgesehen,Tagesordnungspunkt 8,Debatte,7469,7969.0,11,5596,143.48717948717947,,True
+172,7981,39.0,Für die Aussprache sind 39 Minuten vorgesehen,Tagesordnungspunkt 12,Debatte,7987,8377.0,10,4943,126.74358974358974,,True
+172,8385,39.0,"Drucksachen 20/8732, 20/11656 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 21,Debatte,8391,8881.0,11,5535,141.92307692307693,,True
+172,8881,39.0,"3, 20/11664 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 14,Debatte,8887,9343.0,8,4477,114.7948717948718,Reden zu Protokoll im TOP,False
+172,9827,26.0,imat (f) Auswärtiger Ausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 16,Debatte,9833,10013.0,5,2282,87.76923076923077,Reden zu Protokoll im TOP,False
+172,10035,26.0,schuss für Arbeit und Soziales Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 19,Debatte,10041,10451.0,6,2850,109.61538461538461,Reden zu Protokoll im TOP,False
+172,10459,26.0,g und Technikfolgenabschätzung Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 18,Debatte,10465,10613.0,4,2179,83.8076923076923,Reden zu Protokoll im TOP,False
+172,10635,26.0,utz und Energie 15 Anlage 11 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 26,Debatte,10641,10755.0,3,1791,68.88461538461539,Reden zu Protokoll im TOP,False
+172,10781,26.0,Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 20,Debatte,10791,11177.0,8,3365,129.42307692307693,,True
+172,11187,26.0,und Energie Haushaltsausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 22,Debatte,11193,,3,1398,53.76923076923077,Reden zu Protokoll im TOP,False
+173,13,68.0,Zur aktuellen Europapolitik Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 7,Debatte,19,873.0,17,10335,151.98529411764707,,True
+173,881,68.0,eiten der Europäischen Union Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 7,Debatte,887,1783.0,13,9011,132.51470588235293,,True
+173,1793,39.0,n Union Haushaltsausschuss gemäß § 96 der GO Für die Aussprache sind 39 Minuten vorgesehen,Tagesordnungspunkt 25,Debatte,1799,2137.0,9,5118,131.23076923076923,,True
+173,2147,39.0,"r Wohnen, Stadtentwicklung, Bauwesen und Kommunen Haushaltsausschuss 39 Minuten Debatte sind verabredet",Tagesordnungspunkt 24,Debatte,2153,2779.0,12,5802,148.76923076923077,,True
+173,2801,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen,Zusatzpunkt 8,Debatte,2807,3071.0,7,4902,125.6923076923077,,True
+173,3081,39.0,nheiten der Europäischen Union Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 27,Debatte,3089,,9,5353,137.25641025641025,,True
+174,2783,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 3,Debatte,2833,3369.0,9,4516,115.7948717948718,,True
+174,3961,39.0,ss für Klimaschutz und Energie Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 5,Debatte,3967,4305.0,11,4742,121.58974358974359,,True
+174,4315,39.0,r Digitales Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 6,Debatte,4321,,9,5633,144.43589743589743,,True
+175,1057,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 2,Debatte,1063,1965.0,16,9555,140.51470588235293,,True
+175,1991,68.0,Für die Aussprache sind 68 Minuten vorgesehen,Zusatzpunkt 3,Debatte,2003,3023.0,13,8139,119.69117647058823,,True
+175,3143,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 9,Debatte,3149,4161.0,16,9564,140.64705882352942,,True
+175,5783,39.0,"und umfassend stärken Drucksachen 20/10606, 20/11723 Eine Dauer von 39 Minuten ist für die Aussprache vorges",Tagesordnungspunkt 10,Debatte,5789,6211.0,9,4726,121.17948717948718,,True
+175,6219,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 7,Debatte,6225,6909.0,10,5946,152.46153846153845,,True
+175,7769,39.0,itales Ausschuss für Klimaschutz und Energie Für die Aussprache sind 39 Minuten vereinbart,Zusatzpunkt 8,Debatte,7775,8583.0,13,5464,140.10256410256412,,True
+175,8591,39.0,usschuss) Drucksache 20/11787 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 14,Debatte,8597,8903.0,6,4624,118.56410256410257,,True
+175,8925,39.0,r Digitales Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 11,Debatte,8931,9353.0,9,5408,138.66666666666666,,True
+175,9363,26.0,sschuss Verteidigungsausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 16,Debatte,9369,9633.0,8,3215,123.65384615384616,,True
+175,9645,26.0,Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 15,Debatte,9651,9893.0,7,3260,125.38461538461539,,True
+175,9903,26.0,tsausschuss Haushaltsausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 17,Debatte,9909,,6,2807,107.96153846153847,,True
+176,941,68.0,Immunität und Geschäftsordnung Für die Aussprache ist eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 8,Debatte,949,2011.0,17,9931,146.0441176470588,,True
+176,2019,39.0,usschuss) Drucksache 20/11788 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 9,Debatte,2025,2337.0,8,4737,121.46153846153847,,True
+176,2365,39.0,schen Union Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 10,Debatte,2371,2823.0,9,5489,140.74358974358975,,True
+176,2833,39.0,– Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 21,Debatte,2839,3243.0,9,4907,125.82051282051282,,True
+176,3683,39.0,96 der Geschäftsordnung Drucksache 20/11791 Hier ist eine Dauer von 39 Minuten für die Aussprache vorgesehen,Tagesordnungspunkt 23,Debatte,3689,4189.0,8,4446,114.0,,True
+177,85,90.0,ssprache im Anschluss an die Regierungserklärung wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt 1,Regierungserklärung,91,1513.0,20,16287,180.96666666666667,Regierungserklärung,False
+177,4087,39.0,Medien Ausschuss für Digitales Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 4,Debatte,4093,4417.0,8,5764,147.7948717948718,,True
+177,5033,39.0,oziales (f) Federführung offen Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 6,Debatte,5039,,10,5246,134.51282051282053,,True
+178,823,68.0,eiten der Europäischen Union Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 8,Debatte,829,1859.0,15,10069,148.0735294117647,,True
+178,1867,68.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 9,Debatte,1881,3043.0,14,10765,158.30882352941177,,True
+178,3053,68.0,usschuss für Kultur und Medien Für die Aussprache ist eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 10,Debatte,3059,4025.0,15,9195,135.22058823529412,,True
+178,5239,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 11,Debatte,5245,5633.0,8,4709,120.74358974358974,,True
+178,5649,39.0,"Drucksachen 20/8413, 20/11825 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Zusatzpunkt 3,Debatte,5655,6587.0,13,6166,158.10256410256412,,True
+178,6603,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 13,Debatte,6615,7023.0,10,5709,146.3846153846154,,True
+178,7037,39.0,entlasten Drucksache 20/11958 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 14,Debatte,7049,7371.0,4,2763,70.84615384615384,,True
+178,8153,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 15,Debatte,8157,8497.0,10,5363,137.51282051282053,,True
+178,8509,39.0,ss für Klimaschutz und Energie Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 16,Debatte,8515,9523.0,10,4840,124.1025641025641,,True
+178,9533,26.0,usschuss für Kultur und Medien Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 17,Debatte,9539,9843.0,7,3318,127.61538461538461,,True
+178,9853,26.0,nzausschuss Haushaltsausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 18,Debatte,9859,10109.0,6,2766,106.38461538461539,Reden zu Protokoll im TOP,False
+178,10121,26.0,Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 21,Debatte,10127,10365.0,6,2862,110.07692307692308,Reden zu Protokoll im TOP,False
+178,10591,26.0,Ausschuss) Drucksache 20/11994 Eine Aussprache mit einer Dauer von 26 Minuten ist hierzu vereinbart,Zusatzpunkt 5,Debatte,10597,10673.0,2,1011,38.88461538461539,Reden zu Protokoll im TOP,False
+178,10673,26.0,"Drucksachen 20/7585, 20/11729 Für die Aussprache ist eine Dauer von 26 Minuten vorgesehen",Tagesordnungspunkt 22,Debatte,10679,10799.0,4,1446,55.61538461538461,Reden zu Protokoll im TOP,False
+178,10809,26.0,Ausschuss) Drucksache 20/11995 Es ist eine Dauer von 26 Minuten für die Aussprache vorgesehen,Tagesordnungspunkt 23,Debatte,10815,10893.0,2,692,26.615384615384617,Reden zu Protokoll im TOP,False
+178,10901,26.0,chuss mitberatend und gemäß § 96 der GO Auch hier ist eine Dauer von 26 Minuten für die Aussprache vereinbart,Tagesordnungspunkt 24,Debatte,10911,10985.0,2,983,37.80769230769231,Reden zu Protokoll im TOP,False
+178,10993,26.0,ss für Inneres und Heimat Für die Aussprache ist hier eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 25,Debatte,10999,,3,1157,44.5,Reden zu Protokoll im TOP,False
+179,655,68.0,nd Kommunen Haushaltsausschuss Für die Aussprache ist eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 26,Debatte,661,1773.0,13,10086,148.3235294117647,,True
+179,1781,39.0,ordnung (f) Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 27,Debatte,1787,2177.0,8,4686,120.15384615384616,,True
+179,2189,39.0,"Drucksachen 20/8414, 20/11213 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 28,Debatte,2195,2711.0,11,5783,148.28205128205127,,True
+179,2727,39.0,"entwicklung, Bauwesen und Kommunen Haushaltsausschuss Eine Dauer von 39 Minuten ist hier für die Aussprache v",Tagesordnungspunkt 29,Debatte,2735,3329.0,10,6205,159.10256410256412,,True
+179,3345,39.0,"Drucksachen 20/6582, 20/11998 Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen",Tagesordnungspunkt 30,Debatte,3351,3927.0,9,5326,136.56410256410257,,True
+180,2681,39.0,Haushaltsausschuss mitberatend und gemäß § 96 der GO Eine Dauer von 39 Minuten ist hier für die Aussprache v,Tagesordnungspunkt 3,Debatte,2687,3063.0,8,4743,121.61538461538461,,True
+180,3073,39.0,nd Kommunen Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 4,Debatte,3079,3851.0,9,5658,145.07692307692307,,True
+180,3871,39.0,Immunität und Geschäftsordnung Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 2,Debatte,3879,4449.0,9,6122,156.97435897435898,,True
+180,4457,39.0,Ausschuss Wirtschaftsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 5,Debatte,4463,,12,4913,125.97435897435898,,True
+181,11,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 6,Debatte,17,675.0,16,9538,140.26470588235293,,True
+181,683,68.0,gend Ausschuss für Digitales Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 14,Debatte,689,1425.0,15,9493,139.60294117647058,,True
+181,1441,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 8,Debatte,1447,2143.0,14,9024,132.7058823529412,,True
+181,4291,38.0,Für die Aussprache ist eine Dauer von 38 Minuten vorgesehen,Zusatzpunkt 9,Debatte,4297,4919.0,12,5750,151.31578947368422,,True
+181,5487,39.0,sschuss Verteidigungsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 26,Debatte,5493,5863.0,9,5444,139.5897435897436,,True
+181,5873,39.0,schuss Ausschuss für Digitales Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 16,Debatte,5879,6389.0,9,4936,126.56410256410257,,True
+181,6399,39.0,usschuss) Drucksache 20/12150 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 13,Debatte,6405,6877.0,10,5248,134.56410256410257,,True
+181,6893,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 18,Debatte,6899,7445.0,11,5610,143.84615384615384,,True
+181,7455,26.0,abschätzung Haushaltsausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 15,Debatte,7461,7777.0,8,3697,142.19230769230768,,True
+181,7785,26.0,ere Löhne Drucksache 20/11426 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 20,Debatte,7791,8161.0,7,3465,133.26923076923077,Reden zu Protokoll im TOP,False
+181,8183,26.0,Ausschuss) Drucksache 20/12146 Für die Aussprache sind insgesamt 26 Minuten vorgesehen,Tagesordnungspunkt 17,Debatte,8191,8459.0,6,2958,113.76923076923077,Reden zu Protokoll im TOP,False
+181,8473,26.0,"dern Drucksachen 20/9133, 20/9144, 20/10661 Für die Aussprache sind 26 Minuten vorgesehen",Tagesordnungspunkt 22,Debatte,8479,8747.0,6,2124,81.6923076923077,Reden zu Protokoll im TOP,False
+181,8755,26.0,"2, 20/12055 Für die Aussprache sind 26 Minuten vereinbart",Tagesordnungspunkt 19,Debatte,8761,8849.0,2,661,25.423076923076923,Reden zu Protokoll im TOP,False
+182,19,39.0,usschuss) Drucksache 20/12145 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 24,Debatte,25,531.0,15,5957,152.74358974358975,,True
+182,547,68.0,"rucksachen 20/9141, 20/12056 Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart",Tagesordnungspunkt 25,Debatte,553,1393.0,17,10062,147.97058823529412,,True
+182,1447,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 11,Debatte,1453,2553.0,17,9681,142.36764705882354,,True
+182,2563,39.0,rsausschuss Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 27,Debatte,2571,3027.0,8,5420,138.97435897435898,,True
+182,4011,39.0,chuss Ausschuss für Gesundheit Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 29,Debatte,4025,5069.0,9,5308,136.10256410256412,,True
+184,23,480.0,uss Für die heutige Aussprache haben wir eine Redezeit von insgesamt acht Stunden vereinbart,Einzelplan 04,Debatte,31,25.0,0,0,0.0,Tagesansage Haushaltswoche,False
+185,53,90.0,Überweisung/Beschlussfassung Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Zusatzpunkt 1,Debatte,59,1459.0,23,13608,151.2,,True
+185,1487,540.0,uss Für die heutige Aussprache haben wir eine Redezeit von insgesamt neun Stunden vereinbart,Tagesordnungspunkt 1,Debatte,1501,4021.0,43,26332,48.762962962962966,Tagesansage Haushaltswoche,False
+186,25,270.0,uss Für die heutige Aussprache haben wir eine Redezeit von insgesamt vier Stunden und 30 Minuten vereinbart,Tagesordnungspunkt 1,Debatte,33,1431.0,21,12634,46.79259259259259,Tagesansage Haushaltswoche,False
+187,2501,39.0,schen Union Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 3,Debatte,2507,2957.0,8,5652,144.92307692307693,,True
+187,2967,39.0,Für die Aussprache ist auch hier eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 4,Debatte,2973,3457.0,10,4972,127.48717948717949,,True
+187,3471,39.0,nd Kommunen Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 5,Debatte,3477,3953.0,9,5724,146.76923076923077,,True
+187,3963,39.0,nd Kommunen Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 6,Debatte,3971,,11,5990,153.5897435897436,,True
+188,55,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 7,Debatte,61,863.0,18,10100,148.52941176470588,,True
+188,871,68.0,n fehlt Drucksache 20/12961 Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 2,Debatte,877,2059.0,17,10480,154.11764705882354,,True
+188,2073,68.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 68 Minuten beschlossen,Tagesordnungspunkt 9,Debatte,2081,2849.0,16,9486,139.5,,True
+188,2877,68.0,r Klimaschutz und Energie Haushaltsausschuss Für die Aussprache sind 68 Minuten vorgesehen,Tagesordnungspunkt 10,Debatte,2883,3833.0,14,9188,135.11764705882354,,True
+188,5045,39.0,nd Soziales Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 11,Debatte,5051,5447.0,8,5135,131.66666666666666,,True
+188,5455,39.0,"Drucksachen 20/12219, 20/12825 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 12,Debatte,5463,5895.0,12,5802,148.76923076923077,,True
+188,5903,39.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 13,Debatte,5909,6489.0,12,5530,141.7948717948718,,True
+188,6497,39.0,"Drucksachen 20/9739, 20/13024 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 14,Debatte,6503,6875.0,8,3986,102.2051282051282,Reden zu Protokoll im TOP,False
+188,6887,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 15,Debatte,6893,7157.0,7,4300,110.25641025641026,,True
+188,8287,26.0,Ausschuss Wirtschaftsausschuss Für die Aussprache ist eine Dauer von 26 Minuten vorgesehen,Tagesordnungspunkt 20,Debatte,8293,8415.0,3,1196,46.0,Reden zu Protokoll im TOP,False
+188,8415,26.0,d Medien Federführung strittig Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 21,Debatte,8421,8673.0,6,3063,117.8076923076923,Reden zu Protokoll im TOP,False
+188,8681,26.0,"Drucksachen 20/9734, 20/11456 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart",Tagesordnungspunkt 22,Debatte,8687,8751.0,3,1221,46.96153846153846,Reden zu Protokoll im TOP,False
+188,8759,26.0,schuss für Arbeit und Soziales Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 23,Debatte,8765,8879.0,3,1387,53.34615384615385,Reden zu Protokoll im TOP,False
+188,8915,26.0,nheiten der Europäischen Union Für die Aussprache ist eine Dauer von 26 Minuten vorgesehen,Tagesordnungspunkt 24,Debatte,8923,8991.0,3,1037,39.88461538461539,,True
+188,9005,26.0,"icklung, Bauwesen und Kommunen Für die Aussprache ist eine Dauer von 26 Minuten vereinbart",Tagesordnungspunkt 25,Debatte,9011,9119.0,3,974,37.46153846153846,Reden zu Protokoll im TOP,False
+188,9131,26.0,Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 26,Debatte,9137,9273.0,4,1817,69.88461538461539,Reden zu Protokoll im TOP,False
+188,9285,26.0,mäß § 96 der GO 1) Anlage 14 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 27,Debatte,9291,9445.0,3,1288,49.53846153846154,Reden zu Protokoll im TOP,False
+188,9541,26.0,f) Haushaltsausschuss Für die Aussprache ist wiederum eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 29,Debatte,9551,9675.0,2,921,35.42307692307692,Reden zu Protokoll im TOP,False
+188,9675,26.0,mäß § 96 der GO 1) Anlage 17 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 30,Debatte,9681,9763.0,2,869,33.42307692307692,Reden zu Protokoll im TOP,False
+188,9771,26.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 31,Debatte,9777,,2,859,33.03846153846154,Reden zu Protokoll im TOP,False
+189,35,68.0,ausschuss Haushaltsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 32,Debatte,41,925.0,19,10273,151.0735294117647,,True
+189,941,68.0,"ucksachen 20/11950, 20/13023 Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart",Zusatzpunkt 9,Debatte,947,2251.0,22,10794,158.73529411764707,,True
+189,2689,39.0,Entwicklung Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 35,Debatte,2695,3325.0,12,5337,136.84615384615384,,True
+189,4043,39.0,nd Kommunen Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 38,Debatte,4049,,9,5428,139.17948717948718,,True
+190,3055,39.0,cherheit und Verbraucherschutz Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 3,Debatte,3061,3505.0,9,4826,123.74358974358974,,True
+190,3933,39.0,gsausschuss Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 5,Debatte,3939,4441.0,12,5792,148.51282051282053,,True
+190,4449,39.0,"Drucksachen 20/10062, 20/10759 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 6,Debatte,4455,,10,5270,135.12820512820514,,True
+191,47,90.0,berfall der Hamas auf Israel Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt 7,Debatte,53,999.0,22,12814,142.37777777777777,,True
+191,1007,68.0,"0/9730, 20/12037 Buchstabe b Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart",Tagesordnungspunkt 8,Debatte,1013,1845.0,14,9603,141.22058823529412,,True
+191,1857,68.0,sschuss für Inneres und Heimat Für die Aussprache ist eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 9,Debatte,1863,2599.0,18,9740,143.23529411764707,,True
+191,2623,68.0,d Energie Haushaltsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 10,Debatte,2629,3791.0,16,9258,136.14705882352942,,True
+191,5017,39.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 13,Debatte,5023,5527.0,11,4883,125.2051282051282,,True
+191,5537,39.0,usschuss für Kultur und Medien Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 14,Debatte,5543,6005.0,10,5384,138.05128205128204,,True
+191,6025,39.0,rschlag: Auswärtiger Ausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 15,Debatte,6031,6545.0,12,5304,136.0,Reden zu Protokoll im TOP,False
+191,6567,39.0,abschätzung Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 16,Debatte,6573,7121.0,10,5288,135.5897435897436,,True
+191,7135,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 17,Debatte,7141,7573.0,10,5564,142.66666666666666,,True
+191,7581,39.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 18,Debatte,7587,7837.0,7,4013,102.8974358974359,Reden zu Protokoll im TOP,False
+191,7863,26.0,s (f) Ausschuss für Gesundheit Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 19,Debatte,7869,8047.0,7,3328,128.0,,True
+191,8079,26.0,sschuss Verteidigungsausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 20,Debatte,8099,8523.0,10,3953,152.03846153846155,,True
+191,8531,26.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 21,Debatte,8537,8653.0,4,1790,68.84615384615384,Reden zu Protokoll im TOP,False
+191,8663,26.0,ss für Klimaschutz und Energie Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 22,Debatte,8669,8923.0,4,1929,74.1923076923077,Reden zu Protokoll im TOP,False
+191,8933,26.0,usschuss) Drucksache 20/13287 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 25,Debatte,8939,9119.0,5,2446,94.07692307692308,Reden zu Protokoll im TOP,False
+191,9129,26.0,tsausschuss Haushaltsausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 24,Debatte,9135,9273.0,4,1483,57.03846153846154,Reden zu Protokoll im TOP,False
+191,9281,26.0,schuss für Arbeit und Soziales Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 23,Debatte,9287,,3,856,32.92307692307692,Reden zu Protokoll im TOP,False
+192,27,68.0,ratend und gemäß § 96 der GO Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 26,Debatte,33,633.0,14,8863,130.33823529411765,,True
+192,643,68.0,schätzung Haushaltsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 27,Debatte,649,1335.0,16,9392,138.11764705882354,,True
+192,1343,39.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 28,Debatte,1349,1737.0,10,5201,133.35897435897436,,True
+192,1747,39.0,nd Verbraucherschutz Haushaltsausschuss Hier ist auch eine Dauer von 39 Minuten für die Aussprache vereinbart,Zusatzpunkt 5,Debatte,1753,2199.0,10,6137,157.35897435897436,,True
+192,2207,39.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 6,Debatte,2215,2517.0,8,4947,126.84615384615384,,True
+192,2525,39.0,"Drucksachen 20/9984, 20/11885 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 30,Debatte,2531,,8,4695,120.38461538461539,,True
+193,4617,39.0,"Drucksachen 20/11381, 20/13319 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Zusatzpunkt 2,Debatte,4623,5209.0,11,4906,125.7948717948718,,True
+193,5231,39.0,hätzung (f) Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 5,Debatte,5239,5689.0,11,5501,141.05128205128204,,True
+193,5699,39.0,nd Kommunen Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 6,Debatte,5707,,7,4903,125.71794871794872,,True
+194,23,68.0,tionale Sicherheitsstrategie Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 7,Debatte,29,827.0,20,9809,144.25,,True
+194,857,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Tagesordnungspunkt 8,Debatte,863,2047.0,18,10064,148.0,,True
+194,2083,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 3,Debatte,2091,2435.0,3,2693,39.60294117647059,,True
+194,6029,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 10,Debatte,6035,6359.0,10,5155,132.17948717948718,,True
+194,6367,39.0,"Drucksachen 20/10610, 20/13399 Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Tagesordnungspunkt 13,Debatte,6373,7037.0,10,5198,133.28205128205127,,True
+194,7055,39.0,und Energie Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 12,Debatte,7093,7413.0,10,5511,141.30769230769232,,True
+194,7421,39.0,"derinnen und Selbständige erleichtern Drucksachen 20/6911, 20/12067 39 Minuten sind für die Aussprache vorge",Tagesordnungspunkt 4,Debatte,7427,8001.0,12,5393,138.28205128205127,,True
+194,8009,39.0,r Digitales Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 29,Debatte,8015,8271.0,8,4220,108.2051282051282,,True
+194,8281,39.0,itäre Hilfe Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 15,Debatte,8287,8579.0,9,4337,111.2051282051282,Reden zu Protokoll im TOP,False
+194,8589,26.0,usschuss) Drucksache 20/13299 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 14,Debatte,8595,8775.0,5,2353,90.5,Reden zu Protokoll im TOP,False
+194,8785,26.0,"icklung, Bauwesen und Kommunen Für die Aussprache ist eine Dauer von 26 Minuten vereinbart",Tagesordnungspunkt 17,Debatte,8791,9035.0,6,2702,103.92307692307692,Reden zu Protokoll im TOP,False
+194,9045,26.0,"icklung, Bauwesen und Kommunen Für die Aussprache ist eine Dauer von 26 Minuten vereinbart",Tagesordnungspunkt 16,Debatte,9053,9461.0,7,3371,129.65384615384616,Reden zu Protokoll im TOP,False
+194,9471,26.0,Medien Ausschuss für Digitales Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 19,Debatte,9477,9585.0,3,1243,47.80769230769231,Reden zu Protokoll im TOP,False
+194,9593,26.0,chuss (f) Wirtschaftsausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 18,Debatte,9599,9719.0,4,1583,60.88461538461539,Reden zu Protokoll im TOP,False
+194,9859,26.0,usschuss für Kultur und Medien Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 20,Debatte,9869,10089.0,7,2827,108.73076923076923,Reden zu Protokoll im TOP,False
+194,10223,26.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 23,Debatte,10229,10325.0,3,1578,60.69230769230769,Reden zu Protokoll im TOP,False
+194,10333,26.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 24,Debatte,10339,10447.0,3,1333,51.26923076923077,Reden zu Protokoll im TOP,False
+194,10455,26.0,"2, 20/13418 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart",Tagesordnungspunkt 25,Debatte,10461,10597.0,3,1758,67.61538461538461,Reden zu Protokoll im TOP,False
+194,10607,26.0,usschuss) Drucksache 20/13301 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Zusatzpunkt 6,Debatte,10617,,2,1121,43.11538461538461,Reden zu Protokoll im TOP,False
+195,3707,68.0,"ucksachen 20/11621, 20/13339 Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart",Tagesordnungspunkt 26,Debatte,3713,4889.0,13,7884,115.94117647058823,Reden zu Protokoll im TOP,False
+195,4889,39.0,tsordnung Drucksache 20/13402 Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 27,Debatte,4895,5149.0,7,4415,113.2051282051282,Reden zu Protokoll im TOP,False
+195,5159,39.0,– Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 28,Debatte,5165,5517.0,8,3662,93.8974358974359,Reden zu Protokoll im TOP,False
+195,5565,39.0,sschuss (f) Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 10,Debatte,5571,6021.0,10,5676,145.53846153846155,,True
+195,6031,39.0,d Medien Federführung strittig Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 14,Debatte,6037,6369.0,5,3414,87.53846153846153,Reden zu Protokoll im TOP,False
+195,6369,26.0,Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Zusatzpunkt 15,Debatte,6379,,9,3429,131.8846153846154,,True
+196,3221,39.0,nd Kommunen Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 3,Debatte,3227,3765.0,14,5381,137.97435897435898,,True
+198,53,90.0,nrechte und humanitäre Hilfe Für die Aussprache wurde eine Dauer von 90 Minuten vereinbart,Tagesordnungspunkt 23,Debatte,59,1117.0,23,12197,135.5222222222222,,True
+199,469,120.0,ssprache im Anschluss an die Regierungserklärung wurde eine Dauer von 120 Minuten beschlossen,Tagesordnungspunkt 1,Regierungserklärung,475,2709.0,18,20433,170.275,Regierungserklärung,False
+199,5115,26.0,"1, 20/13712 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart",Zusatzpunkt 2,Debatte,5121,5383.0,8,3753,144.34615384615384,,True
+200,25,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 5,Debatte,31,503.0,10,5625,144.23076923076923,,True
+202,4065,39.0,"aturschutz, nukleare Sicherheit und Verbraucherschutz Eine Dauer von 39 Minuten ist für die Aussprache vorges",Zusatzpunkt 2,Debatte,4071,4243.0,6,3581,91.82051282051282,,True
+202,4253,39.0,uen und Jugend Ausschuss für Gesundheit Auch hier ist eine Dauer von 39 Minuten für die Aussprache vereinbart,Zusatzpunkt 3,Debatte,4259,4757.0,8,4643,119.05128205128206,,True
+202,4763,39.0,Überweisungsvorschlag: Finanzausschuss Auch hier ist eine Dauer von 39 Minuten vereinbart für die Aussprache,Zusatzpunkt 4,Debatte,4769,5323.0,10,5720,146.66666666666666,,True
+202,5345,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 5,Debatte,5351,,12,6649,170.48717948717947,,True
+203,37,68.0,s und Heimat Rechtsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 6,Debatte,43,743.0,16,9394,138.14705882352942,,True
+203,761,68.0,gsvorschlag: Rechtsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 7,Debatte,767,1767.0,14,9871,145.16176470588235,,True
+203,1783,68.0,für Klimaschutz und Energie Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 8,Debatte,1789,2761.0,15,8871,130.4558823529412,,True
+203,2777,68.0,"0/12802, 20/13413 Buchstabe d Für die Aussprache wurde die Dauer von 68 Minuten vereinbart",Zusatzpunkt 9,Debatte,2785,3799.0,16,10189,149.83823529411765,,True
+203,6007,68.0,"ng, Forschung und Technikfolgenabschätzung Für die Aussprache wurden 68 Minuten vereinbart",Zusatzpunkt 10,Debatte,6021,7387.0,20,9906,145.6764705882353,Reden zu Protokoll im TOP,False
+203,7395,68.0,ausschuss Haushaltsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 11,Debatte,7409,8251.0,19,9258,136.14705882352942,Reden zu Protokoll im TOP,False
+203,8259,39.0,ss für Klimaschutz und Energie Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 12,Debatte,8265,8743.0,10,4825,123.71794871794872,,True
+203,8753,39.0,abschätzung Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 13,Debatte,8759,8951.0,6,2608,66.87179487179488,Reden zu Protokoll im TOP,False
+203,8959,39.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 14,Debatte,8975,9259.0,5,2898,74.3076923076923,Reden zu Protokoll im TOP,False
+203,9269,39.0,"icklung, Bauwesen und Kommunen Für die Aussprache ist eine Dauer von 39 Minuten vereinbart",Zusatzpunkt 15,Debatte,9275,9439.0,3,1700,43.58974358974359,Reden zu Protokoll im TOP,False
+203,9447,39.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 16,Debatte,9453,9673.0,6,3615,92.6923076923077,Reden zu Protokoll im TOP,False
+203,9683,39.0,res und Heimat Finanzausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 17,Debatte,9689,9917.0,6,3653,93.66666666666667,Reden zu Protokoll im TOP,False
+203,10261,26.0,"Drucksachen 20/11759, 20/13608 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart",Zusatzpunkt 19,Debatte,10267,10669.0,8,2776,106.76923076923077,Reden zu Protokoll im TOP,False
+203,10683,26.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Zusatzpunkt 20,Debatte,10689,10863.0,5,1958,75.3076923076923,Reden zu Protokoll im TOP,False
+203,10873,26.0,ss für Klimaschutz und Energie Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Zusatzpunkt 21,Debatte,10879,11019.0,3,1200,46.15384615384615,Reden zu Protokoll im TOP,False
+203,11019,26.0,opäischen Union 1) Anlage 12 Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Zusatzpunkt 22,Debatte,11025,11115.0,3,1254,48.23076923076923,Reden zu Protokoll im TOP,False
+203,11123,26.0,en der Europäischen Union Haushaltsausschuss Für die Aussprache sind 26 Minuten vereinbart,Zusatzpunkt 23,Debatte,11135,,4,1694,65.15384615384616,Reden zu Protokoll im TOP,False
+204,39,68.0,"Senioren, Frauen und Jugend Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart",Zusatzpunkt 24,Debatte,45,745.0,16,10290,151.3235294117647,,True
+204,755,68.0,d Energie Haushaltsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vereinbart,Zusatzpunkt 25,Debatte,761,1613.0,17,9943,146.22058823529412,,True
+204,1613,39.0,lag: Auswärtiger Ausschuss (f) Verteidigungsausschuss Eine Dauer von 39 Minuten ist für die Aussprache vorges,Zusatzpunkt 26,Debatte,1619,2217.0,10,6188,158.66666666666666,,True
+204,2227,39.0,schuss für Digitales Haushaltsausschuss Auch hier ist eine Dauer von 39 Minuten für die Aussprache vereinbart,Zusatzpunkt 27,Debatte,2233,2545.0,9,5319,136.3846153846154,,True
+204,2561,39.0,cherheit und Verbraucherschutz Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 28,Debatte,2571,3281.0,12,5981,153.35897435897436,,True
+204,3291,39.0,assung Ausschuss für Klimaschutz und Energie Für die Aussprache sind 39 Minuten vorgesehen,Zusatzpunkt 29,Debatte,3297,4015.0,12,6237,159.92307692307693,,True
+204,4015,39.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 30,Debatte,4023,4489.0,7,5413,138.7948717948718,Reden zu Protokoll im TOP,False
+205,15,120.0,im Anschluss an die Erklärung des Bundeskanzlers wurde eine Dauer von 120 Minuten vereinbart,Tagesordnungspunkt 1,Debatte,21,,20,20599,171.65833333333333,,True
+206,4331,39.0,Ausschuss) Drucksache 20/11178 39 Minuten sind für die Aussprache vorge,Zusatzpunkt 3,Debatte,4337,4691.0,7,4695,120.38461538461539,,True
+206,5205,39.0,iales (f) Wirtschaftsausschuss Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 4,Debatte,5211,5771.0,13,5802,148.76923076923077,,True
+206,5799,39.0,Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Tagesordnungspunkt 8,Debatte,5805,,10,5688,145.84615384615384,,True
+207,37,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Tagesordnungspunkt 6,Debatte,43,1301.0,23,10783,158.5735294117647,,True
+207,1301,68.0,d Energie Haushaltsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Zusatzpunkt 7,Debatte,1311,3051.0,17,11136,163.76470588235293,,True
+207,3051,68.0,gsvorschlag: Finanzausschuss Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Tagesordnungspunkt 7,Debatte,3061,4187.0,14,9973,146.66176470588235,,True
+207,4207,68.0,fassung Wirtschaftsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten vorgesehen,Tagesordnungspunkt 5,Debatte,4213,5467.0,20,10808,158.94117647058823,,True
+207,8025,39.0,Entwicklung Haushaltsausschuss Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Zusatzpunkt 11,Debatte,8031,8649.0,9,5492,140.82051282051282,,True
+207,8659,39.0,heit Ausschuss für Digitales Für die Aussprache wurde eine Dauer von 39 Minuten vereinbart,Zusatzpunkt 13,Debatte,8665,9247.0,10,5701,146.17948717948718,,True
+207,9265,39.0,ltsausschuss gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten vereinbart,Tagesordnungspunkt 11,Debatte,9273,9607.0,7,4950,126.92307692307692,,True
+207,9617,39.0,n Ausschuss für Klimaschutz und Energie Haushaltsausschuss Hier sind 39 Minuten Debatte vorgesehen,Tagesordnungspunkt 12,Debatte,9623,10135.0,9,5504,141.12820512820514,Reden zu Protokoll im TOP,False
+207,10153,39.0,icklung Haushaltsausschuss gemäß § 96 der GO Für die Aussprache sind 39 Minuten vorgesehen,Tagesordnungspunkt 13,Debatte,10159,10569.0,8,4942,126.71794871794872,,True
+207,10579,39.0,ür Inneres und Heimat (f) Haushaltsausschuss Für die Aussprache sind 39 Minuten vorgesehen,Tagesordnungspunkt 14,Debatte,10585,10979.0,10,5045,129.35897435897436,,True
+207,10991,26.0,Für die Aussprache ist eine Dauer von 26 Minuten beschlossen,Tagesordnungspunkt 15,Debatte,10997,11393.0,8,3766,144.84615384615384,,True
+207,11423,26.0,"Drucksachen 20/11426, 20/13332 Für die Aussprache ist eine Dauer von 26 Minuten beschlossen",Tagesordnungspunkt 18,Debatte,11431,11763.0,5,2608,100.3076923076923,,True
+207,11781,26.0,"icklung, Bauwesen und Kommunen Für die Aussprache ist eine Dauer von 26 Minuten beschlossen",Zusatzpunkt 15,Debatte,11787,12137.0,9,4000,153.84615384615384,,True
+207,12147,26.0,und Medien Haushaltsausschuss Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 16,Debatte,12151,12365.0,6,2627,101.03846153846153,Reden zu Protokoll im TOP,False
+207,12383,26.0,Gesundheit Haushaltsausschuss Für die Aussprache ist eine Dauer von 26 Minuten beschlossen,Zusatzpunkt 17,Debatte,12389,12629.0,7,3170,121.92307692307692,,True
+207,12629,26.0,ss für Klimaschutz und Energie Für die Aussprache ist eine Dauer von 26 Minuten vereinbart,Tagesordnungspunkt 19,Debatte,12635,,4,2036,78.3076923076923,Reden zu Protokoll im TOP,False
+208,43,39.0,beratend und gemäß § 96 der GO Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Zusatzpunkt 19,Debatte,49,433.0,9,5577,143.0,,True
+208,465,39.0,gsvorschlag: Verkehrsausschuss Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Zusatzpunkt 23,Debatte,471,1017.0,10,5860,150.25641025641025,,True
+208,1027,68.0,eiten der Europäischen Union Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Zusatzpunkt 26,Debatte,1033,2133.0,14,9336,137.2941176470588,,True
+208,2143,39.0,vorschlag: Ausschuss für Arbeit und Soziales Für die Aussprache sind 39 Minuten vorgesehen,Tagesordnungspunkt 22,Debatte,2149,2959.0,12,6053,155.2051282051282,,True
+208,2969,39.0,r die Angelegenheiten der Europäischen Union Für die Aussprache sind 39 Minuten vorgesehen,Tagesordnungspunkt 23,Debatte,2975,3339.0,8,5595,143.46153846153845,,True
+208,3339,39.0,sausschuss Ausschuss für Tourismus Haushaltsausschuss Eine Dauer von 39 Minuten ist für die Aussprache vorges,Tagesordnungspunkt 21,Debatte,3345,3779.0,8,5633,144.43589743589743,,True
+208,3789,39.0,es und Heimat (f) Rechtsausschuss Auch hier haben wir eine Dauer von 39 Minuten für die Aussprache vorgesehen,Tagesordnungspunkt 24,Debatte,3797,4431.0,8,4783,122.64102564102564,,True
+208,4439,39.0,schuss für Arbeit und Soziales Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Zusatzpunkt 27,Debatte,4445,4777.0,7,4100,105.12820512820512,,True
+209,607,90.0,ssprache im Anschluss an die Regierungserklärung wurde eine Dauer von 90 Minuten beschlossen,Tagesordnungspunkt 1,Regierungserklärung,613,2573.0,21,16409,182.32222222222222,Regierungserklärung,False
+209,6205,39.0,m sichern Drucksache 20/14703 Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Tagesordnungspunkt 15,Debatte,6211,6703.0,11,6319,162.02564102564102,,True
+209,7065,39.0,"Drucksachen 20/12262, 20/14091 Für die Aussprache ist eine Dauer von 39 Minuten beschlossen",Tagesordnungspunkt 17,Debatte,7071,7311.0,7,3511,90.02564102564102,Reden zu Protokoll im TOP,False
+209,7321,39.0,Drucksache 20/14712 Überweisung/Beschlussfassung Haushaltsausschuss 39 Minuten sind für die Aussprache vorge,Zusatzpunkt 3,Debatte,7327,,10,4289,109.97435897435898,Reden zu Protokoll im TOP,False
+210,45,68.0,ssprache im Anschluss an die Regierungserklärung wurde eine Dauer von 68 Minuten beschlossen,Tagesordnungspunkt 6,Regierungserklärung,51,1197.0,16,13111,192.80882352941177,Regierungserklärung,False
+210,1203,68.0,"ucksachen 20/14356, 20/14669 Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen",Zusatzpunkt 6,Debatte,1209,2183.0,13,9134,134.3235294117647,,True
+210,2193,68.0,Brutto Drucksache 20/14715 Überweisungsvorschlag: Finanzausschuss 68 Minuten Debatte sind hierfür vorgeseh,Zusatzpunkt 7,Debatte,2201,3261.0,18,10902,160.3235294117647,,True
+210,3285,68.0,ung/Beschlussfassung Ausschuss für Inneres und Heimat Eine Dauer von 68 Minuten ist hier für die Aussprache v,Tagesordnungspunkt 20,Debatte,3291,4329.0,17,9308,136.88235294117646,,True
+210,4337,68.0,Für die Aussprache ist auch hier eine Dauer von 68 Minuten vorgesehen,Tagesordnungspunkt 10,Debatte,4343,4907.0,14,9585,140.9558823529412,,True
+210,4915,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Tagesordnungspunkt 11,Debatte,4923,6045.0,15,8766,128.91176470588235,,True
+210,6067,68.0,d Heimat (f) Rechtsausschuss Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Zusatzpunkt 8,Debatte,6081,7461.0,22,10794,158.73529411764707,Reden zu Protokoll im TOP,False
+210,8663,39.0,erstützen Drucksache 20/14702 Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Zusatzpunkt 14,Debatte,8671,9089.0,10,4875,125.0,,True
+210,9131,39.0,Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen,Tagesordnungspunkt 12,Debatte,9137,9521.0,10,5469,140.23076923076923,,True
+210,10169,39.0,Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Tagesordnungspunkt 13,Debatte,10187,10831.0,9,4568,117.12820512820512,,True
+210,10849,39.0,4 Überweisungsvorschlag: Ausschuss für Ernährung und Landwirtschaft 39 Minuten sind für die Aussprache vorge,Tagesordnungspunkt 7,Debatte,10855,11747.0,9,4714,120.87179487179488,Reden zu Protokoll im TOP,False
+210,11773,39.0,39 Minuten sind für die Aussprache vorge,Zusatzpunkt 21,Debatte,11779,12663.0,8,4450,114.1025641025641,Reden zu Protokoll im TOP,False
+210,12671,39.0,"Drucksachen 20/11131, 20/14319 Für die Aussprache ist eine Dauer von 39 Minuten beschlossen",Zusatzpunkt 23,Debatte,12745,12945.0,4,2527,64.7948717948718,Reden zu Protokoll im TOP,False
+210,12961,26.0,Für die Aussprache ist eine Dauer von 26 Minuten beschlossen,Zusatzpunkt 24,Debatte,12975,13165.0,4,1878,72.23076923076923,Reden zu Protokoll im TOP,False
+210,13175,26.0,sfassung Auswärtiger Ausschuss Für die Aussprache ist eine Dauer von 26 Minuten beschlossen,Tagesordnungspunkt 16,Debatte,13181,13321.0,3,1310,50.38461538461539,Reden zu Protokoll im TOP,False
+210,13335,26.0,usschuss) Drucksache 20/14769 Für die Aussprache ist eine Dauer von 26 Minuten beschlossen,Zusatzpunkt 25,Debatte,13341,,2,1050,40.38461538461539,Reden zu Protokoll im TOP,False
+211,53,39.0,ne-Hilfen Drucksache 20/14712 Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Zusatzpunkt 26,Debatte,59,485.0,11,5766,147.84615384615384,,True
+211,559,39.0,"icklung, Bauwesen und Kommunen Für die Aussprache ist eine Dauer von 39 Minuten vorgesehen",Zusatzpunkt 29,Debatte,565,1031.0,11,5715,146.53846153846155,,True
+211,1075,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Zusatzpunkt 35,Debatte,1081,3273.0,27,13474,198.14705882352942,,True
+211,3287,68.0,Für die Aussprache wurde eine Dauer von 68 Minuten beschlossen,Tagesordnungspunkt 18,Debatte,3297,3435.0,3,2391,35.161764705882355,Reden zu Protokoll im TOP,False
+211,4069,39.0,Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Zusatzpunkt 37,Debatte,4085,4319.0,4,2932,75.17948717948718,Reden zu Protokoll im TOP,False
+211,4345,39.0,chuss Ausschuss für Gesundheit Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Tagesordnungspunkt 9,Debatte,4351,4931.0,11,3946,101.17948717948718,Reden zu Protokoll im TOP,False
+211,4997,39.0,Für die Aussprache ist eine Dauer von 39 Minuten beschlossen,Zusatzpunkt 38,Debatte,5003,5365.0,9,4653,119.3076923076923,Reden zu Protokoll im TOP,False
+211,5373,39.0,"Drucksachen 20/12089, 20/14786 Für die Aussprache ist eine Dauer von 39 Minuten beschlossen",Zusatzpunkt 40,Debatte,5387,5951.0,6,3876,99.38461538461539,Reden zu Protokoll im TOP,False

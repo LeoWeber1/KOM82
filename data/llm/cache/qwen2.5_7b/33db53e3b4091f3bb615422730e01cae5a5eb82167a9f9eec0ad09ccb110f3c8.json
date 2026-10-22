@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des Hochbaustatistikgesetzes\", \"kurztitel\": \"Hochbaustatistikgesetz\", \"drucksachen\": [\"20/11315\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 103,
+ "prompt_eval_count": 1075,
+ "total_duration": 4672637709,
+ "load_duration": 618875,
+ "wand_s": 4.674629874993116,
+ "prompt_zeichen": 3005
+}

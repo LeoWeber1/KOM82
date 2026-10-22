@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Beratung des Antrags der Abgeordneten Martin Hess, Dr. Bernd Baumann, Dr. Gottfried Curio, weiterer Abgeordneter und der Fraktion der AfD Linksextremistische Gewalt konsequent bekämpfen – Unterwanderungen von Organisationen verhindern und mehr Transparenz bei Gefährdungslagen sicherstellen\", \"kurztitel\": null, \"drucksachen\": [\"20/10612\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 137,
+ "prompt_eval_count": 1093,
+ "total_duration": 6186296583,
+ "load_duration": 943833,
+ "wand_s": 6.1895444160327315,
+ "prompt_zeichen": 3106
+}

@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite Beratung und Schlussabstimmung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Abkommen vom 21. Juli 2023 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die grenzüberschreitende Berufsausbildung\", \"kurztitel\": null, \"drucksachen\": [\"20/10818\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite\"}, {\"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) zu dem Antrag der Bundesregierung\", \"kurztitel\": null, \"drucksachen\": [\"20/11739\"], \"typ\": \"beschlussempfehlung\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 248,
+ "prompt_eval_count": 1118,
+ "total_duration": 10768188041,
+ "load_duration": 723041,
+ "wand_s": 10.770336542278528,
+ "prompt_zeichen": 3132
+}

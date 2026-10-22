@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stabilisierung des Rentenniveaus und zum Aufbau eines Generationenkapitals für die gesetzliche Rentenversicherung (Rentenniveaustabilisierungs- und Generationenkapitalgesetz)\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11898\", \"20/12611\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Ulrike Schielke-Ziesing, René Springer, Jürgen Pohl, weiterer Abgeordneter und der Fraktion der AfD Für eine sichere Rente unserer Kinder – Junior-Spardepot\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11847\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Abgeordneten Dr. Sahra Wagenknecht, Ali Al-Dailami, Sevim Dağdelen, weiterer Abgeordneter und der Gruppe BSW Von Österreich lernen – Eine gute Rente für alle\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10735\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 384,
+ "prompt_eval_count": 1362,
+ "total_duration": 17247355625,
+ "load_duration": 806917,
+ "wand_s": 17.249256124719977,
+ "prompt_zeichen": 3876
+}

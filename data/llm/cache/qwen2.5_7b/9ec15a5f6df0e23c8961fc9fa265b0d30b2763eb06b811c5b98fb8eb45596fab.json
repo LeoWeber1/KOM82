@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"kernpunkt\": \"Zweites Beratungsgesetz zum zweiten Haushaltsfinanzierungsgesetz 2024\",\n  \"positionen\": [\n    {\n      \"fraktion\": \"CDU/CSU\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"CDU/CSU-Fraktion stellt Anträge zur Förderung der Landwirtschaft.\"\n    },\n    {\n      \"fraktion\": \"SPD\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"SPD-Fraktion betont den verfassungskonformen Haushalt und die innere Sicherheit.\"\n    },\n    {\n      \"fraktion\": \"AfD\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"AfD-Fraktion kritisiert die Energietransformation und die Kosten für die Bürger.\"\n    },\n    {\n      \"fraktion\": \"BÜNDNIS 90/DIE GRÜNEN\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"BÜNDNIS 90/DIE GRÜNEN-Fraktion betont die wirtschaftliche Anspannung und die Konsequenzen des Verfassungsgerichts.\"\n    },\n    {\n      \"fraktion\": \"FDP\",\n      \"haltung\": \"zustimmend\",\n      \"begruendung\": \"FDP-Fraktion betont die Notwendigkeit des Haushalts und die Diskussion der Anträge.\"\n    },\n    {\n      \"fraktion\": \"Die Linke\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"Die Linke-Fraktion kritisiert die Kürzungen und fordert einen Sozialstaat.\"\n    },\n    {\n      \"fraktion\": \"BSW\",\n      \"haltung\": \"ablehnend\",\n      \"begruendung\": \"BSW-Fraktion kritisiert den Haushalt für die steigenden Lebenskosten der Bevölkerung.\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 470,
+ "prompt_eval_count": 2034,
+ "total_duration": 32017580750,
+ "load_duration": 3564226166,
+ "wand_s": 32.02569995820522,
+ "prompt_zeichen": 6946
+}

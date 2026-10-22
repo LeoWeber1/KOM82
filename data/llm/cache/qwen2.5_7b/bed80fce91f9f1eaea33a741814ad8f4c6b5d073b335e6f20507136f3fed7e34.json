@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Bundes-Klimaschutzgesetzes\", \"kurztitel\": \"Bundes-Klimaschutzgesetz\", \"drucksachen\": [\"20/8290\", \"20/8670\", \"20/11183\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 132,
+ "prompt_eval_count": 1075,
+ "total_duration": 5805884083,
+ "load_duration": 636125,
+ "wand_s": 5.807702291756868,
+ "prompt_zeichen": 2971
+}

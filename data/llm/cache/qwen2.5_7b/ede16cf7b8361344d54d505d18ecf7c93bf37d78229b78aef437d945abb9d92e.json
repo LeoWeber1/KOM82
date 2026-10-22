@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zur Änderung des Strafgesetzbuches – Strafbarkeit der unzulässigen Interessenwahrnehmung\", \"kurztitel\": \"Strafgesetzbuch\", \"drucksachen\": [\"20/10376\", \"20/11177\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 153,
+ "prompt_eval_count": 1091,
+ "total_duration": 6847166125,
+ "load_duration": 806125,
+ "wand_s": 6.8495472078211606,
+ "prompt_zeichen": 3005
+}

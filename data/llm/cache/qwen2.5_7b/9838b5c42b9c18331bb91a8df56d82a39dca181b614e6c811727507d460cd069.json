@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Interims-Wirtschaftspartnerschaftsabkommen vom 28. Juli 2016 zwischen Ghana einerseits und der Europäischen Union und ihren Mitgliedstaaten andererseits\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12200\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Interims-Wirtschaftspartnerschaftsabkommen vom 22. Januar 2009 zwischen Côte d’Ivoire einerseits und der Europäischen Union und ihren Mitgliedstaaten andererseits\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12199\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Abkommens über die Internationale Bank für Wiederaufbau und Entwicklung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12198\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Übergangsabkommen für ein Wirtschaftspartnerschaftsabkommen vom 22. Januar 2009 zwischen der Europäischen Union und ihren Mitgliedstaaten einerseits und der Vertragspartei Zentralafrika andererseits\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12202\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Wirtschaftspartnerschaftsabkommen vom 10. Juni 2016 zwischen …\",\n      \"kurztitel\": null,\n      \"drucksachen\": [],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 612,
+ "prompt_eval_count": 1470,
+ "total_duration": 27349624250,
+ "load_duration": 843000,
+ "wand_s": 27.354117583017796,
+ "prompt_zeichen": 4372
+}

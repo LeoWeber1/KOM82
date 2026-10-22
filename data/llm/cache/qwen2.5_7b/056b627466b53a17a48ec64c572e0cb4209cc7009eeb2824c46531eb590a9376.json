@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Verbesserung des Klimaschutzes beim Immissionsschutz, zur Beschleunigung immissionsschutzrechtlicher Genehmigungsverfahren und zur Umsetzung von EU-Recht\", \"kurztitel\": null, \"drucksachen\": [\"20/7502\", \"20/11657\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 142,
+ "prompt_eval_count": 1112,
+ "total_duration": 6556074292,
+ "load_duration": 844375,
+ "wand_s": 6.560179832857102,
+ "prompt_zeichen": 3113
+}

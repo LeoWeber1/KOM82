@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur periodengerechten Veranschlagung von Zinsausgaben im Rahmen der staatlichen Kreditaufnahme und eines Dritten Gesetzes zur Weiterentwicklung der Qualität und zur Teilhabe in der Kindertagesbetreuung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/12771\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung Technikfolgenabschätzung (TA) Technikfolgenabschätzung (TA) Aufgaben und Herausforderungen einer vielfältigen und vielfaltsfördernden Pflanzenzüchtung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/5300\"],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung Technikfolgenabschätzung (TA) Chancen und Risiken der Digitalisierung kritischer kommunaler Infrastrukturen an den Beispielen der Wasser- und Abfallwirtschaft\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/8888\"],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 442,
+ "prompt_eval_count": 1499,
+ "total_duration": 20172055167,
+ "load_duration": 641458,
+ "wand_s": 20.17386820819229,
+ "prompt_zeichen": 4372
+}

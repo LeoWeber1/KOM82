@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Übereinkommen vom 12. März 2019 zur Gründung des „Square Kilometre Array“-Observatoriums\", \"kurztitel\": null, \"drucksachen\": [\"20/10248\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 113,
+ "prompt_eval_count": 1084,
+ "total_duration": 5189661541,
+ "load_duration": 730041,
+ "wand_s": 5.191972334403545,
+ "prompt_zeichen": 3040
+}

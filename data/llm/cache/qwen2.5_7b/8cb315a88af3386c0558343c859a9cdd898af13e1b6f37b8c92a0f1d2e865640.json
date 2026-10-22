@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2025 (ERP-Wirtschaftsplangesetz 2025 – ERPWiPlanG 2025)\", \"kurztitel\": \"ERPWiPlanG 2025\", \"drucksachen\": [\"20/12786\", \"20/13086\", \"20/14767\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Schornsteinfeger-Handwerksgesetzes\", \"kurztitel\": null, \"drucksachen\": [\"20/13085\", \"20/14765\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}]}",
+ "thinking": null,
+ "eval_count": 272,
+ "prompt_eval_count": 1581,
+ "total_duration": 13881382459,
+ "load_duration": 908209,
+ "wand_s": 13.883773083798587,
+ "prompt_zeichen": 4365
+}

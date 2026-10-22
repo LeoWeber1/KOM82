@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Abgeordneten Stephan Brandner, Peter Boehringer, Dr. Christina Baum, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Änderung des Bundesverfassungsgerichtsgesetzes (Gesetz zur Einführung der Begründungspflicht)\", \"kurztitel\": \"Bundesverfassungsgerichtsgesetz\", \"drucksachen\": [\"20/2763\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von den Abgeordneten Stephan Brandner, Tobias Matthias Peterka, Thomas Seitz, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Aufhebung des Gesetzes über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre\", \"kurztitel\": null, \"drucksachen\": [\"20/197\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von den Abgeordneten Stephan Brandner, Marc Bernhard, René Bochmann, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Änderung des Grundgesetzes (Gesetz zur Begrenzung der Amtszeit des Bundeskanzlers)\", \"kurztitel\": \"Grundgesetz\", \"drucksachen\": [\"20/199\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von den Abgeordneten Stephan Brandner, Thomas Seitz, Marc Bernhard, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines ... Gesetzes zur Änderung des Parteiengesetzes – Gesetz zur Erhöhung der Transparenz beim Sponsoring der Parteien\", \"kurztitel\": \"Parteiengesetz\", \"drucksachen\": [\"20/4282\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}]}",
+ "thinking": null,
+ "eval_count": 545,
+ "prompt_eval_count": 1499,
+ "total_duration": 24602313583,
+ "load_duration": 914875,
+ "wand_s": 24.604675083886832,
+ "prompt_zeichen": 4363
+}

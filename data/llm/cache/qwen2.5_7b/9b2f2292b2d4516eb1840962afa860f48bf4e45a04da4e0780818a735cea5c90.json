@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/13183\", \"20/14784\", \"20/14797\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14797\"],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Bericht des Ausschusses für Familie, Senioren, Frauen und Jugend (13. Ausschuss) zu dem Antrag der Abgeordneten Thomas Ehrhorn, Martin Reichardt, Mariana Iris Harder-Kühnel, weiterer Abgeordneter und der Fraktion der AfD Verbesserung des Schutzes von Kindern und Jugendlichen vor sexuellem Missbrauch – Aufarbeitungskommission mit dem Recht zur Aufklärung und Mitwirkung einrichten sowie strafrechtliche Anzeigepflicht für bestimmte Personengruppen einführen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/6086\", \"20/10475\"],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Zweite und dritte Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes für ein verlässliches Hilfesystem bei geschlechtsspezifischer und häuslicher Gewalt\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14025\", \"20/14785\", \"20/14798\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/14798\"],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 652,
+ "prompt_eval_count": 1549,
+ "total_duration": 29125456083,
+ "load_duration": 884083,
+ "wand_s": 29.127820583060384,
+ "prompt_zeichen": 4366
+}

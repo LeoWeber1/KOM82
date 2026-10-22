@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2025 (ERP-Wirtschaftsplangesetz 2025 – ERPWiPlanG 2025)\", \"kurztitel\": \"ERP-Wirtschaftsplangesetz 2025\", \"drucksachen\": [\"20/12786\", \"20/13086\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite\"}]}",
+ "thinking": null,
+ "eval_count": 149,
+ "prompt_eval_count": 1156,
+ "total_duration": 6989927375,
+ "load_duration": 956083,
+ "wand_s": 6.995328374672681,
+ "prompt_zeichen": 3247
+}

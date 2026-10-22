@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zur Änderung agrarrechtlicher Vorschriften\", \"kurztitel\": null, \"drucksachen\": [\"20/11948\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Erste Beratung des von den Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP eingebrachten Entwurfs eines Gesetzes zur Verlängerung der Tarifermäßigung für Einkünfte aus Land- und Forstwirtschaft\", \"kurztitel\": null, \"drucksachen\": [\"20/11947\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Fraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP Landwirtschaft in Deutschland zukunftsfähig gestalten\", \"kurztitel\": null, \"drucksachen\": [\"20/11946\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 314,
+ "prompt_eval_count": 1389,
+ "total_duration": 14698232250,
+ "load_duration": 912500,
+ "wand_s": 14.700572125148028,
+ "prompt_zeichen": 3879
+}

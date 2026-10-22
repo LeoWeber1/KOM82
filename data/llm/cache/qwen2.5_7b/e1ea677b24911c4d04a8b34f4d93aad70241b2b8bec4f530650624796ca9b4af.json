@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Berufsbildungsvalidierungs- und ‑digitalisierungsgesetzes (BVaDiG)\", \"kurztitel\": \"BVaDiG\", \"drucksachen\": [\"20/10857\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"erste\"}, {\"titel\": \"Beratung des Antrags der Abgeordneten Nicole Gohlke, Clara Bünger, Dr. André Hahn, weiterer Abgeordneter und der Gruppe Die Linke Ausbildungsqualität verbessern – Berufsbildungsgesetz umfassend novellieren\", \"kurztitel\": null, \"drucksachen\": [\"20/10801\"], \"typ\": \"antrag\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 217,
+ "prompt_eval_count": 1211,
+ "total_duration": 9891017292,
+ "load_duration": 609500,
+ "wand_s": 9.892722165677696,
+ "prompt_zeichen": 3423
+}

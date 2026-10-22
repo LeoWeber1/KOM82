@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\"gegenstaende\": [{\"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des Hochbaustatistikgesetzes\", \"kurztitel\": \"Hochbaustatistikgesetz\", \"drucksachen\": [\"20/11315\", \"20/11789\"], \"typ\": \"gesetzentwurf\", \"beratungsstufe\": \"zweite und dritte\"}, {\"titel\": \"Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung\", \"kurztitel\": null, \"drucksachen\": [\"20/11791\"], \"typ\": \"bericht\", \"beratungsstufe\": \"beratung\"}]}",
+ "thinking": null,
+ "eval_count": 195,
+ "prompt_eval_count": 1158,
+ "total_duration": 8788012667,
+ "load_duration": 758917,
+ "wand_s": 8.790169707965106,
+ "prompt_zeichen": 3243
+}

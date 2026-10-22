@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:3b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Gesundheitsversorgung in der Kommune (Gesundheitsversorgungsstärkungsgesetz – GVSG)\",\n      \"kurztitel\": \"GVSG\",\n      \"drucksachen\": [\n        \"20/11853\",\n        \"20/14771\",\n        \"20/14793\"\n      ],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Beratung des Berichts des Ausschusses für Gesundheit (14. Ausschuss) gemäß § 62 Absatz 2 der Geschäftsordnung zu dem Antrag der Abgeordneten Kathrin Vogler, Susanne Ferschl, Heidi Reichinnek, weiterer Abgeordneter und der Gruppe Die Linke Gesundheit für alle – Modern, gemeinwohlorientiert und solidarisch\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\n        \"20/11427\",\n        \"20/14741\"\n      ],\n      \"typ\": \"bericht\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 330,
+ "prompt_eval_count": 1252,
+ "total_duration": 7216767042,
+ "load_duration": 574167,
+ "wand_s": 7.21881250012666,
+ "prompt_zeichen": 3451
+}

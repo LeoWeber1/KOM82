@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Zweite und dritte Beratung des von der Fraktion der CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)\",\n      \"kurztitel\": \"Zustrombegrenzungsgesetz\",\n      \"drucksachen\": [\n        \"20/12804\"\n      ],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"zweite und dritte\"\n    },\n    {\n      \"titel\": \"Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss) Drucksache 20/13648 Buchstabe a\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\n        \"20/13648\"\n      ],\n      \"typ\": \"beschlussempfehlung\",\n      \"beratungsstufe\": \"zweite\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 266,
+ "prompt_eval_count": 687,
+ "total_duration": 16556027250,
+ "load_duration": 2859061959,
+ "wand_s": 16.562222792301327,
+ "prompt_zeichen": 1968
+}

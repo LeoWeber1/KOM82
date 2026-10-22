@@ -1,0 +1,11 @@
+{
+ "modell": "qwen2.5:7b",
+ "inhalt": "{\n  \"gegenstaende\": [\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Vertrag vom 3. Dezember 2009 zwischen der Bundesrepublik Deutschland und der Föderativen Republik Brasilien über die Rechtshilfe in Strafsachen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11474\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Gruppe Die Linke eingebrachten Entwurfs eines Gesetzes zur Aussetzung des Anpassungsverfahrens gemäß § 11 Absatz 4 des Abgeordnetengesetzes für das Jahr 2024 (Anpassungsverfahrensaussetzungsgesetz 2024)\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11422\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Ungenutzte Potenziale der Wärme aus Abwasser erschließen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/10617\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags der Fraktion der CDU/CSU Brenner-Nordzulauf im Landkreis Rosenheim – Planungsalternativen prüfen\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11622\"],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    },\n    {\n      \"titel\": \"Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zum Schienenlärmschutz (SchlärmschG)\",\n      \"kurztitel\": null,\n      \"drucksachen\": [\"20/11314\"],\n      \"typ\": \"gesetzentwurf\",\n      \"beratungsstufe\": \"erste\"\n    },\n    {\n      \"titel\": \"Beratung des Antrags des Präsidenten des Bundesrechnungshofes Rechnung des …\",\n      \"kurztitel\": null,\n      \"drucksachen\": [],\n      \"typ\": \"antrag\",\n      \"beratungsstufe\": \"beratung\"\n    }\n  ]\n}",
+ "thinking": null,
+ "eval_count": 632,
+ "prompt_eval_count": 1538,
+ "total_duration": 28377882125,
+ "load_duration": 679292,
+ "wand_s": 28.380002500023693,
+ "prompt_zeichen": 4358
+}
