@@ -119,13 +119,13 @@ topZehnPlausibelJa,28,,,Positionen,data/llm/top10_zusammenfassungen.csv:plausibe
 topZehnPlausibelNein,3,,,Positionen,data/llm/top10_zusammenfassungen.csv:plausibel=False
 topZehnPruefbar,31,,,Positionen,data/llm/top10_zusammenfassungen.csv:plausibel nicht leer
 topZehnOhneErwartung,40,,,Positionen,data/llm/top10_zusammenfassungen.csv:plausibel leer
-laufzeitLlmGesetze,2733.8999999999996,,,Sekunden,"data/processed/laufzeiten_teil.csv:sekunden (Summe schritt=llm_gesetze/llm_gesetze_gesetzentwurf, Läufe: 5)"
-laufzeitLlmGesetzeMinuten,45.56499999999999,,,Minuten,"data/processed/laufzeiten_teil.csv:sekunden (Summe schritt=llm_gesetze/llm_gesetze_gesetzentwurf, Läufe: 5) / 60"
+laufzeitLlmGesetze,2735.0999999999995,,,Sekunden,"data/processed/laufzeiten_teil.csv:sekunden (Summe schritt=llm_gesetze/llm_gesetze_gesetzentwurf, Läufe: 6)"
+laufzeitLlmGesetzeMinuten,45.584999999999994,,,Minuten,"data/processed/laufzeiten_teil.csv:sekunden (Summe schritt=llm_gesetze/llm_gesetze_gesetzentwurf, Läufe: 6) / 60"
 laufzeitLlmZusammenfassung,0.2,,,Sekunden,"data/processed/laufzeiten_teil.csv:sekunden (schritt=llm_zusammenfassung, letzte Zeile)"
 laufzeitLlmVergleich,1697.2,,,Sekunden,"data/processed/laufzeiten_teil.csv:sekunden (schritt=llm_vergleich, letzte Zeile)"
 laufzeitLlmCache,1.5,,,Sekunden,"data/processed/laufzeiten_teil.csv:sekunden (schritt=llm_gesetze_cache, letzte Zeile)"
-laufzeitExtractGesamt,27.9,,,Sekunden,"data/processed/laufzeiten.csv:sekunden (schritt=extract, = laufzeitExtract)"
-laufzeitExtractJeSitzung,0.41641791044776116,,,Sekunden/Sitzung,data/processed/laufzeiten.csv:sekunden / sitzungen (extract)
+laufzeitExtractGesamt,32.4,,,Sekunden,"data/processed/laufzeiten.csv:sekunden (schritt=extract, = laufzeitExtract)"
+laufzeitExtractJeSitzung,0.4835820895522388,,,Sekunden/Sitzung,data/processed/laufzeiten.csv:sekunden / sitzungen (extract)
 laufzeitSentimentKalt,367,,,Sekunden,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Zeile Vollauf, s"
 bertFensterHundertfuenfzig,31065,,,Fenster,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Zeile Vollauf, Fenster"
 bertRedenHundertfuenfzig,10024,,,Reden,"Messung Sentiment-Vollauf 150 Wörter, Ausgabe sentiment.py --voll: Zeile Vollauf, Reden"

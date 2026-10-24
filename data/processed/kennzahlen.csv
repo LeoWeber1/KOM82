@@ -493,7 +493,7 @@ nettoMittelFraktionslosNachVertrauensfrage,-0.6145441106956782,-0.72982170508514
 nettoZentriertFraktionslosNachVertrauensfrage,-0.1681458992545605,-0.2580218996042688,-0.0700673487023786,netto,stats_sentiment.py:sentiment_fraktion_phase
 anteilNegativFraktionslosNachVertrauensfrage,0.8,0.6486089030206678,0.9643165024630542,Anteil,stats_sentiment.py:sentiment_fraktion_phase
 kwSentimentH,194.6133489379149,,,H,stats_sentiment.py:kruskal_sentiment
-kwSentimentP,2.657230179013156e-39,,,p,stats_sentiment.py:kruskal_sentiment
+kwSentimentP,2.6572301790131562e-39,,,p,stats_sentiment.py:kruskal_sentiment
 kwSentimentEpsilon,0.3222075313541637,,,Epsilon-Quadrat,stats_sentiment.py:kruskal_sentiment
 kwSentimentN,605,,,MdB,stats_sentiment.py:kruskal_sentiment
 hDreiFdpVor,-0.2072371858744628,-0.2404471114529878,-0.1762794083759073,netto,stats_sentiment.py:h3
@@ -563,18 +563,18 @@ parserGesetzeEinheit,259,,,Gesetzentwürfe,make_zahlen.py:data/processed/gesetze
 gesetzeOhneEinzelplan,241,,,Gesetzentwürfe,make_zahlen.py:data/processed/gesetze_einheit.parquet:titel ohne Einzelplan
 gesetzeGemeinsamBeraten,118,,,Gesetzentwürfe,"make_zahlen.py:data/processed/gesetze_einheit.parquet:gegenstaende_im_top_max > 1, ohne Einzelplan"
 parserZuProtokoll,604,,,Reden,make_zahlen.py:data/processed/reden.parquet:redetyp in zu_protokoll/erklaerung_go31
-laufzeitExtract,27.9,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=extract)
-laufzeitStammdaten,0.8,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=stammdaten)
-laufzeitGold,7.8,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=gold)
-laufzeitParse,13.4,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=parse)
-laufzeitValidate,26,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=validate)
-laufzeitApplaus,15.1,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=applaus)
-laufzeitSentiment,7.9,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=sentiment)
-laufzeitSentimentKappa,1.3,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=sentiment_kappa)
-laufzeitMetrics,6.2,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=metrics)
-laufzeitStats,1.3,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=stats)
+laufzeitExtract,32.4,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=extract)
+laufzeitStammdaten,1.3,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=stammdaten)
+laufzeitGold,8.5,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=gold)
+laufzeitParse,14.4,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=parse)
+laufzeitValidate,27.9,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=validate)
+laufzeitApplaus,15.7,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=applaus)
+laufzeitSentiment,10.7,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=sentiment)
+laufzeitSentimentKappa,1.5,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=sentiment_kappa)
+laufzeitMetrics,6.3,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=metrics)
+laufzeitStats,1.4,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=stats)
 laufzeitStatsSentiment,1.2,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=stats_sentiment)
-laufzeitLlm,34,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=llm)
-laufzeitVisualize,3.1,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=visualize)
-laufzeitGesamt,146,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (Summe OK/TEIL ohne zahlen)
-laufzeitGesamtMinuten,2.433333333333333,,,Minuten,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (Summe OK/TEIL ohne zahlen / 60)
+laufzeitLlm,2.5,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=llm)
+laufzeitVisualize,3.5,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (schritt=visualize)
+laufzeitGesamt,127.3,,,Sekunden,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (Summe OK/TEIL ohne zahlen)
+laufzeitGesamtMinuten,2.1216666666666666,,,Minuten,make_zahlen.py:data/processed/laufzeiten.csv:sekunden (Summe OK/TEIL ohne zahlen / 60)

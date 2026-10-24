@@ -14,7 +14,7 @@ quote_kurztitel,0.6198
 quote_typ,0.7769
 quote_stufe,0.814
 quote_anzahl_gegenstaende,0.8471
-laufzeit_wand_s,12.6072
+laufzeit_wand_s,1.21
 llm_sekunden_summe,2690.7
 sekunden_je_block_mittel,10.8496
 sekunden_je_block_median,7.035
