@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.DS_Store
+*.egg-info/
+# erzeugt run_all.py selbst
+data/xml/
+data/raw/
+data/lines/
+data/cache/
+data/teillauf/
+data/download_manifest.csv
+data/extract_log.txt
+logs/
+LaTeX/
