@@ -264,7 +264,7 @@ def abb3(sr: pd.DataFrame) -> dict:
     sz["datum"] = pd.to_datetime(sz.datum)
     # nur Fraktionen/Gruppen: Regierungsbank (235 Reden) und Bundesrat sind keine Seite im Parlament
     d = sr[sr.bank.isin(FRAKTIONEN)].assign(seite=lambda x: np.where(x.rolle_regierung, "reg", "opp"))
-    a = (d.groupby(["sitzung", "seite"]).negativ.mean().rename("anteil").reset_index()
+    a = (d.groupby(["sitzung", "seite"]).negativ.agg(anteil="mean", n="size").reset_index()
          .merge(sz, on="sitzung").sort_values("sitzung"))
     vor, nach = d[d.sitzung <= GRENZE], d[d.sitzung > GRENZE]
     rv, rn = vor[vor.seite == "reg"].negativ.mean(), nach[nach.seite == "reg"].negativ.mean()
@@ -276,12 +276,26 @@ def abb3(sr: pd.DataFrame) -> dict:
         t = kern = (f"Anteil negativer Reden in Sitzung {SITZUNGEN[0]}–{SITZUNGEN[-1]}: "
                     "kein Vergleich vor/nach dem Ampel-Bruch, eine Phase ohne Reden")
     fig, ax = plt.subplots(figsize=(breite(), hoehe(4.4)), layout="constrained")
-    # je Sitzung ein Wert als dünne Linie; Bruch bei 196/197, weil die Regierungsseite dort die FDP verliert
-    stile = {"reg": (REGIERUNG, "Regierungsfraktionen"), "opp": (OPPOSITION, "Opposition")}
-    for seite, (farbe, _) in stile.items():
+    # je Sitzung ein Punkt, Fläche nach Zahl der Reden: Ausreißer wie 100 % (Sitzung 201) beruhen auf 7 Reden.
+    # Keine Verbindungslinien, sie überbrückten sitzungsfreie Wochen und die Sommerpause.
+    stile = {"reg": (REGIERUNG, "Regierungsfraktionen", rv, rn), "opp": (OPPOSITION, "Opposition", ov, on)}
+    for seite, (farbe, name, mv, mn) in stile.items():
         x = a[a.seite == seite]
-        for _, seg in x.groupby(x.sitzung > GRENZE):
-            ax.plot(seg.datum, seg.anteil, lw=0.9, color=farbe, marker="o", ms=2.2)
+        ax.scatter(x.datum, x.anteil, s=3 + x.n * 0.25, color=farbe, alpha=0.45, lw=0, zorder=2)
+        # Phasenmittel als waagrechte Linie: die Aussage des Titels direkt im Bild; Werte links bzw. rechts daneben
+        halo = [pe.withStroke(linewidth=2.5, foreground="white")]
+        vor_s, nach_s = x[x.sitzung <= GRENZE], x[x.sitzung > GRENZE]
+        for seg, m in [(vor_s, mv), (nach_s, mn)]:
+            if not seg.empty:
+                ax.plot([seg.datum.min(), seg.datum.max()], [m, m], color=farbe, lw=1.6, zorder=3,
+                        solid_capstyle="butt")
+        if not vor_s.empty:
+            ax.annotate(f"{name}: {proz(mv)}", (vor_s.datum.min(), mv), xytext=(0, 7 if seite == "opp" else -7),
+                        textcoords="offset points", ha="left", va="bottom" if seite == "opp" else "top",
+                        color=farbe, zorder=4, path_effects=halo)
+        if not nach_s.empty:
+            ax.annotate(proz(mn), (nach_s.datum.max(), mn), xytext=(3, 0), textcoords="offset points",
+                        ha="left", va="center", color=farbe, zorder=4, path_effects=halo)
     datum = sz.set_index("sitzung").datum
     marken = []   # im Teillauf nur die Ereignisse, deren Sitzungen im Bereich liegen
     if {GRENZE, GRENZE + 1} <= set(datum.index):
@@ -302,8 +316,6 @@ def abb3(sr: pd.DataFrame) -> dict:
     ax.xaxis.set_major_formatter(FuncFormatter(lambda v, _: (lambda dt: MONATE[dt.month - 1]
                                                              + (f" {dt.year}" if dt.month == 1 else ""))(mdates.num2date(v))))
     ax.grid(axis="y", color=GRID, lw=0.5)
-    fig.legend(handles=[Line2D([], [], color=f, lw=0.9, marker="o", ms=2.2, label=lab) for f, lab in stile.values()],
-               loc="outside lower center", ncol=2, borderaxespad=0.2)
     titel(fig, t)
     return {"datei": speichern(fig, "abb3_negativ_zeitreihe.pdf"), "titel": t,
             "kern": kern,
