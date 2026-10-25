@@ -349,7 +349,8 @@ def abb4() -> dict:
         ax.set_xlim(0, grenze)
         ax.set_ylim(0, grenze)
         ax.set_box_aspect(1)
-        ax.xaxis.set_major_locator(MultipleLocator(0.05 if grenze > 0.1 else 0.01))
+        # x in 10er- bzw. 2er-Schritten: bei 5 bzw. 1 Prozentpunkt stießen die Beschriftungen „15 %20 %“ aneinander
+        ax.xaxis.set_major_locator(MultipleLocator(0.1 if grenze > 0.1 else 0.02))
         ax.yaxis.set_major_locator(MultipleLocator(0.05 if grenze > 0.1 else 0.01))
         formatiere(ax.xaxis, prozent=True)
         formatiere(ax.yaxis, prozent=True)
@@ -391,7 +392,8 @@ def abb5() -> dict:
         print(f"abb5: {t}")
     cmap = LinearSegmentedColormap.from_list("blau", BLAU)
     vmax = np.ceil(np.nanmax([m[p][list(FRAKTIONEN)].max().max() for p in m]) * 10) / 10
-    fig, axes = plt.subplots(1, 2, figsize=(breite(), hoehe(5.4)), sharey=True, layout="constrained")
+    # 6,6 cm: die senkrechten Spaltennamen brauchen Höhe, bei 5,4 cm wurden die Zellen zu schmal für zwei Ziffern
+    fig, axes = plt.subplots(1, 2, figsize=(breite(), hoehe(6.6)), sharey=True, layout="constrained")
     for ax, (ph, name) in zip(axes, [("vor", "bis Sitzung 196"), ("nach", "ab Sitzung 197")]):
         w = m[ph][list(FRAKTIONEN)].to_numpy(float)
         im = ax.imshow(w, cmap=cmap, vmin=0, vmax=vmax)
@@ -411,8 +413,8 @@ def abb5() -> dict:
         ax.tick_params(which="both", length=0)
         for s in ax.spines.values():
             s.set_visible(False)
-        ax.set_xticks(range(len(FRAKTIONEN)), [NAME[f] for f in FRAKTIONEN], rotation=45, ha="right",
-                      rotation_mode="anchor")
+        ax.set_xticks(range(len(FRAKTIONEN)), [NAME[f] for f in FRAKTIONEN], rotation=90, ha="center",
+                      rotation_mode="default")  # 90° statt 45°: schräg überlagerten sich „CDU/CSU“ und „Grüne“
         if rf is not None:
             i, j = list(FRAKTIONEN).index(rf), list(FRAKTIONEN).index(af)
             ax.add_patch(Rectangle((j - 0.5, i - 0.5), 1, 1, fill=False, ec=OPPOSITION, lw=1.6))
@@ -459,8 +461,10 @@ def abb6() -> dict:
         ueber += len(raus)
         ax.scatter(drin, i + rng.uniform(-0.3, 0.3, len(drin)), s=2.5, color=FARBE[fr], alpha=0.3, linewidths=0)
         if len(raus):
-            ax.scatter(np.full(len(raus), LAENGE_X_MAX), i + rng.uniform(-0.3, 0.3, len(raus)), s=6, marker=">",
-                       color=FARBE[fr], alpha=0.8, linewidths=0, clip_on=False)
+            # ein Dreieck mit Anzahl statt eines je Rede: gestapelt deckten sich die Dreiecke am Rand gegenseitig
+            ax.scatter([LAENGE_X_MAX], [i], s=14, marker=">", color=FARBE[fr], linewidths=0, clip_on=False, zorder=3)
+            ax.annotate(str(len(raus)), (LAENGE_X_MAX, i), xytext=(5, 0), textcoords="offset points", va="center",
+                        fontsize=7, color=INK, annotation_clip=False)
         q1, q2, q3 = np.percentile(w, [25, 50, 75])
         ax.plot([q1, q3], [i, i], color=INK, lw=2, solid_capstyle="butt", zorder=4,
                 path_effects=[pe.Stroke(linewidth=3.6, foreground="white"), pe.Normal()])
@@ -477,7 +481,7 @@ def abb6() -> dict:
                         Line2D([], [], marker="D", ls="-", lw=2, color=INK, mfc="white", mec=INK, ms=4.5,
                                label="Median mit mittlerer Hälfte (Q1–Q3)"),
                         Line2D([], [], marker=">", ls="", color=MUTED, ms=4,
-                               label=f"über {tsd(LAENGE_X_MAX)} Wörter ({ueber} Reden)")],
+                               label=f"Reden über {tsd(LAENGE_X_MAX)} Wörter")],
                loc="outside lower center", ncol=3, handlelength=1.6, borderaxespad=0.2)
     titel(fig, t)
     return {"datei": speichern(fig, "abb6_redelaenge_fraktionen.pdf"), "titel": t,
