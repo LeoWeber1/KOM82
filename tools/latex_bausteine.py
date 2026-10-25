@@ -23,7 +23,7 @@ sys.path.insert(0, str(ROOT / "src"))
 from bundestag import config  # noqa: E402
 
 ZUSTROM = "20/12804"
-TITEL_MAX = 45
+TITEL_MAX = 55
 REDETYPEN = ("plenarrede", "kurzintervention", "erwiderung")
 GRUPPEN = {"CDU/CSU": "Union", "SPD": "SPD", "BÜNDNIS 90/DIE GRÜNEN": "Grüne", "FDP": "FDP", "AfD": "AfD",
            "Die Linke": "Linke", "BSW": "BSW", "fraktionslos": "fraktionslos"}

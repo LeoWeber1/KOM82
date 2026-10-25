@@ -102,7 +102,7 @@ def stil() -> None:
         "xtick.labelcolor": INK, "ytick.labelcolor": INK, "xtick.major.width": 0.6, "ytick.major.width": 0.6,
         "xtick.major.size": 2.5, "ytick.major.size": 2.5, "axes.labelcolor": INK, "text.color": INK,
         "legend.frameon": False, "axes.axisbelow": True, "axes.titlelocation": "left",
-        "figure.constrained_layout.h_pad": 0.03, "figure.constrained_layout.w_pad": 0.03})
+        "figure.constrained_layout.h_pad": 0.03, "figure.constrained_layout.w_pad": 0.05})
 
 
 def breite() -> float:
@@ -199,15 +199,11 @@ def abb1(sr: pd.DataFrame) -> dict:
         ax.xaxis.set_major_locator(MultipleLocator(0.5))
         formatiere(ax.xaxis, 1)
         ax.grid(axis="x", color=GRID, lw=0.5)
-        ax.set_xlabel("Netto-Sentiment je Rede (p_pos − p_neg)")
         ax.tick_params(axis="y", length=0)
+    # ohne Legende: sie überlagerte die x-Beschriftung; Punkte, Raute und KI erklärt die Caption (02_ergebnisse.tex)
+    fig.supxlabel("Netto-Sentiment je Rede (positiv minus negativ)", fontsize=8)
     axes[0].set_yticks(range(len(ordnung)), [NAME[f] for f in ordnung])
     axes[0].set_ylim(len(ordnung) - 0.5, -0.5)
-    fig.legend(handles=[Line2D([], [], marker="o", ls="", color=MUTED, alpha=0.6, ms=3,
-                               label="eine Rede (Hauptstatistik)"),
-                        Line2D([], [], marker="D", ls="-", lw=2, color=INK, mfc="white", mec=INK, ms=4.5,
-                               label="Median mit 95-%-KI (Cluster-Bootstrap über Redner)")],
-               loc="outside lower center", ncol=2, handlelength=1.6, borderaxespad=0.2)
     titel(fig, t)
     return {"datei": speichern(fig, "abb1_sentiment_fraktionen.pdf"), "titel": t,
             "kern": f"Median netto {NAME[neg]} {de(med[neg])}, {NAME[pos]} {de(med[pos])} (alle Sitzungen; "
@@ -226,8 +222,9 @@ def abb2(sr: pd.DataFrame) -> dict:
     w = t.loc[t.woerter_gesamt.idxmax()]
     erst = t.iloc[0]
     tt = (f"{erst['name']} hält die meisten Reden ({erst.reden_n}), "
-          f"von den 20 spricht {w['name']} die meisten Wörter ({tsd(w.woerter_gesamt)})")
-    fig, axes = plt.subplots(1, 3, figsize=(breite(), hoehe(7.4)), sharey=True, layout="constrained",
+          f"{w['name']} spricht die meisten Wörter ({tsd(w.woerter_gesamt)})")
+    # 9,2 statt 7,4 cm: bei 7,4 cm berührten sich die 20 Namen an der y-Achse
+    fig, axes = plt.subplots(1, 3, figsize=(breite(), hoehe(9.2)), sharey=True, layout="constrained",
                              gridspec_kw={"width_ratios": [1, 1, 0.7]})
     y = np.arange(len(t))
     farben = t.fraktion.map(FARBE).fillna(FARBE["fraktionslos"])
@@ -269,26 +266,22 @@ def abb3(sr: pd.DataFrame) -> dict:
     d = sr[sr.bank.isin(FRAKTIONEN)].assign(seite=lambda x: np.where(x.rolle_regierung, "reg", "opp"))
     a = (d.groupby(["sitzung", "seite"]).negativ.mean().rename("anteil").reset_index()
          .merge(sz, on="sitzung").sort_values("sitzung"))
-    # gleitendes Mittel getrennt vor/nach 196/197: die Regierungsseite verliert in Sitzung 197 die FDP
-    a["gleitend"] = (a.groupby(["seite", a.sitzung > GRENZE]).anteil
-                     .transform(lambda s: s.rolling(3, center=True, min_periods=1).mean()))
     vor, nach = d[d.sitzung <= GRENZE], d[d.sitzung > GRENZE]
     rv, rn = vor[vor.seite == "reg"].negativ.mean(), nach[nach.seite == "reg"].negativ.mean()
     ov, on = vor[vor.seite == "opp"].negativ.mean(), nach[nach.seite == "opp"].negativ.mean()
-    t = (f"Regierungsfraktionen nach dem Ampel-Bruch {'negativer' if rn > rv else 'weniger negativ'}: "
-         f"{proz(rv)} → {proz(rn)} negative Reden (Opposition {proz(ov)} → {proz(on)})")
+    t = (f"Vor dem Ampel-Bruch sind {proz(rv)} der Reden der Regierungsfraktionen negativ, danach {proz(rn)} "
+         f"(Opposition: {proz(ov)} und {proz(on)})")
     kern = f"Regierung {proz(rv)} → {proz(rn)}, Opposition {proz(ov)} → {proz(on)} (bis 196 → ab 197)"
     if vor.empty or nach.empty:   # Teillauf nur vor oder nur nach 196/197 (146–147): Titel zeigte sonst „nan %“
         t = kern = (f"Anteil negativer Reden in Sitzung {SITZUNGEN[0]}–{SITZUNGEN[-1]}: "
                     "kein Vergleich vor/nach dem Ampel-Bruch, eine Phase ohne Reden")
     fig, ax = plt.subplots(figsize=(breite(), hoehe(4.4)), layout="constrained")
-    stile = {"reg": (REGIERUNG, "-", "o", "Regierung: SPD, Grüne, FDP bis 196"),
-             "opp": (OPPOSITION, "--", "s", "Opposition: übrige, FDP ab 197")}
-    for seite, (farbe, ls, mk, _) in stile.items():
+    # je Sitzung ein Wert als dünne Linie; Bruch bei 196/197, weil die Regierungsseite dort die FDP verliert
+    stile = {"reg": (REGIERUNG, "Regierungsfraktionen"), "opp": (OPPOSITION, "Opposition")}
+    for seite, (farbe, _) in stile.items():
         x = a[a.seite == seite]
-        ax.scatter(x.datum, x.anteil, marker=mk, s=10, color=farbe, alpha=0.35, linewidths=0)
         for _, seg in x.groupby(x.sitzung > GRENZE):
-            ax.plot(seg.datum, seg.gleitend, ls=ls, lw=1.4, color=farbe, solid_capstyle="round")
+            ax.plot(seg.datum, seg.anteil, lw=0.9, color=farbe, marker="o", ms=2.2)
     datum = sz.set_index("sitzung").datum
     marken = []   # im Teillauf nur die Ereignisse, deren Sitzungen im Bereich liegen
     if {GRENZE, GRENZE + 1} <= set(datum.index):
@@ -309,10 +302,8 @@ def abb3(sr: pd.DataFrame) -> dict:
     ax.xaxis.set_major_formatter(FuncFormatter(lambda v, _: (lambda dt: MONATE[dt.month - 1]
                                                              + (f" {dt.year}" if dt.month == 1 else ""))(mdates.num2date(v))))
     ax.grid(axis="y", color=GRID, lw=0.5)
-    griffe = [Line2D([], [], color=f, ls=ls, lw=1.8, label=lab) for f, ls, _, lab in stile.values()]
-    griffe += [Line2D([], [], color=MUTED, marker="o", ls="", ms=3.5, alpha=0.5, label="je Sitzung"),
-               Line2D([], [], color=MUTED, lw=1.8, label="gleitend über 3 Sitzungen")]
-    fig.legend(handles=griffe, loc="outside lower left", ncol=2, handlelength=2.2, columnspacing=1.2, borderaxespad=0.2)
+    fig.legend(handles=[Line2D([], [], color=f, lw=0.9, marker="o", ms=2.2, label=lab) for f, lab in stile.values()],
+               loc="outside lower center", ncol=2, borderaxespad=0.2)
     titel(fig, t)
     return {"datei": speichern(fig, "abb3_negativ_zeitreihe.pdf"), "titel": t,
             "kern": kern,
@@ -468,8 +459,8 @@ def abb6() -> dict:
         ueber += len(raus)
         ax.scatter(drin, i + rng.uniform(-0.3, 0.3, len(drin)), s=2.5, color=FARBE[fr], alpha=0.3, linewidths=0)
         if len(raus):
-            ax.scatter(np.full(len(raus), LAENGE_X_MAX), i + rng.uniform(-0.3, 0.3, len(raus)), s=9, marker=">",
-                       color=FARBE[fr], linewidths=0, clip_on=False)
+            ax.scatter(np.full(len(raus), LAENGE_X_MAX), i + rng.uniform(-0.3, 0.3, len(raus)), s=6, marker=">",
+                       color=FARBE[fr], alpha=0.8, linewidths=0, clip_on=False)
         q1, q2, q3 = np.percentile(w, [25, 50, 75])
         ax.plot([q1, q3], [i, i], color=INK, lw=2, solid_capstyle="butt", zorder=4,
                 path_effects=[pe.Stroke(linewidth=3.6, foreground="white"), pe.Normal()])
@@ -506,7 +497,7 @@ def abb7() -> dict:
     k = round(len(s) * 0.1)
     anteil = s.head(k).sum() / s.sum()
     t = (f"Die Hälfte der {len(a)} Redner hält höchstens {n_halb} Reden, "
-         f"die {k} aktivsten ({proz(k / len(a))}) halten {proz(anteil)} aller Reden")
+         f"die {k} aktivsten halten {proz(anteil)} aller Reden")
     fig, axes = plt.subplots(2, 4, figsize=(breite(), hoehe(5.9)), sharex=True, sharey=True, layout="constrained")
     xmax, ymax = a.reden_n.max() * 1.05, a.tsd.max() * 1.08
     for ax, fr in zip(axes.flat, FRAKTIONEN):
